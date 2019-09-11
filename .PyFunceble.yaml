@@ -1,4 +1,4 @@
-adblock: false
+adblock: true
 auto_continue: true
 command: hash dead_hosts_launcher && dead_hosts_launcher --save
 command_before_end: hash dead_hosts_launcher && dead_hosts_launcher --end
