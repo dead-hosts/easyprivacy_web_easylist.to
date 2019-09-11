@@ -1,0 +1,38 @@
+addons:
+    apt:
+        packages:
+        - dos2unix
+env:
+    global:
+    -   GIT_NAME: Travis CI
+    -   GIT_EMAIL: dead-hosts@funilrys.com
+    -   TRAVIS_REPO_SLUG: repository-slug
+    -   GIT_BRANCH: master
+    matrix:
+    - PYTHON_VERSION="3.7.3"
+install:
+- export PATH="${HOME}/miniconda/bin:${PATH}"
+- wget https://repo.continuum.io/miniconda/Miniconda3-latest-Linux-x86_64.sh -O miniconda.sh
+- bash miniconda.sh -b -p ${HOME}/miniconda
+- hash -r
+- conda config --set always_yes yes --set changeps1 no
+- conda update -q conda
+- conda create -q -n launcher-environment python="${PYTHON_VERSION}"
+- source activate launcher-environment
+- python -VV
+- pip --version
+- pip install dead-hosts-launcher
+- rm miniconda.sh
+language: generic
+notifications:
+    email:
+        on_failure: always
+        on_success: never
+        recipients:
+        - dead-hosts@funilrys.com
+os:
+- linux
+script:
+- dead_hosts_launcher --version
+- dead_hosts_launcher
+sudo: required
