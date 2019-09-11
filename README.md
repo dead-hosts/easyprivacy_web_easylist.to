@@ -1,9 +1,17 @@
-# About [repository-name]
+# About easyprivacy_web_easylist.to
 
-[![Build Status](https://travis-ci.org/[repository-slug].svg?branch=master)](https://travis-ci.org/[repository-slug])
+[![Build Status](https://travis-ci.org/dead-hosts/easyprivacy_web_easylist.to.svg?branch=master)](https://travis-ci.org/dead-hosts/easyprivacy_web_easylist.to)
 
 ```
-[description]
+! Title: EasyPrivacy
+! Last modified: 11 Sep 2019 12:42 UTC
+! Expires: 4 days (update frequency)
+! Homepage: https://easylist.to/
+! Licence: https://easylist.to/pages/licence.html
+! 
+! Please report any unblocked tracking or problems
+! in the forums (https://forums.lanik.us/)
+! or via e-mail (easylist.subscription@gmail.com).
 ```
 
 --------------------------------------------------------------------------------
