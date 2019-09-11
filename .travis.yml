@@ -6,8 +6,9 @@ env:
     global:
     -   GIT_NAME: Travis CI
     -   GIT_EMAIL: dead-hosts@funilrys.com
-    -   TRAVIS_REPO_SLUG: repository-slug
+    -   TRAVIS_REPO_SLUG: dead-hosts/easyprivacy_web_easylist.to
     -   GIT_BRANCH: master
+    -   secure: MiXT9AWTFXceBaFHes7iICboUiVgsRR1k/Jjr7jHOyNNcpyHChPp2GNHnIl5yX+OMPwgJkEFPkOueW78SdSvJOx5Eb4nBfopGd6ncCvmxE0z66cYzxqJglXIpqO/7WR2SyEi+XCmKKMYLFB59rdSP2OOSUnzaYRAOvs4q/MFRsdySna3uk8LrKGC/902FoenPGPqkkAdlubblD1H7ZKDwB+qoHjHLzaEJAkEkFs2IvZZAVqi2T6PBP7usPwDEk3URMfpgYVWkm9I62Hu1BrvIdyVNlrxrtipj0gVe7uV8N5/8w44o/FW7dweVniDpPL/4MMG0qvZJxU2SGIDmMGtBaILSsKUPrXGWmHrydZ9Qof90PO5Z844oStjvqrdqeiL2VObZiydmL3q7TAFgNLEH7/vljVE8BpKNh3oInONCSdZYTlCSeB1ao7rtVY0sRMSxmEUbSgYYdnb6Vc+kBBFZNq6/hX8KoYq3S8xnWEbt+vTZ//iG1PUyXdgNikfc4BqOfeJ9yDgGqNwPyvtNUBOHyXEaFCrC95wG8/cSCDY6afeY7b71SUL2Dl44bWAqFg1OgJsvwlpVyfR22dQ2ecw875pd/IzGiKENeISjlS3skQX683w8emdByHYNmDD/TP2aQUQ+WpUwaeN3CBqJpObiPvqBtmLtgzFSFqHDsXzv84=
     matrix:
     - PYTHON_VERSION="3.7.3"
 install:
