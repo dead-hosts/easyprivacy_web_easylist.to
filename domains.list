@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201909141448
+! Version: 201909170818
 ! Title: EasyPrivacy
-! Last modified: 14 Sep 2019 14:48 UTC
+! Last modified: 17 Sep 2019 08:18 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -142,6 +142,7 @@
 .com/analytics?
 .com/b.gif?
 .com/blank.aspx?
+.com/bt/s.png?b=
 .com/c.gif?
 .com/clk?
 .com/cm?ci=
@@ -265,6 +266,7 @@
 .php?ping=
 .php?refcode=
 .php?self=
+.php?stats=
 .php?tracking=
 .pixel?*&event_
 .pixel?record_
@@ -2535,6 +2537,7 @@
 /mongoose.fp.js
 /monitor/log/*
 /monitor?rtype=
+/monitor_analytic.
 /monitus.js
 /monsido.js
 /moose-track.
@@ -4771,6 +4774,7 @@ cgi-bin/counter
 /browsermine.js
 /c-hive.js
 /c.wasm
+/click/impression?
 /cloudcoins.js
 /cloudcoins.min.js
 /cn.wasm$third-party
@@ -4834,6 +4838,7 @@ cgi-bin/counter
 /streambeam-jw.js
 /streambeam-video.js
 /tenant.min.js
+/track/pageview?
 /web_miner/*
 /webcoin.js
 /webcoin.min.js
@@ -5419,7 +5424,6 @@ _mongo_stats/
 ||cloud-exploration.com^$third-party
 ||cloud-iq.com^$third-party
 ||cloudtracer101.com^$third-party
-||clustrmaps.com^$third-party
 ||cmcintra.net^$third-party
 ||cmcore.com^$third-party
 ||cmmeglobal.com^$third-party
@@ -6662,6 +6666,7 @@ _mongo_stats/
 ||pxi.pub^$third-party
 ||pymx5.com^$third-party
 ||pzkysq.pink^$third-party
+||pzz.events^$third-party
 ||q-counter.com^$third-party
 ||q-stats.nl^$third-party
 ||qbaka.net^$third-party
@@ -6912,6 +6917,7 @@ _mongo_stats/
 ||sitemeter.com^$third-party
 ||sitereport.org^$third-party
 ||sitestat.com^$third-party
+||sitestats.live^$third-party
 ||sitetag.us^$third-party
 ||sitetagger.co.uk^$third-party
 ||sitetracker.com^$third-party
@@ -8167,6 +8173,7 @@ _mongo_stats/
 ||acridtwist.com^$third-party
 ||aheadday.com^$third-party
 ||anxiousapples.com^$third-party
+||automaticside.com^$third-party
 ||awzbijw.com^$third-party
 ||axiomaticalley.com^$third-party
 ||balancebreath.com^$third-party
@@ -8210,6 +8217,7 @@ _mongo_stats/
 ||mowfruit.com^$third-party
 ||nervoussummer.com^$third-party
 ||penspade.com^$third-party
+||perceivequarter.com^$third-party
 ||petiteumbrella.com^$third-party
 ||photographpan.com^$third-party
 ||pietexture.com^$third-party
@@ -8270,6 +8278,7 @@ _mongo_stats/
 ||analytics.rechtslupe.org^
 ||andyhoppe.com^$third-party
 ||anormal-tracker.de^$third-party
+||asadcdn.com^$third-party
 ||atsfi.de^$third-party
 ||audiencemanager.de^$third-party
 ||audienzz.ch^$third-party
@@ -9352,6 +9361,7 @@ _mongo_stats/
 ||akamaihd.net/push.gif?
 ||akamaihd.net^*.gif?d=
 ||akamaized.net/?u=
+||akamaized.net/js3/tracker.js
 ||akanoo.com/tracker/
 ||akatracking.esearchvision.com^
 ||aklamio.com/ovlbtntrk?
@@ -9400,7 +9410,6 @@ _mongo_stats/
 ||amp-error-reporting.appspot.com^
 ||amplify.outbrain.com^$third-party
 ||amplifypixel.outbrain.com^
-||ampproject.org^*/ww.js
 ||ams.addflow.ru^
 ||an.yandex.ru^
 ||analytic.pho.fm^
@@ -9768,6 +9777,7 @@ _mongo_stats/
 ||cloudfront.net/zephyr.js
 ||cloudfront.net^$script,domain=phonearena.com
 ||cloudfunctions.net/ingest?
+||clustrmaps.com/counter/$third-party
 ||cm.g.doubleclick.net^
 ||cmmeglobal.com/evt?
 ||cmmeglobal.com^*/page-view?
@@ -13674,6 +13684,7 @@ _mongo_stats/
 ||netflix.com/RegisterActionImpression?
 ||netlog.com/track
 ||netmag.co.uk/matchbox/traffic/
+||netu.tv/js/netu_counters.js
 ||netzero.net/account/event.do?$image
 ||newegg.com/common/thirdparty/$subdocument
 ||newegg.com/tracking
@@ -14433,6 +14444,7 @@ _mongo_stats/
 ||ted1.metro.co.uk^
 ||telegraph.co.uk^*/tmglmultitrackselector.js
 ||telemetry.tradingview.com^
+||telerium.net/geo.php
 ||tempo.inc.com^
 ||tesco.com/cgi-bin3/buyrate?type=
 ||tfl.gov.uk/tfl-global/scripts/stats-config.js
@@ -16136,10 +16148,10 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||addgene.org/headers/blat/js/analyze.js
 @@||adidas.com^*/adidasAnalytics.js?
 @@||adobedtm.com/launch-$script
-@@||adobedtm.com^*/mbox-contents-$script,domain=absa.co.za|fcbarcelona.com|lenovo.com|newyorker.com|nfl.com|oprah.com|pnc.com|vanityfair.com|wired.com
+@@||adobedtm.com^*/mbox-contents-$script,domain=absa.co.za|fcbarcelona.com|firststatesuper.com.au|lenovo.com|newyorker.com|nfl.com|oprah.com|pnc.com|vanityfair.com|wired.com
 @@||adobedtm.com^*/s-code-$script
 @@||adobedtm.com^*/satellite-$script
-@@||adobedtm.com^*/satelliteLib-$script,domain=absa.co.za|aeroplan.com|argos.co.uk|collegeboard.org|crackle.com|crimewatchdaily.com|directline.com|fcbarcelona.com|jeep.com|laredoute.co.uk|laredoute.com|lenovo.com|lowes.com|malaysiaairlines.com|mastercard.us|mathworks.com|monoprice.com|nbcnews.com|newyorker.com|nfl.com|oprah.com|pnc.com|realtor.com|redbull.tv|repco.co.nz|searspartsdirect.com|smooth.com.au|sonycrackle.com|stuff.co.nz|subaru.com|timewarnercable.com|trip-planner.australia.com|vanityfair.com|wired.com
+@@||adobedtm.com^*/satelliteLib-$script,domain=absa.co.za|aeroplan.com|argos.co.uk|collegeboard.org|crackle.com|crimewatchdaily.com|directline.com|fcbarcelona.com|firststatesuper.com.au|jeep.com|laredoute.co.uk|laredoute.com|lenovo.com|lowes.com|malaysiaairlines.com|mastercard.us|mathworks.com|monoprice.com|nbcnews.com|newyorker.com|nfl.com|oprah.com|pnc.com|realtor.com|redbull.tv|repco.co.nz|searspartsdirect.com|smooth.com.au|sonycrackle.com|stuff.co.nz|subaru.com|timewarnercable.com|trip-planner.australia.com|vanityfair.com|wired.com
 @@||adobetag.com/d2/$script,domain=thestar.com
 @@||adobetag.com^*/amc.js$script
 @@||adobetag.com^*/sitecatalyst.js$domain=hbf.com.au|seattlepi.com|tv.com
@@ -16270,6 +16282,8 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||cbsistatic.com^*/google-analytics.js$domain=cnet.com
 @@||cbsistatic.com^*/tealium.js$domain=cnet.com
 @@||ccom-cdn.com/assets/img/clear.gif?ccom_md5=$domain=credit.com
+@@||cdn-care.com/js/analytics/$script,domain=care.com
+@@||cdn-care.com/js/vendor/yarn_components/amplitude-js/amplitude.min.js$script,domain=care.com
 @@||cdn-redfin.com^*/clicktracker.js$domain=redfin.com
 @@||cdn-redfin.com^*/page_analytics.js$domain=redfin.com
 @@||cdn-redfin.com^*/page_analytics.xd.js
@@ -16402,6 +16416,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||fccbrea.org^*/swfaddress.js
 @@||fifa.com^*/webanalytics.js?
 @@||firstdirect.com^*/logging-code.js
+@@||firststatesuper.com.au^*/js/analytics.js$script
 @@||fitloop.co/packages/GAnalytics.js?
 @@||flagshipmerchantservices.com/clickpathmedia.js
 @@||flipps.com^*/page-tracking.js?
@@ -16489,8 +16504,8 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||images-iherb.com/js/ga-pro*.js$domain=iherb.com
 @@||img.en25.com/eloquaimages/clients/PentonMediaInc/$image,domain=windowsitpro.com
 @@||imrworldwide.com/crossdomain.xml$object-subrequest,domain=cc.com|sbs.com.au
-@@||imrworldwide.com/novms/*/gg*.js$domain=9now.com.au|bestrecipes.com.au|europafm.com|news.com.au
-@@||imrworldwide.com/v60.js$domain=bestrecipes.com.au|last.fm|musicfeeds.com.au|nzherald.co.nz|realestateview.com.au|sf.se|threenow.co.nz|weatherchannel.com.au
+@@||imrworldwide.com/novms/*/gg*.js$domain=9now.com.au|adelaidenow.com.au|advertiser.com.au|bestrecipes.com.au|byronnews.com.au|cairnspost.com.au|coffscoastadvocate.com.au|couriermail.com.au|dailyexaminer.com.au|europafm.com|frasercoastchronicle.com.au|gattonstar.com.au|geelongadvertiser.com.au|gladstoneobserver.com.au|goldcoastbulletin.com.au|heraldsun.com.au|ipswichadvertiser.com.au|news-mail.com.au|news.com.au|noosanews.com.au|ntnews.com.au|sunshinecoastdaily.com.au|theaustralian.com.au|themercury.com.au|theweeklytimes.com.au|townsvillebulletin.com.au|weeklytimesnow.com.au|whitsundaytimes.com.au
+@@||imrworldwide.com/v60.js$domain=adelaidenow.com.au|advertiser.com.au|bestrecipes.com.au|byronnews.com.au|cairnspost.com.au|coffscoastadvocate.com.au|couriermail.com.au|dailyexaminer.com.au|frasercoastchronicle.com.au|gattonstar.com.au|geelongadvertiser.com.au|gladstoneobserver.com.au|goldcoastbulletin.com.au|heraldsun.com.au|ipswichadvertiser.com.au|last.fm|musicfeeds.com.au|news-mail.com.au|noosanews.com.au|ntnews.com.au|nzherald.co.nz|realestateview.com.au|sf.se|sunshinecoastdaily.com.au|theaustralian.com.au|themercury.com.au|theweeklytimes.com.au|threenow.co.nz|townsvillebulletin.com.au|weatherchannel.com.au|weeklytimesnow.com.au|whitsundaytimes.com.au
 @@||imrworldwide.com^*-mediaplayer&$domain=au.launch.yahoo.com
 @@||imrworldwide.com^*/flashdetect.js
 @@||imrworldwide.com^*/swfobject.js
@@ -16805,7 +16820,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||tags.bkrtx.com/js/bk-coretag.js$domain=mlb.com
 @@||tags.bluekai.com/site/*?ret=$subdocument,domain=mlb.com|zillow.com
 @@||tags.crwdcntrl.net^$script,domain=indiatimes.com|weather.com
-@@||tags.news.com.au/prod/heartbeat/v2/VideoHeartbeat.min.js
+@@||tags.news.com.au/prod/heartbeat/
 @@||tags.news.com.au/prod/metrics/metrics.js$script,~third-party
 @@||tags.news.com.au/prod/nielsen/nielsen.js$script,domain=bestrecipes.com.au
 @@||tags.w55c.net/rs?*&t=marketing$image
@@ -16982,6 +16997,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||scorecardresearch.com/r2?$image,domain=ancestry.com|billetnet.dk|billettservice.no|lippupalvelu.fi|pcworld.com|techhive.com|ticketmaster.ae|ticketmaster.co.uk|ticketmaster.de|ticketmaster.ie|ticketmaster.nl|ticnet.se|wsj.com
 @@||scorecardresearch.com/r?$image,domain=ancestry.com|billetnet.dk|billettservice.no|lippupalvelu.fi|macworld.com|pcworld.com|techhive.com|ticketmaster.ae|ticketmaster.co.uk|ticketmaster.de|ticketmaster.ie|ticketmaster.nl|ticnet.se|wsj.com
 @@||simyo.de/b/ss/$image
+@@||smetrics.foxnews.com/b/ss/$image
 @@||smetrics.target.com/b/ss/$image
 @@||smetrics.ticketmaster.com/b/ss/$image
 @@||som.aeroplan.com/b/ss/$image
@@ -17386,5 +17402,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||ninja.onap.io/ninja-cee.js$script,domain=olx.ua
 @@||uaprom.net/image/blank.gif?$image
 @@||ukrposhta.ua/js/tracking.js
+! Macedonian
+@@||motika.com.mk/wp-content/plugins/ajax-hits-counter/display-hits.rapid.php$~third-party
 ! Anti-Adblock
 @@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org
