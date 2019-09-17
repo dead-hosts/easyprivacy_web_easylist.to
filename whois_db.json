@@ -6629,6 +6629,11 @@
         "expiration_date": "15-may-2021",
         "state": "future"
     },
+    "digitru.st": {
+        "epoch": 1582070400,
+        "expiration_date": "19-feb-2020",
+        "state": "future"
+    },
     "dignow.org": {
         "epoch": 1597449600,
         "expiration_date": "15-aug-2020",
@@ -7200,8 +7205,8 @@
         "state": "future"
     },
     "easyresearch.se": {
-        "epoch": 1568678400,
-        "expiration_date": "17-sep-2019",
+        "epoch": 1600300800,
+        "expiration_date": "17-sep-2020",
         "state": "future"
     },
     "easysol.net": {
@@ -7535,8 +7540,8 @@
         "state": "future"
     },
     "engagemaster.com": {
-        "epoch": 1568592000,
-        "expiration_date": "16-sep-2019",
+        "epoch": 1600214400,
+        "expiration_date": "16-sep-2020",
         "state": "future"
     },
     "engageya.com": {
