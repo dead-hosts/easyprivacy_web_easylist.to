@@ -19459,6 +19459,11 @@
         "expiration_date": "03-aug-2020",
         "state": "future"
     },
+    "sarov.ws": {
+        "epoch": 1586995200,
+        "expiration_date": "16-apr-2020",
+        "state": "future"
+    },
     "sas.com": {
         "epoch": 1583193600,
         "expiration_date": "03-mar-2020",
@@ -20409,6 +20414,11 @@
         "expiration_date": "14-jul-2020",
         "state": "future"
     },
+    "sitestats.live": {
+        "epoch": 1586476800,
+        "expiration_date": "10-apr-2020",
+        "state": "future"
+    },
     "sitetagger.co.uk": {
         "epoch": 1599782400,
         "expiration_date": "11-sep-2020",
@@ -20594,6 +20604,11 @@
         "expiration_date": "21-nov-2019",
         "state": "future"
     },
+    "smartoffer.site": {
+        "epoch": 1583625600,
+        "expiration_date": "08-mar-2020",
+        "state": "future"
+    },
     "smartology.co": {
         "epoch": 1588464000,
         "expiration_date": "03-may-2020",
@@ -20715,8 +20730,8 @@
         "state": "future"
     },
     "socialhoney.co": {
-        "epoch": 1568505600,
-        "expiration_date": "15-sep-2019",
+        "epoch": 1600128000,
+        "expiration_date": "15-sep-2020",
         "state": "future"
     },
     "socialprofitmachine.com": {
@@ -20805,9 +20820,9 @@
         "state": "future"
     },
     "sometrics.com": {
-        "epoch": 1568419200,
-        "expiration_date": "14-sep-2019",
-        "state": "past"
+        "epoch": 1600041600,
+        "expiration_date": "14-sep-2020",
+        "state": "future"
     },
     "soodatmish.com": {
         "epoch": 1565222400,
@@ -20850,8 +20865,8 @@
         "state": "future"
     },
     "southafricahome.com": {
-        "epoch": 1568505600,
-        "expiration_date": "15-sep-2019",
+        "epoch": 1600128000,
+        "expiration_date": "15-sep-2020",
         "state": "future"
     },
     "sovereignbank.com": {
@@ -21332,6 +21347,11 @@
     "statistiche.it": {
         "epoch": 1576108800,
         "expiration_date": "12-dec-2019",
+        "state": "future"
+    },
+    "statistiche.ws": {
+        "epoch": 1594598400,
+        "expiration_date": "13-jul-2020",
         "state": "future"
     },
     "statistichegratis.net": {
