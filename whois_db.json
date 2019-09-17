@@ -2309,6 +2309,11 @@
         "expiration_date": "26-mar-2020",
         "state": "future"
     },
+    "asadcdn.com": {
+        "epoch": 1579564800,
+        "expiration_date": "21-jan-2020",
+        "state": "future"
+    },
     "ascend.ai": {
         "epoch": 1658361600,
         "expiration_date": "21-jul-2022",
@@ -2569,6 +2574,11 @@
         "expiration_date": "12-jan-2020",
         "state": "future"
     },
+    "automaticside.com": {
+        "epoch": 1599177600,
+        "expiration_date": "04-sep-2020",
+        "state": "future"
+    },
     "automobile.it": {
         "epoch": 1587600000,
         "expiration_date": "23-apr-2020",
@@ -2585,9 +2595,9 @@
         "state": "future"
     },
     "autoretro.com.ua": {
-        "epoch": 1563235200,
-        "expiration_date": "16-jul-2019",
-        "state": "past"
+        "epoch": 1600300800,
+        "expiration_date": "17-sep-2020",
+        "state": "future"
     },
     "autosite.com": {
         "epoch": 1618876800,
