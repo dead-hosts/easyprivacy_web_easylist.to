@@ -24914,6 +24914,11 @@
         "expiration_date": "18-jun-2020",
         "state": "future"
     },
+    "volvelle.tech": {
+        "epoch": 1589328000,
+        "expiration_date": "13-may-2020",
+        "state": "future"
+    },
     "voodooalerts.com": {
         "epoch": 1572393600,
         "expiration_date": "30-oct-2019",
@@ -25209,6 +25214,11 @@
         "expiration_date": "02-sep-2020",
         "state": "future"
     },
+    "webcounter.ws": {
+        "epoch": 1576022400,
+        "expiration_date": "11-dec-2019",
+        "state": "future"
+    },
     "webcrawler.com": {
         "epoch": 1580601600,
         "expiration_date": "02-feb-2020",
@@ -25290,13 +25300,23 @@
         "state": "future"
     },
     "webmasterplan.com": {
-        "epoch": 1568592000,
-        "expiration_date": "16-sep-2019",
+        "epoch": 1600214400,
+        "expiration_date": "16-sep-2020",
         "state": "future"
     },
     "webmd.com": {
         "epoch": 1680652800,
         "expiration_date": "05-apr-2023",
+        "state": "future"
+    },
+    "webmeter.ws": {
+        "epoch": 1569542400,
+        "expiration_date": "27-sep-2019",
+        "state": "future"
+    },
+    "webmine.cz": {
+        "epoch": 1570060800,
+        "expiration_date": "03-oct-2019",
         "state": "future"
     },
     "webmine.pro": {
@@ -26284,6 +26304,11 @@
         "expiration_date": "18-dec-2019",
         "state": "future"
     },
+    "yololike.space": {
+        "epoch": 1562025600,
+        "expiration_date": "02-jul-2019",
+        "state": "past"
+    },
     "yoochoose.net": {
         "epoch": 1611705600,
         "expiration_date": "27-jan-2021",
@@ -26457,6 +26482,11 @@
     "zap2it.com": {
         "epoch": 1576454400,
         "expiration_date": "16-dec-2019",
+        "state": "future"
+    },
+    "zapcdn.space": {
+        "epoch": 1579910400,
+        "expiration_date": "25-jan-2020",
         "state": "future"
     },
     "zappos.com": {
