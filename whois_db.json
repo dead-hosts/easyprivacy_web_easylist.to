@@ -8999,6 +8999,11 @@
         "expiration_date": "17-nov-2020",
         "state": "future"
     },
+    "freestat.ws": {
+        "epoch": 1742342400,
+        "expiration_date": "19-mar-2025",
+        "state": "future"
+    },
     "freestats.biz": {
         "epoch": 1626480000,
         "expiration_date": "17-jul-2021",
@@ -9027,6 +9032,11 @@
     "freestats.tv": {
         "epoch": 1595548800,
         "expiration_date": "24-jul-2020",
+        "state": "future"
+    },
+    "freestats.ws": {
+        "epoch": 1742342400,
+        "expiration_date": "19-mar-2025",
         "state": "future"
     },
     "freetracker.biz": {
