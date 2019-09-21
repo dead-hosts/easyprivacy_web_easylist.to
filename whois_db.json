@@ -10369,6 +10369,11 @@
         "expiration_date": "07-jan-2020",
         "state": "future"
     },
+    "hh.ru": {
+        "epoch": 1588377600,
+        "expiration_date": "02-may-2020",
+        "state": "future"
+    },
     "hiconversion.com": {
         "epoch": 1578355200,
         "expiration_date": "07-jan-2020",
@@ -10727,7 +10732,7 @@
     "hqhrt.com": {
         "epoch": 1569024000,
         "expiration_date": "21-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "hqq.tv": {
         "epoch": 1694649600,
@@ -11300,8 +11305,8 @@
         "state": "future"
     },
     "individuad.net": {
-        "epoch": 1568764800,
-        "expiration_date": "18-sep-2019",
+        "epoch": 1600387200,
+        "expiration_date": "18-sep-2020",
         "state": "future"
     },
     "ineedhits.com": {
@@ -11427,6 +11432,16 @@
     "inmagine.com": {
         "epoch": 1596931200,
         "expiration_date": "09-aug-2020",
+        "state": "future"
+    },
+    "inmoment.com": {
+        "epoch": 1700784000,
+        "expiration_date": "24-nov-2023",
+        "state": "future"
+    },
+    "inn.co.il": {
+        "epoch": 1583971200,
+        "expiration_date": "12-mar-2020",
         "state": "future"
     },
     "innomdc.com": {
