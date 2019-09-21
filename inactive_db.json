@@ -8308,19 +8308,6 @@
         },
         "1568488116": {},
         "1568747256": {
-            "miner.pr0gramm.com": "INACTIVE",
-            "minercry.pt": "INACTIVE",
-            "minero-proxy-*.sh": "INVALID",
-            "minexmr.stream": "INACTIVE",
-            "mint.boingboing.net": "INACTIVE",
-            "mint.good.is": "INACTIVE",
-            "mitel.marketbright.com": "INACTIVE",
-            "mitmeisseln.de": "INACTIVE",
-            "mletracker.com": "INACTIVE",
-            "mm.zubovskaya-banya.ru": "INACTIVE",
-            "mmc.center": "INACTIVE",
-            "mmpstats.mirror-image.com": "INACTIVE",
-            "moneone.ga": "INACTIVE",
             "money-maker-default.info": "INACTIVE",
             "money-maker-script.info": "INACTIVE",
             "mp.pianomedia.eu": "INACTIVE",
@@ -9614,7 +9601,20 @@
             "metro-trending-*.amazonaws.com": "INVALID",
             "meyersdalebixby.com": "INACTIVE",
             "mhiobjnirs.gq": "INACTIVE",
-            "midkotatraffic.net": "INACTIVE"
+            "midkotatraffic.net": "INACTIVE",
+            "miner.pr0gramm.com": "INACTIVE",
+            "minercry.pt": "INACTIVE",
+            "minero-proxy-*.sh": "INVALID",
+            "minexmr.stream": "INACTIVE",
+            "mint.boingboing.net": "INACTIVE",
+            "mint.good.is": "INACTIVE",
+            "mitel.marketbright.com": "INACTIVE",
+            "mitmeisseln.de": "INACTIVE",
+            "mletracker.com": "INACTIVE",
+            "mm.zubovskaya-banya.ru": "INACTIVE",
+            "mmc.center": "INACTIVE",
+            "mmpstats.mirror-image.com": "INACTIVE",
+            "moneone.ga": "INACTIVE"
         }
     }
 }
