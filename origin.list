@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201909170818
+! Version: 201909210213
 ! Title: EasyPrivacy
-! Last modified: 17 Sep 2019 08:18 UTC
+! Last modified: 21 Sep 2019 02:13 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1929,6 +1929,7 @@
 /gs.gif?
 /gscounters.
 /gtm-tracking-events.
+/gtm.js
 /gtm/gtm-
 /gtmTracking.
 /gtrack.
@@ -4825,13 +4826,17 @@ cgi-bin/counter
 /minero-proxy-
 /minescripts.js
 /nano.wasm
+/nativendo.js
 /noblock.js
 /obfus.min.js
 /pageview/pixel?
+/pixel_identifier.
 /projectpoi.min.js
+/rbcmetrika-
 /rum_analytics/*
 /safelinkconverter.js
 /scripts/analytics/*
+/scroll-track.js
 /simple-miner-tweaks/*
 /simple-monero-$script
 /sparechange.js
@@ -4839,6 +4844,9 @@ cgi-bin/counter
 /streambeam-video.js
 /tenant.min.js
 /track/pageview?
+/tracker.bx/*
+/v1/events
+/v2/events
 /web_miner/*
 /webcoin.js
 /webcoin.min.js
@@ -5510,6 +5518,7 @@ _mongo_stats/
 ||crowdscience.com^$third-party
 ||crowdtwist.com^$third-party
 ||crsspxl.com^$third-party
+||crtx.info^$third-party
 ||crwdcntrl.net^$third-party
 ||csdata1.com^$third-party
 ||csi-tracking.com^$third-party
@@ -5857,6 +5866,7 @@ _mongo_stats/
 ||geobytes.com^$third-party
 ||geoedge.be^$third-party
 ||geoip-db.com^$third-party
+||geojs.io^$third-party
 ||geoplugin.net^$third-party
 ||georiot.com^$third-party
 ||getbackstory.com^$third-party
@@ -5905,7 +5915,6 @@ _mongo_stats/
 ||googleadservices.com^$third-party
 ||googlerank.info^$third-party
 ||googletagmanager.com/gtag/$third-party
-||googletagmanager.com/gtm.js?$third-party
 ||gooo.al^$third-party
 ||gopjn.com^$third-party
 ||gostats.com^$third-party
@@ -6046,6 +6055,7 @@ _mongo_stats/
 ||infoprodata.com^$third-party
 ||informz.net^$third-party
 ||inimbus.com.au^$third-party
+||inmoment.com^$third-party
 ||innomdc.com^$third-party
 ||innovateads.com^$third-party
 ||inphonic.com^$third-party
@@ -6101,6 +6111,7 @@ _mongo_stats/
 ||iproanalytics.com^$third-party
 ||iprotrk.com^$third-party
 ||ipstat.com^$third-party
+||ipstatp.com^$third-party
 ||ipv6monitoring.eu^$third-party
 ||iqdata.ai^$third-party
 ||iqfp1.com^$third-party
@@ -7180,6 +7191,7 @@ _mongo_stats/
 ||trackeame.com^$third-party
 ||trackedlink.net^$third-party
 ||trackedweb.net^$third-party
+||trackertest.org^$third-party
 ||tracking100.com^$third-party
 ||tracking202.com^$third-party
 ||trackinglabs.com^$third-party
@@ -9104,6 +9116,7 @@ _mongo_stats/
 ||mokuz.ru^$third-party
 ||musiccounter.ru^$third-party
 ||mystat-in.net^$third-party
+||ngenix.net^$third-party
 ||personage.name^$third-party
 ||pladform.ru^$third-party
 ||pmbox.biz^$third-party
@@ -10480,6 +10493,7 @@ _mongo_stats/
 ||logging.prefixbox.com^
 ||loggingapi.spingo.com^
 ||loglady.skypicker.com^
+||logs-api.shoprunner.com^
 ||logs.spilgames.com^
 ||logs.thebloggernetwork.com^
 ||logs.vmixcore.com^
@@ -12201,6 +12215,7 @@ _mongo_stats/
 ||open.ua/stat/
 ||optimizavr.ru/counter.php?
 ||penza-online.ru^*/userstats.pl?
+||piper.amocrm.ru^
 ||pluso.ru/counter.php?
 ||pluso.ru/ping.php?
 ||prompages.ru/top/
@@ -15611,6 +15626,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||ranking.ynet.com^
 ||rcgi.video.qq.com^
 ||rec.udn.com^
+||referer.pixplug.in^
 ||report.qq.com^
 ||retcode.taobao.com^
 ||rgd.com.cn/counter/
@@ -15929,6 +15945,8 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||drom.ru/dummy.
 ||fb.ru/stat/
 ||fotostrana.ru/start/
+||hh.ru/analytics
+||hh.ru/stat
 ||irecommend.ru/collect/
 ||kiks.auto.ru^
 ||kommersant.ru/a.asp?p=
@@ -15948,6 +15966,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||rambler.ru/metrics/
 ||rbc.ru/click?
 ||rbc.ru/count/
+||rbc.ru/redir/stat/
 ||rt.ru/proxy?
 ||rutube.ru/counters.html?
 ||rutube.ru/dbg/player_stat?
@@ -15957,6 +15976,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||stat.lenta.ru^
 ||stat.pravmir.ru^
 ||stat.russianfood.com^
+||stat.stars.ru^
 ||stat.woman-announce.ru^
 ||stats.lifenews.ru^
 ||stats.mos.ru^
@@ -16993,6 +17013,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||metrics.ticketmaster.com/b/ss/$image
 @@||oms.dowjoneson.com/b/ss/$image,domain=wsj.com
 @@||omtrdc.net/b/ss/$image,domain=macworld.com|pcworld.com|techhive.com
+@@||omtrdc.net/rest/$xmlhttprequest
 @@||royalmail.com/b/ss/$image
 @@||scorecardresearch.com/r2?$image,domain=ancestry.com|billetnet.dk|billettservice.no|lippupalvelu.fi|pcworld.com|techhive.com|ticketmaster.ae|ticketmaster.co.uk|ticketmaster.de|ticketmaster.ie|ticketmaster.nl|ticnet.se|wsj.com
 @@||scorecardresearch.com/r?$image,domain=ancestry.com|billetnet.dk|billettservice.no|lippupalvelu.fi|macworld.com|pcworld.com|techhive.com|ticketmaster.ae|ticketmaster.co.uk|ticketmaster.de|ticketmaster.ie|ticketmaster.nl|ticnet.se|wsj.com
