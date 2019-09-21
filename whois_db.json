@@ -15089,6 +15089,11 @@
         "expiration_date": "19-mar-2024",
         "state": "future"
     },
+    "mymarketing.co.il": {
+        "epoch": 1606521600,
+        "expiration_date": "28-nov-2020",
+        "state": "future"
+    },
     "mymed.su": {
         "epoch": 1586476800,
         "expiration_date": "10-apr-2020",
@@ -15297,6 +15302,11 @@
     "nametraff.com": {
         "epoch": 1595203200,
         "expiration_date": "20-jul-2020",
+        "state": "future"
+    },
+    "nana10.co.il": {
+        "epoch": 1597363200,
+        "expiration_date": "14-aug-2020",
         "state": "future"
     },
     "nanopress.it": {
@@ -15540,8 +15550,8 @@
         "state": "future"
     },
     "ner-de-mi-nis-6.info": {
-        "epoch": 1568937600,
-        "expiration_date": "20-sep-2019",
+        "epoch": 1600560000,
+        "expiration_date": "20-sep-2020",
         "state": "future"
     },
     "nerfherdersolo.com": {
