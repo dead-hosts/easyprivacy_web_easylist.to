@@ -5604,6 +5604,11 @@
         "expiration_date": "22-aug-2020",
         "state": "future"
     },
+    "counter.gd": {
+        "epoch": 1583884800,
+        "expiration_date": "11-mar-2020",
+        "state": "future"
+    },
     "counter160.com": {
         "epoch": 1602201600,
         "expiration_date": "09-oct-2020",
@@ -5872,6 +5877,11 @@
     "crsspxl.com": {
         "epoch": 1595808000,
         "expiration_date": "27-jul-2020",
+        "state": "future"
+    },
+    "crtx.info": {
+        "epoch": 1699142400,
+        "expiration_date": "05-nov-2023",
         "state": "future"
     },
     "crunchsports.com": {
