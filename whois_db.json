@@ -2169,6 +2169,11 @@
         "expiration_date": "28-sep-2019",
         "state": "future"
     },
+    "appsha5.space": {
+        "epoch": 1580947200,
+        "expiration_date": "06-feb-2020",
+        "state": "future"
+    },
     "appsolutions.com": {
         "epoch": 1584835200,
         "expiration_date": "22-mar-2020",
@@ -2637,6 +2642,11 @@
     "avenseo.com": {
         "epoch": 1595721600,
         "expiration_date": "26-jul-2020",
+        "state": "future"
+    },
+    "avero.xyz": {
+        "epoch": 1588550400,
+        "expiration_date": "04-may-2020",
         "state": "future"
     },
     "averoconnector.com": {
@@ -3135,8 +3145,8 @@
         "state": "future"
     },
     "bettermetrics.co": {
-        "epoch": 1568764800,
-        "expiration_date": "18-sep-2019",
+        "epoch": 1600387200,
+        "expiration_date": "18-sep-2020",
         "state": "future"
     },
     "betway.com": {
