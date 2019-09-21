@@ -11665,8 +11665,8 @@
         "state": "future"
     },
     "intermundomedia.com": {
-        "epoch": 1568937600,
-        "expiration_date": "20-sep-2019",
+        "epoch": 1600560000,
+        "expiration_date": "20-sep-2020",
         "state": "future"
     },
     "internetfuel.com": {
@@ -11892,6 +11892,11 @@
     "ipstat.com": {
         "epoch": 1603497600,
         "expiration_date": "24-oct-2020",
+        "state": "future"
+    },
+    "ipstatp.com": {
+        "epoch": 1593734400,
+        "expiration_date": "03-jul-2020",
         "state": "future"
     },
     "iqdata.ai": {
