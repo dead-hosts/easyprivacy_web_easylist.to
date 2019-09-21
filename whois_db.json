@@ -15874,6 +15874,11 @@
         "expiration_date": "04-mar-2020",
         "state": "future"
     },
+    "ngenix.net": {
+        "epoch": 1589760000,
+        "expiration_date": "18-may-2020",
+        "state": "future"
+    },
     "ngmco.net": {
         "epoch": 1594080000,
         "expiration_date": "07-jul-2020",
@@ -16090,9 +16095,9 @@
         "state": "future"
     },
     "nsdsvc.com": {
-        "epoch": 1568678400,
-        "expiration_date": "17-sep-2019",
-        "state": "past"
+        "epoch": 1600300800,
+        "expiration_date": "17-sep-2020",
+        "state": "future"
     },
     "nspmotion.com": {
         "epoch": 1594166400,
@@ -17197,6 +17202,11 @@
     "petplanet.co.uk": {
         "epoch": 1623801600,
         "expiration_date": "16-jun-2021",
+        "state": "future"
+    },
+    "petri.co.il": {
+        "epoch": 1623888000,
+        "expiration_date": "17-jun-2021",
         "state": "future"
     },
     "pgs.io": {
