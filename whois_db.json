@@ -7220,8 +7220,8 @@
         "state": "future"
     },
     "easyhash.io": {
-        "epoch": 1568764800,
-        "expiration_date": "18-sep-2019",
+        "epoch": 1600387200,
+        "expiration_date": "18-sep-2020",
         "state": "future"
     },
     "easyhitcounters.com": {
@@ -7672,6 +7672,11 @@
     "eproof.com": {
         "epoch": 1598486400,
         "expiration_date": "27-aug-2020",
+        "state": "future"
+    },
+    "erate.co.il": {
+        "epoch": 1599004800,
+        "expiration_date": "02-sep-2020",
         "state": "future"
     },
     "ereportz.com": {
