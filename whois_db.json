@@ -8339,6 +8339,11 @@
         "expiration_date": "21-oct-2019",
         "state": "future"
     },
+    "fdxstats.xyz": {
+        "epoch": 1572825600,
+        "expiration_date": "04-nov-2019",
+        "state": "future"
+    },
     "fearfulflag.com": {
         "epoch": 1571616000,
         "expiration_date": "21-oct-2019",
@@ -9185,8 +9190,8 @@
         "state": "future"
     },
     "fugetech.com": {
-        "epoch": 1568937600,
-        "expiration_date": "20-sep-2019",
+        "epoch": 1600560000,
+        "expiration_date": "20-sep-2020",
         "state": "future"
     },
     "fujifilm.com": {
