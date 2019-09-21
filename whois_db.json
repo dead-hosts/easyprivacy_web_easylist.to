@@ -9479,6 +9479,11 @@
         "expiration_date": "05-apr-2021",
         "state": "future"
     },
+    "geojs.io": {
+        "epoch": 1613606400,
+        "expiration_date": "18-feb-2021",
+        "state": "future"
+    },
     "geoplugin.net": {
         "epoch": 1636156800,
         "expiration_date": "06-nov-2021",
@@ -9619,6 +9624,11 @@
         "expiration_date": "10-oct-2020",
         "state": "future"
     },
+    "gim.co.il": {
+        "epoch": 1588809600,
+        "expiration_date": "07-may-2020",
+        "state": "future"
+    },
     "giosg.com": {
         "epoch": 1573344000,
         "expiration_date": "10-nov-2019",
@@ -9715,8 +9725,8 @@
         "state": "future"
     },
     "glomera.com": {
-        "epoch": 1568764800,
-        "expiration_date": "18-sep-2019",
+        "epoch": 1600387200,
+        "expiration_date": "18-sep-2020",
         "state": "future"
     },
     "glosbe.com": {
@@ -10114,9 +10124,14 @@
         "expiration_date": "11-jan-2020",
         "state": "future"
     },
+    "gus.host": {
+        "epoch": 1602979200,
+        "expiration_date": "18-oct-2020",
+        "state": "future"
+    },
     "gvisit.com": {
-        "epoch": 1569024000,
-        "expiration_date": "21-sep-2019",
+        "epoch": 1600646400,
+        "expiration_date": "21-sep-2020",
         "state": "future"
     },
     "gweini.com": {

@@ -30,3 +30,7 @@
 0.0.0.0 flashx.*
 0.0.0.0 fls-*.amazon.*&
 0.0.0.0 fls-*.amazon.*%
+0.0.0.0 gateway.reddit.com|
+0.0.0.0 gismeteo.*
+0.0.0.0 google.*
+0.0.0.0 groupon.*
