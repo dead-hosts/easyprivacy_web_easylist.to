@@ -8307,15 +8307,7 @@
             "||kiwari.com^*/impressions.asp?": "INVALID"
         },
         "1568488116": {},
-        "1568747256": {
-            "youmetrix.co.uk": "INACTIVE",
-            "ywtjdckysve.com": "INACTIVE",
-            "zavzlen.ru": "INACTIVE",
-            "zenlivestats.com": "INACTIVE",
-            "ziykrgc.ru": "INACTIVE",
-            "zowary.com": "INACTIVE",
-            "zroitracker.com": "INACTIVE"
-        },
+        "1568747256": {},
         "1569064477": {
             "0tracker.com": "INACTIVE",
             "100im.info": "INACTIVE",
@@ -9619,7 +9611,20 @@
             "yandex.*": "INVALID",
             "yapi.awe.sm": "INACTIVE",
             "ycctrk.co.uk": "INACTIVE",
-            "yololike.space": "INACTIVE"
+            "yololike.space": "INACTIVE",
+            "youmetrix.co.uk": "INACTIVE",
+            "ywtjdckysve.com": "INACTIVE",
+            "zavzlen.ru": "INACTIVE",
+            "zenlivestats.com": "INACTIVE",
+            "ziykrgc.ru": "INACTIVE",
+            "zowary.com": "INACTIVE",
+            "zroitracker.com": "INACTIVE",
+            "zymerget.bid": "INACTIVE",
+            "zymerget.date": "INACTIVE",
+            "zymerget.faith": "INACTIVE",
+            "zymerget.party": "INACTIVE",
+            "zymerget.stream": "INACTIVE",
+            "zymerget.win": "INACTIVE"
         }
     }
 }
