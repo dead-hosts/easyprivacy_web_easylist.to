@@ -3800,8 +3800,8 @@
         "state": "future"
     },
     "brominer.com": {
-        "epoch": 1569110400,
-        "expiration_date": "22-sep-2019",
+        "epoch": 1600732800,
+        "expiration_date": "22-sep-2020",
         "state": "future"
     },
     "bronto.com": {
@@ -4162,6 +4162,11 @@
     "capitalone.com": {
         "epoch": 1584144000,
         "expiration_date": "14-mar-2020",
+        "state": "future"
+    },
+    "capsquirrel.com": {
+        "epoch": 1593561600,
+        "expiration_date": "01-jul-2020",
         "state": "future"
     },
     "captcha-ad.com": {
