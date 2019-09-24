@@ -7179,6 +7179,11 @@
         "expiration_date": "14-mar-2020",
         "state": "future"
     },
+    "eacla.com": {
+        "epoch": 1599436800,
+        "expiration_date": "07-sep-2020",
+        "state": "future"
+    },
     "eafyfsuh.net": {
         "epoch": 1595289600,
         "expiration_date": "21-jul-2020",
@@ -7407,6 +7412,11 @@
     "ekmpinpoint.com": {
         "epoch": 1573430400,
         "expiration_date": "11-nov-2019",
+        "state": "future"
+    },
+    "ekstat.com": {
+        "epoch": 1684540800,
+        "expiration_date": "20-may-2023",
         "state": "future"
     },
     "ela-3-tnk.com": {
