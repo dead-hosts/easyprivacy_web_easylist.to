@@ -967,7 +967,7 @@
     "adidas.com": {
         "epoch": 1569283200,
         "expiration_date": "24-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "adinsight.co.kr": {
         "epoch": 1575072000,
@@ -1305,9 +1305,9 @@
         "state": "future"
     },
     "affiliates-pro.com": {
-        "epoch": 1569024000,
-        "expiration_date": "21-sep-2019",
-        "state": "past"
+        "epoch": 1600646400,
+        "expiration_date": "21-sep-2020",
+        "state": "future"
     },
     "affiliatly.com": {
         "epoch": 1595548800,
