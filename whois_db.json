@@ -6035,9 +6035,9 @@
         "state": "future"
     },
     "cttracking02.com": {
-        "epoch": 1562457600,
-        "expiration_date": "07-jul-2019",
-        "state": "past"
+        "epoch": 1600992000,
+        "expiration_date": "25-sep-2020",
+        "state": "future"
     },
     "cumulus-cloud.com": {
         "epoch": 1594684800,
@@ -6765,8 +6765,8 @@
         "state": "future"
     },
     "disneylandparis.fr": {
-        "epoch": 1569542400,
-        "expiration_date": "27-sep-2019",
+        "epoch": 1601164800,
+        "expiration_date": "27-sep-2020",
         "state": "future"
     },
     "displaymarketplace.com": {
