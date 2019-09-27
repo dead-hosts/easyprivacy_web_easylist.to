@@ -7069,6 +7069,11 @@
         "expiration_date": "04-jan-2020",
         "state": "future"
     },
+    "dubester.pw": {
+        "epoch": 1600473600,
+        "expiration_date": "19-sep-2020",
+        "state": "future"
+    },
     "duckdns.org": {
         "epoch": 1618185600,
         "expiration_date": "12-apr-2021",
@@ -7212,7 +7217,7 @@
     "eage.it": {
         "epoch": 1569456000,
         "expiration_date": "26-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "early-birds.fr": {
         "epoch": 1572048000,
