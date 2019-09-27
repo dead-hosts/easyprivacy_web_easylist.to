@@ -15169,6 +15169,11 @@
         "expiration_date": "04-may-2020",
         "state": "future"
     },
+    "mydirtyhobby.com": {
+        "epoch": 1619568000,
+        "expiration_date": "28-apr-2021",
+        "state": "future"
+    },
     "myfastcounter.com": {
         "epoch": 1578700800,
         "expiration_date": "11-jan-2020",
@@ -15255,8 +15260,8 @@
         "state": "future"
     },
     "myregeneaf.com": {
-        "epoch": 1569369600,
-        "expiration_date": "25-sep-2019",
+        "epoch": 1600992000,
+        "expiration_date": "25-sep-2020",
         "state": "future"
     },
     "myroitracking.com": {
@@ -15915,8 +15920,8 @@
         "state": "future"
     },
     "nexioniect.com": {
-        "epoch": 1569369600,
-        "expiration_date": "25-sep-2019",
+        "epoch": 1600992000,
+        "expiration_date": "25-sep-2020",
         "state": "future"
     },
     "nexon.net": {
