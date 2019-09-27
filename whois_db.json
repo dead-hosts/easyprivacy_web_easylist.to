@@ -14354,6 +14354,11 @@
         "expiration_date": "22-sep-2020",
         "state": "future"
     },
+    "meteor.com": {
+        "epoch": 1677801600,
+        "expiration_date": "03-mar-2023",
+        "state": "future"
+    },
     "meteorsolutions.com": {
         "epoch": 1599696000,
         "expiration_date": "10-sep-2020",
@@ -14469,6 +14474,16 @@
         "expiration_date": "17-feb-2020",
         "state": "future"
     },
+    "mighbest.host": {
+        "epoch": 1600473600,
+        "expiration_date": "19-sep-2020",
+        "state": "future"
+    },
+    "mighbest.pw": {
+        "epoch": 1600473600,
+        "expiration_date": "19-sep-2020",
+        "state": "future"
+    },
     "mikrocontroller.net": {
         "epoch": 1588550400,
         "expiration_date": "04-may-2020",
@@ -14524,6 +14539,11 @@
         "expiration_date": "05-jul-2020",
         "state": "future"
     },
+    "minero.pw": {
+        "epoch": 1577318400,
+        "expiration_date": "26-dec-2019",
+        "state": "future"
+    },
     "minescripts.info": {
         "epoch": 1586908800,
         "expiration_date": "15-apr-2020",
@@ -14542,6 +14562,11 @@
     "miniclip.com": {
         "epoch": 1749427200,
         "expiration_date": "09-jun-2025",
+        "state": "future"
+    },
+    "mining.best": {
+        "epoch": 1580169600,
+        "expiration_date": "28-jan-2020",
         "state": "future"
     },
     "mininghub.club": {
