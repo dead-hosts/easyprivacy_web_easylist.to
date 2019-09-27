@@ -21754,6 +21754,11 @@
         "expiration_date": "09-nov-2019",
         "state": "future"
     },
+    "stiffstem.com": {
+        "epoch": 1598227200,
+        "expiration_date": "24-aug-2020",
+        "state": "future"
+    },
     "stilanzeigen.net": {
         "epoch": 1597708800,
         "expiration_date": "18-aug-2020",
@@ -22460,8 +22465,8 @@
         "state": "future"
     },
     "tentaculos.net": {
-        "epoch": 1569456000,
-        "expiration_date": "26-sep-2019",
+        "epoch": 1601078400,
+        "expiration_date": "26-sep-2020",
         "state": "future"
     },
     "terabytemedia.com": {
