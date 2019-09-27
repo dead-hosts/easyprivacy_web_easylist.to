@@ -25340,8 +25340,8 @@
         "state": "future"
     },
     "weather.ca": {
-        "epoch": 1569369600,
-        "expiration_date": "25-sep-2019",
+        "epoch": 1600992000,
+        "expiration_date": "25-sep-2020",
         "state": "future"
     },
     "weather.com": {
@@ -25520,8 +25520,8 @@
         "state": "future"
     },
     "webmeter.ws": {
-        "epoch": 1569542400,
-        "expiration_date": "27-sep-2019",
+        "epoch": 1601164800,
+        "expiration_date": "27-sep-2020",
         "state": "future"
     },
     "webmine.cz": {
