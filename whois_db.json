@@ -8659,6 +8659,11 @@
         "expiration_date": "03-jun-2025",
         "state": "future"
     },
+    "flirt4free.com": {
+        "epoch": 1632960000,
+        "expiration_date": "30-sep-2021",
+        "state": "future"
+    },
     "flix360.com": {
         "epoch": 1592352000,
         "expiration_date": "17-jun-2020",
@@ -8965,9 +8970,9 @@
         "state": "future"
     },
     "free-counters.net": {
-        "epoch": 1569542400,
-        "expiration_date": "27-sep-2019",
-        "state": "past"
+        "epoch": 1601164800,
+        "expiration_date": "27-sep-2020",
+        "state": "future"
     },
     "free-tv-video-online.me": {
         "epoch": 1572825600,
