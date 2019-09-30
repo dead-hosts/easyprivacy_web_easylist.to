@@ -6064,6 +6064,11 @@
         "expiration_date": "25-sep-2020",
         "state": "future"
     },
+    "cubchannel.com": {
+        "epoch": 1602115200,
+        "expiration_date": "08-oct-2020",
+        "state": "future"
+    },
     "cumulus-cloud.com": {
         "epoch": 1594684800,
         "expiration_date": "14-jul-2020",
@@ -6417,7 +6422,7 @@
     "deagostinipassion.it": {
         "epoch": 1569715200,
         "expiration_date": "29-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "dealer.com": {
         "epoch": 1785024000,
