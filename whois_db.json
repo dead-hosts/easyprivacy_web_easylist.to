@@ -14815,8 +14815,8 @@
         "state": "future"
     },
     "monerominer.rocks": {
-        "epoch": 1569715200,
-        "expiration_date": "29-sep-2019",
+        "epoch": 1601337600,
+        "expiration_date": "29-sep-2020",
         "state": "future"
     },
     "moneroocean.stream": {
@@ -15015,8 +15015,8 @@
         "state": "future"
     },
     "msecnd.net": {
-        "epoch": 1569715200,
-        "expiration_date": "29-sep-2019",
+        "epoch": 1601337600,
+        "expiration_date": "29-sep-2020",
         "state": "future"
     },
     "msecure108.com": {
@@ -15082,6 +15082,11 @@
     "multiply.com": {
         "epoch": 1574208000,
         "expiration_date": "20-nov-2019",
+        "state": "future"
+    },
+    "mundanepollution.com": {
+        "epoch": 1593561600,
+        "expiration_date": "01-jul-2020",
         "state": "future"
     },
     "munero.me": {
@@ -15615,8 +15620,8 @@
         "state": "future"
     },
     "ncom.dk": {
-        "epoch": 1569801600,
-        "expiration_date": "30-sep-2019",
+        "epoch": 1601424000,
+        "expiration_date": "30-sep-2020",
         "state": "future"
     },
     "ncsoft.com": {
@@ -15827,7 +15832,7 @@
     "netminers.dk": {
         "epoch": 1569801600,
         "expiration_date": "30-sep-2019",
-        "state": "future"
+        "state": "past"
     },
     "netmining.com": {
         "epoch": 1641427200,
