@@ -19254,9 +19254,19 @@
         "expiration_date": "02-may-2020",
         "state": "future"
     },
+    "richstring.com": {
+        "epoch": 1597622400,
+        "expiration_date": "17-aug-2020",
+        "state": "future"
+    },
     "rightmove.co.uk": {
         "epoch": 1599436800,
         "expiration_date": "07-sep-2020",
+        "state": "future"
+    },
+    "rightmoveanalytics.co.uk": {
+        "epoch": 1578528000,
+        "expiration_date": "09-jan-2020",
         "state": "future"
     },
     "rightstats.com": {
@@ -19597,6 +19607,11 @@
     "s3s-main.net": {
         "epoch": 1586476800,
         "expiration_date": "10-apr-2020",
+        "state": "future"
+    },
+    "s3wfg.com": {
+        "epoch": 1606176000,
+        "expiration_date": "24-nov-2020",
         "state": "future"
     },
     "s7ven.com": {
@@ -20017,6 +20032,11 @@
     "seehits.com": {
         "epoch": 1572825600,
         "expiration_date": "04-nov-2019",
+        "state": "future"
+    },
+    "seevolution.com": {
+        "epoch": 1676678400,
+        "expiration_date": "18-feb-2023",
         "state": "future"
     },
     "seewhy.com": {
@@ -20475,8 +20495,8 @@
         "state": "future"
     },
     "sifomedia.se": {
-        "epoch": 1569715200,
-        "expiration_date": "29-sep-2019",
+        "epoch": 1601337600,
+        "expiration_date": "29-sep-2020",
         "state": "future"
     },
     "siftscience.com": {
