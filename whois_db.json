@@ -22239,6 +22239,11 @@
         "expiration_date": "12-aug-2020",
         "state": "future"
     },
+    "sync.tv": {
+        "epoch": 1584489600,
+        "expiration_date": "18-mar-2020",
+        "state": "future"
+    },
     "synergizeonline.net": {
         "epoch": 1599609600,
         "expiration_date": "09-sep-2020",
@@ -22635,8 +22640,8 @@
         "state": "future"
     },
     "tgw.com": {
-        "epoch": 1569715200,
-        "expiration_date": "29-sep-2019",
+        "epoch": 1632873600,
+        "expiration_date": "29-sep-2021",
         "state": "future"
     },
     "thairath.co.th": {
