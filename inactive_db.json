@@ -8315,14 +8315,6 @@
             "stats.thevideo.me": "INACTIVE"
         },
         "1569611567": {
-            "pulsar.ebay.": "INVALID",
-            "pulse-analytics-beacon.reutersmedia.net": "INACTIVE",
-            "px.247inc.net": "INACTIVE",
-            "px.reactrmod.com": "INACTIVE",
-            "pzkysq.pink": "INACTIVE",
-            "pzoifaum.info": "INACTIVE",
-            "qdtracking.com": "INACTIVE",
-            "qos.video.yimg.com": "INACTIVE",
             "ra.ripple6.com": "INACTIVE",
             "radiomanlibya.com": "INACTIVE",
             "rainbow-uk.mythings.com": "INACTIVE",
@@ -9645,7 +9637,15 @@
             "proofly.win": "INACTIVE",
             "propagerank.de": "INACTIVE",
             "prostats.it": "INACTIVE",
-            "psyma-statistics.com": "INACTIVE"
+            "psyma-statistics.com": "INACTIVE",
+            "pulsar.ebay.": "INVALID",
+            "pulse-analytics-beacon.reutersmedia.net": "INACTIVE",
+            "px.247inc.net": "INACTIVE",
+            "px.reactrmod.com": "INACTIVE",
+            "pzkysq.pink": "INACTIVE",
+            "pzoifaum.info": "INACTIVE",
+            "qdtracking.com": "INACTIVE",
+            "qos.video.yimg.com": "INACTIVE"
         }
     }
 }
