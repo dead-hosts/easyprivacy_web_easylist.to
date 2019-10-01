@@ -74,3 +74,6 @@
 0.0.0.0 vice.com*
 0.0.0.0 vtnlog-*.elb.amazonaws.com
 0.0.0.0 wawacity.*
+0.0.0.0 www.google.*
+0.0.0.0 www.imdb.*
+0.0.0.0 yandex.*
