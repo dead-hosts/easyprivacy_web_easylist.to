@@ -1,3 +1,20 @@
 {
-    "/home/travis/build/dead-hosts/easyprivacy_web_easylist.to/domains.list": {}
+    "/home/travis/build/dead-hosts/easyprivacy_web_easylist.to/domains.list": {
+        "ACTIVE": [
+            "01net.com",
+            "0emm.com",
+            "0stats.com",
+            "0x1f4b0.com",
+            "101apps.com",
+            "103bees.com",
+            "105app.com",
+            "107.20.91.54",
+            "109.169.66.161"
+        ],
+        "INACTIVE": [
+            "0tracker.com",
+            "100im.info",
+            "115.84.165.13"
+        ]
+    }
 }

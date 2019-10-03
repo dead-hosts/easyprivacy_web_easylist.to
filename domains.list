@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201909301739
+! Version: 201910031905
 ! Title: EasyPrivacy
-! Last modified: 30 Sep 2019 17:39 UTC
+! Last modified: 03 Oct 2019 19:05 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -896,6 +896,7 @@
 /beacon.gif?
 /beacon.html?
 /beacon.js
+/beacon.min.js
 /beacon/b.ashx?
 /beacon/baminsights.
 /beacon/cpcookie.
@@ -1350,6 +1351,7 @@
 /countstat.php?
 /countubn.
 /countus.php
+/cpeEventTracking.
 /cqcounter.
 /crai_tracker.
 /create-lead.js
@@ -1501,6 +1503,7 @@
 /ea-analytics/*
 /ea_ctrl?
 /eae-logger/*
+/earlybirds/script_
 /eatms.js
 /ebonetag.js
 /ecanalytics.js
@@ -2261,6 +2264,7 @@
 /kameleoon-iframe.
 /kameleoon.js
 /kameleoon.min.js
+/kameleoon/script.
 /KAStatsWriter/*
 /keen-tracker.
 /keen-tracking-
@@ -2725,6 +2729,7 @@
 /omniture-visitorapi.
 /omniture.*&ref=
 /omniture.do;$image
+/omniture/script.
 /omniture/sphere
 /omniture/tracking.
 /omniture/visitorapi.
@@ -3683,6 +3688,9 @@
 /tagCNIL.js
 /TagCommander.cfc?
 /tagcommander.js
+/tagcommander.min.js
+/tagcommander/desktop_
+/tagcommander/mobile_
 /tagcommander_
 /tagging?type=
 /tagmanager/event?
@@ -3725,6 +3733,8 @@
 /thbeacon/*
 /thcn_code.
 /thcn_code_
+/thermostat.
+/thermstats/*
 /thetracker.js
 /third-party-analitycs/*
 /third-party-stats/*
@@ -5991,6 +6001,7 @@ _mongo_stats/
 ||guruquicks.net^$third-party
 ||gvisit.com^$third-party
 ||gweini.com^$third-party
+||gxgydnhz.com^$third-party
 ||h4k5.com^$third-party
 ||halldata.com^$third-party
 ||halo77.com^$third-party
@@ -7722,6 +7733,7 @@ _mongo_stats/
 ||cloudcdn.gdn^$third-party
 ||cloudcoins.co^$third-party
 ||cloudflane.com^$third-party
+||cloudflareinsights.com^$third-party
 ||cndhit.xyz^$third-party
 ||cnhv.co^$third-party
 ||coin-cube.com^
@@ -8684,6 +8696,8 @@ _mongo_stats/
 ||datadome.co^$third-party
 ||deliv.lexpress.fr^$third-party
 ||do09.net^$third-party
+||early-birds.fr^$third-party
+||early-birds.io^$third-party
 ||edt02.net^$third-party
 ||emailretargeting.com^$third-party
 ||ew3.io^$third-party
@@ -9969,6 +9983,7 @@ _mongo_stats/
 ||d11a2fzhgzqe7i.cloudfront.net^
 ||d169bbxks24g2u.cloudfront.net^
 ||d16fk4ms6rqz1v.cloudfront.net^
+||d16xpr36wrmcmk.cloudfront.net^
 ||d18p8z0ptb8qab.cloudfront.net^
 ||d191y0yd6d0jy4.cloudfront.net^
 ||d1cdnlzf6usiff.cloudfront.net^
@@ -11845,6 +11860,7 @@ _mongo_stats/
 ||osd.oxygem.it^
 ||pagesjaunes.fr/stat/
 ||piximedia.com^$third-party
+||rs.smc.tf^
 ||scriptsgratuits.com/sg/stats/
 ||securite.01net.com^
 ||service-webmaster.fr/cpt-visites/$third-party
@@ -12497,6 +12513,7 @@ _mongo_stats/
 ||als-svc.nytimes.com^
 ||amazon.*/action-impressions/
 ||amazon.*/ajax/counter?
+||amazon.*/batch/*/oe/$ping
 ||amazon.*/batch/*uedata=$image
 ||amazon.*/gp/r.html?
 ||amazon.*/record-impressions?
@@ -13527,7 +13544,6 @@ _mongo_stats/
 ||linkbucks.com/clean.aspx?task=record$image
 ||linkbucks.com/track/
 ||linkedin.com/analytics/
-||linkedin.com/li/track
 ||linkedin.com/platform-telemetry/
 ||linkedin.com^*/collect
 ||linkedin.com^*/tracking
@@ -13990,7 +14006,7 @@ _mongo_stats/
 ||ps.ecosia.org^
 ||pubarticles.com/_hits.php?
 ||pubarticles.com/add_hits_by_user_click.php
-||pulsar.ebay.$script
+||pulsar.ebay.$ping,script
 ||pulse-analytics-beacon.reutersmedia.net^
 ||purevpn.com/api/setCookies
 ||puritan.com/images/pixels/
@@ -14210,6 +14226,7 @@ _mongo_stats/
 ||slashdot.org/images/js.gif?$image
 ||slashdot.org/purple.gif
 ||slashgear.com/stats/
+||slickdeals.net/lf?t=
 ||slide.com/tracker/
 ||slipstream.skyscanner.net^
 ||smallcapnetwork.com^*/viewtracker/
@@ -15479,6 +15496,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 /autopromo.$domain=750g.com|alibabuy.com|allocine.fr|cap-cine.fr|chartsinfrance.net|cotecine.fr|easyvols.fr|easyvoyage.com|get-the-look.fr|jeuxactu.com|jeuxvideo.com|lestream.fr|millenium.org|musiquemag.com|ouest-france.fr|ozap.com|purebreak.com|purepeople.com|puretrend.com|shopoon.fr|terrafemina.com
 /autopromotion.$domain=750g.com|alibabuy.com|allocine.fr|cap-cine.fr|chartsinfrance.net|cotecine.fr|easyvols.fr|easyvoyage.com|get-the-look.fr|jeuxactu.com|jeuxvideo.com|lestream.fr|millenium.org|musiquemag.com|ouest-france.fr|ozap.com|purebreak.com|purepeople.com|puretrend.com|shopoon.fr|terrafemina.com
 ||accn.allocine.net^
+||act.acotedemoi.com^
 ||aliasdmc.fr/js/general_sts.js
 ||analytics.allovoisins.com^
 ||analytics.rtbf.be^
@@ -15546,6 +15564,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||static.lephoceen.net/js/xtcore.js
 ||stats1x1.kapaza.be^
 ||surace-jujitsu.fr/outils/compteur_php/
+||tag.boulanger.fr^
 ||track.24heures.ch^
 ||tracker-id.cdiscount.com^
 ||tracker.cds-tracking.com^
@@ -16272,6 +16291,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||analytics.posttv.com/trending-videos-overall.json$domain=washingtonpost.com
 @@||analytics.rogersmedia.com/js/rdm_dil_code.full.js$domain=rogersradio.ca
 @@||analytics.rogersmedia.com/js/rdm_s_code.min.js$domain=rogersradio.ca
+@@||analytics.snidigital.com^$script,domain=hgtv.com
 @@||analytics.twitter.com^$domain=analytics.twitter.com
 @@||anthem.com/includes/foresee/foresee-trigger.js
 @@||aol.com/mm_track/slideshow/$subdocument
