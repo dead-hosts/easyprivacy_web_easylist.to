@@ -8318,9 +8318,6 @@
             "support.2giga.link": "INACTIVE"
         },
         "1569870780": {
-            "216.18.176.4": "INACTIVE",
-            "216.18.184.18": "INACTIVE",
-            "219.232.238.60": "INACTIVE",
             "300ca0d0.space": "INACTIVE",
             "310ca263.space": "INACTIVE",
             "320ca3f6.space": "INACTIVE",
@@ -9647,7 +9644,10 @@
             "209.15.236.80": "INACTIVE",
             "212.227.100.108": "INACTIVE",
             "212.95.32.75": "INACTIVE",
-            "213.8.137.51": "INACTIVE"
+            "213.8.137.51": "INACTIVE",
+            "216.18.176.4": "INACTIVE",
+            "216.18.184.18": "INACTIVE",
+            "219.232.238.60": "INACTIVE"
         }
     }
 }
