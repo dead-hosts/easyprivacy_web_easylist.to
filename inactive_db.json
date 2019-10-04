@@ -8318,8 +8318,6 @@
             "support.2giga.link": "INACTIVE"
         },
         "1569870780": {
-            "4theclueless.com": "INACTIVE",
-            "50greyofsha.de": "INACTIVE",
             "58.68.146.44:8000": "INVALID",
             "62.160.52.73": "INACTIVE",
             "62.219.24.238": "INACTIVE",
@@ -9647,7 +9645,9 @@
             "360caa42.space": "INACTIVE",
             "370cabd5.space": "INACTIVE",
             "3c0cb3b4.space": "INACTIVE",
-            "3d0cb547.space": "INACTIVE"
+            "3d0cb547.space": "INACTIVE",
+            "4theclueless.com": "INACTIVE",
+            "50greyofsha.de": "INACTIVE"
         }
     }
 }
