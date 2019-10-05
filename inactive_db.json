@@ -8320,8 +8320,6 @@
         "1569870780": {
             "a.jango.com": "INACTIVE",
             "a.unanimis.co.uk": "INACTIVE",
-            "aaa.aj5.info": "INACTIVE",
-            "abcounter.de": "INACTIVE",
             "access-traffic.com": "INACTIVE",
             "accn.allocine.net": "INACTIVE",
             "accumulatorg.com": "INACTIVE",
@@ -9649,7 +9647,9 @@
             "7e59f52a58ab3be819c9a90ba53b9ffe.ovh": "INACTIVE",
             "8jd2lfsq.me": "INACTIVE",
             "91.196.216.64": "INACTIVE",
-            "a2a.lockerz.com": "INACTIVE"
+            "a2a.lockerz.com": "INACTIVE",
+            "aaa.aj5.info": "INACTIVE",
+            "abcounter.de": "INACTIVE"
         }
     }
 }
