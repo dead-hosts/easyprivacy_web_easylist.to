@@ -505,9 +505,9 @@
         "state": "future"
     },
     "a-counter.kiev.ua": {
-        "epoch": 1564617600,
-        "expiration_date": "01-aug-2019",
-        "state": "past"
+        "epoch": 1601769600,
+        "expiration_date": "04-oct-2020",
+        "state": "future"
     },
     "a-counters.com": {
         "epoch": 1605830400,
@@ -772,7 +772,7 @@
     "activengage.com": {
         "epoch": 1570233600,
         "expiration_date": "05-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "activeprospects.com": {
         "epoch": 1709942400,
