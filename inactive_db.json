@@ -8319,9 +8319,6 @@
         },
         "1569870780": {
             "a.unanimis.co.uk": "INACTIVE",
-            "alflying.bid": "INACTIVE",
-            "alflying.date": "INACTIVE",
-            "alflying.win": "INACTIVE",
             "alnera.eu": "INACTIVE",
             "amazon.*": "INVALID",
             "amctp.net": "INACTIVE",
@@ -9650,6 +9647,11 @@
             "afflow.18-plus.net": "INACTIVE",
             "agencytradingdesk.net": "INACTIVE",
             "airbnb.*": "INVALID"
+        },
+        "1570310976": {
+            "alflying.bid": "INACTIVE",
+            "alflying.date": "INACTIVE",
+            "alflying.win": "INACTIVE"
         }
     }
 }
