@@ -8321,9 +8321,6 @@
             "a.jango.com": "INACTIVE",
             "a.unanimis.co.uk": "INACTIVE",
             "aff*.kolektiva.net": "INVALID",
-            "affiliates.spark.net": "INACTIVE",
-            "affiliates.swappernet.com": "INACTIVE",
-            "affiliatetrackingsetup.com": "INACTIVE",
             "affl.sucuri.net": "INACTIVE",
             "afflow.18-plus.net": "INACTIVE",
             "agencytradingdesk.net": "INACTIVE",
@@ -9649,7 +9646,10 @@
             "aeros10.tk": "INACTIVE",
             "aeros11.tk": "INACTIVE",
             "aeros12.tk": "INACTIVE",
-            "affiliate.productreview.com.au": "INACTIVE"
+            "affiliate.productreview.com.au": "INACTIVE",
+            "affiliates.spark.net": "INACTIVE",
+            "affiliates.swappernet.com": "INACTIVE",
+            "affiliatetrackingsetup.com": "INACTIVE"
         }
     }
 }
