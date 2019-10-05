@@ -8318,13 +8318,7 @@
             "support.2giga.link": "INACTIVE"
         },
         "1569870780": {
-            "a.jango.com": "INACTIVE",
             "a.unanimis.co.uk": "INACTIVE",
-            "aff*.kolektiva.net": "INVALID",
-            "affl.sucuri.net": "INACTIVE",
-            "afflow.18-plus.net": "INACTIVE",
-            "agencytradingdesk.net": "INACTIVE",
-            "airbnb.*": "INVALID",
             "alflying.bid": "INACTIVE",
             "alflying.date": "INACTIVE",
             "alflying.win": "INACTIVE",
@@ -9624,6 +9618,7 @@
             "7e59f52a58ab3be819c9a90ba53b9ffe.ovh": "INACTIVE",
             "8jd2lfsq.me": "INACTIVE",
             "91.196.216.64": "INACTIVE",
+            "a.jango.com": "INACTIVE",
             "a2a.lockerz.com": "INACTIVE",
             "aaa.aj5.info": "INACTIVE",
             "abcounter.de": "INACTIVE",
@@ -9646,10 +9641,15 @@
             "aeros10.tk": "INACTIVE",
             "aeros11.tk": "INACTIVE",
             "aeros12.tk": "INACTIVE",
+            "aff*.kolektiva.net": "INVALID",
             "affiliate.productreview.com.au": "INACTIVE",
             "affiliates.spark.net": "INACTIVE",
             "affiliates.swappernet.com": "INACTIVE",
-            "affiliatetrackingsetup.com": "INACTIVE"
+            "affiliatetrackingsetup.com": "INACTIVE",
+            "affl.sucuri.net": "INACTIVE",
+            "afflow.18-plus.net": "INACTIVE",
+            "agencytradingdesk.net": "INACTIVE",
+            "airbnb.*": "INVALID"
         }
     }
 }
