@@ -8320,18 +8320,7 @@
         "1569870780": {
             "a.jango.com": "INACTIVE",
             "a.unanimis.co.uk": "INACTIVE",
-            "adwiretracker.fwix.com": "INACTIVE",
-            "aeros03.tk": "INACTIVE",
-            "aeros04.tk": "INACTIVE",
-            "aeros05.tk": "INACTIVE",
-            "aeros06.tk": "INACTIVE",
-            "aeros07.tk": "INACTIVE",
-            "aeros09.tk": "INACTIVE",
-            "aeros10.tk": "INACTIVE",
-            "aeros11.tk": "INACTIVE",
-            "aeros12.tk": "INACTIVE",
             "aff*.kolektiva.net": "INVALID",
-            "affiliate.productreview.com.au": "INACTIVE",
             "affiliates.spark.net": "INACTIVE",
             "affiliates.swappernet.com": "INACTIVE",
             "affiliatetrackingsetup.com": "INACTIVE",
@@ -9649,7 +9638,18 @@
             "activity.frequency.com": "INACTIVE",
             "activity.homescape.com": "INACTIVE",
             "adg.bzgint.com": "INACTIVE",
-            "adguru.guruji.com": "INACTIVE"
+            "adguru.guruji.com": "INACTIVE",
+            "adwiretracker.fwix.com": "INACTIVE",
+            "aeros03.tk": "INACTIVE",
+            "aeros04.tk": "INACTIVE",
+            "aeros05.tk": "INACTIVE",
+            "aeros06.tk": "INACTIVE",
+            "aeros07.tk": "INACTIVE",
+            "aeros09.tk": "INACTIVE",
+            "aeros10.tk": "INACTIVE",
+            "aeros11.tk": "INACTIVE",
+            "aeros12.tk": "INACTIVE",
+            "affiliate.productreview.com.au": "INACTIVE"
         }
     }
 }
