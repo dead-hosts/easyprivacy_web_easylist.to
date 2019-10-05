@@ -8320,8 +8320,6 @@
         "1569870780": {
             "a.jango.com": "INACTIVE",
             "a.unanimis.co.uk": "INACTIVE",
-            "adg.bzgint.com": "INACTIVE",
-            "adguru.guruji.com": "INACTIVE",
             "adwiretracker.fwix.com": "INACTIVE",
             "aeros03.tk": "INACTIVE",
             "aeros04.tk": "INACTIVE",
@@ -9649,7 +9647,9 @@
             "acestats.net": "INACTIVE",
             "activity.*.miui.com": "INVALID",
             "activity.frequency.com": "INACTIVE",
-            "activity.homescape.com": "INACTIVE"
+            "activity.homescape.com": "INACTIVE",
+            "adg.bzgint.com": "INACTIVE",
+            "adguru.guruji.com": "INACTIVE"
         }
     }
 }
