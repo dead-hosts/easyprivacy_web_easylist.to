@@ -8319,8 +8319,6 @@
         },
         "1569870780": {
             "a.unanimis.co.uk": "INACTIVE",
-            "alnera.eu": "INACTIVE",
-            "amazon.*": "INVALID",
             "amctp.net": "INACTIVE",
             "amhixwqagiz.ru": "INACTIVE",
             "amilliamilli.com": "INACTIVE",
@@ -9651,7 +9649,9 @@
         "1570310976": {
             "alflying.bid": "INACTIVE",
             "alflying.date": "INACTIVE",
-            "alflying.win": "INACTIVE"
+            "alflying.win": "INACTIVE",
+            "alnera.eu": "INACTIVE",
+            "amazon.*": "INVALID"
         }
     }
 }
