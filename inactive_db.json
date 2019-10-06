@@ -8319,9 +8319,7 @@
         },
         "1569870780": {
             "a.unanimis.co.uk": "INACTIVE",
-            "analytics-static.unister-gmbh.de": "INACTIVE",
             "analytics-v2.anvato.com": "INACTIVE",
-            "analytics.sonymusic.com": "INACTIVE",
             "analytics.traidnt.net": "INACTIVE",
             "analytics.truecarbon.org": "INACTIVE",
             "analytics.unister-gmbh.de": "INACTIVE",
@@ -9627,6 +9625,7 @@
             "analyticapi.piri.net": "INACTIVE",
             "analytics-beacon-*.amazonaws.com": "INVALID",
             "analytics-rhwg.rhcloud.com": "INACTIVE",
+            "analytics-static.unister-gmbh.de": "INACTIVE",
             "analytics.247sports.com": "INACTIVE",
             "analytics.adeevo.com": "INACTIVE",
             "analytics.artirix.com": "INACTIVE",
@@ -9651,7 +9650,8 @@
             "analytics.prod.aws.ecnext.net": "INACTIVE",
             "analytics.r17.com": "INACTIVE",
             "analytics.rtbf.be": "INACTIVE",
-            "analytics.services.distractify.com": "INACTIVE"
+            "analytics.services.distractify.com": "INACTIVE",
+            "analytics.sonymusic.com": "INACTIVE"
         }
     }
 }
