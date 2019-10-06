@@ -8318,23 +8318,7 @@
             "support.2giga.link": "INACTIVE"
         },
         "1569870780": {
-            "awmcounter.de": "INACTIVE",
-            "aymcsx.ru": "INACTIVE",
-            "b-aws.aol.com": "INACTIVE",
-            "b-aws.techcrunch.com": "INACTIVE",
             "b.huffingtonpost.com": "INACTIVE",
-            "bablace.com": "INACTIVE",
-            "backlinkprofi.info": "INACTIVE",
-            "backlinks.li": "INACTIVE",
-            "backlinktausch.biz": "INACTIVE",
-            "basilic.netdna-cdn.com": "INACTIVE",
-            "bauersagtnein.myeffect.net": "INACTIVE",
-            "baywttgdhe.download": "INACTIVE",
-            "bb-analytics.jp": "INACTIVE",
-            "bc.geocities.": "INVALID",
-            "bc.yahoo.com": "INACTIVE",
-            "bcm.itv.com": "INACTIVE",
-            "beacon-1.newrelic.com": "INACTIVE",
             "beacon.guim.co.uk": "INACTIVE",
             "beacon.heliumnetwork.com": "INACTIVE",
             "beacon.itmedia.jp": "INACTIVE",
@@ -9652,6 +9636,23 @@
             "audience.atex.com": "INACTIVE",
             "audience.visiblemeasures.com": "INACTIVE",
             "audienceserver.aws.forebase.com": "INACTIVE"
+        },
+        "1570398214": {
+            "awmcounter.de": "INACTIVE",
+            "aymcsx.ru": "INACTIVE",
+            "b-aws.aol.com": "INACTIVE",
+            "b-aws.techcrunch.com": "INACTIVE",
+            "backlinkprofi.info": "INACTIVE",
+            "backlinks.li": "INACTIVE",
+            "backlinktausch.biz": "INACTIVE",
+            "basilic.netdna-cdn.com": "INACTIVE",
+            "bauersagtnein.myeffect.net": "INACTIVE",
+            "baywttgdhe.download": "INACTIVE",
+            "bb-analytics.jp": "INACTIVE",
+            "bc.geocities.": "INVALID",
+            "bc.yahoo.com": "INACTIVE",
+            "bcm.itv.com": "INACTIVE",
+            "beacon-1.newrelic.com": "INACTIVE"
         }
     }
 }
