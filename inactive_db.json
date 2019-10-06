@@ -8319,13 +8319,6 @@
         },
         "1569870780": {
             "a.unanimis.co.uk": "INACTIVE",
-            "analytics-v2.anvato.com": "INACTIVE",
-            "analytics.traidnt.net": "INACTIVE",
-            "analytics.truecarbon.org": "INACTIVE",
-            "analytics.unister-gmbh.de": "INACTIVE",
-            "analytics.volvocars.com": "INACTIVE",
-            "analytics.wetpaint.me": "INACTIVE",
-            "analytics.whatculture.com": "INACTIVE",
             "analyze.yahooapis.com": "INACTIVE",
             "analyzer.qmerce.com": "INACTIVE",
             "anatid3.com": "INACTIVE",
@@ -9626,6 +9619,7 @@
             "analytics-beacon-*.amazonaws.com": "INVALID",
             "analytics-rhwg.rhcloud.com": "INACTIVE",
             "analytics-static.unister-gmbh.de": "INACTIVE",
+            "analytics-v2.anvato.com": "INACTIVE",
             "analytics.247sports.com": "INACTIVE",
             "analytics.adeevo.com": "INACTIVE",
             "analytics.artirix.com": "INACTIVE",
@@ -9651,7 +9645,13 @@
             "analytics.r17.com": "INACTIVE",
             "analytics.rtbf.be": "INACTIVE",
             "analytics.services.distractify.com": "INACTIVE",
-            "analytics.sonymusic.com": "INACTIVE"
+            "analytics.sonymusic.com": "INACTIVE",
+            "analytics.traidnt.net": "INACTIVE",
+            "analytics.truecarbon.org": "INACTIVE",
+            "analytics.unister-gmbh.de": "INACTIVE",
+            "analytics.volvocars.com": "INACTIVE",
+            "analytics.wetpaint.me": "INACTIVE",
+            "analytics.whatculture.com": "INACTIVE"
         }
     }
 }
