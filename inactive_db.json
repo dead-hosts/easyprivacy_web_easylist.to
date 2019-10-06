@@ -8319,21 +8319,10 @@
         },
         "1569870780": {
             "a.unanimis.co.uk": "INACTIVE",
-            "amctp.net": "INACTIVE",
-            "amhixwqagiz.ru": "INACTIVE",
-            "amilliamilli.com": "INACTIVE",
-            "amp.virginmedia.com": "INACTIVE",
-            "ams.addflow.ru": "INACTIVE",
-            "analysis.focalprice.com": "INACTIVE",
-            "analytic.pho.fm": "INACTIVE",
-            "analytic.piri.net": "INACTIVE",
-            "analyticapi.pho.fm": "INACTIVE",
-            "analyticapi.piri.net": "INACTIVE",
             "analytics-beacon-*.amazonaws.com": "INVALID",
             "analytics-rhwg.rhcloud.com": "INACTIVE",
             "analytics-static.unister-gmbh.de": "INACTIVE",
             "analytics-v2.anvato.com": "INACTIVE",
-            "analytics.247sports.com": "INACTIVE",
             "analytics.adeevo.com": "INACTIVE",
             "analytics.artirix.com": "INACTIVE",
             "analytics.bloomberg.com": "INACTIVE",
@@ -9651,7 +9640,18 @@
             "alflying.date": "INACTIVE",
             "alflying.win": "INACTIVE",
             "alnera.eu": "INACTIVE",
-            "amazon.*": "INVALID"
+            "amazon.*": "INVALID",
+            "amctp.net": "INACTIVE",
+            "amhixwqagiz.ru": "INACTIVE",
+            "amilliamilli.com": "INACTIVE",
+            "amp.virginmedia.com": "INACTIVE",
+            "ams.addflow.ru": "INACTIVE",
+            "analysis.focalprice.com": "INACTIVE",
+            "analytic.pho.fm": "INACTIVE",
+            "analytic.piri.net": "INACTIVE",
+            "analyticapi.pho.fm": "INACTIVE",
+            "analyticapi.piri.net": "INACTIVE",
+            "analytics.247sports.com": "INACTIVE"
         }
     }
 }
