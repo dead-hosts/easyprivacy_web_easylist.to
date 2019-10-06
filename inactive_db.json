@@ -8322,7 +8322,6 @@
             "analytics-rhwg.rhcloud.com": "INACTIVE",
             "analytics-static.unister-gmbh.de": "INACTIVE",
             "analytics-v2.anvato.com": "INACTIVE",
-            "analytics.conmio.com": "INACTIVE",
             "analytics.digitouch.it": "INACTIVE",
             "analytics.edgekey.net": "INACTIVE",
             "analytics.edgesuite.net": "INACTIVE",
@@ -9651,7 +9650,8 @@
             "analytics.adeevo.com": "INACTIVE",
             "analytics.artirix.com": "INACTIVE",
             "analytics.bloomberg.com": "INACTIVE",
-            "analytics.closealert.com": "INACTIVE"
+            "analytics.closealert.com": "INACTIVE",
+            "analytics.conmio.com": "INACTIVE"
         }
     }
 }

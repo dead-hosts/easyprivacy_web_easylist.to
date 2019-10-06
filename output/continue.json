@@ -571,7 +571,13 @@
             "analytics.codigo.se",
             "analytics.cohesionapps.com",
             "analytics.competitoor.com",
-            "analytics.comunio.de"
+            "analytics.comunio.de",
+            "analytics.comunio.net",
+            "analytics.convertlanguage.com",
+            "analytics.cynapse.com",
+            "analytics.datahc.com",
+            "analytics.developer.riotgames.com",
+            "analytics.dev.springboardvideo.com"
         ],
         "INACTIVE": [
             "0tracker.com",
@@ -664,7 +670,8 @@
             "analytics.adeevo.com",
             "analytics.artirix.com",
             "analytics.bloomberg.com",
-            "analytics.closealert.com"
+            "analytics.closealert.com",
+            "analytics.conmio.com"
         ],
         "INVALID": [
             "121.78.90.104:8383",
