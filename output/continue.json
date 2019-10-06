@@ -538,7 +538,40 @@
             "analytics2.socialblade.com",
             "analytics.30m.com",
             "analytics.aasaam.com",
-            "analytics.abacast.com"
+            "analytics.abacast.com",
+            "analytics.adfreetime.com",
+            "analytics.allovoisins.com",
+            "analytics.amakings.com",
+            "analytics.anvato.net",
+            "analytics.apnewsregistry.com",
+            "analytics.archive.org",
+            "analytics.arz.at",
+            "analytics.atomiconline.com",
+            "analytics.audioeye.com",
+            "analytics.avanser.com.au",
+            "analytics.aweber.com",
+            "analytics.belgacom.be",
+            "analytics.bhaskar.com",
+            "analytics.bigcommerce.com",
+            "analytics.blue",
+            "analytics.brandcrumb.com",
+            "analytics.brave.com",
+            "analytics.carambatv.ru",
+            "analytics.carambo.la",
+            "analytics-cdiscount.com",
+            "analytics.ceneo.pl",
+            "analytics.chase.com",
+            "analyticschecker.com",
+            "analytics.cincopa.com",
+            "analytics.clickpathmedia.com",
+            "analytics.cmg.net",
+            "analytics-cms.whitebeard.me",
+            "analytics.cnd-motionmedia.de",
+            "analytics.cocolog-nifty.com",
+            "analytics.codigo.se",
+            "analytics.cohesionapps.com",
+            "analytics.competitoor.com",
+            "analytics.comunio.de"
         ],
         "INACTIVE": [
             "0tracker.com",
@@ -627,7 +660,11 @@
             "analyticapi.piri.net",
             "analytic.pho.fm",
             "analytic.piri.net",
-            "analytics.247sports.com"
+            "analytics.247sports.com",
+            "analytics.adeevo.com",
+            "analytics.artirix.com",
+            "analytics.bloomberg.com",
+            "analytics.closealert.com"
         ],
         "INVALID": [
             "121.78.90.104:8383",
@@ -635,7 +672,8 @@
             "activity.*.miui.com",
             "aff*.kolektiva.net",
             "airbnb.*",
-            "amazon.*"
+            "amazon.*",
+            "analytics-beacon-*.amazonaws.com"
         ]
     }
 }
