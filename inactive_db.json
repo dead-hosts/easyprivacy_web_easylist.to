@@ -8322,17 +8322,6 @@
             "analytics-rhwg.rhcloud.com": "INACTIVE",
             "analytics-static.unister-gmbh.de": "INACTIVE",
             "analytics-v2.anvato.com": "INACTIVE",
-            "analytics.digitouch.it": "INACTIVE",
-            "analytics.edgekey.net": "INACTIVE",
-            "analytics.edgesuite.net": "INACTIVE",
-            "analytics.episodic.com": "INACTIVE",
-            "analytics.ettoredelnegro.pro": "INACTIVE",
-            "analytics.femalefirst.co.uk": "INACTIVE",
-            "analytics.go.com": "INACTIVE",
-            "analytics.hosting24.com": "INACTIVE",
-            "analytics.hpprintx.com": "INACTIVE",
-            "analytics.linkwelove.com": "INACTIVE",
-            "analytics.mecloud.vn": "INACTIVE",
             "analytics.newsinc.com": "INACTIVE",
             "analytics.nextmedia.com": "INACTIVE",
             "analytics.omgpop.com": "INACTIVE",
@@ -9651,7 +9640,18 @@
             "analytics.artirix.com": "INACTIVE",
             "analytics.bloomberg.com": "INACTIVE",
             "analytics.closealert.com": "INACTIVE",
-            "analytics.conmio.com": "INACTIVE"
+            "analytics.conmio.com": "INACTIVE",
+            "analytics.digitouch.it": "INACTIVE",
+            "analytics.edgekey.net": "INACTIVE",
+            "analytics.edgesuite.net": "INACTIVE",
+            "analytics.episodic.com": "INACTIVE",
+            "analytics.ettoredelnegro.pro": "INACTIVE",
+            "analytics.femalefirst.co.uk": "INACTIVE",
+            "analytics.go.com": "INACTIVE",
+            "analytics.hosting24.com": "INACTIVE",
+            "analytics.hpprintx.com": "INACTIVE",
+            "analytics.linkwelove.com": "INACTIVE",
+            "analytics.mecloud.vn": "INACTIVE"
         }
     }
 }
