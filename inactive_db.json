@@ -8319,9 +8319,6 @@
         },
         "1569870780": {
             "a.unanimis.co.uk": "INACTIVE",
-            "analyze.yahooapis.com": "INACTIVE",
-            "analyzer.qmerce.com": "INACTIVE",
-            "anatid3.com": "INACTIVE",
             "api.awe.sm": "INACTIVE",
             "api.choicestream.com": "INACTIVE",
             "api.fyreball.com": "INACTIVE",
@@ -9651,7 +9648,10 @@
             "analytics.unister-gmbh.de": "INACTIVE",
             "analytics.volvocars.com": "INACTIVE",
             "analytics.wetpaint.me": "INACTIVE",
-            "analytics.whatculture.com": "INACTIVE"
+            "analytics.whatculture.com": "INACTIVE",
+            "analyze.yahooapis.com": "INACTIVE",
+            "analyzer.qmerce.com": "INACTIVE",
+            "anatid3.com": "INACTIVE"
         }
     }
 }
