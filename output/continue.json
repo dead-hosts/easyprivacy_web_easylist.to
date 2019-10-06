@@ -1006,7 +1006,12 @@
             "beacon2.indieclicktv.com",
             "beacon.affil.walmart.com",
             "beacon.aimtell.com",
-            "beacon.ehow.com"
+            "beacon.ehow.com",
+            "beacon.errorception.com",
+            "beacon.gcion.com",
+            "beacon.gutefrage.net",
+            "beacon.gu-web.net",
+            "beacon.indieclick.com"
         ],
         "INACTIVE": [
             "0tracker.com",
@@ -1172,7 +1177,10 @@
             "bb-analytics.jp",
             "bcm.itv.com",
             "bc.yahoo.com",
-            "beacon-1.newrelic.com"
+            "beacon-1.newrelic.com",
+            "beacon.examiner.com",
+            "beacon.guim.co.uk",
+            "beacon.heliumnetwork.com"
         ],
         "INVALID": [
             "121.78.90.104:8383",

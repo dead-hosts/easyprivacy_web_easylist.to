@@ -8319,8 +8319,6 @@
         },
         "1569870780": {
             "b.huffingtonpost.com": "INACTIVE",
-            "beacon.guim.co.uk": "INACTIVE",
-            "beacon.heliumnetwork.com": "INACTIVE",
             "beacon.itmedia.jp": "INACTIVE",
             "beacon.mtgx.tv": "INACTIVE",
             "beacon.richrelevance.com": "INACTIVE",
@@ -9652,7 +9650,10 @@
             "bc.geocities.": "INVALID",
             "bc.yahoo.com": "INACTIVE",
             "bcm.itv.com": "INACTIVE",
-            "beacon-1.newrelic.com": "INACTIVE"
+            "beacon-1.newrelic.com": "INACTIVE",
+            "beacon.examiner.com": "INACTIVE",
+            "beacon.guim.co.uk": "INACTIVE",
+            "beacon.heliumnetwork.com": "INACTIVE"
         }
     }
 }
