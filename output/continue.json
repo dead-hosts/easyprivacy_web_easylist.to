@@ -642,7 +642,18 @@
             "analytics.rambla.be",
             "analytics.rechtslupe.org",
             "analytics.recruitics.com",
-            "analytics.redlink.com.ar"
+            "analytics.redlink.com.ar",
+            "analytics.revee.com",
+            "analytics.reyrey.net",
+            "analytics.rogersmedia.com",
+            "analytics.sanoma.fi",
+            "analytics.schoolwires.com",
+            "analytics-scripts.cablelabs.com",
+            "analytics.shareaholic.com",
+            "analytics.shop.hisense.com",
+            "analytics.shorte.st",
+            "analytics.sitewit.com",
+            "analytics.skyscanner.net"
         ],
         "INACTIVE": [
             "0tracker.com",
@@ -753,7 +764,10 @@
             "analytics.omgpop.com",
             "analytics.performable.com",
             "analytics.prod.aws.ecnext.net",
-            "analytics.r17.com"
+            "analytics.r17.com",
+            "analytics-rhwg.rhcloud.com",
+            "analytics.rtbf.be",
+            "analytics.services.distractify.com"
         ],
         "INVALID": [
             "121.78.90.104:8383",
