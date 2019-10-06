@@ -8319,8 +8319,6 @@
         },
         "1569870780": {
             "a.unanimis.co.uk": "INACTIVE",
-            "api.awe.sm": "INACTIVE",
-            "api.choicestream.com": "INACTIVE",
             "api.fyreball.com": "INACTIVE",
             "api.inwemo.com": "INACTIVE",
             "app.insightgrit.com": "INACTIVE",
@@ -9651,7 +9649,9 @@
             "analytics.whatculture.com": "INACTIVE",
             "analyze.yahooapis.com": "INACTIVE",
             "analyzer.qmerce.com": "INACTIVE",
-            "anatid3.com": "INACTIVE"
+            "anatid3.com": "INACTIVE",
+            "api.awe.sm": "INACTIVE",
+            "api.choicestream.com": "INACTIVE"
         }
     }
 }
