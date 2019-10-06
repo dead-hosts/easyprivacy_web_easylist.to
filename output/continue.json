@@ -618,7 +618,26 @@
             "analytics.matchbin.com",
             "analytics.meituan.net",
             "analytics.midwesternmac.com",
-            "analytics.mindjolt.com"
+            "analytics.mindjolt.com",
+            "analytics.mlstatic.com",
+            "analytics.moviepilot.de",
+            "analytics.myfinance.com",
+            "analytics.newscred.com",
+            "analytics.ngfiles.com",
+            "analytics.onlyonlinemarketing.com",
+            "analytics.ooyala.com",
+            "analytics.optilead.co.uk",
+            "analytics.orenshmu.com",
+            "analytics.paddle.com",
+            "analytics.photorank.me",
+            "analytics.piksel.com",
+            "analytics.pinpoll.com",
+            "analytics.plex.tv",
+            "analytics.posttv.com",
+            "analytics.praetor.im",
+            "analytics.prezly.com",
+            "analytics-production.hapyak.com",
+            "analytics.proxer.me"
         ],
         "INACTIVE": [
             "0tracker.com",
@@ -723,7 +742,13 @@
             "analytics.hosting24.com",
             "analytics.hpprintx.com",
             "analytics.linkwelove.com",
-            "analytics.mecloud.vn"
+            "analytics.mecloud.vn",
+            "analytics.newsinc.com",
+            "analytics.nextmedia.com",
+            "analytics.omgpop.com",
+            "analytics.performable.com",
+            "analytics.prod.aws.ecnext.net",
+            "analytics.r17.com"
         ],
         "INVALID": [
             "121.78.90.104:8383",
