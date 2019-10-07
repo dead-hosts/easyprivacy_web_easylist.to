@@ -1403,7 +1403,10 @@
             "cdnanalytics.xyz",
             "cdn.baidupcs.com",
             "cdnbigdata.azureedge.net",
-            "cdn-code.host"
+            "cdn-code.host",
+            "cdnds.net",
+            "cdn-files.prsmedia.fr",
+            "cdn.hiido.cn"
         ],
         "INACTIVE": [
             "0tracker.com",
@@ -1622,7 +1625,8 @@
             "cct2.o2online.de",
             "ccvwtdtwyu.trade",
             "cd.musicmass.com",
-            "cdn-analytics.pl"
+            "cdn-analytics.pl",
+            "cdnfile.xyz"
         ],
         "INVALID": [
             "121.78.90.104:8383",
