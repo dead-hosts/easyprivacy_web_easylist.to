@@ -8322,8 +8322,6 @@
             "c.homestore.com": "INACTIVE",
             "c.microsoft.com": "INACTIVE",
             "c.newsinc.com": "INACTIVE",
-            "chainblock.science": "INACTIVE",
-            "chardneave.info": "INACTIVE",
             "checkmypr.net": "INACTIVE",
             "cheezburger-analytics.com": "INACTIVE",
             "chmproxy.bid": "INACTIVE",
@@ -9652,7 +9650,9 @@
             "cdnfile.xyz": "INACTIVE",
             "cf.overblog.com": "INACTIVE",
             "cfcn.allocine.net": "INACTIVE",
-            "cfcnet.top": "INACTIVE"
+            "cfcnet.top": "INACTIVE",
+            "chainblock.science": "INACTIVE",
+            "chardneave.info": "INACTIVE"
         }
     }
 }
