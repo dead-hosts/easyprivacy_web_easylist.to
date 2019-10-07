@@ -8318,9 +8318,6 @@
             "support.2giga.link": "INACTIVE"
         },
         "1569870780": {
-            "bits.wikimedia.org": "INACTIVE",
-            "bjorksta.men": "INACTIVE",
-            "blamcity.com": "INACTIVE",
             "blizzardcheck.com": "INACTIVE",
             "blockchained.party": "INACTIVE",
             "blogtraffic.sg": "INACTIVE",
@@ -9652,7 +9649,10 @@
             "bibzopl.com": "INACTIVE",
             "bikepasture.com": "INACTIVE",
             "bin.clearspring.*": "INVALID",
-            "bioraywaterrank.ru": "INACTIVE"
+            "bioraywaterrank.ru": "INACTIVE",
+            "bits.wikimedia.org": "INACTIVE",
+            "bjorksta.men": "INACTIVE",
+            "blamcity.com": "INACTIVE"
         }
     }
 }
