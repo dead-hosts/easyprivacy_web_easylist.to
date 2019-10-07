@@ -8322,9 +8322,6 @@
             "c.homestore.com": "INACTIVE",
             "c.microsoft.com": "INACTIVE",
             "c.newsinc.com": "INACTIVE",
-            "cf.overblog.com": "INACTIVE",
-            "cfcn.allocine.net": "INACTIVE",
-            "cfcnet.top": "INACTIVE",
             "chainblock.science": "INACTIVE",
             "chardneave.info": "INACTIVE",
             "checkmypr.net": "INACTIVE",
@@ -9652,7 +9649,10 @@
             "cd.musicmass.com": "INACTIVE",
             "cdn-analytics.pl": "INACTIVE",
             "cdn-jquery.host": "INACTIVE",
-            "cdnfile.xyz": "INACTIVE"
+            "cdnfile.xyz": "INACTIVE",
+            "cf.overblog.com": "INACTIVE",
+            "cfcn.allocine.net": "INACTIVE",
+            "cfcnet.top": "INACTIVE"
         }
     }
 }
