@@ -8321,9 +8321,6 @@
             "c-webstats.de": "INACTIVE",
             "c.microsoft.com": "INACTIVE",
             "c.newsinc.com": "INACTIVE",
-            "click-linking.com": "INACTIVE",
-            "click.geopaysys.com": "INACTIVE",
-            "clickigniter.io": "INACTIVE",
             "clickstream.loomia.com": "INACTIVE",
             "clicktale.pantherssl.com": "INACTIVE",
             "clicktalecdn.sslcs.cdngc.net": "INACTIVE",
@@ -9653,6 +9650,11 @@
             "click2meter.com": "INACTIVE",
             "clickanalyzer.jp": "INACTIVE",
             "clickcloud.info": "INACTIVE"
+        },
+        "1570486856": {
+            "click-linking.com": "INACTIVE",
+            "click.geopaysys.com": "INACTIVE",
+            "clickigniter.io": "INACTIVE"
         }
     }
 }
