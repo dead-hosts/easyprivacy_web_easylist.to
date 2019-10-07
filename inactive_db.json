@@ -8323,10 +8323,6 @@
             "c.homestore.com": "INACTIVE",
             "c.microsoft.com": "INACTIVE",
             "c.newsinc.com": "INACTIVE",
-            "callingjustified.com": "INACTIVE",
-            "canvas-ping.conduit-data.com": "INACTIVE",
-            "canvas-usage-v2.conduit-data.com": "INACTIVE",
-            "capture.camify.com": "INACTIVE",
             "castelein.nu": "INACTIVE",
             "cc.gofile.io": "INACTIVE",
             "cclickvidservgs.com": "INACTIVE",
@@ -9652,7 +9648,11 @@
             "buzzbox.buzzfeed.com": "INACTIVE",
             "c0i8h8ac7e.bid": "INACTIVE",
             "c2s-openrtb.liverail.com": "INACTIVE",
-            "c3metrics.medifast1.com": "INACTIVE"
+            "c3metrics.medifast1.com": "INACTIVE",
+            "callingjustified.com": "INACTIVE",
+            "canvas-ping.conduit-data.com": "INACTIVE",
+            "canvas-usage-v2.conduit-data.com": "INACTIVE",
+            "capture.camify.com": "INACTIVE"
         }
     }
 }
