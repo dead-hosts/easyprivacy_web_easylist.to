@@ -8318,13 +8318,6 @@
             "support.2giga.link": "INACTIVE"
         },
         "1569870780": {
-            "b.huffingtonpost.com": "INACTIVE",
-            "bh8yx.xyz": "INACTIVE",
-            "bhzejltg.info": "INACTIVE",
-            "bibzopl.com": "INACTIVE",
-            "bikepasture.com": "INACTIVE",
-            "bin.clearspring.*": "INVALID",
-            "bioraywaterrank.ru": "INACTIVE",
             "bits.wikimedia.org": "INACTIVE",
             "bjorksta.men": "INACTIVE",
             "blamcity.com": "INACTIVE",
@@ -9625,6 +9618,7 @@
             "aymcsx.ru": "INACTIVE",
             "b-aws.aol.com": "INACTIVE",
             "b-aws.techcrunch.com": "INACTIVE",
+            "b.huffingtonpost.com": "INACTIVE",
             "backlinkprofi.info": "INACTIVE",
             "backlinks.li": "INACTIVE",
             "backlinktausch.biz": "INACTIVE",
@@ -9652,7 +9646,13 @@
             "belstat.ch": "INACTIVE",
             "bestweb2013stat.lk": "INACTIVE",
             "betarget.net": "INACTIVE",
-            "bewhoyouare.gq": "INACTIVE"
+            "bewhoyouare.gq": "INACTIVE",
+            "bh8yx.xyz": "INACTIVE",
+            "bhzejltg.info": "INACTIVE",
+            "bibzopl.com": "INACTIVE",
+            "bikepasture.com": "INACTIVE",
+            "bin.clearspring.*": "INVALID",
+            "bioraywaterrank.ru": "INACTIVE"
         }
     }
 }

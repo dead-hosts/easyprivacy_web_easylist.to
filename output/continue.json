@@ -1091,7 +1091,41 @@
             "beyond.com",
             "bfmio.com",
             "bfnsoftware.com",
-            "bfoleyinteractive.com"
+            "bfoleyinteractive.com",
+            "bglog.bitauto.com",
+            "bhg.com",
+            "bhphotovideo.com",
+            "biberukalap.com",
+            "bidderrtb.com",
+            "bid.g.doubleclick.net",
+            "bidr.io",
+            "bid.run",
+            "bidswitch.net",
+            "bidsystem.com",
+            "bidz.com",
+            "bigcattracks.com",
+            "bigday.ru",
+            "bigmining.com",
+            "bigmir.net",
+            "bigstats.net",
+            "bigtracker.com",
+            "bigvoy.com",
+            "bild.de",
+            "billiger.de",
+            "bi.medscape.com",
+            "b.imwx.com",
+            "binaries4all.nl",
+            "binarybusiness.de",
+            "bing.com",
+            "bionicclick.com",
+            "biosphoto.com",
+            "birthvillage.com",
+            "bitclub.network",
+            "bitclubnetwork.com",
+            "bitcoin-pay.eu",
+            "bitdash-reporting.appspot.com",
+            "bitdefender.com",
+            "bit.ehow.com"
         ],
         "INACTIVE": [
             "0tracker.com",
@@ -1274,7 +1308,13 @@
             "belstat.ch",
             "bestweb2013stat.lk",
             "betarget.net",
-            "bewhoyouare.gq"
+            "bewhoyouare.gq",
+            "bh8yx.xyz",
+            "b.huffingtonpost.com",
+            "bhzejltg.info",
+            "bibzopl.com",
+            "bikepasture.com",
+            "bioraywaterrank.ru"
         ],
         "INVALID": [
             "121.78.90.104:8383",
@@ -1285,7 +1325,8 @@
             "amazon.*",
             "analytics-beacon-*.amazonaws.com",
             "attachmate.com*",
-            "bc.geocities."
+            "bc.geocities.",
+            "bin.clearspring.*"
         ]
     }
 }
