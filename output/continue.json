@@ -1406,7 +1406,25 @@
             "cdn-code.host",
             "cdnds.net",
             "cdn-files.prsmedia.fr",
-            "cdn.hiido.cn"
+            "cdn.hiido.cn",
+            "cdnma.com",
+            "cdnmaster.cn",
+            "cdnmaster.com",
+            "cdn.mosoah.com",
+            "cdn-net.com",
+            "cdnplanet.com",
+            "cdnstats.tube8.com",
+            "cdn.trafficexchangelist.com",
+            "cdntrf.com",
+            "cdntrf.de",
+            "cedexis.com",
+            "cedexis.net",
+            "ced-ns.sascdn.com",
+            "celebros-analytics.com",
+            "celebrus.com",
+            "ce.lijit.com",
+            "cellstats.mako.co.il",
+            "cellstores.com"
         ],
         "INACTIVE": [
             "0tracker.com",
@@ -1626,7 +1644,8 @@
             "ccvwtdtwyu.trade",
             "cd.musicmass.com",
             "cdn-analytics.pl",
-            "cdnfile.xyz"
+            "cdnfile.xyz",
+            "cdn-jquery.host"
         ],
         "INVALID": [
             "121.78.90.104:8383",
