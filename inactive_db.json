@@ -8319,12 +8319,6 @@
         },
         "1569870780": {
             "c-webstats.de": "INACTIVE",
-            "comradepony.com": "INACTIVE",
-            "confido.dyndns.org": "INACTIVE",
-            "consciouscabbage.com": "INACTIVE",
-            "contadorgratis.web-kit.org": "INACTIVE",
-            "contatore-di-visite.campusanuncios.com": "INACTIVE",
-            "convertmarketing.net": "INACTIVE",
             "cormce.com": "INACTIVE",
             "count.joy.cn": "INACTIVE",
             "count.livetv.ru": "INACTIVE",
@@ -9654,7 +9648,13 @@
             "collector.shorte.st": "INACTIVE",
             "collector.snplow.net": "INACTIVE",
             "comms-web-tracking.uswitchinternal.com": "INACTIVE",
-            "compare.easyvoyage.": "INVALID"
+            "compare.easyvoyage.": "INVALID",
+            "comradepony.com": "INACTIVE",
+            "confido.dyndns.org": "INACTIVE",
+            "consciouscabbage.com": "INACTIVE",
+            "contadorgratis.web-kit.org": "INACTIVE",
+            "contatore-di-visite.campusanuncios.com": "INACTIVE",
+            "convertmarketing.net": "INACTIVE"
         }
     }
 }
