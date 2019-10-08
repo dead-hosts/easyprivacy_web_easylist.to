@@ -8319,8 +8319,6 @@
         },
         "1569870780": {
             "c-webstats.de": "INACTIVE",
-            "comms-web-tracking.uswitchinternal.com": "INACTIVE",
-            "compare.easyvoyage.": "INVALID",
             "comradepony.com": "INACTIVE",
             "confido.dyndns.org": "INACTIVE",
             "consciouscabbage.com": "INACTIVE",
@@ -9654,7 +9652,9 @@
             "collector.apester.com": "INACTIVE",
             "collector.shopstream.co": "INACTIVE",
             "collector.shorte.st": "INACTIVE",
-            "collector.snplow.net": "INACTIVE"
+            "collector.snplow.net": "INACTIVE",
+            "comms-web-tracking.uswitchinternal.com": "INACTIVE",
+            "compare.easyvoyage.": "INVALID"
         }
     }
 }

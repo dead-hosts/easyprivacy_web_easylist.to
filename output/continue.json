@@ -1708,7 +1708,25 @@
             "collect.rewardstyle.com",
             "collect.tianya.cn",
             "collegehumor.com",
-            "collserve.com"
+            "collserve.com",
+            "colossusssp.com",
+            "comdirect.de",
+            "com.econa.com",
+            "comet.ibsrv.net",
+            "comic-rocket.com",
+            "commander1.com",
+            "commentarymagazine.com",
+            "commercialappeal.com",
+            "commerzbank.de",
+            "communicatorcorp.com",
+            "company-target.com",
+            "compare.easyviaggio.com",
+            "compare.easyviajar.com",
+            "comparis.ch",
+            "compendiumblog.com",
+            "competitoor.com",
+            "compteur.cc",
+            "compteur.com"
         ],
         "INACTIVE": [
             "0tracker.com",
@@ -1979,7 +1997,8 @@
             "collector.shorte.st",
             "collector.snplow.net",
             "collect.sas.com",
-            "collect.yinyuetai.com"
+            "collect.yinyuetai.com",
+            "comms-web-tracking.uswitchinternal.com"
         ],
         "INVALID": [
             "121.78.90.104:8383",
@@ -1998,7 +2017,8 @@
             "collect.*.miui.com",
             "collector-*.elb.amazonaws.com",
             "collector-*.tvsquared.com",
-            "collector*.xhamster.com"
+            "collector*.xhamster.com",
+            "compare.easyvoyage."
         ]
     }
 }

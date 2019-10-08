@@ -18,3 +18,4 @@
 0.0.0.0 collector-*.elb.amazonaws.com
 0.0.0.0 collector-*.tvsquared.com
 0.0.0.0 collector*.xhamster.com
+0.0.0.0 compare.easyvoyage.
