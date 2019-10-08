@@ -8321,15 +8321,6 @@
             "c-webstats.de": "INACTIVE",
             "c.microsoft.com": "INACTIVE",
             "c.newsinc.com": "INACTIVE",
-            "clickstream.loomia.com": "INACTIVE",
-            "clicktale.pantherssl.com": "INACTIVE",
-            "clicktalecdn.sslcs.cdngc.net": "INACTIVE",
-            "clicktracks.aristotle.net": "INACTIVE",
-            "clickwith.bid": "INACTIVE",
-            "clientlog.portal.office.com": "INACTIVE",
-            "clientstat.castup.net": "INACTIVE",
-            "climatedesk.org*": "INVALID",
-            "clkd.at": "INACTIVE",
             "cloudfront.net*": "INVALID",
             "cls.ichotelsgroup.com": "INACTIVE",
             "cms-pixel.crowdreport.com": "INACTIVE",
@@ -9654,7 +9645,16 @@
         "1570486856": {
             "click-linking.com": "INACTIVE",
             "click.geopaysys.com": "INACTIVE",
-            "clickigniter.io": "INACTIVE"
+            "clickigniter.io": "INACTIVE",
+            "clickstream.loomia.com": "INACTIVE",
+            "clicktale.pantherssl.com": "INACTIVE",
+            "clicktalecdn.sslcs.cdngc.net": "INACTIVE",
+            "clicktracks.aristotle.net": "INACTIVE",
+            "clickwith.bid": "INACTIVE",
+            "clientlog.portal.office.com": "INACTIVE",
+            "clientstat.castup.net": "INACTIVE",
+            "climatedesk.org*": "INVALID",
+            "clkd.at": "INACTIVE"
         }
     }
 }

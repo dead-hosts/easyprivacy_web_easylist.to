@@ -1555,7 +1555,40 @@
             "clicksen.se",
             "clickshift.com",
             "clicks.hurriyet.com.tr",
-            "clicks.traffictrader.net"
+            "clicks.traffictrader.net",
+            "clickstream.co.za",
+            "click.suning.cn",
+            "clicktale.net",
+            "clickthru.lefbc.com",
+            "clicktrack1.com",
+            "clicktracker.iscan.nl",
+            "clicktracks.com",
+            "clicktrkservices.com",
+            "click.tv.repubblica.it",
+            "click.udimg.com",
+            "click.uol.com.br",
+            "click-url.com",
+            "click.vgnett.no",
+            "clickx.io",
+            "clickzs.com",
+            "clickzzs.nl",
+            "client-event-reporter.twitch.tv",
+            "clientgear.com",
+            "client.tahono.com",
+            "climatecontrol.ru",
+            "clipkit.de",
+            "clipsyndicate.com",
+            "c.live.com",
+            "clixcount.com",
+            "clixpy.com",
+            "clk.about.com",
+            "clk.onet.pl",
+            "clkstat.china.cn",
+            "clkstat.qihoo.com",
+            "cl.ly",
+            "clnk.me",
+            "clod.pw",
+            "clog.go.com"
         ],
         "INACTIVE": [
             "0tracker.com",
@@ -1797,7 +1830,15 @@
             "clickcloud.info",
             "click.geopaysys.com",
             "clickigniter.io",
-            "click-linking.com"
+            "click-linking.com",
+            "clickstream.loomia.com",
+            "clicktalecdn.sslcs.cdngc.net",
+            "clicktale.pantherssl.com",
+            "clicktracks.aristotle.net",
+            "clickwith.bid",
+            "clientlog.portal.office.com",
+            "clientstat.castup.net",
+            "clkd.at"
         ],
         "INVALID": [
             "121.78.90.104:8383",
@@ -1810,7 +1851,8 @@
             "attachmate.com*",
             "bc.geocities.",
             "bin.clearspring.*",
-            "classic.comunio.*"
+            "classic.comunio.*",
+            "climatedesk.org*"
         ]
     }
 }
