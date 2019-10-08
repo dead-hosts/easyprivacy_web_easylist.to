@@ -1697,7 +1697,18 @@
             "collector.leaddyno.com",
             "collector-medium.lightstep.com",
             "collector.nextguide.tv",
-            "collector.prod.expedia.com"
+            "collector.prod.expedia.com",
+            "collector.roistat.com",
+            "collector.schibsted.io",
+            "collector.sspinc.io",
+            "collector.statowl.com",
+            "collector.tescocompare.com",
+            "collector.trendmd.com",
+            "collector.wallapop.com",
+            "collect.rewardstyle.com",
+            "collect.tianya.cn",
+            "collegehumor.com",
+            "collserve.com"
         ],
         "INACTIVE": [
             "0tracker.com",
@@ -1963,7 +1974,12 @@
             "collection.acromas.com",
             "collection.theaa.com",
             "collector.air.tv",
-            "collector.apester.com"
+            "collector.apester.com",
+            "collector.shopstream.co",
+            "collector.shorte.st",
+            "collector.snplow.net",
+            "collect.sas.com",
+            "collect.yinyuetai.com"
         ],
         "INVALID": [
             "121.78.90.104:8383",
@@ -1980,7 +1996,9 @@
             "climatedesk.org*",
             "cloudfront.net*",
             "collect.*.miui.com",
-            "collector-*.elb.amazonaws.com"
+            "collector-*.elb.amazonaws.com",
+            "collector-*.tvsquared.com",
+            "collector*.xhamster.com"
         ]
     }
 }
