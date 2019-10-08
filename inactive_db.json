@@ -8320,7 +8320,6 @@
         "1569870780": {
             "c-webstats.de": "INACTIVE",
             "cr.loszona.com": "INACTIVE",
-            "creativefactory.zalando.": "INVALID",
             "crypto-coins-now.com": "INACTIVE",
             "csi-tracking.com": "INACTIVE",
             "css.aliyun.com": "INACTIVE",
@@ -9654,7 +9653,8 @@
             "countimo.de": "INACTIVE",
             "countingbiz.info": "INACTIVE",
             "countstat.ru": "INACTIVE",
-            "cpix.daserste.de": "INACTIVE"
+            "cpix.daserste.de": "INACTIVE",
+            "creativefactory.zalando.": "INVALID"
         }
     }
 }
