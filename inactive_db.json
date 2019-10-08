@@ -8319,22 +8319,10 @@
         },
         "1569870780": {
             "c-webstats.de": "INACTIVE",
-            "coin-services.info": "INACTIVE",
-            "coinhive-proxy.party": "INACTIVE",
-            "coinrail.io": "INACTIVE",
-            "collect.*.miui.com": "INVALID",
-            "collect.finanzen.net": "INACTIVE",
-            "collect.igodigital.com": "INACTIVE",
             "collect.sas.com": "INACTIVE",
             "collect.yinyuetai.com": "INACTIVE",
-            "collect2.sas.com": "INACTIVE",
-            "collection.acromas.com": "INACTIVE",
-            "collection.theaa.com": "INACTIVE",
             "collector*.xhamster.com": "INVALID",
-            "collector-*.elb.amazonaws.com": "INVALID",
             "collector-*.tvsquared.com": "INVALID",
-            "collector.air.tv": "INACTIVE",
-            "collector.apester.com": "INACTIVE",
             "collector.shopstream.co": "INACTIVE",
             "collector.shorte.st": "INACTIVE",
             "collector.snplow.net": "INACTIVE",
@@ -9654,7 +9642,19 @@
             "cls.ichotelsgroup.com": "INACTIVE",
             "cms-pixel.crowdreport.com": "INACTIVE",
             "cndhit.xyz": "INACTIVE",
-            "cntcash.ru": "INACTIVE"
+            "cntcash.ru": "INACTIVE",
+            "coin-services.info": "INACTIVE",
+            "coinhive-proxy.party": "INACTIVE",
+            "coinrail.io": "INACTIVE",
+            "collect.*.miui.com": "INVALID",
+            "collect.finanzen.net": "INACTIVE",
+            "collect.igodigital.com": "INACTIVE",
+            "collect2.sas.com": "INACTIVE",
+            "collection.acromas.com": "INACTIVE",
+            "collection.theaa.com": "INACTIVE",
+            "collector-*.elb.amazonaws.com": "INVALID",
+            "collector.air.tv": "INACTIVE",
+            "collector.apester.com": "INACTIVE"
         }
     }
 }

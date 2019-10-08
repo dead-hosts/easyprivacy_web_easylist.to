@@ -14,3 +14,5 @@
 0.0.0.0 classic.comunio.*
 0.0.0.0 climatedesk.org*
 0.0.0.0 cloudfront.net*
+0.0.0.0 collect.*.miui.com
+0.0.0.0 collector-*.elb.amazonaws.com

@@ -15,3 +15,5 @@ bin.clearspring.*                                                               
 classic.comunio.*                                                                                    SYNTAX     XXX        Mon 07 Oct 20:10:17 UTC 2019
 climatedesk.org*                                                                                     SYNTAX     XXX        Tue 08 Oct 00:10:35 UTC 2019
 cloudfront.net*                                                                                      SYNTAX     XXX        Tue 08 Oct 01:10:03 UTC 2019
+collect.*.miui.com                                                                                   SYNTAX     XXX        Tue 08 Oct 04:10:55 UTC 2019
+collector-*.elb.amazonaws.com                                                                        SYNTAX     XXX        Tue 08 Oct 04:10:55 UTC 2019
