@@ -8325,9 +8325,7 @@
             "count.newhua.com": "INACTIVE",
             "count.qiannao.com": "INACTIVE",
             "count.snacktv.de": "INACTIVE",
-            "counted.at": "INACTIVE",
             "counter-pagerank.de": "INACTIVE",
-            "counter.amik.ru": "INACTIVE",
             "counter.csdn.net": "INACTIVE",
             "counter.htmlvalidator.com": "INACTIVE",
             "counter.mgaserv.com": "INACTIVE",
@@ -8337,8 +8335,6 @@
             "counter.webmasters.bpath.com": "INACTIVE",
             "counter.zeit.de": "INACTIVE",
             "counter.zerohedge.com": "INACTIVE",
-            "counter2.condenast.it": "INACTIVE",
-            "counter4all.de": "INACTIVE",
             "counters.gigya.com": "INACTIVE",
             "countimo.de": "INACTIVE",
             "countingbiz.info": "INACTIVE",
@@ -9654,7 +9650,11 @@
             "contadorgratis.web-kit.org": "INACTIVE",
             "contatore-di-visite.campusanuncios.com": "INACTIVE",
             "convertmarketing.net": "INACTIVE",
-            "cormce.com": "INACTIVE"
+            "cormce.com": "INACTIVE",
+            "counted.at": "INACTIVE",
+            "counter.amik.ru": "INACTIVE",
+            "counter2.condenast.it": "INACTIVE",
+            "counter4all.de": "INACTIVE"
         }
     }
 }
