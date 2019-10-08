@@ -8319,9 +8319,6 @@
         },
         "1569870780": {
             "c-webstats.de": "INACTIVE",
-            "c.newsinc.com": "INACTIVE",
-            "cndhit.xyz": "INACTIVE",
-            "cntcash.ru": "INACTIVE",
             "coin-services.info": "INACTIVE",
             "coinhive-proxy.party": "INACTIVE",
             "coinrail.io": "INACTIVE",
@@ -9640,6 +9637,7 @@
         },
         "1570486856": {
             "c.microsoft.com": "INACTIVE",
+            "c.newsinc.com": "INACTIVE",
             "click-linking.com": "INACTIVE",
             "click.geopaysys.com": "INACTIVE",
             "clickigniter.io": "INACTIVE",
@@ -9654,7 +9652,9 @@
             "clkd.at": "INACTIVE",
             "cloudfront.net*": "INVALID",
             "cls.ichotelsgroup.com": "INACTIVE",
-            "cms-pixel.crowdreport.com": "INACTIVE"
+            "cms-pixel.crowdreport.com": "INACTIVE",
+            "cndhit.xyz": "INACTIVE",
+            "cntcash.ru": "INACTIVE"
         }
     }
 }
