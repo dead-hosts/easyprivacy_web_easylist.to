@@ -8319,11 +8319,7 @@
         },
         "1569870780": {
             "c-webstats.de": "INACTIVE",
-            "c.microsoft.com": "INACTIVE",
             "c.newsinc.com": "INACTIVE",
-            "cloudfront.net*": "INVALID",
-            "cls.ichotelsgroup.com": "INACTIVE",
-            "cms-pixel.crowdreport.com": "INACTIVE",
             "cndhit.xyz": "INACTIVE",
             "cntcash.ru": "INACTIVE",
             "coin-services.info": "INACTIVE",
@@ -9643,6 +9639,7 @@
             "clickcloud.info": "INACTIVE"
         },
         "1570486856": {
+            "c.microsoft.com": "INACTIVE",
             "click-linking.com": "INACTIVE",
             "click.geopaysys.com": "INACTIVE",
             "clickigniter.io": "INACTIVE",
@@ -9654,7 +9651,10 @@
             "clientlog.portal.office.com": "INACTIVE",
             "clientstat.castup.net": "INACTIVE",
             "climatedesk.org*": "INVALID",
-            "clkd.at": "INACTIVE"
+            "clkd.at": "INACTIVE",
+            "cloudfront.net*": "INVALID",
+            "cls.ichotelsgroup.com": "INACTIVE",
+            "cms-pixel.crowdreport.com": "INACTIVE"
         }
     }
 }

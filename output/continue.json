@@ -1588,7 +1588,49 @@
             "cl.ly",
             "clnk.me",
             "clod.pw",
-            "clog.go.com"
+            "clog.go.com",
+            "cloisteredcord.com",
+            "cloudapp.net",
+            "cloudcdn.gdn",
+            "cloudcoins.co",
+            "cloud-exploration.com",
+            "cloudflane.com",
+            "cloudflareinsights.com",
+            "cloudfront-labs.amazonaws.com",
+            "cloudfront.net",
+            "cloudfunctions.net",
+            "cloud-iq.com",
+            "cloudtracer101.com",
+            "clubcollector.com",
+            "clubic.com",
+            "clustrmaps.com",
+            "clvk.viki.io",
+            "clyp.it",
+            "cmap.alibaba.com",
+            "cmcintra.net",
+            "cmcore.com",
+            "cm.g.doubleclick.net",
+            "c.mgid.com",
+            "cmmeglobal.com",
+            "cmp.arnnet.com.au",
+            "cmp.cio.com.au",
+            "cmp.cmo.com.au",
+            "cmp.computerworld.com.au",
+            "cmp.cso.com.au",
+            "cmp.digitalartsonline.co.uk",
+            "cmp.greenbot.com",
+            "cmp.macworld.com",
+            "cmp.macworld.co.uk",
+            "cmp.pcworld.com",
+            "cmp.pcworld.co.nz",
+            "cmptch.com",
+            "cmp.techadvisor.co.uk",
+            "cmp.techhive.com",
+            "cms.grandcloud.cn",
+            "cms.lv",
+            "cmstool.youku.com",
+            "cmstrendslog.indiatimes.com",
+            "cmstrendslog.timesnow.tv"
         ],
         "INACTIVE": [
             "0tracker.com",
@@ -1838,7 +1880,10 @@
             "clickwith.bid",
             "clientlog.portal.office.com",
             "clientstat.castup.net",
-            "clkd.at"
+            "clkd.at",
+            "cls.ichotelsgroup.com",
+            "c.microsoft.com",
+            "cms-pixel.crowdreport.com"
         ],
         "INVALID": [
             "121.78.90.104:8383",
@@ -1852,7 +1897,8 @@
             "bc.geocities.",
             "bin.clearspring.*",
             "classic.comunio.*",
-            "climatedesk.org*"
+            "climatedesk.org*",
+            "cloudfront.net*"
         ]
     }
 }
