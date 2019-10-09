@@ -8306,9 +8306,6 @@
             "||kitsapsun.com/metrics/": "INVALID",
             "||kiwari.com^*/impressions.asp?": "INVALID"
         },
-        "1568488116": {},
-        "1568747256": {},
-        "1569064477": {},
         "1569352219": {
             "analytics.thevideo.me": "INACTIVE",
             "log.thevideo.me": "INACTIVE",
@@ -9657,6 +9654,18 @@
         },
         "1570573730": {
             "cr.loszona.com": "INACTIVE"
+        },
+        "1570658650": {
+            "csi.gstatic.com": "INACTIVE"
+        },
+        "1570658780": {
+            "csp.archant.co.uk": "INACTIVE"
+        },
+        "1570658913": {
+            "ct.cnet.com": "INACTIVE"
+        },
+        "1570659044": {
+            "ct.itbusinessedge.com": "INACTIVE"
         }
     }
 }
