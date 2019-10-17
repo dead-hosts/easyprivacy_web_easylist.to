@@ -1885,8 +1885,8 @@
         "state": "future"
     },
     "analytics-engine.net": {
-        "epoch": 1570838400,
-        "expiration_date": "12-oct-2019",
+        "epoch": 1602460800,
+        "expiration_date": "12-oct-2020",
         "state": "future"
     },
     "analytics.blue": {
@@ -1905,9 +1905,9 @@
         "state": "future"
     },
     "analyticswizard.com": {
-        "epoch": 1570320000,
-        "expiration_date": "06-oct-2019",
-        "state": "past"
+        "epoch": 1601942400,
+        "expiration_date": "06-oct-2020",
+        "state": "future"
     },
     "analytk.com": {
         "epoch": 1579478400,
@@ -2465,8 +2465,8 @@
         "state": "future"
     },
     "atraxio.com": {
-        "epoch": 1570665600,
-        "expiration_date": "10-oct-2019",
+        "epoch": 1602288000,
+        "expiration_date": "10-oct-2020",
         "state": "future"
     },
     "att.com": {
@@ -2525,8 +2525,8 @@
         "state": "future"
     },
     "audiens.com": {
-        "epoch": 1571184000,
-        "expiration_date": "16-oct-2019",
+        "epoch": 1602806400,
+        "expiration_date": "16-oct-2020",
         "state": "future"
     },
     "audioeye.com": {
@@ -2565,8 +2565,8 @@
         "state": "future"
     },
     "authedmine.com": {
-        "epoch": 1570752000,
-        "expiration_date": "11-oct-2019",
+        "epoch": 1602374400,
+        "expiration_date": "11-oct-2020",
         "state": "future"
     },
     "authedwebmine.cz": {
@@ -2815,8 +2815,8 @@
         "state": "future"
     },
     "b0e8.com": {
-        "epoch": 1571184000,
-        "expiration_date": "16-oct-2019",
+        "epoch": 1602806400,
+        "expiration_date": "16-oct-2020",
         "state": "future"
     },
     "b1img.com": {
@@ -2867,7 +2867,7 @@
     "bachecaannunci.it": {
         "epoch": 1570838400,
         "expiration_date": "12-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "baidu.com": {
         "epoch": 1791676800,
@@ -3050,8 +3050,8 @@
         "state": "future"
     },
     "bebj.com": {
-        "epoch": 1570838400,
-        "expiration_date": "12-oct-2019",
+        "epoch": 1602460800,
+        "expiration_date": "12-oct-2020",
         "state": "future"
     },
     "becanium.com": {
@@ -3450,8 +3450,8 @@
         "state": "future"
     },
     "blinkbox.com": {
-        "epoch": 1571184000,
-        "expiration_date": "16-oct-2019",
+        "epoch": 1602806400,
+        "expiration_date": "16-oct-2020",
         "state": "future"
     },
     "blinkist.com": {
@@ -3475,8 +3475,8 @@
         "state": "future"
     },
     "blockchain.info": {
-        "epoch": 1571097600,
-        "expiration_date": "15-oct-2019",
+        "epoch": 1602720000,
+        "expiration_date": "15-oct-2020",
         "state": "future"
     },
     "blocket.se": {
