@@ -634,6 +634,11 @@
         "expiration_date": "05-oct-2021",
         "state": "future"
     },
+    "absurdapple.com": {
+        "epoch": 1588982400,
+        "expiration_date": "09-may-2020",
+        "state": "future"
+    },
     "abtrcking.com": {
         "epoch": 1573516800,
         "expiration_date": "12-nov-2019",
@@ -775,9 +780,9 @@
         "state": "future"
     },
     "activengage.com": {
-        "epoch": 1570233600,
-        "expiration_date": "05-oct-2019",
-        "state": "past"
+        "epoch": 1601856000,
+        "expiration_date": "05-oct-2020",
+        "state": "future"
     },
     "activeprospects.com": {
         "epoch": 1709942400,
@@ -1289,6 +1294,11 @@
         "expiration_date": "09-sep-2020",
         "state": "future"
     },
+    "aerlingus.com": {
+        "epoch": 1616112000,
+        "expiration_date": "19-mar-2021",
+        "state": "future"
+    },
     "aexp-static.com": {
         "epoch": 1665100800,
         "expiration_date": "07-oct-2022",
@@ -1342,6 +1352,11 @@
     "affinitymatrix.com": {
         "epoch": 1580169600,
         "expiration_date": "28-jan-2020",
+        "state": "future"
+    },
+    "affirm.com": {
+        "epoch": 1733097600,
+        "expiration_date": "02-dec-2024",
         "state": "future"
     },
     "affistats.com": {
@@ -1840,8 +1855,8 @@
         "state": "future"
     },
     "analoganalytics.com": {
-        "epoch": 1570320000,
-        "expiration_date": "06-oct-2019",
+        "epoch": 1601942400,
+        "expiration_date": "06-oct-2020",
         "state": "future"
     },
     "analysis.fi": {
