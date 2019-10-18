@@ -15530,9 +15530,9 @@
         "state": "future"
     },
     "n74s9.com": {
-        "epoch": 1562976000,
-        "expiration_date": "13-jul-2019",
-        "state": "past"
+        "epoch": 1601683200,
+        "expiration_date": "03-oct-2020",
+        "state": "future"
     },
     "naayna.com": {
         "epoch": 1596931200,
@@ -15625,8 +15625,8 @@
         "state": "future"
     },
     "nationalgeographic.com": {
-        "epoch": 1570579200,
-        "expiration_date": "09-oct-2019",
+        "epoch": 1602201600,
+        "expiration_date": "09-oct-2020",
         "state": "future"
     },
     "nationalpayday.com": {
@@ -15910,8 +15910,8 @@
         "state": "future"
     },
     "netflame.cc": {
-        "epoch": 1571097600,
-        "expiration_date": "15-oct-2019",
+        "epoch": 1602720000,
+        "expiration_date": "15-oct-2020",
         "state": "future"
     },
     "netflix.com": {
@@ -15940,9 +15940,9 @@
         "state": "future"
     },
     "netminers.dk": {
-        "epoch": 1569801600,
-        "expiration_date": "30-sep-2019",
-        "state": "past"
+        "epoch": 1601424000,
+        "expiration_date": "30-sep-2020",
+        "state": "future"
     },
     "netmining.com": {
         "epoch": 1641427200,
@@ -16002,6 +16002,11 @@
     "never.ovh": {
         "epoch": 1581638400,
         "expiration_date": "14-feb-2020",
+        "state": "future"
+    },
+    "newatlas.com": {
+        "epoch": 1760313600,
+        "expiration_date": "13-oct-2025",
         "state": "future"
     },
     "newbie.dk": {
@@ -16075,8 +16080,8 @@
         "state": "future"
     },
     "newton.pm": {
-        "epoch": 1571184000,
-        "expiration_date": "16-oct-2019",
+        "epoch": 1602806400,
+        "expiration_date": "16-oct-2020",
         "state": "future"
     },
     "nex8.net": {
@@ -16374,6 +16379,11 @@
         "expiration_date": "08-jul-2020",
         "state": "future"
     },
+    "nstracking.com": {
+        "epoch": 1601683200,
+        "expiration_date": "03-oct-2020",
+        "state": "future"
+    },
     "ntlab.org": {
         "epoch": 1582761600,
         "expiration_date": "27-feb-2020",
@@ -16565,8 +16575,8 @@
         "state": "future"
     },
     "officelivecontent.com": {
-        "epoch": 1571011200,
-        "expiration_date": "14-oct-2019",
+        "epoch": 1602633600,
+        "expiration_date": "14-oct-2020",
         "state": "future"
     },
     "oghub.io": {
@@ -16830,8 +16840,8 @@
         "state": "future"
     },
     "openhit.com": {
-        "epoch": 1570492800,
-        "expiration_date": "08-oct-2019",
+        "epoch": 1602115200,
+        "expiration_date": "08-oct-2020",
         "state": "future"
     },
     "openload.co": {
@@ -16935,8 +16945,8 @@
         "state": "future"
     },
     "orange.fr": {
-        "epoch": 1571011200,
-        "expiration_date": "14-oct-2019",
+        "epoch": 1602633600,
+        "expiration_date": "14-oct-2020",
         "state": "future"
     },
     "oranges88.com": {
@@ -17010,9 +17020,9 @@
         "state": "future"
     },
     "ournet-analytics.com": {
-        "epoch": 1563494400,
-        "expiration_date": "19-jul-2019",
-        "state": "past"
+        "epoch": 1601769600,
+        "expiration_date": "04-oct-2020",
+        "state": "future"
     },
     "outbid.io": {
         "epoch": 1581206400,
@@ -17050,8 +17060,8 @@
         "state": "future"
     },
     "oxidy.com": {
-        "epoch": 1570665600,
-        "expiration_date": "10-oct-2019",
+        "epoch": 1665360000,
+        "expiration_date": "10-oct-2022",
         "state": "future"
     },
     "ozon.ru": {
@@ -17080,13 +17090,13 @@
         "state": "future"
     },
     "p2poolmining.com": {
-        "epoch": 1570752000,
-        "expiration_date": "11-oct-2019",
+        "epoch": 1602374400,
+        "expiration_date": "11-oct-2020",
         "state": "future"
     },
     "p2poolmining.net": {
-        "epoch": 1570752000,
-        "expiration_date": "11-oct-2019",
+        "epoch": 1602374400,
+        "expiration_date": "11-oct-2020",
         "state": "future"
     },
     "p2r14.com": {
@@ -17185,8 +17195,8 @@
         "state": "future"
     },
     "papoto.com": {
-        "epoch": 1570233600,
-        "expiration_date": "05-oct-2019",
+        "epoch": 1601856000,
+        "expiration_date": "05-oct-2020",
         "state": "future"
     },
     "parameter.dk": {
@@ -17405,8 +17415,8 @@
         "state": "future"
     },
     "performancerevenues.com": {
-        "epoch": 1570924800,
-        "expiration_date": "13-oct-2019",
+        "epoch": 1602547200,
+        "expiration_date": "13-oct-2020",
         "state": "future"
     },
     "performax.cz": {
