@@ -8316,73 +8316,6 @@
         },
         "1569870780": {
             "dv0.info": "INACTIVE",
-            "userchecker.info": "INACTIVE",
-            "userlog.synapseip.tv": "INACTIVE",
-            "useronlinecounter.com": "INACTIVE",
-            "users.51.la": "INACTIVE",
-            "ut.ratepoint.com": "INACTIVE",
-            "uts-rss.crystalmedianetworks.com": "INACTIVE",
-            "v.fwmrm.net": "INACTIVE",
-            "v.giantrealm.com": "INACTIVE",
-            "valaffiliates.com": "INACTIVE",
-            "vds_dyn.rightster.com": "INACTIVE",
-            "veerebbs.ml": "INACTIVE",
-            "veritrol.com": "INACTIVE",
-            "vertical-stats.huffingtonpost.com": "INACTIVE",
-            "vertical-stats.huffpost.com": "INACTIVE",
-            "vice.com*": "INVALID",
-            "viewstat.promoblocks.ru": "INACTIVE",
-            "visit.geocities.com": "INACTIVE",
-            "visit.geocities.jp": "INACTIVE",
-            "visit.hepsiburada.com": "INACTIVE",
-            "visitlog.net": "INACTIVE",
-            "visualdna-stats.com": "INACTIVE",
-            "vitamine.networldmedia.net": "INACTIVE",
-            "voss.collegehumor.com": "INACTIVE",
-            "vpzccwpyilvoyg.ru": "INACTIVE",
-            "vra.outbrain.com": "INACTIVE",
-            "vrp.outbrain.com": "INACTIVE",
-            "vrt.outbrain.com": "INACTIVE",
-            "vstat.vidigy.com": "INACTIVE",
-            "vtnlog-*.elb.amazonaws.com": "INVALID",
-            "vunetotbe.com": "INACTIVE",
-            "vzzexalcirfgrf.ru": "INACTIVE",
-            "wapson.ru": "INACTIVE",
-            "wasm24.ru": "INACTIVE",
-            "watch.teroti.com": "INACTIVE",
-            "wavescape.mobi": "INACTIVE",
-            "wawacity.*": "INVALID",
-            "web-controlling.org": "INACTIVE",
-            "webalytics.pw": "INACTIVE",
-            "webclick.yeshj.com": "INACTIVE",
-            "webeffective.keynote.com": "INACTIVE",
-            "webkatalog.li": "INACTIVE",
-            "weblog.livesport.eu": "INACTIVE",
-            "weblogger01.data.disney.com": "INACTIVE",
-            "webseoanalytics.co.za": "INACTIVE",
-            "webstatistika.lt": "INACTIVE",
-            "webstats.perfectworld.com": "INACTIVE",
-            "webstats.seoinc.com": "INACTIVE",
-            "webtracker.educationconnection.com": "INACTIVE",
-            "webtraffstats.net": "INACTIVE",
-            "whathyx.com": "INACTIVE",
-            "whatismyip.win": "INACTIVE",
-            "whoson.creativemark.co.uk": "INACTIVE",
-            "whysoserius.club": "INACTIVE",
-            "willacrit.com": "INACTIVE",
-            "winter.metacafe.com": "INACTIVE",
-            "witthethim.com": "INACTIVE",
-            "wmemsnhgldd.ru": "INACTIVE",
-            "wmtech.website": "INACTIVE",
-            "wmtools.ru": "INACTIVE",
-            "wmwmwwfmkvucbln.ru": "INACTIVE",
-            "worker.salon.com": "INACTIVE",
-            "worksheetsengine.com": "INACTIVE",
-            "wredint.com": "INACTIVE",
-            "wrmwb.7val.com": "INACTIVE",
-            "wrxgandsfcz.ru": "INACTIVE",
-            "wsb.aracert.com": "INACTIVE",
-            "wsp.marketgid.com": "INACTIVE",
             "wty46.com": "INACTIVE",
             "wunderdaten.com": "INACTIVE",
             "wunderloop.aol.co.uk": "INACTIVE",
@@ -13127,6 +13060,257 @@
         "1571374190": {
             "url-stats.net": "INACTIVE",
             "urlcheck.hulu.com": "INACTIVE"
+        },
+        "1571374589": {
+            "userchecker.info": "INACTIVE"
+        },
+        "1571374590": {
+            "userlog.synapseip.tv": "INACTIVE"
+        },
+        "1571374593": {
+            "useronlinecounter.com": "INACTIVE"
+        },
+        "1571374599": {
+            "users.51.la": "INACTIVE"
+        },
+        "1571374604": {
+            "ut.ratepoint.com": "INACTIVE",
+            "uts-rss.crystalmedianetworks.com": "INACTIVE"
+        },
+        "1571374607": {
+            "valaffiliates.com": "INACTIVE"
+        },
+        "1571374634": {
+            "vds_dyn.rightster.com": "INACTIVE"
+        },
+        "1571374652": {
+            "veerebbs.ml": "INACTIVE"
+        },
+        "1571374663": {
+            "v.emedia.cn": "INACTIVE"
+        },
+        "1571374674": {
+            "veritrol.com": "INACTIVE"
+        },
+        "1571374680": {
+            "vertical-stats.huffingtonpost.com": "INACTIVE"
+        },
+        "1571374681": {
+            "vertical-stats.huffpost.com": "INACTIVE"
+        },
+        "1571374684": {
+            "v.fwmrm.net": "INACTIVE",
+            "v.giantrealm.com": "INACTIVE"
+        },
+        "1571374686": {
+            "vice.com*": "INVALID"
+        },
+        "1571374694": {
+            "video-stats.video.google.com": "INACTIVE"
+        },
+        "1571374698": {
+            "viewstat.promoblocks.ru": "INACTIVE"
+        },
+        "1571374736": {
+            "visit.asb.co.nz": "INACTIVE"
+        },
+        "1571374737": {
+            "visit.geocities.com": "INACTIVE"
+        },
+        "1571374738": {
+            "visit.geocities.jp": "INACTIVE"
+        },
+        "1571374740": {
+            "visit.hepsiburada.com": "INACTIVE",
+            "visitlog.net": "INACTIVE"
+        },
+        "1571374773": {
+            "visit.theglobeandmail.com": "INACTIVE"
+        },
+        "1571374774": {
+            "visualdna-stats.com": "INACTIVE"
+        },
+        "1571374796": {
+            "vitamine.networldmedia.net": "INACTIVE"
+        },
+        "1571374816": {
+            "voss.collegehumor.com": "INACTIVE"
+        },
+        "1571374817": {
+            "v.oui.sncf": "INACTIVE"
+        },
+        "1571374820": {
+            "vpzccwpyilvoyg.ru": "INACTIVE",
+            "vra.outbrain.com": "INACTIVE"
+        },
+        "1571374821": {
+            "vrp.outbrain.com": "INACTIVE",
+            "vrt.outbrain.com": "INACTIVE"
+        },
+        "1571374827": {
+            "vs.target.com": "INACTIVE"
+        },
+        "1571374828": {
+            "vstat.vidigy.com": "INACTIVE",
+            "vstats.digitaltrends.com": "INACTIVE",
+            "vtnlog-*.elb.amazonaws.com": "INVALID"
+        },
+        "1571374837": {
+            "vunetotbe.com": "INACTIVE"
+        },
+        "1571374841": {
+            "vzzexalcirfgrf.ru": "INACTIVE"
+        },
+        "1571374851": {
+            "wal.wolfram.com": "INACTIVE"
+        },
+        "1571374853": {
+            "wapson.ru": "INACTIVE"
+        },
+        "1571374859": {
+            "warp.prnewswire.co.uk": "INACTIVE"
+        },
+        "1571374860": {
+            "wasm24.ru": "INACTIVE"
+        },
+        "1571374868": {
+            "watch.teroti.com": "INACTIVE"
+        },
+        "1571374875": {
+            "watson.live.com": "INACTIVE"
+        },
+        "1571374876": {
+            "wavescape.mobi": "INACTIVE",
+            "wawacity.*": "INVALID"
+        },
+        "1571374877": {
+            "wbdds.allocine.fr": "INACTIVE"
+        },
+        "1571374887": {
+            "web1.51.la": "INACTIVE"
+        },
+        "1571374894": {
+            "webalytics.pw": "INACTIVE"
+        },
+        "1571374903": {
+            "web-controlling.org": "INACTIVE",
+            "webclick.yeshj.com": "INACTIVE"
+        },
+        "1571374919": {
+            "webeffective.keynote.com": "INACTIVE"
+        },
+        "1571374926": {
+            "webengage.sky.com": "INACTIVE"
+        },
+        "1571374949": {
+            "webhit.aftenposten.no": "INACTIVE"
+        },
+        "1571374956": {
+            "webhit.snd.no": "INACTIVE"
+        },
+        "1571374974": {
+            "weblog2.eseoul.go.kr": "INACTIVE"
+        },
+        "1571374987": {
+            "weblog.eseoul.go.kr": "INACTIVE",
+            "weblogger01.data.disney.com": "INACTIVE"
+        },
+        "1571374994": {
+            "weblog.livesport.eu": "INACTIVE",
+            "weblogger-dynamic-lb.playdom.com": "INACTIVE"
+        },
+        "1571375004": {
+            "webseoanalytics.co.za": "INACTIVE"
+        },
+        "1571375016": {
+            "webstatistika.lt": "INACTIVE"
+        },
+        "1571375028": {
+            "webstats.motigo.com": "INACTIVE",
+            "webstats.perfectworld.com": "INACTIVE"
+        },
+        "1571375029": {
+            "webstats.sapo.pt": "INACTIVE",
+            "webstats.seoinc.com": "INACTIVE"
+        },
+        "1571375030": {
+            "web-t.9gag.com": "INACTIVE",
+            "webstats.thesoul-publishing.com": "INACTIVE"
+        },
+        "1571375033": {
+            "webtracker.apicasystem.com": "INACTIVE",
+            "webtracker.educationconnection.com": "INACTIVE"
+        },
+        "1571375044": {
+            "webtraffstats.net": "INACTIVE"
+        },
+        "1571375064": {
+            "webts.adac.de": "INACTIVE"
+        },
+        "1571375086": {
+            "whathyx.com": "INACTIVE",
+            "whatismyip.win": "INACTIVE"
+        },
+        "1571375090": {
+            "whoson.creativemark.co.uk": "INACTIVE"
+        },
+        "1571375096": {
+            "whoson.smcorp.com": "INACTIVE"
+        },
+        "1571375103": {
+            "whysoserius.club": "INACTIVE",
+            "wibiya-actions.conduit-data.com": "INACTIVE",
+            "wibiya-june-new-log.conduit-data.com": "INACTIVE"
+        },
+        "1571375109": {
+            "widget.perfectmarket.com": "INACTIVE"
+        },
+        "1571375128": {
+            "willacrit.com": "INACTIVE"
+        },
+        "1571375129": {
+            "winter.metacafe.com": "INACTIVE"
+        },
+        "1571375134": {
+            "witthethim.com": "INACTIVE"
+        },
+        "1571375140": {
+            "wla.vivaldi.com": "INACTIVE"
+        },
+        "1571375143": {
+            "wmemsnhgldd.ru": "INACTIVE"
+        },
+        "1571375150": {
+            "wmtech.website": "INACTIVE"
+        },
+        "1571375151": {
+            "wmtools.ru": "INACTIVE"
+        },
+        "1571375152": {
+            "wmwmwwfmkvucbln.ru": "INACTIVE"
+        },
+        "1571375161": {
+            "worker.salon.com": "INACTIVE",
+            "worksheetsengine.com": "INACTIVE"
+        },
+        "1571375167": {
+            "wredint.com": "INACTIVE",
+            "wrmwb.7val.com": "INACTIVE"
+        },
+        "1571375168": {
+            "wrxgandsfcz.ru": "INACTIVE"
+        },
+        "1571375169": {
+            "wsb.aracert.com": "INACTIVE"
+        },
+        "1571375175": {
+            "wsp.marketgid.com": "INACTIVE"
+        },
+        "1571375176": {
+            "wstats.e-wok.tv": "INACTIVE"
+        },
+        "1571375184": {
+            "ws.yellowpages.ca": "INACTIVE"
         }
     }
 }
