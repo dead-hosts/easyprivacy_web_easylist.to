@@ -5660,8 +5660,8 @@
         "state": "future"
     },
     "cosmopolitan.co.za": {
-        "epoch": 1571011200,
-        "expiration_date": "14-oct-2019",
+        "epoch": 1602633600,
+        "expiration_date": "14-oct-2020",
         "state": "future"
     },
     "cost1action.com": {
@@ -5805,8 +5805,8 @@
         "state": "future"
     },
     "coveritlive.com": {
-        "epoch": 1571356800,
-        "expiration_date": "18-oct-2019",
+        "epoch": 1602979200,
+        "expiration_date": "18-oct-2020",
         "state": "future"
     },
     "cpaevent.ru": {
@@ -5835,8 +5835,8 @@
         "state": "future"
     },
     "cpu2cash.link": {
-        "epoch": 1570579200,
-        "expiration_date": "09-oct-2019",
+        "epoch": 1602201600,
+        "expiration_date": "09-oct-2020",
         "state": "future"
     },
     "cpufan.club": {
@@ -5887,7 +5887,7 @@
     "crazyclickstats.com": {
         "epoch": 1571270400,
         "expiration_date": "17-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "crazyegg.com": {
         "epoch": 1608336000,
@@ -6470,9 +6470,9 @@
         "state": "future"
     },
     "deagostinipassion.it": {
-        "epoch": 1569715200,
-        "expiration_date": "29-sep-2019",
-        "state": "past"
+        "epoch": 1601337600,
+        "expiration_date": "29-sep-2020",
+        "state": "future"
     },
     "dealer.com": {
         "epoch": 1785024000,
@@ -6522,6 +6522,11 @@
     "deep.bi": {
         "epoch": 1598918400,
         "expiration_date": "01-sep-2020",
+        "state": "future"
+    },
+    "deepattention.com": {
+        "epoch": 1601683200,
+        "expiration_date": "03-oct-2020",
         "state": "future"
     },
     "deepc.cc": {
