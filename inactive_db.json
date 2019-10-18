@@ -8316,73 +8316,11 @@
         },
         "1569870780": {
             "dv0.info": "INACTIVE",
-            "st.vq.ku6.cn": "INACTIVE",
-            "stat.to.cupidplc.com": "INACTIVE",
-            "stat.torrentbar.com": "INACTIVE",
-            "stat.tudou.com": "INACTIVE",
-            "stat.webtool.it": "INACTIVE",
-            "stat.woman-announce.ru": "INACTIVE",
-            "stat.xunlei.com": "INACTIVE",
-            "stat.youku.com": "INACTIVE",
-            "stcollection.moneysupermarket.com": "INACTIVE",
-            "storewidesearch.com": "INACTIVE",
-            "streamstats1.blinkx.com": "INACTIVE",
-            "subloader.cf": "INACTIVE",
-            "sundayskylb1.com": "INACTIVE",
-            "svivqrhrh.ru": "INACTIVE",
-            "swoopgrid.com": "INACTIVE",
-            "synapsys.us": "INACTIVE",
-            "synconnector.com": "INACTIVE",
-            "synergy-sync.com": "INACTIVE",
-            "t.delfi.": "INVALID",
-            "t.devnet.com": "INACTIVE",
-            "t.planvip.fr": "INACTIVE",
-            "t.pusk.ru": "INACTIVE",
             "t.theoutplay.com": "INACTIVE",
             "t.vimeo.com": "INACTIVE",
-            "tag-abe.cartrawler.com": "INACTIVE",
-            "tag-stats.huffpost.com": "INACTIVE",
-            "tag.email-attitude.com": "INACTIVE",
-            "tag.sonymusic.com": "INACTIVE",
-            "tagcommander.laredoute.": "INVALID",
-            "tags.aljazeera.": "INVALID",
-            "tags.transportdirect.info": "INACTIVE",
-            "tagx.nytimes.com": "INACTIVE",
-            "tainiesonline.pw": "INACTIVE",
-            "tap.idg.de": "INACTIVE",
-            "target.fark.com": "INACTIVE",
-            "targeting.*.arcpublishing.com": "INVALID",
-            "targeting.wpdigital.net": "INACTIVE",
-            "tausch-link.de": "INACTIVE",
-            "ted1.metro.co.uk": "INACTIVE",
-            "telemetrytaxonomy.net": "INACTIVE",
-            "teriotracker.de": "INACTIVE",
-            "testpixel.net": "INACTIVE",
-            "thatresha.com": "INACTIVE",
-            "thersprens.com": "INACTIVE",
-            "thinairsoftware.net": "INACTIVE",
-            "tighting.info": "INACTIVE",
-            "tinglog.baidu.com": "INACTIVE",
-            "tmpjmp.com": "INACTIVE",
-            "tnsinternet.be": "INACTIVE",
-            "toftofcal.com": "INACTIVE",
-            "top.bur-bur.ru": "INACTIVE",
-            "top.sec.uz": "INACTIVE",
-            "top100.mrwebmaster.it": "INACTIVE",
-            "top100.tuttoperinternet.it": "INACTIVE",
-            "total.shanghaidaily.com": "INACTIVE",
             "tr-metrics.loomia.com": "INACTIVE",
             "tr.advance.net": "INACTIVE",
             "tra.pmdstatic.net": "INACTIVE",
-            "tracelog.www.alibaba.com": "INACTIVE",
-            "tracer.perezhilton.com": "INACTIVE",
-            "tracetracking.net": "INACTIVE",
-            "track.bluecompany.cl": "INACTIVE",
-            "track.captivate.ai": "INACTIVE",
-            "track.codepen.io": "INACTIVE",
-            "track.collegehumor.com": "INACTIVE",
-            "track.digitalriver.com": "INACTIVE",
-            "track.dzloans.com": "INACTIVE",
             "track.ft.com": "INACTIVE",
             "track.g-bot.net": "INACTIVE",
             "track.gridlockparadise.com": "INACTIVE",
@@ -8401,9 +8339,6 @@
             "track.sigfig.com": "INACTIVE",
             "track.workablemetro.com": "INACTIVE",
             "track.zalando.": "INVALID",
-            "tracker.advisable.pl": "INACTIVE",
-            "tracker.everestnutrition.com": "INACTIVE",
-            "tracker.issuu.com": "INACTIVE",
             "tracker.joost.com": "INACTIVE",
             "tracker.live.tudou.com": "INACTIVE",
             "tracker.mgnetwork.com": "INACTIVE",
@@ -8419,7 +8354,6 @@
             "tracker.u-link.me": "INACTIVE",
             "tracker.vreveal.com": "INACTIVE",
             "tracker.washtimes.com": "INACTIVE",
-            "tracker2.apollo-mail.net": "INACTIVE",
             "trackfreundlich.de": "INACTIVE",
             "tracking*.euroads.fi": "INVALID",
             "tracking-rce.veeseo.com": "INACTIVE",
@@ -12473,6 +12407,323 @@
         },
         "1571371779": {
             "stats.yourminis.com": "INACTIVE"
+        },
+        "1571372531": {
+            "stat.tianya.cn": "INACTIVE"
+        },
+        "1571372532": {
+            "stat.to.cupidplc.com": "INACTIVE",
+            "stat.torrentbar.com": "INACTIVE"
+        },
+        "1571372533": {
+            "stat.tudou.com": "INACTIVE"
+        },
+        "1571372542": {
+            "stat.webtool.it": "INACTIVE"
+        },
+        "1571372550": {
+            "stat.woman-announce.ru": "INACTIVE"
+        },
+        "1571372557": {
+            "stat.ws.126.net": "INACTIVE",
+            "stat.www.fi": "INACTIVE"
+        },
+        "1571372558": {
+            "stat.xunlei.com": "INACTIVE"
+        },
+        "1571372559": {
+            "stat.youku.com": "INACTIVE"
+        },
+        "1571372561": {
+            "stcollection.moneysupermarket.com": "INACTIVE"
+        },
+        "1571372578": {
+            "storewidesearch.com": "INACTIVE"
+        },
+        "1571372598": {
+            "streamstats1.blinkx.com": "INACTIVE"
+        },
+        "1571372615": {
+            "st.tmgrup.com.tr": "INACTIVE"
+        },
+        "1571372618": {
+            "st.vq.ku6.cn": "INACTIVE"
+        },
+        "1571372627": {
+            "subloader.cf": "INACTIVE"
+        },
+        "1571372648": {
+            "sugar.gameforge.com": "INACTIVE"
+        },
+        "1571372652": {
+            "sundayskylb1.com": "INACTIVE"
+        },
+        "1571372674": {
+            "s-vop.sundaysky.com": "INACTIVE",
+            "svivqrhrh.ru": "INACTIVE"
+        },
+        "1571372676": {
+            "swoopgrid.com": "INACTIVE"
+        },
+        "1571372677": {
+            "sy.amebame.com": "INACTIVE",
+            "sy.ameblo.jp": "INACTIVE"
+        },
+        "1571372678": {
+            "synapsys.us": "INACTIVE",
+            "synconnector.com": "INACTIVE"
+        },
+        "1571372680": {
+            "synergy-sync.com": "INACTIVE"
+        },
+        "1571372681": {
+            "s.youtube.com": "INACTIVE"
+        },
+        "1571372687": {
+            "systemmonitoring.badgeville.com": "INACTIVE"
+        },
+        "1571372688": {
+            "t2.t2b.click": "INACTIVE"
+        },
+        "1571372697": {
+            "tag-abe.cartrawler.com": "INACTIVE"
+        },
+        "1571372699": {
+            "tag.email-attitude.com": "INACTIVE",
+            "tagcommander.laredoute.": "INVALID"
+        },
+        "1571372703": {
+            "tags.aljazeera.": "INVALID"
+        },
+        "1571372704": {
+            "tag.sonymusic.com": "INACTIVE",
+            "tags.msnbc.com": "INACTIVE",
+            "tags.news.com.au": "INACTIVE"
+        },
+        "1571372705": {
+            "tag-stats.huffpost.com": "INACTIVE",
+            "tags.transportdirect.info": "INACTIVE"
+        },
+        "1571372706": {
+            "tagx.nytimes.com": "INACTIVE"
+        },
+        "1571372712": {
+            "tainiesonline.pw": "INACTIVE"
+        },
+        "1571372717": {
+            "t.appsflyer.com": "INACTIVE",
+            "tap.idg.de": "INACTIVE"
+        },
+        "1571372718": {
+            "target.fark.com": "INACTIVE",
+            "targeting.*.arcpublishing.com": "INVALID",
+            "targeting.perso.aws.arc.pub": "INACTIVE"
+        },
+        "1571372719": {
+            "targeting.wpdigital.net": "INACTIVE"
+        },
+        "1571372724": {
+            "t.beopinion.com": "INACTIVE",
+            "tausch-link.de": "INACTIVE"
+        },
+        "1571372731": {
+            "t.bimvid.com": "INACTIVE",
+            "tbe.tom.ru": "INACTIVE"
+        },
+        "1571372738": {
+            "t.blinkist.com": "INACTIVE",
+            "t.brand-server.com": "INACTIVE"
+        },
+        "1571372745": {
+            "t.c4tw.net": "INACTIVE"
+        },
+        "1571372753": {
+            "tcheck.outbrainimg.com": "INACTIVE"
+        },
+        "1571372754": {
+            "t.dailymail.co.uk": "INACTIVE"
+        },
+        "1571372760": {
+            "t.delfi.": "INVALID",
+            "t.devnet.com": "INACTIVE"
+        },
+        "1571372765": {
+            "ted.dailymail.co.uk": "INACTIVE",
+            "ted.metro.co.uk": "INACTIVE",
+            "ted1.metro.co.uk": "INACTIVE"
+        },
+        "1571372782": {
+            "telemetry.qa.webex.com": "INACTIVE"
+        },
+        "1571372788": {
+            "telemetry.reembed.com": "INACTIVE"
+        },
+        "1571372789": {
+            "telemetry.tradingview.com": "INACTIVE",
+            "telemetrytaxonomy.net": "INACTIVE"
+        },
+        "1571372801": {
+            "teralog.techhub.co.kr": "INACTIVE"
+        },
+        "1571372802": {
+            "teriotracker.de": "INACTIVE"
+        },
+        "1571372815": {
+            "testpixel.net": "INACTIVE"
+        },
+        "1571372826": {
+            "thatresha.com": "INACTIVE"
+        },
+        "1571372851": {
+            "thersprens.com": "INACTIVE"
+        },
+        "1571372854": {
+            "thinairsoftware.net": "INACTIVE"
+        },
+        "1571372890": {
+            "tighting.info": "INACTIVE"
+        },
+        "1571372898": {
+            "timeslogtn.timesnow.tv": "INACTIVE"
+        },
+        "1571372904": {
+            "timestrends.indiatimes.com": "INACTIVE"
+        },
+        "1571372911": {
+            "timestrends.timesnow.tv": "INACTIVE",
+            "tinglog.baidu.com": "INACTIVE"
+        },
+        "1571372934": {
+            "t.kck.st": "INACTIVE",
+            "tk.kargo.com": "INACTIVE"
+        },
+        "1571372940": {
+            "tmgr.ccmbg.com": "INACTIVE"
+        },
+        "1571372941": {
+            "tmpjmp.com": "INACTIVE"
+        },
+        "1571372943": {
+            "tm.vendemore.com": "INACTIVE"
+        },
+        "1571372944": {
+            "tnla.thenewslens.com": "INACTIVE"
+        },
+        "1571372946": {
+            "tnsinternet.be": "INACTIVE"
+        },
+        "1571372949": {
+            "toftofcal.com": "INACTIVE"
+        },
+        "1571372956": {
+            "tongji2.vip.duba.net": "INACTIVE"
+        },
+        "1571372958": {
+            "tongji.mafengwo.cn": "INACTIVE"
+        },
+        "1571372962": {
+            "top100.mrwebmaster.it": "INACTIVE",
+            "top100.tuttoperinternet.it": "INACTIVE"
+        },
+        "1571372989": {
+            "top.sec.uz": "INACTIVE"
+        },
+        "1571373012": {
+            "toruk.tanx.com": "INACTIVE"
+        },
+        "1571373026": {
+            "total.shanghaidaily.com": "INACTIVE"
+        },
+        "1571373039": {
+            "tower.moviepilot.com": "INACTIVE"
+        },
+        "1571373041": {
+            "t.paypal.com": "INACTIVE",
+            "t.planvip.fr": "INACTIVE"
+        },
+        "1571373042": {
+            "t.pswec.com": "INACTIVE"
+        },
+        "1571373043": {
+            "t.pusk.ru": "INACTIVE"
+        },
+        "1571373053": {
+            "tracelog.www.alibaba.com": "INACTIVE"
+        },
+        "1571373056": {
+            "tracer.perezhilton.com": "INACTIVE",
+            "tracetracking.net": "INACTIVE"
+        },
+        "1571373060": {
+            "track.atom-data.io": "INACTIVE"
+        },
+        "1571373062": {
+            "track.bluecompany.cl": "INACTIVE"
+        },
+        "1571373068": {
+            "track.briskfile.com": "INACTIVE"
+        },
+        "1571373074": {
+            "track.byzon.swelen.net": "INACTIVE"
+        },
+        "1571373075": {
+            "track.cafemomstatic.com": "INACTIVE",
+            "track.captivate.ai": "INACTIVE",
+            "track.cbs.com": "INACTIVE"
+        },
+        "1571373083": {
+            "track.cinestar.de": "INACTIVE",
+            "track.codepen.io": "INACTIVE",
+            "track.collegehumor.com": "INACTIVE"
+        },
+        "1571373084": {
+            "track.contently.com": "INACTIVE"
+        },
+        "1571373085": {
+            "track.cooster.ru": "INACTIVE",
+            "track.cordial.io": "INACTIVE"
+        },
+        "1571373086": {
+            "track.dictionary.com": "INACTIVE"
+        },
+        "1571373092": {
+            "track.did-it.com": "INACTIVE",
+            "track.digitalriver.com": "INACTIVE",
+            "track.dzloans.com": "INACTIVE"
+        },
+        "1571373094": {
+            "track.engagesciences.com": "INACTIVE",
+            "tracker2.apollo-mail.net": "INACTIVE"
+        },
+        "1571373095": {
+            "tracker.advisable.pl": "INACTIVE",
+            "tracker.anandtech.com": "INACTIVE"
+        },
+        "1571373098": {
+            "tracker.calameo.com": "INACTIVE"
+        },
+        "1571373105": {
+            "tracker.cds-tracking.com": "INACTIVE"
+        },
+        "1571373106": {
+            "tracker.data-vp.com": "INACTIVE"
+        },
+        "1571373107": {
+            "tracker.everestnutrition.com": "INACTIVE",
+            "tracker.financialcontent.com": "INACTIVE"
+        },
+        "1571373114": {
+            "tracker-id.cdiscount.com": "INACTIVE"
+        },
+        "1571373120": {
+            "tracker.iltrovatore.it": "INACTIVE"
+        },
+        "1571373127": {
+            "tracker.iqnomy.com": "INACTIVE",
+            "tracker.issuu.com": "INACTIVE"
+        },
+        "1571373129": {
+            "tracker.jawcloud.co": "INACTIVE"
         }
     }
 }
