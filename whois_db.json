@@ -20060,8 +20060,8 @@
         "state": "future"
     },
     "searchfeed.com": {
-        "epoch": 1571184000,
-        "expiration_date": "16-oct-2019",
+        "epoch": 1602806400,
+        "expiration_date": "16-oct-2020",
         "state": "future"
     },
     "searchignite.com": {
@@ -20854,6 +20854,11 @@
         "expiration_date": "22-jul-2020",
         "state": "future"
     },
+    "sk-static.com": {
+        "epoch": 1605139200,
+        "expiration_date": "12-nov-2020",
+        "state": "future"
+    },
     "sk1n.fr": {
         "epoch": 1574899200,
         "expiration_date": "28-nov-2019",
@@ -20927,6 +20932,11 @@
     "sli-spark.com": {
         "epoch": 1597881600,
         "expiration_date": "20-aug-2020",
+        "state": "future"
+    },
+    "slickdeals.net": {
+        "epoch": 1636502400,
+        "expiration_date": "10-nov-2021",
         "state": "future"
     },
     "slide.com": {
@@ -21259,6 +21269,11 @@
         "expiration_date": "30-may-2024",
         "state": "future"
     },
+    "sortsummer.com": {
+        "epoch": 1579996800,
+        "expiration_date": "26-jan-2020",
+        "state": "future"
+    },
     "soufun.com": {
         "epoch": 1713139200,
         "expiration_date": "15-apr-2024",
@@ -21315,8 +21330,8 @@
         "state": "future"
     },
     "sparechange.io": {
-        "epoch": 1570406400,
-        "expiration_date": "07-oct-2019",
+        "epoch": 1602028800,
+        "expiration_date": "07-oct-2020",
         "state": "future"
     },
     "sparklit.com": {
@@ -21695,8 +21710,8 @@
         "state": "future"
     },
     "statdynamic.com": {
-        "epoch": 1571356800,
-        "expiration_date": "18-oct-2019",
+        "epoch": 1602979200,
+        "expiration_date": "18-oct-2020",
         "state": "future"
     },
     "statesmanjournal.com": {
