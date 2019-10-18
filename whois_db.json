@@ -26439,6 +26439,11 @@
         "expiration_date": "16-apr-2020",
         "state": "future"
     },
+    "wty46.com": {
+        "epoch": 1602374400,
+        "expiration_date": "11-oct-2020",
+        "state": "future"
+    },
     "wumii.com": {
         "epoch": 1594684800,
         "expiration_date": "14-jul-2020",
@@ -26505,8 +26510,8 @@
         "state": "future"
     },
     "x-traceur.com": {
-        "epoch": 1571270400,
-        "expiration_date": "17-oct-2019",
+        "epoch": 1602892800,
+        "expiration_date": "17-oct-2020",
         "state": "future"
     },
     "xbasfbno.info": {
@@ -26895,9 +26900,9 @@
         "state": "future"
     },
     "yu987.com": {
-        "epoch": 1562976000,
-        "expiration_date": "13-jul-2019",
-        "state": "past"
+        "epoch": 1601510400,
+        "expiration_date": "01-oct-2020",
+        "state": "future"
     },
     "yuebofa.cc": {
         "epoch": 1574294400,
@@ -26925,9 +26930,9 @@
         "state": "future"
     },
     "z444o.com": {
-        "epoch": 1562976000,
-        "expiration_date": "13-jul-2019",
-        "state": "past"
+        "epoch": 1601683200,
+        "expiration_date": "03-oct-2020",
+        "state": "future"
     },
     "zaehler.tv": {
         "epoch": 1574640000,

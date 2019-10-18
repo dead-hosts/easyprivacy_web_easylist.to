@@ -8315,47 +8315,7 @@
             "support.2giga.link": "INACTIVE"
         },
         "1569870780": {
-            "dv0.info": "INACTIVE",
-            "wty46.com": "INACTIVE",
-            "wunderdaten.com": "INACTIVE",
-            "wunderloop.aol.co.uk": "INACTIVE",
-            "wusstrack.wunderground.com": "INACTIVE",
-            "wvnetworkmedia.org": "INACTIVE",
-            "www.google.*": "INVALID",
-            "www.imdb.*": "INVALID",
-            "wwwstats.info": "INACTIVE",
-            "wymiana.org": "INACTIVE",
-            "wzus.askkids.com": "INACTIVE",
-            "wzus1.ask.com": "INACTIVE",
-            "wzus1.reference.com": "INACTIVE",
-            "wzus1.thesaurus.com": "INACTIVE",
-            "x.ligatus.com": "INACTIVE",
-            "xa-counter.com": "INACTIVE",
-            "xara.hse24.de": "INACTIVE",
-            "xclk-integracion.com": "INACTIVE",
-            "xfast.host": "INACTIVE",
-            "xmr.cool": "INACTIVE",
-            "xvideosharing.site": "INACTIVE",
-            "yandex-metrica.ru": "INACTIVE",
-            "yandex.*": "INVALID",
-            "yapi.awe.sm": "INACTIVE",
-            "ycctrk.co.uk": "INACTIVE",
-            "yololike.space": "INACTIVE",
-            "youmetrix.co.uk": "INACTIVE",
-            "yqaywudifu.date": "INACTIVE",
-            "ywtjdckysve.com": "INACTIVE",
-            "zavzlen.ru": "INACTIVE",
-            "zenlivestats.com": "INACTIVE",
-            "ziykrgc.ru": "INACTIVE",
-            "zndaowjdnf.stream": "INACTIVE",
-            "zowary.com": "INACTIVE",
-            "zroitracker.com": "INACTIVE",
-            "zymerget.bid": "INACTIVE",
-            "zymerget.date": "INACTIVE",
-            "zymerget.faith": "INACTIVE",
-            "zymerget.party": "INACTIVE",
-            "zymerget.stream": "INACTIVE",
-            "zymerget.win": "INACTIVE"
+            "dv0.info": "INACTIVE"
         },
         "1571353456": {
             "0tracker.com": "INACTIVE",
@@ -13311,6 +13271,122 @@
         },
         "1571375184": {
             "ws.yellowpages.ca": "INACTIVE"
+        },
+        "1571376043": {
+            "wunderdaten.com": "INACTIVE"
+        },
+        "1571376044": {
+            "wunderloop.aol.co.uk": "INACTIVE"
+        },
+        "1571376045": {
+            "wusstrack.wunderground.com": "INACTIVE",
+            "wvnetworkmedia.org": "INACTIVE"
+        },
+        "1571376046": {
+            "www.google.*": "INVALID",
+            "www.imdb.*": "INVALID"
+        },
+        "1571376047": {
+            "wwwstats.info": "INACTIVE"
+        },
+        "1571376048": {
+            "wymiana.org": "INACTIVE"
+        },
+        "1571376049": {
+            "wzus1.ask.com": "INACTIVE",
+            "wzus1.reference.com": "INACTIVE",
+            "wzus1.thesaurus.com": "INACTIVE"
+        },
+        "1571376051": {
+            "wzus.askkids.com": "INACTIVE",
+            "xa-counter.com": "INACTIVE"
+        },
+        "1571376052": {
+            "xara.hse24.de": "INACTIVE"
+        },
+        "1571376054": {
+            "xclk-integracion.com": "INACTIVE"
+        },
+        "1571376055": {
+            "xfast.host": "INACTIVE"
+        },
+        "1571376057": {
+            "x.ligatus.com": "INACTIVE"
+        },
+        "1571376066": {
+            "xmr.cool": "INACTIVE"
+        },
+        "1571376080": {
+            "xvideosharing.site": "INACTIVE"
+        },
+        "1571376086": {
+            "x.weather.com": "INACTIVE"
+        },
+        "1571376091": {
+            "yandex.*": "INVALID"
+        },
+        "1571376092": {
+            "yandex-metrica.ru": "INACTIVE"
+        },
+        "1571376093": {
+            "yapi.awe.sm": "INACTIVE"
+        },
+        "1571376094": {
+            "ybinst2.ec.yimg.com": "INACTIVE"
+        },
+        "1571376095": {
+            "ycctrk.co.uk": "INACTIVE"
+        },
+        "1571376103": {
+            "yjtag.yahoo.co.jp": "INACTIVE"
+        },
+        "1571376111": {
+            "yololike.space": "INACTIVE"
+        },
+        "1571376114": {
+            "youmetrix.co.uk": "INACTIVE"
+        },
+        "1571376125": {
+            "yqaywudifu.date": "INACTIVE"
+        },
+        "1571376132": {
+            "ys.ddns.me": "INACTIVE"
+        },
+        "1571376140": {
+            "ywtjdckysve.com": "INACTIVE"
+        },
+        "1571376159": {
+            "zavzlen.ru": "INACTIVE"
+        },
+        "1571376161": {
+            "zdlogs.sphereup.com": "INACTIVE"
+        },
+        "1571376163": {
+            "zenlivestats.com": "INACTIVE"
+        },
+        "1571376169": {
+            "ziykrgc.ru": "INACTIVE"
+        },
+        "1571376171": {
+            "zndaowjdnf.stream": "INACTIVE"
+        },
+        "1571376175": {
+            "z.opmnstr.com": "INACTIVE",
+            "zowary.com": "INACTIVE",
+            "zroitracker.com": "INACTIVE"
+        },
+        "1571376182": {
+            "zs.dhl.de": "INACTIVE"
+        },
+        "1571376184": {
+            "zymerget.bid": "INACTIVE",
+            "zymerget.date": "INACTIVE",
+            "zymerget.faith": "INACTIVE"
+        },
+        "1571376185": {
+            "zymerget.party": "INACTIVE",
+            "zymerget.stream": "INACTIVE",
+            "zymerget.win": "INACTIVE"
         }
     }
 }
