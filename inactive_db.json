@@ -8316,93 +8316,7 @@
         },
         "1569870780": {
             "dv0.info": "INACTIVE",
-            "flighty.win": "INACTIVE",
-            "flightzy.bid": "INACTIVE",
-            "flightzy.date": "INACTIVE",
-            "flightzy.win": "INACTIVE",
-            "flowplayer.space": "INACTIVE",
-            "flowstats.net": "INACTIVE",
-            "fls-*.amazon.*%": "INVALID",
-            "fls-*.amazon.*&": "INVALID",
-            "fluidsurveys-com.fs.cm": "INACTIVE",
-            "freecontent.download": "INACTIVE",
-            "freecontent.loan": "INACTIVE",
-            "freecontent.racing": "INACTIVE",
-            "freecontent.review": "INACTIVE",
-            "freecontent.science": "INACTIVE",
-            "freecontent.win": "INACTIVE",
-            "frescoerspica.com": "INACTIVE",
-            "friends.totallynsfw.com": "INACTIVE",
-            "fshka.com": "INACTIVE",
-            "funn.graphiq.com": "INACTIVE",
-            "fusion.nettavisen.no": "INACTIVE",
-            "g.deathandtaxesmag.com": "INACTIVE",
-            "gateway.reddit.com|": "INVALID",
-            "gather.hankyung.com": "INACTIVE",
-            "gemtrackers.com": "INACTIVE",
-            "geo.ltassrv.com": "INACTIVE",
-            "geo.mozilla.org": "INACTIVE",
-            "geo.perezhilton.com": "INACTIVE",
-            "geo.play.it": "INACTIVE",
-            "geo.theawesomer.com": "INACTIVE",
-            "geoip.taskforce.is": "INACTIVE",
-            "geoiplookup.wikimedia.org": "INACTIVE",
-            "geolocation.performgroup.com": "INACTIVE",
-            "getetafun.info": "INACTIVE",
-            "getscreensaver.it": "INACTIVE",
-            "gettate.date": "INACTIVE",
-            "gettate.faith": "INACTIVE",
-            "gettate.racing": "INACTIVE",
-            "giml.ml": "INACTIVE",
-            "gismeteo.*": "INVALID",
-            "gmonitor.aliimg.com": "INACTIVE",
-            "gnrdomimplementation.com": "INACTIVE",
-            "go-stats.dlinkddns.com": "INACTIVE",
-            "go.bluewin.ch": "INACTIVE",
-            "goals.ar.gy": "INACTIVE",
-            "goaltraffic.com": "INACTIVE",
-            "google-pr7.de": "INACTIVE",
-            "google.*": "INVALID",
-            "goyavelab.com": "INACTIVE",
-            "gratisbacklink.de": "INACTIVE",
-            "groupon.*": "INVALID",
-            "gstat.orange.fr": "INACTIVE",
-            "guruquicks.net": "INACTIVE",
-            "haraju.co": "INACTIVE",
-            "hatcalter.com": "INACTIVE",
-            "haxx.ly": "INACTIVE",
-            "hegrinhar.com": "INACTIVE",
-            "herphemiste.com": "INACTIVE",
-            "hit-pool.upscore.io": "INACTIVE",
-            "hitcount.heraldm.com": "INACTIVE",
-            "hitmaze-counters.net": "INACTIVE",
-            "hits-*.iubenda.com": "INVALID",
-            "hk.ndx.nextmedia.com": "INACTIVE",
-            "hlpidkr.ru": "INACTIVE",
-            "hodlers.party": "INACTIVE",
-            "hodling.faith": "INACTIVE",
-            "hodling.party": "INACTIVE",
-            "hodling.science": "INACTIVE",
-            "homechader.com": "INACTIVE",
-            "host.d-ns.ga": "INACTIVE",
-            "hostingcloud.accountant": "INACTIVE",
-            "hostingcloud.bid": "INACTIVE",
-            "hostingcloud.date": "INACTIVE",
-            "hostingcloud.download": "INACTIVE",
-            "hostingcloud.loan": "INACTIVE",
-            "hostingcloud.review": "INACTIVE",
-            "hostingcloud.science": "INACTIVE",
-            "hostingcloud.stream": "INACTIVE",
-            "hostingcloud.trade": "INACTIVE",
-            "hostingcloud.win": "INACTIVE",
-            "hoststats.info": "INACTIVE",
-            "hotstats.gr": "INACTIVE",
-            "hrfziiddxa.ru": "INACTIVE",
-            "huffingtonpost.*": "INVALID",
-            "hurterkranach.net": "INACTIVE",
-            "hydesolo.tk": "INACTIVE",
             "i-stats.ieurop.net": "INACTIVE",
-            "iaheyftbsn.review": "INACTIVE",
             "id.allegisgroup.com": "INACTIVE",
             "id.google.*": "INVALID",
             "idigger.qtmojo.com": "INACTIVE",
@@ -10946,6 +10860,322 @@
         },
         "1571362446": {
             "flightsy.date": "INACTIVE"
+        },
+        "1571363566": {
+            "flighty.win": "INACTIVE"
+        },
+        "1571363567": {
+            "flightzy.date": "INACTIVE",
+            "flightzy.win": "INACTIVE"
+        },
+        "1571363578": {
+            "flowplayer.space": "INACTIVE",
+            "flowstats.net": "INACTIVE",
+            "fls-*.amazon.*%": "INVALID",
+            "fls-*.amazon.*&": "INVALID"
+        },
+        "1571363580": {
+            "fluidsurveys-com.fs.cm": "INACTIVE"
+        },
+        "1571363590": {
+            "footprint.anetwork.ir": "INACTIVE"
+        },
+        "1571363603": {
+            "fp-cdn.azureedge.net": "INACTIVE"
+        },
+        "1571363607": {
+            "freecontent.download": "INACTIVE",
+            "freecontent.loan": "INACTIVE"
+        },
+        "1571363608": {
+            "freecontent.racing": "INACTIVE",
+            "freecontent.review": "INACTIVE",
+            "freecontent.science": "INACTIVE"
+        },
+        "1571363609": {
+            "freecontent.win": "INACTIVE"
+        },
+        "1571363637": {
+            "frescoerspica.com": "INACTIVE"
+        },
+        "1571363639": {
+            "friends.totallynsfw.com": "INACTIVE"
+        },
+        "1571363649": {
+            "fshka.com": "INACTIVE"
+        },
+        "1571363659": {
+            "fundingchoicesmessages.google.com": "INACTIVE"
+        },
+        "1571363661": {
+            "funn.graphiq.com": "INACTIVE"
+        },
+        "1571363674": {
+            "fusion.bonniertidskrifter.se": "INACTIVE"
+        },
+        "1571363675": {
+            "fusion.nettavisen.no": "INACTIVE"
+        },
+        "1571363685": {
+            "g2insights-cdn.azureedge.net": "INACTIVE"
+        },
+        "1571363706": {
+            "gallup.wn.com": "INACTIVE"
+        },
+        "1571363711": {
+            "gateway.reddit.com|": "INVALID",
+            "gather.hankyung.com": "INACTIVE"
+        },
+        "1571363723": {
+            "g.deathandtaxesmag.com": "INACTIVE"
+        },
+        "1571363728": {
+            "gekko.spiceworks.com": "INACTIVE"
+        },
+        "1571363729": {
+            "gemtrackers.com": "INACTIVE"
+        },
+        "1571363740": {
+            "geo.ertya.com": "INACTIVE",
+            "geo.hltv.org": "INACTIVE"
+        },
+        "1571363741": {
+            "geoip.al.com": "INACTIVE",
+            "geoip.cleveland.com": "INACTIVE",
+            "geoip.gulflive.com": "INACTIVE"
+        },
+        "1571363742": {
+            "geoip.lehighvalleylive.com": "INACTIVE"
+        },
+        "1571363743": {
+            "geoip.masslive.com": "INACTIVE",
+            "geoip.mlive.com": "INACTIVE",
+            "geoip.nj.com": "INACTIVE",
+            "geoip.nola.com": "INACTIVE",
+            "geoiplookup.wikimedia.org": "INACTIVE"
+        },
+        "1571363744": {
+            "geoip.oregonlive.com": "INACTIVE",
+            "geoip.pennlive.com": "INACTIVE",
+            "geoip.silive.com": "INACTIVE",
+            "geoip.syracuse.com": "INACTIVE",
+            "geoip.taskforce.is": "INACTIVE"
+        },
+        "1571363745": {
+            "geolocation.performgroup.com": "INACTIVE"
+        },
+        "1571363746": {
+            "geo.ltassrv.com": "INACTIVE",
+            "geo.mozilla.org": "INACTIVE"
+        },
+        "1571363747": {
+            "geo.perezhilton.com": "INACTIVE",
+            "geo.play.it": "INACTIVE"
+        },
+        "1571363748": {
+            "geo.theawesomer.com": "INACTIVE"
+        },
+        "1571363749": {
+            "geo.xcel.io": "INACTIVE",
+            "geo.yahoo.com": "INACTIVE"
+        },
+        "1571363751": {
+            "getetafun.info": "INACTIVE"
+        },
+        "1571363754": {
+            "getscreensaver.it": "INACTIVE"
+        },
+        "1571363761": {
+            "gettate.date": "INACTIVE",
+            "gettate.faith": "INACTIVE"
+        },
+        "1571363762": {
+            "gettate.racing": "INACTIVE"
+        },
+        "1571363781": {
+            "giml.ml": "INACTIVE"
+        },
+        "1571363782": {
+            "gismeteo.*": "INVALID"
+        },
+        "1571363798": {
+            "glean.pop6.com": "INACTIVE"
+        },
+        "1571363827": {
+            "gmonitor.aliimg.com": "INACTIVE"
+        },
+        "1571363833": {
+            "gnar.grammarly.com": "INACTIVE"
+        },
+        "1571363835": {
+            "gnrdomimplementation.com": "INACTIVE"
+        },
+        "1571363836": {
+            "goals.ar.gy": "INACTIVE",
+            "goaltraffic.com": "INACTIVE"
+        },
+        "1571363838": {
+            "go.bluewin.ch": "INACTIVE"
+        },
+        "1571363849": {
+            "google.*": "INVALID"
+        },
+        "1571363852": {
+            "google-pr7.de": "INACTIVE"
+        },
+        "1571363861": {
+            "go.optifuze.com": "INACTIVE"
+        },
+        "1571363864": {
+            "go-stats.dlinkddns.com": "INACTIVE"
+        },
+        "1571363869": {
+            "goyavelab.com": "INACTIVE"
+        },
+        "1571363876": {
+            "graph.facebook.com": "INACTIVE"
+        },
+        "1571363877": {
+            "gratisbacklink.de": "INACTIVE"
+        },
+        "1571363890": {
+            "groupon.*": "INVALID"
+        },
+        "1571363899": {
+            "g.siliconweek.es": "INACTIVE"
+        },
+        "1571363908": {
+            "gstat.orange.fr": "INACTIVE"
+        },
+        "1571363914": {
+            "g-stats.openhost.es": "INACTIVE"
+        },
+        "1571363921": {
+            "g.techweekeurope.it": "INACTIVE"
+        },
+        "1571363930": {
+            "gu-pix.appspot.com": "INACTIVE",
+            "guruquicks.net": "INACTIVE"
+        },
+        "1571363931": {
+            "g.vev.io": "INACTIVE"
+        },
+        "1571363936": {
+            "haraju.co": "INACTIVE"
+        },
+        "1571363950": {
+            "hatcalter.com": "INACTIVE"
+        },
+        "1571363951": {
+            "haxx.ly": "INACTIVE"
+        },
+        "1571363960": {
+            "h.cliphunter.com": "INACTIVE"
+        },
+        "1571363964": {
+            "hegrinhar.com": "INACTIVE"
+        },
+        "1571363972": {
+            "herphemiste.com": "INACTIVE"
+        },
+        "1571364002": {
+            "hit.copesa.cl": "INACTIVE"
+        },
+        "1571364017": {
+            "hitcount.heraldm.com": "INACTIVE"
+        },
+        "1571364022": {
+            "hit.leboncoin.fr": "INACTIVE"
+        },
+        "1571364025": {
+            "hitmaze-counters.net": "INACTIVE"
+        },
+        "1571364032": {
+            "hit-pool.upscore.io": "INACTIVE"
+        },
+        "1571364033": {
+            "hits.dealer.com": "INACTIVE"
+        },
+        "1571364034": {
+            "hits.e.cl": "INACTIVE"
+        },
+        "1571364035": {
+            "hitserver.ibope.com.br": "INACTIVE"
+        },
+        "1571364036": {
+            "hits-*.iubenda.com": "INVALID"
+        },
+        "1571364045": {
+            "hits.zdnet.co.kr": "INACTIVE"
+        },
+        "1571364052": {
+            "hitweb2.chosun.com": "INACTIVE"
+        },
+        "1571364059": {
+            "hk.ndx.nextmedia.com": "INACTIVE"
+        },
+        "1571364060": {
+            "hlpidkr.ru": "INACTIVE"
+        },
+        "1571364061": {
+            "hodlers.party": "INACTIVE"
+        },
+        "1571364062": {
+            "hodling.faith": "INACTIVE",
+            "hodling.party": "INACTIVE",
+            "hodling.science": "INACTIVE"
+        },
+        "1571364063": {
+            "homechader.com": "INACTIVE"
+        },
+        "1571364085": {
+            "host.d-ns.ga": "INACTIVE",
+            "hostingcloud.accountant": "INACTIVE"
+        },
+        "1571364086": {
+            "hostingcloud.bid": "INACTIVE",
+            "hostingcloud.date": "INACTIVE",
+            "hostingcloud.download": "INACTIVE"
+        },
+        "1571364087": {
+            "hostingcloud.loan": "INACTIVE"
+        },
+        "1571364088": {
+            "hostingcloud.review": "INACTIVE",
+            "hostingcloud.science": "INACTIVE",
+            "hostingcloud.stream": "INACTIVE",
+            "hostingcloud.trade": "INACTIVE"
+        },
+        "1571364089": {
+            "hostingcloud.win": "INACTIVE",
+            "hoststats.info": "INACTIVE"
+        },
+        "1571364095": {
+            "hotstats.gr": "INACTIVE"
+        },
+        "1571364103": {
+            "hpr.outbrain.com": "INACTIVE"
+        },
+        "1571364105": {
+            "hrfziiddxa.ru": "INACTIVE"
+        },
+        "1571364111": {
+            "hrum.hotelsapi.io": "INACTIVE"
+        },
+        "1571364122": {
+            "huffingtonpost.*": "INVALID"
+        },
+        "1571364125": {
+            "hurterkranach.net": "INACTIVE"
+        },
+        "1571364131": {
+            "hydesolo.tk": "INACTIVE"
+        },
+        "1571364151": {
+            "iaheyftbsn.review": "INACTIVE"
+        },
+        "1571364163": {
+            "ibs.indiatimes.com": "INACTIVE"
         }
     }
 }

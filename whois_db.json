@@ -8719,6 +8719,11 @@
         "expiration_date": "04-sep-2020",
         "state": "future"
     },
+    "flightzy.bid": {
+        "epoch": 1602288000,
+        "expiration_date": "10-oct-2020",
+        "state": "future"
+    },
     "fling.com": {
         "epoch": 1703894400,
         "expiration_date": "30-dec-2023",
@@ -8965,8 +8970,8 @@
         "state": "future"
     },
     "fotothing.com": {
-        "epoch": 1570060800,
-        "expiration_date": "03-oct-2019",
+        "epoch": 1601683200,
+        "expiration_date": "03-oct-2020",
         "state": "future"
     },
     "foundry42.com": {
@@ -9305,8 +9310,8 @@
         "state": "future"
     },
     "fruitflan.com": {
-        "epoch": 1571097600,
-        "expiration_date": "15-oct-2019",
+        "epoch": 1602720000,
+        "expiration_date": "15-oct-2020",
         "state": "future"
     },
     "fsd2.digital": {
@@ -9745,8 +9750,8 @@
         "state": "past"
     },
     "gez.io": {
-        "epoch": 1570665600,
-        "expiration_date": "10-oct-2019",
+        "epoch": 1602288000,
+        "expiration_date": "10-oct-2020",
         "state": "future"
     },
     "gfycat.com": {
@@ -10015,8 +10020,8 @@
         "state": "future"
     },
     "googlelabs.com": {
-        "epoch": 1571097600,
-        "expiration_date": "15-oct-2019",
+        "epoch": 1602720000,
+        "expiration_date": "15-oct-2020",
         "state": "future"
     },
     "googlerank.info": {
@@ -10184,6 +10189,11 @@
         "expiration_date": "04-sep-2020",
         "state": "future"
     },
+    "greenmangaming.com": {
+        "epoch": 1622937600,
+        "expiration_date": "06-jun-2021",
+        "state": "future"
+    },
     "grepdata.com": {
         "epoch": 1579824000,
         "expiration_date": "24-jan-2020",
@@ -10299,6 +10309,11 @@
         "expiration_date": "10-apr-2020",
         "state": "future"
     },
+    "gumtree.com": {
+        "epoch": 1592438400,
+        "expiration_date": "18-jun-2020",
+        "state": "future"
+    },
     "gus.host": {
         "epoch": 1602979200,
         "expiration_date": "18-oct-2020",
@@ -10312,6 +10327,11 @@
     "gweini.com": {
         "epoch": 1587340800,
         "expiration_date": "20-apr-2020",
+        "state": "future"
+    },
+    "gxgydnhz.com": {
+        "epoch": 1584144000,
+        "expiration_date": "14-mar-2020",
         "state": "future"
     },
     "h2porn.com": {
@@ -10395,8 +10415,8 @@
         "state": "future"
     },
     "hashvault.pro": {
-        "epoch": 1570838400,
-        "expiration_date": "12-oct-2019",
+        "epoch": 1728691200,
+        "expiration_date": "12-oct-2024",
         "state": "future"
     },
     "hashzone.io": {
@@ -10840,8 +10860,8 @@
         "state": "future"
     },
     "hostip.info": {
-        "epoch": 1570579200,
-        "expiration_date": "09-oct-2019",
+        "epoch": 1602201600,
+        "expiration_date": "09-oct-2020",
         "state": "future"
     },
     "hot-count.com": {
@@ -11120,9 +11140,9 @@
         "state": "future"
     },
     "i22lo.com": {
-        "epoch": 1562976000,
-        "expiration_date": "13-jul-2019",
-        "state": "past"
+        "epoch": 1601683200,
+        "expiration_date": "03-oct-2020",
+        "state": "future"
     },
     "i365.com": {
         "epoch": 1587513600,

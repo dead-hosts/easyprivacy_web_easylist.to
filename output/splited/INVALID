@@ -29,3 +29,11 @@ etwun.com:8080                                                                  
 expedia.*                                                                                            SYNTAX     XXX        Fri 18 Oct 01:10:05 UTC 2019
 facebook.com*                                                                                        SYNTAX     XXX        Fri 18 Oct 01:10:05 UTC 2019
 flashx.*                                                                                             SYNTAX     XXX        Fri 18 Oct 01:10:05 UTC 2019
+fls-*.amazon.*&                                                                                      SYNTAX     XXX        Fri 18 Oct 01:10:44 UTC 2019
+fls-*.amazon.*%                                                                                      SYNTAX     XXX        Fri 18 Oct 01:10:44 UTC 2019
+gateway.reddit.com|                                                                                  SYNTAX     XXX        Fri 18 Oct 01:10:44 UTC 2019
+gismeteo.*                                                                                           SYNTAX     XXX        Fri 18 Oct 01:10:44 UTC 2019
+google.*                                                                                             SYNTAX     XXX        Fri 18 Oct 01:10:44 UTC 2019
+groupon.*                                                                                            SYNTAX     XXX        Fri 18 Oct 01:10:44 UTC 2019
+hits-*.iubenda.com                                                                                   SYNTAX     XXX        Fri 18 Oct 01:10:44 UTC 2019
+huffingtonpost.*                                                                                     SYNTAX     XXX        Fri 18 Oct 01:10:44 UTC 2019
