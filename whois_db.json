@@ -3634,6 +3634,11 @@
         "expiration_date": "31-mar-2022",
         "state": "future"
     },
+    "bmcm.pw": {
+        "epoch": 1582156800,
+        "expiration_date": "20-feb-2020",
+        "state": "future"
+    },
     "bmlmedia.com": {
         "epoch": 1601942400,
         "expiration_date": "06-oct-2020",
@@ -3875,8 +3880,8 @@
         "state": "future"
     },
     "bronto.com": {
-        "epoch": 1571616000,
-        "expiration_date": "21-oct-2019",
+        "epoch": 1603238400,
+        "expiration_date": "21-oct-2020",
         "state": "future"
     },
     "browsealoud.com": {
