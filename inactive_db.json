@@ -8433,257 +8433,6 @@
             "zymerget.stream": "INACTIVE",
             "zymerget.win": "INACTIVE"
         },
-        "1571454602": {
-            "logger-*.dailymotion.com": "INVALID"
-        },
-        "1571454603": {
-            "logger.logidea.info": "INACTIVE",
-            "logger.nerdwallet.com": "INACTIVE",
-            "logger.rm.uol.com.br": "INACTIVE"
-        },
-        "1571454604": {
-            "logger.sociablelabs.com": "INACTIVE",
-            "logger.uol.com.br": "INACTIVE"
-        },
-        "1571454610": {
-            "logger.viki.io": "INACTIVE",
-            "loggingapi.spingo.com": "INACTIVE",
-            "loggingservices.tribune.com": "INACTIVE"
-        },
-        "1571454616": {
-            "log.go.com": "INACTIVE"
-        },
-        "1571454617": {
-            "log.hypebeast.com": "INACTIVE"
-        },
-        "1571454623": {
-            "log.ideamelt.com": "INACTIVE",
-            "log.idnes.cz": "INACTIVE"
-        },
-        "1571454624": {
-            "log*.ku6.com": "INVALID",
-            "log.invodo.com": "INACTIVE",
-            "loglady.publicbroadcasting.net": "INACTIVE"
-        },
-        "1571454630": {
-            "log.liverail.com": "INACTIVE",
-            "loglady.skypicker.com": "INACTIVE"
-        },
-        "1571454631": {
-            "log.nordot.jp": "INACTIVE"
-        },
-        "1571454632": {
-            "log.outbrain.com": "INACTIVE",
-            "log.outbrainimg.com": "INACTIVE"
-        },
-        "1571454633": {
-            "log-*.previewnetworks.com": "INVALID",
-            "log.player.cntv.cn": "INACTIVE",
-            "log.prezi.com": "INACTIVE",
-            "log.quora.com": "INACTIVE"
-        },
-        "1571454634": {
-            "log.r7.com": "INACTIVE"
-        },
-        "1571454636": {
-            "logs.51cto.com": "INACTIVE"
-        },
-        "1571454642": {
-            "logs-api.shoprunner.com": "INACTIVE",
-            "logs.dashlane.com": "INACTIVE"
-        },
-        "1571454643": {
-            "logs.live.tudou.com": "INACTIVE",
-            "logssl.enquisite.com": "INACTIVE"
-        },
-        "1571454650": {
-            "logs.thebloggernetwork.com": "INACTIVE"
-        },
-        "1571454656": {
-            "log.suchen.de": "INACTIVE"
-        },
-        "1571454657": {
-            "log.suumo.jp": "INACTIVE",
-            "log.sz-online.de": "INACTIVE"
-        },
-        "1571454659": {
-            "log.tagtic.cn": "INACTIVE",
-            "log.v.iask.com": "INACTIVE"
-        },
-        "1571454660": {
-            "log.ynet.com": "INACTIVE",
-            "lolbin.net": "INACTIVE"
-        },
-        "1571454661": {
-            "longurl.it": "INACTIVE"
-        },
-        "1571454677": {
-            "look.urs.tw": "INACTIVE",
-            "loxodo-analytics.ext.nile.works": "INACTIVE"
-        },
-        "1571454678": {
-            "l.sharethis.com": "INACTIVE",
-            "lp.vadio.com": "INACTIVE",
-            "lsam.research.microsoft.com": "INACTIVE"
-        },
-        "1571454684": {
-            "lslmetrics.djlmgdigital.com": "INACTIVE"
-        },
-        "1571454685": {
-            "lymantriacypresdoctrine.biz": "INACTIVE",
-            "maik.ff-bt.net": "INACTIVE",
-            "mail.ebay.com": "INACTIVE",
-            "malictuiar.com": "INACTIVE"
-        },
-        "1571454686": {
-            "m.anyfiles.ovh": "INACTIVE",
-            "maps.nokia.com": "INACTIVE",
-            "marcycoin.org": "INACTIVE",
-            "market015.com": "INACTIVE",
-            "marketinghub.hp.com": "INACTIVE"
-        },
-        "1571454687": {
-            "marketing.kalahari.net": "INACTIVE",
-            "marketing.net.jumia.com.ng": "INACTIVE"
-        },
-        "1571454688": {
-            "marketing.tr.netsalesmedia.pl": "INACTIVE",
-            "martianstats.com": "INACTIVE"
-        },
-        "1571454689": {
-            "maryneallynndyl.com": "INACTIVE",
-            "massdrop.com*": "INVALID"
-        },
-        "1571454695": {
-            "mataharirama.xyz": "INACTIVE"
-        },
-        "1571454696": {
-            "mc.webvisor.ru": "INACTIVE",
-            "md-ia.info": "INACTIVE",
-            "mediaindex.ee": "INACTIVE"
-        },
-        "1571454697": {
-            "mediapartner.bigpoint.net": "INACTIVE"
-        },
-        "1571454698": {
-            "medorgs.ru": "INACTIVE",
-            "meetrics.netbb-": "INVALID"
-        },
-        "1571454699": {
-            "megabanners.cf": "INACTIVE",
-            "megastat.net": "INACTIVE",
-            "melatstat.com": "INACTIVE"
-        },
-        "1571454700": {
-            "merlin.abc.go.com": "INACTIVE",
-            "metakeyproducer.com": "INACTIVE",
-            "metric*.rediff.com": "INVALID",
-            "metric-agent.i10c.net": "INACTIVE",
-            "metric.gstatic.com": "INACTIVE"
-        },
-        "1571454701": {
-            "metrics.api.drift.com": "INACTIVE",
-            "metrics.aws.sitepoint.com": "INACTIVE",
-            "metrics.bangbros.com": "INACTIVE",
-            "metrics.chmedia.com": "INACTIVE",
-            "metrics.dailymotion.com": "INACTIVE",
-            "metrics.loomia.com": "INACTIVE"
-        },
-        "1571454702": {
-            "metrics.sonymusicd2c.com": "INACTIVE",
-            "metrics.upcload.com": "INACTIVE"
-        },
-        "1571454706": {
-            "met.vgwort.de": "INACTIVE",
-            "metrixlablw.customers.luna.net": "INACTIVE",
-            "metro-trending-*.amazonaws.com": "INVALID"
-        },
-        "1571454707": {
-            "meyersdalebixby.com": "INACTIVE"
-        },
-        "1571454708": {
-            "mhiobjnirs.gq": "INACTIVE",
-            "midkotatraffic.net": "INACTIVE"
-        },
-        "1571454715": {
-            "mine.torrent.pw": "INACTIVE",
-            "miner.pr0gramm.com": "INACTIVE",
-            "minercry.pt": "INACTIVE",
-            "minero-proxy-*.sh": "INVALID",
-            "minexmr.stream": "INACTIVE"
-        },
-        "1571454716": {
-            "mint.boingboing.net": "INACTIVE",
-            "mint.good.is": "INACTIVE",
-            "mitel.marketbright.com": "INACTIVE"
-        },
-        "1571454717": {
-            "mitmeisseln.de": "INACTIVE",
-            "mletracker.com": "INACTIVE",
-            "mmc.center": "INACTIVE"
-        },
-        "1571454718": {
-            "mm.zubovskaya-banya.ru": "INACTIVE",
-            "mmpstats.mirror-image.com": "INACTIVE",
-            "modules.ooyala.com": "INACTIVE"
-        },
-        "1571454719": {
-            "moneone.ga": "INACTIVE"
-        },
-        "1571454720": {
-            "money-maker-default.info": "INACTIVE",
-            "money-maker-script.info": "INACTIVE",
-            "mp.pianomedia.eu": "INACTIVE"
-        },
-        "1571454721": {
-            "mp.twitch.tv": "INACTIVE",
-            "mtoza.vzaar.com": "INACTIVE",
-            "mtrcs.samba.tv": "INACTIVE",
-            "mtrics.cdc.gov": "INACTIVE"
-        },
-        "1571454722": {
-            "mts-ws.rueducommerce.fr": "INACTIVE",
-            "mucocutaneousmyrmecophaga.com": "INACTIVE",
-            "mutuza.win": "INACTIVE"
-        },
-        "1571454723": {
-            "mycrypto.company": "INACTIVE"
-        },
-        "1571454724": {
-            "mycrypto.group": "INACTIVE"
-        },
-        "1571454731": {
-            "mycrypto.ink": "INACTIVE"
-        },
-        "1571454732": {
-            "mycrypto.ltd": "INACTIVE",
-            "mycrypto.promo": "INACTIVE",
-            "myerypto.com": "INACTIVE",
-            "myscoop-tracking.googlecode.com": "INACTIVE"
-        },
-        "1571454735": {
-            "mysdcc.sdccd.edu": "INACTIVE"
-        },
-        "1571454736": {
-            "mysite.irkdsu.ru": "INACTIVE",
-            "mysumo.de": "INACTIVE"
-        },
-        "1571454743": {
-            "mytestminer.xyz": "INACTIVE",
-            "najsiejfnc.win": "INACTIVE"
-        },
-        "1571456483": {
-            "navlog.channel4.com": "INACTIVE",
-            "nb.myspace.com": "INACTIVE",
-            "ncdnprorogeraie.lol": "INACTIVE",
-            "nctrk.abmail.com.br": "INACTIVE"
-        },
-        "1571456484": {
-            "nebabrop.com": "INACTIVE"
-        },
-        "1571456485": {
-            "ned.itv.com": "INACTIVE"
-        },
         "1571456486": {
             "nestedmedia.com": "INACTIVE",
             "netflare.info": "INACTIVE",
@@ -12817,6 +12566,350 @@
         },
         "1571693739": {
             "logdev.openload.co": "INACTIVE"
+        },
+        "1571693864": {
+            "logger-*.dailymotion.com": "INVALID",
+            "logger.logidea.info": "INACTIVE",
+            "logger.nerdwallet.com": "INACTIVE"
+        },
+        "1571693871": {
+            "logger.rm.uol.com.br": "INACTIVE"
+        },
+        "1571693872": {
+            "logger.sociablelabs.com": "INACTIVE",
+            "logger.uol.com.br": "INACTIVE"
+        },
+        "1571693878": {
+            "logger.viki.io": "INACTIVE"
+        },
+        "1571693879": {
+            "loggingapi.spingo.com": "INACTIVE",
+            "loggingservices.tribune.com": "INACTIVE"
+        },
+        "1571693886": {
+            "log.go.com": "INACTIVE"
+        },
+        "1571693887": {
+            "log.hypebeast.com": "INACTIVE"
+        },
+        "1571693893": {
+            "log.ideamelt.com": "INACTIVE"
+        },
+        "1571693894": {
+            "log.idnes.cz": "INACTIVE"
+        },
+        "1571693895": {
+            "log.invodo.com": "INACTIVE"
+        },
+        "1571693897": {
+            "log*.ku6.com": "INVALID"
+        },
+        "1571693899": {
+            "loglady.publicbroadcasting.net": "INACTIVE"
+        },
+        "1571693905": {
+            "log.liverail.com": "INACTIVE",
+            "loglady.skypicker.com": "INACTIVE"
+        },
+        "1571693909": {
+            "log.nordot.jp": "INACTIVE",
+            "log.outbrain.com": "INACTIVE",
+            "log.outbrainimg.com": "INACTIVE"
+        },
+        "1571693911": {
+            "log-*.previewnetworks.com": "INVALID",
+            "log.player.cntv.cn": "INACTIVE",
+            "log.prezi.com": "INACTIVE",
+            "log.quora.com": "INACTIVE"
+        },
+        "1571693912": {
+            "log.r7.com": "INACTIVE"
+        },
+        "1571693913": {
+            "logs.51cto.com": "INACTIVE"
+        },
+        "1571693920": {
+            "logs-api.shoprunner.com": "INACTIVE"
+        },
+        "1571693921": {
+            "logs.dashlane.com": "INACTIVE"
+        },
+        "1571693923": {
+            "logs.live.tudou.com": "INACTIVE"
+        },
+        "1571693924": {
+            "logssl.enquisite.com": "INACTIVE"
+        },
+        "1571693932": {
+            "logs.thebloggernetwork.com": "INACTIVE"
+        },
+        "1571693938": {
+            "log.suchen.de": "INACTIVE"
+        },
+        "1571693941": {
+            "log.suumo.jp": "INACTIVE"
+        },
+        "1571693943": {
+            "log.sz-online.de": "INACTIVE"
+        },
+        "1571693944": {
+            "log.tagtic.cn": "INACTIVE"
+        },
+        "1571693946": {
+            "log.v.iask.com": "INACTIVE"
+        },
+        "1571693956": {
+            "log.ynet.com": "INACTIVE"
+        },
+        "1571693958": {
+            "lolbin.net": "INACTIVE"
+        },
+        "1571693960": {
+            "longurl.it": "INACTIVE"
+        },
+        "1571693978": {
+            "look.urs.tw": "INACTIVE"
+        },
+        "1571693983": {
+            "loxodo-analytics.ext.nile.works": "INACTIVE"
+        },
+        "1571693991": {
+            "lp.vadio.com": "INACTIVE"
+        },
+        "1571693992": {
+            "l.sharethis.com": "INACTIVE",
+            "lsam.research.microsoft.com": "INACTIVE"
+        },
+        "1571694005": {
+            "lslmetrics.djlmgdigital.com": "INACTIVE"
+        },
+        "1571694022": {
+            "lymantriacypresdoctrine.biz": "INACTIVE"
+        },
+        "1571694029": {
+            "maik.ff-bt.net": "INACTIVE"
+        },
+        "1571694030": {
+            "mail.ebay.com": "INACTIVE"
+        },
+        "1571694033": {
+            "malictuiar.com": "INACTIVE"
+        },
+        "1571694035": {
+            "m.anyfiles.ovh": "INACTIVE"
+        },
+        "1571694037": {
+            "maps.nokia.com": "INACTIVE",
+            "marcycoin.org": "INACTIVE"
+        },
+        "1571694038": {
+            "market015.com": "INACTIVE"
+        },
+        "1571694039": {
+            "marketinghub.hp.com": "INACTIVE"
+        },
+        "1571694040": {
+            "marketing.kalahari.net": "INACTIVE",
+            "marketing.net.jumia.com.ng": "INACTIVE"
+        },
+        "1571694042": {
+            "marketing.tr.netsalesmedia.pl": "INACTIVE"
+        },
+        "1571694070": {
+            "martianstats.com": "INACTIVE"
+        },
+        "1571694071": {
+            "maryneallynndyl.com": "INACTIVE"
+        },
+        "1571694072": {
+            "massdrop.com*": "INVALID"
+        },
+        "1571694079": {
+            "mataharirama.xyz": "INACTIVE"
+        },
+        "1571694099": {
+            "mc.webvisor.ru": "INACTIVE"
+        },
+        "1571694100": {
+            "md-ia.info": "INACTIVE"
+        },
+        "1571694112": {
+            "mediaindex.ee": "INACTIVE"
+        },
+        "1571694113": {
+            "mediapartner.bigpoint.net": "INACTIVE"
+        },
+        "1571694138": {
+            "medorgs.ru": "INACTIVE"
+        },
+        "1571694139": {
+            "meetrics.netbb-": "INVALID"
+        },
+        "1571694154": {
+            "megabanners.cf": "INACTIVE"
+        },
+        "1571694156": {
+            "megastat.net": "INACTIVE"
+        },
+        "1571694158": {
+            "melatstat.com": "INACTIVE"
+        },
+        "1571694164": {
+            "merlin.abc.go.com": "INACTIVE"
+        },
+        "1571694165": {
+            "metakeyproducer.com": "INACTIVE"
+        },
+        "1571694167": {
+            "metric-agent.i10c.net": "INACTIVE",
+            "metric.gstatic.com": "INACTIVE"
+        },
+        "1571694168": {
+            "metric*.rediff.com": "INVALID"
+        },
+        "1571694169": {
+            "metrics.api.drift.com": "INACTIVE",
+            "metrics.aws.sitepoint.com": "INACTIVE",
+            "metrics.bangbros.com": "INACTIVE"
+        },
+        "1571694170": {
+            "metrics.chmedia.com": "INACTIVE"
+        },
+        "1571694171": {
+            "metrics.dailymotion.com": "INACTIVE"
+        },
+        "1571694180": {
+            "metrics.loomia.com": "INACTIVE"
+        },
+        "1571694181": {
+            "metrics.sonymusicd2c.com": "INACTIVE"
+        },
+        "1571694182": {
+            "metrics.upcload.com": "INACTIVE"
+        },
+        "1571694187": {
+            "metrixlablw.customers.luna.net": "INACTIVE",
+            "metro-trending-*.amazonaws.com": "INVALID"
+        },
+        "1571694188": {
+            "met.vgwort.de": "INACTIVE",
+            "meyersdalebixby.com": "INACTIVE"
+        },
+        "1571694194": {
+            "mhiobjnirs.gq": "INACTIVE"
+        },
+        "1571694198": {
+            "midkotatraffic.net": "INACTIVE"
+        },
+        "1571694230": {
+            "minercry.pt": "INACTIVE",
+            "minero-proxy-*.sh": "INVALID"
+        },
+        "1571694231": {
+            "mine.torrent.pw": "INACTIVE",
+            "miner.pr0gramm.com": "INACTIVE"
+        },
+        "1571694232": {
+            "minexmr.stream": "INACTIVE"
+        },
+        "1571694240": {
+            "mint.boingboing.net": "INACTIVE"
+        },
+        "1571694241": {
+            "mint.good.is": "INACTIVE",
+            "mitel.marketbright.com": "INACTIVE"
+        },
+        "1571694242": {
+            "mitmeisseln.de": "INACTIVE"
+        },
+        "1571694245": {
+            "mletracker.com": "INACTIVE"
+        },
+        "1571694248": {
+            "mmc.center": "INACTIVE"
+        },
+        "1571694255": {
+            "mmpstats.mirror-image.com": "INACTIVE"
+        },
+        "1571694258": {
+            "mm.zubovskaya-banya.ru": "INACTIVE"
+        },
+        "1571694263": {
+            "modules.ooyala.com": "INACTIVE"
+        },
+        "1571694282": {
+            "moneone.ga": "INACTIVE"
+        },
+        "1571694292": {
+            "money-maker-default.info": "INACTIVE",
+            "money-maker-script.info": "INACTIVE"
+        },
+        "1571694317": {
+            "mp.pianomedia.eu": "INACTIVE"
+        },
+        "1571694324": {
+            "mp.twitch.tv": "INACTIVE"
+        },
+        "1571694333": {
+            "mtoza.vzaar.com": "INACTIVE"
+        },
+        "1571694341": {
+            "mtrcs.samba.tv": "INACTIVE",
+            "mtrics.cdc.gov": "INACTIVE"
+        },
+        "1571694342": {
+            "mts-ws.rueducommerce.fr": "INACTIVE"
+        },
+        "1571694343": {
+            "mucocutaneousmyrmecophaga.com": "INACTIVE"
+        },
+        "1571694355": {
+            "mutuza.win": "INACTIVE"
+        },
+        "1571694367": {
+            "mycrypto.company": "INACTIVE",
+            "mycrypto.group": "INACTIVE"
+        },
+        "1571694374": {
+            "mycrypto.ink": "INACTIVE",
+            "mycrypto.ltd": "INACTIVE"
+        },
+        "1571694375": {
+            "mycrypto.promo": "INACTIVE"
+        },
+        "1571694376": {
+            "myerypto.com": "INACTIVE"
+        },
+        "1571694398": {
+            "myscoop-tracking.googlecode.com": "INACTIVE"
+        },
+        "1571694401": {
+            "mysdcc.sdccd.edu": "INACTIVE"
+        },
+        "1571694402": {
+            "mysite.irkdsu.ru": "INACTIVE"
+        },
+        "1571694420": {
+            "mytestminer.xyz": "INACTIVE"
+        },
+        "1571694435": {
+            "najsiejfnc.win": "INACTIVE"
+        },
+        "1571694452": {
+            "navlog.channel4.com": "INACTIVE"
+        },
+        "1571694454": {
+            "nb.myspace.com": "INACTIVE",
+            "ncdnprorogeraie.lol": "INACTIVE"
+        },
+        "1571694455": {
+            "nctrk.abmail.com.br": "INACTIVE"
+        },
+        "1571694457": {
+            "nebabrop.com": "INACTIVE"
+        },
+        "1571694458": {
+            "ned.itv.com": "INACTIVE"
         }
     }
 }

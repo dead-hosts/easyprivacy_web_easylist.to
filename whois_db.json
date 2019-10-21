@@ -14109,6 +14109,11 @@
         "expiration_date": "30-apr-2020",
         "state": "future"
     },
+    "marktest.pt": {
+        "epoch": 1629417600,
+        "expiration_date": "20-aug-2021",
+        "state": "future"
+    },
     "marktplaats.net": {
         "epoch": 1591660800,
         "expiration_date": "09-jun-2020",
@@ -15032,7 +15037,7 @@
     "motorsport-total.com": {
         "epoch": 1571616000,
         "expiration_date": "21-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "motrixi.com": {
         "epoch": 1620172800,
@@ -15192,7 +15197,7 @@
     "mtv.it": {
         "epoch": 1571529600,
         "expiration_date": "20-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "mtv3.fi": {
         "epoch": 1598832000,
@@ -15240,8 +15245,8 @@
         "state": "future"
     },
     "musik4fun.com": {
-        "epoch": 1571529600,
-        "expiration_date": "20-oct-2019",
+        "epoch": 1603152000,
+        "expiration_date": "20-oct-2020",
         "state": "future"
     },
     "musthird.com": {
@@ -15455,8 +15460,8 @@
         "state": "future"
     },
     "myseostats.com": {
-        "epoch": 1571529600,
-        "expiration_date": "20-oct-2019",
+        "epoch": 1603152000,
+        "expiration_date": "20-oct-2020",
         "state": "future"
     },
     "mysitetraffic.net": {
@@ -15715,8 +15720,8 @@
         "state": "future"
     },
     "navrcholu.cz": {
-        "epoch": 1571616000,
-        "expiration_date": "21-oct-2019",
+        "epoch": 1603238400,
+        "expiration_date": "21-oct-2020",
         "state": "future"
     },
     "navyfederal.org": {
