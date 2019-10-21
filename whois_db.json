@@ -18770,8 +18770,8 @@
         "state": "future"
     },
     "rapidcounter.com": {
-        "epoch": 1571529600,
-        "expiration_date": "20-oct-2019",
+        "epoch": 1603152000,
+        "expiration_date": "20-oct-2020",
         "state": "future"
     },
     "rapidstats.net": {
@@ -18822,7 +18822,7 @@
     "rcsmetrics.it": {
         "epoch": 1571529600,
         "expiration_date": "20-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "rdstation.com.br": {
         "epoch": 1622937600,
@@ -19242,6 +19242,11 @@
     "resulticks.com": {
         "epoch": 1597449600,
         "expiration_date": "15-aug-2020",
+        "state": "future"
+    },
+    "retag.xyz": {
+        "epoch": 1602633600,
+        "expiration_date": "14-oct-2020",
         "state": "future"
     },
     "retailrocket.ru": {
