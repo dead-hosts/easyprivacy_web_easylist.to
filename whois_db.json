@@ -5409,6 +5409,11 @@
         "expiration_date": "14-nov-2019",
         "state": "future"
     },
+    "concert.io": {
+        "epoch": 1598659200,
+        "expiration_date": "29-aug-2020",
+        "state": "future"
+    },
     "conde.io": {
         "epoch": 1614384000,
         "expiration_date": "27-feb-2021",
@@ -6550,8 +6555,8 @@
         "state": "future"
     },
     "delegatediscussion.com": {
-        "epoch": 1571616000,
-        "expiration_date": "21-oct-2019",
+        "epoch": 1603238400,
+        "expiration_date": "21-oct-2020",
         "state": "future"
     },
     "delidatax.net": {
