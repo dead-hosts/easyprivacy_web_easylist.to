@@ -6655,8 +6655,8 @@
         "state": "future"
     },
     "detectdiscovery.com": {
-        "epoch": 1571616000,
-        "expiration_date": "21-oct-2019",
+        "epoch": 1603238400,
+        "expiration_date": "21-oct-2020",
         "state": "future"
     },
     "deteql.net": {
@@ -6972,7 +6972,7 @@
     "dmpcounter.com": {
         "epoch": 1571616000,
         "expiration_date": "21-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "dmpxs.com": {
         "epoch": 1575417600,
@@ -8155,8 +8155,8 @@
         "state": "future"
     },
     "exdynsrv.com": {
-        "epoch": 1571529600,
-        "expiration_date": "20-oct-2019",
+        "epoch": 1634688000,
+        "expiration_date": "20-oct-2021",
         "state": "future"
     },
     "exe.bid": {
@@ -8500,8 +8500,8 @@
         "state": "future"
     },
     "fcs.ovh": {
-        "epoch": 1571616000,
-        "expiration_date": "21-oct-2019",
+        "epoch": 1603238400,
+        "expiration_date": "21-oct-2020",
         "state": "future"
     },
     "fdxstats.xyz": {
@@ -8512,7 +8512,7 @@
     "fearfulflag.com": {
         "epoch": 1571616000,
         "expiration_date": "21-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "feathr.co": {
         "epoch": 1593648000,
