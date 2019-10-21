@@ -9275,8 +9275,8 @@
         "state": "future"
     },
     "freshcounter.com": {
-        "epoch": 1571529600,
-        "expiration_date": "20-oct-2019",
+        "epoch": 1603152000,
+        "expiration_date": "20-oct-2020",
         "state": "future"
     },
     "freshmarketer.com": {
@@ -9575,8 +9575,8 @@
         "state": "future"
     },
     "gbotvisit.com": {
-        "epoch": 1571529600,
-        "expiration_date": "20-oct-2019",
+        "epoch": 1603152000,
+        "expiration_date": "20-oct-2020",
         "state": "future"
     },
     "gcion.com": {
@@ -9722,6 +9722,11 @@
     "getglue.com": {
         "epoch": 1592179200,
         "expiration_date": "15-jun-2020",
+        "state": "future"
+    },
+    "getrewardful.com": {
+        "epoch": 1611532800,
+        "expiration_date": "25-jan-2021",
         "state": "future"
     },
     "getrockerbox.com": {
@@ -10910,8 +10915,8 @@
         "state": "future"
     },
     "hotrank.com.tw": {
-        "epoch": 1571616000,
-        "expiration_date": "21-oct-2019",
+        "epoch": 1603238400,
+        "expiration_date": "21-oct-2020",
         "state": "future"
     },
     "houzz.com": {
