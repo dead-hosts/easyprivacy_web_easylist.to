@@ -21029,6 +21029,11 @@
         "expiration_date": "16-nov-2023",
         "state": "future"
     },
+    "smart-traffik.com": {
+        "epoch": 1587600000,
+        "expiration_date": "23-apr-2020",
+        "state": "future"
+    },
     "smartctr.com": {
         "epoch": 1598572800,
         "expiration_date": "28-aug-2020",
@@ -23175,8 +23180,8 @@
         "state": "future"
     },
     "tm-awx.com": {
-        "epoch": 1571702400,
-        "expiration_date": "22-oct-2019",
+        "epoch": 1603324800,
+        "expiration_date": "22-oct-2020",
         "state": "future"
     },
     "tm1-001.com": {
