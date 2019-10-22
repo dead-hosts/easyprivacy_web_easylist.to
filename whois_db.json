@@ -26634,6 +26634,11 @@
         "expiration_date": "27-apr-2020",
         "state": "future"
     },
+    "xl.pt": {
+        "epoch": 1716336000,
+        "expiration_date": "22-may-2024",
+        "state": "future"
+    },
     "xmrpool.net": {
         "epoch": 1600732800,
         "expiration_date": "22-sep-2020",
