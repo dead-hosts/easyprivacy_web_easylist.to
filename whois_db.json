@@ -2770,8 +2770,8 @@
         "state": "future"
     },
     "axa.com": {
-        "epoch": 1571788800,
-        "expiration_date": "23-oct-2019",
+        "epoch": 1634947200,
+        "expiration_date": "23-oct-2021",
         "state": "future"
     },
     "axf8.net": {
@@ -3020,8 +3020,8 @@
         "state": "future"
     },
     "bbvms.com": {
-        "epoch": 1571875200,
-        "expiration_date": "24-oct-2019",
+        "epoch": 1603497600,
+        "expiration_date": "24-oct-2020",
         "state": "future"
     },
     "bcs-computersysteme.com": {
@@ -3067,7 +3067,7 @@
     "beeftransmission.com": {
         "epoch": 1571961600,
         "expiration_date": "25-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "beeg.com": {
         "epoch": 1660089600,
@@ -3290,9 +3290,9 @@
         "state": "future"
     },
     "bigday.ru": {
-        "epoch": 1571529600,
-        "expiration_date": "20-oct-2019",
-        "state": "past"
+        "epoch": 1606003200,
+        "expiration_date": "22-nov-2020",
+        "state": "future"
     },
     "bigmining.com": {
         "epoch": 1621814400,
@@ -3302,6 +3302,11 @@
     "bigmir.net": {
         "epoch": 1594944000,
         "expiration_date": "17-jul-2020",
+        "state": "future"
+    },
+    "bigreal.org": {
+        "epoch": 1598227200,
+        "expiration_date": "24-aug-2020",
         "state": "future"
     },
     "bigstats.net": {
