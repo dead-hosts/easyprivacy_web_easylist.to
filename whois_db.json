@@ -18834,6 +18834,11 @@
         "expiration_date": "18-mar-2021",
         "state": "future"
     },
+    "raresummer.com": {
+        "epoch": 1597622400,
+        "expiration_date": "17-aug-2020",
+        "state": "future"
+    },
     "rating.in": {
         "epoch": 1581811200,
         "expiration_date": "16-feb-2020",
@@ -19620,8 +19625,8 @@
         "state": "future"
     },
     "roispy.com": {
-        "epoch": 1571875200,
-        "expiration_date": "24-oct-2019",
+        "epoch": 1603497600,
+        "expiration_date": "24-oct-2020",
         "state": "future"
     },
     "roitesting.com": {
@@ -20100,8 +20105,8 @@
         "state": "future"
     },
     "scrubswim.com": {
-        "epoch": 1571961600,
-        "expiration_date": "25-oct-2019",
+        "epoch": 1603584000,
+        "expiration_date": "25-oct-2020",
         "state": "future"
     },
     "scupio.com": {
@@ -20234,6 +20239,11 @@
         "expiration_date": "04-nov-2019",
         "state": "future"
     },
+    "seeip.org": {
+        "epoch": 1598227200,
+        "expiration_date": "24-aug-2020",
+        "state": "future"
+    },
     "seevolution.com": {
         "epoch": 1676678400,
         "expiration_date": "18-feb-2023",
@@ -20265,8 +20275,8 @@
         "state": "future"
     },
     "selectivesummer.com": {
-        "epoch": 1571961600,
-        "expiration_date": "25-oct-2019",
+        "epoch": 1603584000,
+        "expiration_date": "25-oct-2020",
         "state": "future"
     },
     "selfcampaign.com": {
@@ -20280,8 +20290,8 @@
         "state": "future"
     },
     "sellebrity.com": {
-        "epoch": 1572048000,
-        "expiration_date": "26-oct-2019",
+        "epoch": 1603670400,
+        "expiration_date": "26-oct-2020",
         "state": "future"
     },
     "sellpoints.com": {
