@@ -24010,8 +24010,8 @@
         "state": "future"
     },
     "trmnsite.com": {
-        "epoch": 1571961600,
-        "expiration_date": "25-oct-2019",
+        "epoch": 1603584000,
+        "expiration_date": "25-oct-2020",
         "state": "future"
     },
     "trove.com": {
@@ -24120,8 +24120,8 @@
         "state": "future"
     },
     "tscapeplay.com": {
-        "epoch": 1571788800,
-        "expiration_date": "23-oct-2019",
+        "epoch": 1603411200,
+        "expiration_date": "23-oct-2020",
         "state": "future"
     },
     "tscounter.com": {
@@ -24232,7 +24232,7 @@
     "tuttogratis.it": {
         "epoch": 1571788800,
         "expiration_date": "23-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "tvshark.com": {
         "epoch": 1590105600,
@@ -24252,6 +24252,11 @@
     "twcouponcenter.com": {
         "epoch": 1592352000,
         "expiration_date": "17-jun-2020",
+        "state": "future"
+    },
+    "tweakimg.net": {
+        "epoch": 1602460800,
+        "expiration_date": "12-oct-2020",
         "state": "future"
     },
     "tweako.com": {
@@ -25312,6 +25317,11 @@
     "visits.lt": {
         "epoch": 1574812800,
         "expiration_date": "27-nov-2019",
+        "state": "future"
+    },
+    "visitstats.com": {
+        "epoch": 1588032000,
+        "expiration_date": "28-apr-2020",
         "state": "future"
     },
     "visitstreamer.com": {
