@@ -21729,6 +21729,11 @@
         "expiration_date": "01-jun-2020",
         "state": "future"
     },
+    "squirrelhands.com": {
+        "epoch": 1598227200,
+        "expiration_date": "24-aug-2020",
+        "state": "future"
+    },
     "srcip.com": {
         "epoch": 1597968000,
         "expiration_date": "21-aug-2020",
@@ -21865,8 +21870,8 @@
         "state": "future"
     },
     "stathat.com": {
-        "epoch": 1572220800,
-        "expiration_date": "28-oct-2019",
+        "epoch": 1603843200,
+        "expiration_date": "28-oct-2020",
         "state": "future"
     },
     "stathound.com": {
@@ -21980,8 +21985,8 @@
         "state": "future"
     },
     "stats.cz": {
-        "epoch": 1572220800,
-        "expiration_date": "28-oct-2019",
+        "epoch": 1603843200,
+        "expiration_date": "28-oct-2020",
         "state": "future"
     },
     "stats.fr": {
@@ -22325,8 +22330,8 @@
         "state": "future"
     },
     "suedtirol.live": {
-        "epoch": 1572220800,
-        "expiration_date": "28-oct-2019",
+        "epoch": 1603843200,
+        "expiration_date": "28-oct-2020",
         "state": "future"
     },
     "sugarcurtain.com": {
