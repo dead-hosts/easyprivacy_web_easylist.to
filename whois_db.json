@@ -16675,8 +16675,8 @@
         "state": "future"
     },
     "ohnorobot.com": {
-        "epoch": 1572220800,
-        "expiration_date": "28-oct-2019",
+        "epoch": 1603843200,
+        "expiration_date": "28-oct-2020",
         "state": "future"
     },
     "oidah.com": {
@@ -16717,7 +16717,7 @@
     "olecintri.com": {
         "epoch": 1572220800,
         "expiration_date": "28-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "oload.tv": {
         "epoch": 1596412800,
@@ -17994,6 +17994,11 @@
         "expiration_date": "09-dec-2019",
         "state": "future"
     },
+    "poki.com": {
+        "epoch": 1587168000,
+        "expiration_date": "18-apr-2020",
+        "state": "future"
+    },
     "polarcdn-pentos.com": {
         "epoch": 1618790400,
         "expiration_date": "19-apr-2021",
@@ -18065,8 +18070,8 @@
         "state": "future"
     },
     "portfold.com": {
-        "epoch": 1572220800,
-        "expiration_date": "28-oct-2019",
+        "epoch": 1730073600,
+        "expiration_date": "28-oct-2024",
         "state": "future"
     },
     "posst.co": {
