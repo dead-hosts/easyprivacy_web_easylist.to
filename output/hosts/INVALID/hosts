@@ -45,3 +45,8 @@
 0.0.0.0 logger-*.dailymotion.com
 0.0.0.0 log*.ku6.com
 0.0.0.0 log-*.previewnetworks.com
+0.0.0.0 massdrop.com*
+0.0.0.0 meetrics.netbb-
+0.0.0.0 metric*.rediff.com
+0.0.0.0 metro-trending-*.amazonaws.com
+0.0.0.0 minero-proxy-*.sh
