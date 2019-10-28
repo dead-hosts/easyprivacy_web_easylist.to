@@ -2870,9 +2870,9 @@
         "state": "future"
     },
     "bachecaannunci.it": {
-        "epoch": 1570838400,
-        "expiration_date": "12-oct-2019",
-        "state": "past"
+        "epoch": 1602460800,
+        "expiration_date": "12-oct-2020",
+        "state": "future"
     },
     "baidu.com": {
         "epoch": 1791676800,
@@ -3065,9 +3065,9 @@
         "state": "future"
     },
     "beeftransmission.com": {
-        "epoch": 1571961600,
-        "expiration_date": "25-oct-2019",
-        "state": "past"
+        "epoch": 1603584000,
+        "expiration_date": "25-oct-2020",
+        "state": "future"
     },
     "beeg.com": {
         "epoch": 1660089600,
