@@ -9580,8 +9580,8 @@
         "state": "future"
     },
     "gardenweb.com": {
-        "epoch": 1572134400,
-        "expiration_date": "27-oct-2019",
+        "epoch": 1603756800,
+        "expiration_date": "27-oct-2020",
         "state": "future"
     },
     "gasolina.ml": {
@@ -9882,6 +9882,11 @@
     "github.com": {
         "epoch": 1602201600,
         "expiration_date": "09-oct-2020",
+        "state": "future"
+    },
+    "giveitlove.com": {
+        "epoch": 1575417600,
+        "expiration_date": "04-dec-2019",
         "state": "future"
     },
     "gixmo.dk": {
@@ -10337,7 +10342,7 @@
     "gtop.ro": {
         "epoch": 1572220800,
         "expiration_date": "28-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "gtopstats.com": {
         "epoch": 1587686400,
