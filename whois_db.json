@@ -7360,8 +7360,8 @@
         "state": "future"
     },
     "early-birds.fr": {
-        "epoch": 1572048000,
-        "expiration_date": "26-oct-2019",
+        "epoch": 1603670400,
+        "expiration_date": "26-oct-2020",
         "state": "future"
     },
     "early-birds.io": {
@@ -8434,6 +8434,11 @@
         "expiration_date": "27-feb-2021",
         "state": "future"
     },
+    "farmergoldfish.com": {
+        "epoch": 1601856000,
+        "expiration_date": "05-oct-2020",
+        "state": "future"
+    },
     "farmville.com": {
         "epoch": 1595462400,
         "expiration_date": "23-jul-2020",
@@ -8732,6 +8737,11 @@
     "flashgamestats.com": {
         "epoch": 1590624000,
         "expiration_date": "28-may-2020",
+        "state": "future"
+    },
+    "flashget.org": {
+        "epoch": 1603756800,
+        "expiration_date": "27-oct-2020",
         "state": "future"
     },
     "flashtalking.com": {
