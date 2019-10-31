@@ -18189,6 +18189,11 @@
         "expiration_date": "12-feb-2020",
         "state": "future"
     },
+    "premiumstats.xyz": {
+        "epoch": 1584316800,
+        "expiration_date": "16-mar-2020",
+        "state": "future"
+    },
     "prezi.com": {
         "epoch": 1598227200,
         "expiration_date": "24-aug-2020",
@@ -18455,8 +18460,8 @@
         "state": "future"
     },
     "publicidees.com": {
-        "epoch": 1572307200,
-        "expiration_date": "29-oct-2019",
+        "epoch": 1603929600,
+        "expiration_date": "29-oct-2020",
         "state": "future"
     },
     "publish-int.se": {
@@ -19390,9 +19395,9 @@
         "state": "future"
     },
     "revdn.net": {
-        "epoch": 1562025600,
-        "expiration_date": "02-jul-2019",
-        "state": "past"
+        "epoch": 1604016000,
+        "expiration_date": "30-oct-2020",
+        "state": "future"
     },
     "revenuepilot.com": {
         "epoch": 1608336000,
