@@ -14829,6 +14829,11 @@
         "expiration_date": "01-mar-2020",
         "state": "future"
     },
+    "minr.pw": {
+        "epoch": 1586995200,
+        "expiration_date": "16-apr-2020",
+        "state": "future"
+    },
     "minsk-in.net": {
         "epoch": 1573776000,
         "expiration_date": "15-nov-2019",
