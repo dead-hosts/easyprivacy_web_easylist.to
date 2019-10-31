@@ -3427,7 +3427,7 @@
     "blacktri.com": {
         "epoch": 1572480000,
         "expiration_date": "31-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "blankfire.com": {
         "epoch": 1595980800,
@@ -4745,8 +4745,8 @@
         "state": "future"
     },
     "circular-counters.com": {
-        "epoch": 1572307200,
-        "expiration_date": "29-oct-2019",
+        "epoch": 1603929600,
+        "expiration_date": "29-oct-2020",
         "state": "future"
     },
     "citygridmedia.com": {
