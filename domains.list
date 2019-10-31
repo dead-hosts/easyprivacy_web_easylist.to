@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201910281633
+! Version: 201910310918
 ! Title: EasyPrivacy
-! Last modified: 28 Oct 2019 16:33 UTC
+! Last modified: 31 Oct 2019 09:18 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -11083,6 +11083,7 @@ _mongo_stats/
 ||skysa.com/tracker/
 ||sli-spark.com/b.png$third-party
 ||slidedeck.com^$image,third-party
+||smartan.ai/harvester/
 ||smartertravel.com/ext/pixel/
 ||smrt.as^
 ||snaps.vidiemi.com^$third-party
@@ -14933,7 +14934,6 @@ _mongo_stats/
 ||wallcannrewards.com^*/index.php?
 ||walletpop.com/track/
 ||wallpaperstock.net/partners.js
-||walmart.com^*/logger$xmlhttprequest
 ||warp.prnewswire.co.uk^
 ||washingtonpost.com/notification-sw.js
 ||washingtonpost.com/rw/sites/twpweb/js/init/init.track-header-1.0.0.js
@@ -17435,7 +17435,8 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||rtl.hu/javascripts/UserTracking.js
 @@||rtl.hu^*/gemius_id.js?
 ! Italian
-@@||adobedtm.com^*/satelliteLib-$script,domain=ilsole24ore.com|laredoute.it
+@@||adobedtm.com^*/mbox-contents-$script,domain=conad.it
+@@||adobedtm.com^*/satelliteLib-$script,domain=conad.it|ilsole24ore.com|laredoute.it
 @@||adobetag.com/d2/telecomitalia/live/Aggregato119TIM.js$domain=tim.it
 @@||analytics.edgekey.net/ma_library/javascript/javascript_malibrary.js$domain=hbsmediasetit.deltatre.net
 @@||androidgalaxys.net/wp-content/plugins/*/google-analyticator/$script
