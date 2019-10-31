@@ -19775,8 +19775,8 @@
         "state": "future"
     },
     "rtmark.net": {
-        "epoch": 1572307200,
-        "expiration_date": "29-oct-2019",
+        "epoch": 1603929600,
+        "expiration_date": "29-oct-2020",
         "state": "future"
     },
     "rtrk.com": {
@@ -20735,8 +20735,8 @@
         "state": "future"
     },
     "siberiantimes.com": {
-        "epoch": 1572393600,
-        "expiration_date": "30-oct-2019",
+        "epoch": 1635552000,
+        "expiration_date": "30-oct-2021",
         "state": "future"
     },
     "sibulla.com": {
@@ -21132,6 +21132,11 @@
     "smart-traffik.com": {
         "epoch": 1587600000,
         "expiration_date": "23-apr-2020",
+        "state": "future"
+    },
+    "smartan.ai": {
+        "epoch": 1582416000,
+        "expiration_date": "23-feb-2020",
         "state": "future"
     },
     "smartctr.com": {
@@ -21910,8 +21915,8 @@
         "state": "future"
     },
     "staticworld.net": {
-        "epoch": 1572307200,
-        "expiration_date": "29-oct-2019",
+        "epoch": 1603929600,
+        "expiration_date": "29-oct-2020",
         "state": "future"
     },
     "statig.com.br": {
