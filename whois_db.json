@@ -15575,8 +15575,8 @@
         "state": "future"
     },
     "mytravel.co.uk": {
-        "epoch": 1572307200,
-        "expiration_date": "29-oct-2019",
+        "epoch": 1603929600,
+        "expiration_date": "29-oct-2020",
         "state": "future"
     },
     "myusersonline.com": {
@@ -16185,8 +16185,8 @@
         "state": "future"
     },
     "nexon.net": {
-        "epoch": 1572307200,
-        "expiration_date": "29-oct-2019",
+        "epoch": 1603929600,
+        "expiration_date": "29-oct-2020",
         "state": "future"
     },
     "next.co.uk": {
@@ -16715,9 +16715,9 @@
         "state": "future"
     },
     "olecintri.com": {
-        "epoch": 1572220800,
-        "expiration_date": "28-oct-2019",
-        "state": "past"
+        "epoch": 1603843200,
+        "expiration_date": "28-oct-2020",
+        "state": "future"
     },
     "oload.tv": {
         "epoch": 1596412800,
