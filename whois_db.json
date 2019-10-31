@@ -22440,9 +22440,9 @@
         "state": "future"
     },
     "superstat.info": {
-        "epoch": 1572048000,
-        "expiration_date": "26-oct-2019",
-        "state": "past"
+        "epoch": 1603670400,
+        "expiration_date": "26-oct-2020",
+        "state": "future"
     },
     "superstats.com": {
         "epoch": 1601856000,
@@ -23207,6 +23207,11 @@
     "ticklesign.com": {
         "epoch": 1582675200,
         "expiration_date": "26-feb-2020",
+        "state": "future"
+    },
+    "tidafors.xyz": {
+        "epoch": 1574812800,
+        "expiration_date": "27-nov-2019",
         "state": "future"
     },
     "tidaltv.com": {
