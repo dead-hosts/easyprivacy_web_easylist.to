@@ -25102,7 +25102,7 @@
     "videogame.it": {
         "epoch": 1572393600,
         "expiration_date": "30-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "videoly.co": {
         "epoch": 1593648000,
@@ -25547,7 +25547,7 @@
     "volkswagen-italia.it": {
         "epoch": 1572393600,
         "expiration_date": "30-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "vologda-info.ru": {
         "epoch": 1592438400,
@@ -25560,8 +25560,8 @@
         "state": "future"
     },
     "voodooalerts.com": {
-        "epoch": 1572393600,
-        "expiration_date": "30-oct-2019",
+        "epoch": 1604016000,
+        "expiration_date": "30-oct-2020",
         "state": "future"
     },
     "vooxe.com": {
@@ -25612,7 +25612,7 @@
     "vstats.co": {
         "epoch": 1572307200,
         "expiration_date": "29-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "vtracker.net": {
         "epoch": 1588377600,
@@ -25975,8 +25975,8 @@
         "state": "future"
     },
     "webminepool.com": {
-        "epoch": 1572480000,
-        "expiration_date": "31-oct-2019",
+        "epoch": 1604102400,
+        "expiration_date": "31-oct-2020",
         "state": "future"
     },
     "webminerpool.com": {
@@ -26255,8 +26255,8 @@
         "state": "future"
     },
     "whoaremyfriends.com": {
-        "epoch": 1572307200,
-        "expiration_date": "29-oct-2019",
+        "epoch": 1603929600,
+        "expiration_date": "29-oct-2020",
         "state": "future"
     },
     "whoaremyfriends.net": {
