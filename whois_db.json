@@ -6852,7 +6852,7 @@
     "directnews.co.uk": {
         "epoch": 1572480000,
         "expiration_date": "31-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "directprimal.com": {
         "epoch": 1572739200,
