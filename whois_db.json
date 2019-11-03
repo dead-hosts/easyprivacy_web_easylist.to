@@ -9735,8 +9735,8 @@
         "state": "future"
     },
     "getbackstory.com": {
-        "epoch": 1572566400,
-        "expiration_date": "01-nov-2019",
+        "epoch": 1635724800,
+        "expiration_date": "01-nov-2021",
         "state": "future"
     },
     "getblueshift.com": {
@@ -10959,6 +10959,11 @@
         "expiration_date": "31-dec-2019",
         "state": "future"
     },
+    "hotmovs.com": {
+        "epoch": 1594684800,
+        "expiration_date": "14-jul-2020",
+        "state": "future"
+    },
     "hotnews.ro": {
         "epoch": 1851552000,
         "expiration_date": "03-sep-2028",
@@ -11150,8 +11155,8 @@
         "state": "future"
     },
     "hwpub.com": {
-        "epoch": 1572566400,
-        "expiration_date": "01-nov-2019",
+        "epoch": 1604188800,
+        "expiration_date": "01-nov-2020",
         "state": "future"
     },
     "hwscdn.com": {
@@ -11335,8 +11340,8 @@
         "state": "future"
     },
     "idtargeting.com": {
-        "epoch": 1572652800,
-        "expiration_date": "02-nov-2019",
+        "epoch": 1604275200,
+        "expiration_date": "02-nov-2020",
         "state": "future"
     },
     "iesnare.com": {
