@@ -19619,6 +19619,11 @@
         "expiration_date": "08-feb-2021",
         "state": "future"
     },
+    "rktch.com": {
+        "epoch": 1588809600,
+        "expiration_date": "07-may-2020",
+        "state": "future"
+    },
     "rktu.com": {
         "epoch": 1589760000,
         "expiration_date": "18-may-2020",
