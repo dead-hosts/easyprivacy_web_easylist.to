@@ -25802,7 +25802,7 @@
     "way2traffic.com": {
         "epoch": 1572825600,
         "expiration_date": "04-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "wbdx.fr": {
         "epoch": 1589673600,
@@ -26070,8 +26070,8 @@
         "state": "future"
     },
     "website-hit-counters.com": {
-        "epoch": 1572825600,
-        "expiration_date": "04-nov-2019",
+        "epoch": 1604448000,
+        "expiration_date": "04-nov-2020",
         "state": "future"
     },
     "websiteceo.com": {
