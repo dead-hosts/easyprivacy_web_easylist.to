@@ -9115,13 +9115,13 @@
         "state": "future"
     },
     "free-tv-video-online.me": {
-        "epoch": 1572825600,
-        "expiration_date": "04-nov-2019",
+        "epoch": 1604448000,
+        "expiration_date": "04-nov-2020",
         "state": "future"
     },
     "free-website-hit-counters.com": {
-        "epoch": 1572825600,
-        "expiration_date": "04-nov-2019",
+        "epoch": 1604448000,
+        "expiration_date": "04-nov-2020",
         "state": "future"
     },
     "free-website-statistics.com": {
@@ -9760,8 +9760,8 @@
         "state": "future"
     },
     "getdrip.com": {
-        "epoch": 1572825600,
-        "expiration_date": "04-nov-2019",
+        "epoch": 1604448000,
+        "expiration_date": "04-nov-2020",
         "state": "future"
     },
     "getfreebl.com": {
@@ -9935,8 +9935,8 @@
         "state": "future"
     },
     "globalviptraffic.com": {
-        "epoch": 1572825600,
-        "expiration_date": "04-nov-2019",
+        "epoch": 1604448000,
+        "expiration_date": "04-nov-2020",
         "state": "future"
     },
     "globalwebindex.net": {
@@ -10690,8 +10690,8 @@
         "state": "future"
     },
     "hit-counter-download.com": {
-        "epoch": 1572825600,
-        "expiration_date": "04-nov-2019",
+        "epoch": 1604448000,
+        "expiration_date": "04-nov-2020",
         "state": "future"
     },
     "hit-counter.info": {
@@ -10812,6 +10812,11 @@
     "hitwebcounter.com": {
         "epoch": 1585267200,
         "expiration_date": "27-mar-2020",
+        "state": "future"
+    },
+    "hivps.xyz": {
+        "epoch": 1592697600,
+        "expiration_date": "21-jun-2020",
         "state": "future"
     },
     "hlserve.com": {
