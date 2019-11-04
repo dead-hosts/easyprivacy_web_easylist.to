@@ -22904,6 +22904,11 @@
         "expiration_date": "18-feb-2020",
         "state": "future"
     },
+    "tendertest.com": {
+        "epoch": 1598227200,
+        "expiration_date": "24-aug-2020",
+        "state": "future"
+    },
     "tenmax.io": {
         "epoch": 1631232000,
         "expiration_date": "10-sep-2021",
