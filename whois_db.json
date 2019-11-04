@@ -20327,7 +20327,7 @@
     "seehits.com": {
         "epoch": 1572825600,
         "expiration_date": "04-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "seeip.org": {
         "epoch": 1598227200,
@@ -20410,8 +20410,8 @@
         "state": "future"
     },
     "semasio.net": {
-        "epoch": 1572825600,
-        "expiration_date": "04-nov-2019",
+        "epoch": 1604448000,
+        "expiration_date": "04-nov-2020",
         "state": "future"
     },
     "sematext.com": {
