@@ -20350,9 +20350,9 @@
         "state": "future"
     },
     "seehits.com": {
-        "epoch": 1572825600,
-        "expiration_date": "04-nov-2019",
-        "state": "past"
+        "epoch": 1604448000,
+        "expiration_date": "04-nov-2020",
+        "state": "future"
     },
     "seeip.org": {
         "epoch": 1598227200,
@@ -20824,6 +20824,11 @@
         "expiration_date": "29-sep-2020",
         "state": "future"
     },
+    "sift.com": {
+        "epoch": 1692316800,
+        "expiration_date": "18-aug-2023",
+        "state": "future"
+    },
     "siftscience.com": {
         "epoch": 1591574400,
         "expiration_date": "08-jun-2020",
@@ -21277,6 +21282,11 @@
     "smct.co": {
         "epoch": 1690329600,
         "expiration_date": "26-jul-2023",
+        "state": "future"
+    },
+    "smg.com": {
+        "epoch": 1822176000,
+        "expiration_date": "29-sep-2027",
         "state": "future"
     },
     "smileyhost.net": {
