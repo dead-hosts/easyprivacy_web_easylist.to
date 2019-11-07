@@ -6420,9 +6420,9 @@
         "state": "future"
     },
     "datvantage.com": {
-        "epoch": 1572825600,
-        "expiration_date": "04-nov-2019",
-        "state": "past"
+        "epoch": 1604448000,
+        "expiration_date": "04-nov-2020",
+        "state": "future"
     },
     "daum.net": {
         "epoch": 1583452800,
@@ -6645,8 +6645,8 @@
         "state": "future"
     },
     "depositfiles.com": {
-        "epoch": 1572912000,
-        "expiration_date": "05-nov-2019",
+        "epoch": 1604534400,
+        "expiration_date": "05-nov-2020",
         "state": "future"
     },
     "deqwas.net": {
@@ -6907,6 +6907,11 @@
     "disneylandparis.fr": {
         "epoch": 1601164800,
         "expiration_date": "27-sep-2020",
+        "state": "future"
+    },
+    "display.studio": {
+        "epoch": 1602460800,
+        "expiration_date": "12-oct-2020",
         "state": "future"
     },
     "displaymarketplace.com": {
@@ -7330,8 +7335,8 @@
         "state": "future"
     },
     "e-pagerank.fr": {
-        "epoch": 1572998400,
-        "expiration_date": "06-nov-2019",
+        "epoch": 1604620800,
+        "expiration_date": "06-nov-2020",
         "state": "future"
     },
     "e-pagerank.net": {
