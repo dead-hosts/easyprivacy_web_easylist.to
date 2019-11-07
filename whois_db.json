@@ -5280,8 +5280,8 @@
         "state": "future"
     },
     "coinhiveproxy.com": {
-        "epoch": 1572998400,
-        "expiration_date": "06-nov-2019",
+        "epoch": 1604620800,
+        "expiration_date": "06-nov-2020",
         "state": "future"
     },
     "coinimp.com": {
@@ -5450,8 +5450,8 @@
         "state": "future"
     },
     "conductrics.com": {
-        "epoch": 1572998400,
-        "expiration_date": "06-nov-2019",
+        "epoch": 1604620800,
+        "expiration_date": "06-nov-2020",
         "state": "future"
     },
     "confirmational.com": {
@@ -5465,8 +5465,8 @@
         "state": "future"
     },
     "connatix.com": {
-        "epoch": 1572998400,
-        "expiration_date": "06-nov-2019",
+        "epoch": 1604620800,
+        "expiration_date": "06-nov-2020",
         "state": "future"
     },
     "consciouschairs.com": {
@@ -5670,8 +5670,8 @@
         "state": "future"
     },
     "core-cen-54.com": {
-        "epoch": 1573084800,
-        "expiration_date": "07-nov-2019",
+        "epoch": 1604707200,
+        "expiration_date": "07-nov-2020",
         "state": "future"
     },
     "coremetrics.com": {
@@ -5832,6 +5832,11 @@
     "courierpress.com": {
         "epoch": 1577059200,
         "expiration_date": "23-dec-2019",
+        "state": "future"
+    },
+    "coursehero.com": {
+        "epoch": 1578700800,
+        "expiration_date": "11-jan-2020",
         "state": "future"
     },
     "coursera.org": {
