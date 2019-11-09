@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201911071033
+! Version: 201911091008
 ! Title: EasyPrivacy
-! Last modified: 07 Nov 2019 10:33 UTC
+! Last modified: 09 Nov 2019 10:08 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -38,6 +38,7 @@
 -analitycs/fab.
 -analitycs/ga.
 -analitycs/metrica.
+-analytics-events.
 -analytics-state?
 -analytics-tagserver-
 -analytics-wi.
@@ -379,6 +380,7 @@
 /abp-analytics.
 /abp.gif?
 /abppx-*.gif?
+/abstat.
 /abtshield-snippet.js
 /aby.gif?
 /ac.fcgi?
@@ -576,7 +578,6 @@
 /analys/dep/*
 /analyse.js
 /analysis-logger/*
-/analysis.js
 /analysis/ga_
 /analysis/gtm_
 /analysis?t=
@@ -1334,6 +1335,7 @@
 /countbk.
 /CountContent?
 /counter-js.php
+/counter.*&referer=
 /Counter.ashx?
 /counter.asp?
 /counter.aspx?
@@ -3893,6 +3895,7 @@
 /track;adv
 /track?*&event=
 /track?*&ref=
+/track?*http$image
 /track?browserId
 /track?cb=
 /track?data=
@@ -3998,6 +4001,7 @@
 /trackimps?
 /tracking-active/*
 /tracking-ad/*
+/tracking-analytics-
 /tracking-aws.
 /tracking-cookie.
 /tracking-hits.
@@ -4637,6 +4641,7 @@
 ://b.*/vanity/?
 ://c.*/c.gif?
 ://c1.*/c.gif?
+://d.*/track.js
 ://email.*/blankpixel.gif
 ://eulerian.*/ea.js
 ://gdyn.*/1.gif?
@@ -6001,7 +6006,6 @@ _mongo_stats/
 ||getdrip.com^$third-party
 ||getetafun.info^$third-party
 ||getfreebl.com^$third-party
-||getrewardful.com^$third-party
 ||getrockerbox.com^$third-party
 ||getsmartcontent.com^$third-party
 ||getsmartlook.com^$third-party
@@ -6526,7 +6530,6 @@ _mongo_stats/
 ||myaffiliateprogram.com^$third-party
 ||myaudience.de^$third-party
 ||mybloglog.com^$third-party
-||mybluemix.net^$third-party
 ||myfastcounter.com^$third-party
 ||mynewcounter.com^$third-party
 ||mynsystems.com^$third-party
@@ -8329,6 +8332,7 @@ _mongo_stats/
 ||absurdapple.com^$third-party
 ||acridtwist.com^$third-party
 ||aheadday.com^$third-party
+||allowmailbox.com^$third-party
 ||anxiousapples.com^$third-party
 ||automaticside.com^$third-party
 ||awzbijw.com^$third-party
@@ -8337,24 +8341,30 @@ _mongo_stats/
 ||bh8yx.xyz^$third-party
 ||broadcastbed.com^$third-party
 ||broaddoor.com^$third-party
+||burnbubble.com^$third-party
+||butterbulb.com^$third-party
 ||butterburst.com^$third-party
 ||cannontwin.com^$third-party
 ||capsquirrel.com^$third-party
 ||caringzinc.com^$third-party
 ||carscannon.com^$third-party
 ||cloisteredcord.com^$third-party
+||colorfulafterthought.com^$third-party
+||conditioncrush.com^$third-party
 ||consciouscabbage.com^$third-party
 ||consciouschairs.com^$third-party
 ||coordinatedcub.com^$third-party
 ||copycarpenter.com^$third-party
 ||cubchannel.com^$third-party
 ||culturedcrayon.com^$third-party
+||damdoor.com^$third-party
 ||delegatediscussion.com^$third-party
 ||desiredirt.com^$third-party
 ||detectdiscovery.com^$third-party
 ||diplomahawaii.com^$third-party
 ||ejyymghi.com^$third-party
 ||endurablecrayon.com^third-party
+||falseframe.com^$third-party
 ||familiarfloor.com^$third-party
 ||familiarrod.com^$third-party
 ||farmergoldfish.com^$third-party
@@ -8368,6 +8378,7 @@ _mongo_stats/
 ||giraffepiano.com^$third-party
 ||gorgeousground.com^$third-party
 ||greyinstrument.com^$third-party
+||gulliblecamp.com^$third-party
 ||hammerhearing.com^$third-party
 ||hilariouszinc.com^$third-party
 ||horsenectar.com^$third-party
@@ -8375,6 +8386,7 @@ _mongo_stats/
 ||inquisitiveinvention.com^$third-party
 ||intelligentscissors.com^$third-party
 ||jadeitite.com^$third-party
+||jamexistence.com^$third-party
 ||jewelcheese.com^$third-party
 ||lamplow.com^$third-party
 ||leaplunchroom.com^$third-party
@@ -8385,6 +8397,8 @@ _mongo_stats/
 ||mowfruit.com^$third-party
 ||mundanepollution.com^$third-party
 ||nervoussummer.com^$third-party
+||parcelcreature.com^$third-party
+||parsimoniouspolice.com^$third-party
 ||pedropanther.com^$third-party
 ||penspade.com^$third-party
 ||perceivequarter.com^$third-party
@@ -8393,11 +8407,14 @@ _mongo_stats/
 ||pietexture.com^$third-party
 ||profusesupport.com^$third-party
 ||puffyloss.com^$third-party
+||puffypull.com^$third-party
 ||quaintcan.com^$third-party
 ||quietknowledge.com^$third-party
 ||raresummer.com^$third-party
 ||richstring.com^$third-party
+||ringplayground.com^$third-party
 ||ritzykey.com^$third-party
+||roofrelation.com^$third-party
 ||scintillatingspace.com^$third-party
 ||scrubswim.com^$third-party
 ||selectivesummer.com^$third-party
@@ -8410,15 +8427,18 @@ _mongo_stats/
 ||sombersurprise.com^$third-party
 ||sortsummer.com^$third-party
 ||spiffymachine.com^$third-party
+||spottednoise.com^$third-party
 ||spottysense.com^$third-party
 ||spurioussteam.com^$third-party
 ||squeakzinc.com^$third-party
 ||squirrelhands.com^$third-party
+||steadfastsound.com^$third-party
 ||steepsquirrel.com^$third-party
 ||stiffstem.com^$third-party
 ||storesurprise.com^$third-party
 ||stormyachiever.com^$third-party
 ||strivesidewalk.com^$third-party
+||stupendoussleet.com^$third-party
 ||suddensidewalk.com^$third-party
 ||sugarcurtain.com^$third-party
 ||tendertest.com^$third-party
@@ -11609,6 +11629,7 @@ _mongo_stats/
 ||video-cdn.net/event?
 ||video.google.com/api/stats/
 ||video.msn.com/report.aspx?
+||videoevents.outbrain.com^
 ||videoly.co^*/event/
 ||videopress.com/plugins/stats/
 ||viglink.com/api/ping$third-party
@@ -15158,7 +15179,6 @@ _mongo_stats/
 ||youtube-nocookie.com/robots.txt?
 ||youtube.com/api/stats/ads?
 ||youtube.com/api/stats/delayplay?
-||youtube.com/api/stats/playback?
 ||youtube.com/api/stats/qoe?
 ||youtube.com/get_video?
 ||youtube.com/ptracking?
@@ -16476,6 +16496,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||ensighten.com^*/serverComponent.php?$script
 @@||eplayerhtml5.performgroup.com/js/tsEplayerHtml5/js/Eplayer/js/quantcast/$script
 @@||events-collector.spot.im/api/$domain=foxbusiness.com|foxnews.com
+@@||evestment.com/api/analytics/$domain=evestment.com
 @@||fastway.co.nz/Umbraco/Api/Tracking/
 @@||fccbrea.org^*/swfaddress.js
 @@||fifa.com^*/webanalytics.js?
