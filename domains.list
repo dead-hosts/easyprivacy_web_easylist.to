@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201911151211
+! Version: 201911181238
 ! Title: EasyPrivacy
-! Last modified: 15 Nov 2019 12:11 UTC
+! Last modified: 18 Nov 2019 12:38 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1343,6 +1343,7 @@
 /counter.cgi/*
 /counter.cgi?
 /counter.do?
+/counter.js.php
 /counter.lt?
 /counter.php?chcounter_mode=
 /counter.pl?
@@ -2444,6 +2445,7 @@
 /logcounter.
 /logduration/*
 /logevent.action?
+/logevent/v2?
 /logEvent?
 /logExecutionStats?
 /logextrastats.
@@ -6016,6 +6018,7 @@ _mongo_stats/
 ||getsmartlook.com^$third-party
 ||getstatistics.se^$third-party
 ||gez.io^$third-party
+||gglscr.online^$third-party
 ||giddyuptrk.com^$third-party
 ||gigcount.com^$third-party
 ||gim.co.il^$third-party
@@ -6817,6 +6820,9 @@ _mongo_stats/
 ||pureairhits.com^$third-party
 ||purevideo.com^$third-party
 ||putags.com^$third-party
+||px-cdn.net^$third-party
+||px-cloud.net^$third-party
+||pxchk.net^$third-party
 ||pxf.io^$third-party
 ||pxi.pub^$third-party
 ||pymx5.com^$third-party
@@ -8351,6 +8357,7 @@ _mongo_stats/
 ||burnbubble.com^$third-party
 ||butterbulb.com^$third-party
 ||butterburst.com^$third-party
+||calculatorstatement.com^$third-party
 ||cannontwin.com^$third-party
 ||capsquirrel.com^$third-party
 ||caringzinc.com^$third-party
@@ -10124,6 +10131,7 @@ _mongo_stats/
 ||d1cr9zxt7u0sgu.cloudfront.net^
 ||d1f1eryiqyjs0r.cloudfront.net^*/track.
 ||d1gp8joe0evc8s.cloudfront.net^
+||d1hi41nc56pmug.cloudfront.net^
 ||d1ivexoxmp59q7.cloudfront.net^*/live.js
 ||d1ksyxj9xozc2j.cloudfront.net^
 ||d1lm7kd3bd3yo9.cloudfront.net^
@@ -10158,6 +10166,7 @@ _mongo_stats/
 ||d2gfdmu30u15x7.cloudfront.net^
 ||d2gfi8ctn6kki7.cloudfront.net^
 ||d2ibu2ug0mt5qp.cloudfront.net^
+||d2kdl5wcwrtj90.cloudfront.net^
 ||d2kmrmwhq7wkvs.cloudfront.net^
 ||d2kyy9hvbrzkgn.cloudfront.net^
 ||d2nq0f8d9ofdwv.cloudfront.net/track.js
@@ -10744,6 +10753,7 @@ _mongo_stats/
 ||mansion.com/mts.tracker.js
 ||mantisadnetwork.com/sync?
 ||mapquestapi.com/logger/
+||maps.google.com^*/stats.js
 ||maptrackpro.com/track/
 ||marketing.net.jumia.com.ng^
 ||marketingautomation.services/koi$third-party
@@ -11454,6 +11464,7 @@ _mongo_stats/
 ||track.td3x.com^
 ||track.uc.cn^
 ||track.untd.com^
+||track.vdo.ai^
 ||track.vscash.com^
 ||track.wayin.com^
 ||track.written.com^
@@ -13277,6 +13288,7 @@ _mongo_stats/
 ||experiandirect.com/javascripts/tracking.js
 ||experts-exchange.com/pageloaded.jsp?
 ||extendoffice.com/analytics.js
+||extra.tvmaze.com^
 ||extremetech.com/cszn/js/z0WVjCBSEeGLoxIxOQVEwQ.min.js
 ||extremetech.com/sac/mostclicked/$script
 ||extremetech.com^*/ga.js
@@ -13857,6 +13869,7 @@ _mongo_stats/
 ||mms.cnn.com^
 ||mms.coachmag.co.uk^
 ||mms.deadspin.com^
+||mms.expertreviews.co.uk^
 ||mms.gizmodo.com^
 ||mms.gulflive.com^
 ||mms.jalopnik.com^
@@ -13951,6 +13964,7 @@ _mongo_stats/
 ||netzero.net/account/event.do?$image
 ||newatlas.com/_track
 ||newegg.com/common/thirdparty/$subdocument
+||newegg.com/pfssl.js
 ||newegg.com/tracking
 ||news-leader.com^*/analytics.js
 ||news.cn/webdig.js
@@ -13990,6 +14004,7 @@ _mongo_stats/
 ||novatech.co.uk^*/tracking?
 ||novell.com^*/metrics.js
 ||novinite.com/tz.php
+||nozem.tvmaze.com^
 ||nst.com.my/statistic/
 ||nymag.com/js/2/metrony
 ||nymag.com^*/analytics.js
@@ -14844,7 +14859,6 @@ _mongo_stats/
 ||tracking.hsn.com^
 ||tracking.koego.com^
 ||tracking.military.com^
-||tracking.moneyam.com^
 ||tracking.mycapture.com^
 ||tracking.nextdoor.com^
 ||tracking.olx-st.com^
@@ -15207,6 +15221,7 @@ _mongo_stats/
 ||zawya.com^*/logFile.cfm?
 ||zdnet.com/wi?
 ||zedo.com/img/bh.gif?
+||zeus.slader.com^
 ||zmags.com/CommunityAnalyticsTracking
 ||zoomin.tv/impressions/
 ||zoomin.tv/impressionsplayers/
@@ -15225,6 +15240,7 @@ _mongo_stats/
 ||greenmangaming.com/omnopfddrdlevbbh.js
 ||gumtree.com/ycxwzbcsxennhrkc.js
 ||gumtree.com/ycxwzbcsxennhrkcxhr.js
+||paxful.com/bmlsclxndnomunnk.js
 ! stackoverflow
 /client-timings$domain=askubuntu.com|mathoverflow.net|serverfault.com|stackexchange.com|stackoverflow.com|superuser.com
 /gps/event$domain=askubuntu.com|mathoverflow.net|serverfault.com|stackexchange.com|stackoverflow.com|superuser.com
@@ -16492,6 +16508,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||darksky.net^*/analytics.js$script,~third-party
 @@||ddmcdn.com^*/comscore.streaming.$script,domain=animalplanet.com|discovery.com|investigationdiscovery.com|tlc.com
 @@||digitalgov.gov/Universal-Federated-Analytics-Min.js?$script,domain=travel.state.gov
+@@||disney-plus.net^*/analytics_script_bundle.js
 @@||docodoco.jp^*/docodoco?key=$script,domain=nidec-copal-electronics.com
 @@||dominos.com^*/assets/build/js/modules/dpz.tealium.js$script
 @@||dplay.com^*/comscore.streaming.min.js
