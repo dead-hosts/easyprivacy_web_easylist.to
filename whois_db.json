@@ -4185,8 +4185,8 @@
         "state": "future"
     },
     "calltrk.com": {
-        "epoch": 1574294400.0,
-        "expiration_date": "21-nov-2019",
+        "epoch": 1605916800.0,
+        "expiration_date": "21-nov-2020",
         "state": "future"
     },
     "calotag.com": {
@@ -9744,6 +9744,11 @@
         "expiration_date": "18-feb-2021",
         "state": "future"
     },
+    "geolid.com": {
+        "epoch": 1588464000.0,
+        "expiration_date": "03-may-2020",
+        "state": "future"
+    },
     "geoplugin.net": {
         "epoch": 1636156800.0,
         "expiration_date": "06-nov-2021",
@@ -10850,8 +10855,8 @@
         "state": "future"
     },
     "hmstats.com": {
-        "epoch": 1574208000.0,
-        "expiration_date": "20-nov-2019",
+        "epoch": 1605830400.0,
+        "expiration_date": "20-nov-2020",
         "state": "future"
     },
     "hobsons.co.uk": {
@@ -13727,6 +13732,11 @@
     "logaholic.com": {
         "epoch": 1576108800.0,
         "expiration_date": "12-dec-2019",
+        "state": "future"
+    },
+    "logbor.com": {
+        "epoch": 1600128000.0,
+        "expiration_date": "15-sep-2020",
         "state": "future"
     },
     "logcounter.com": {
@@ -16975,8 +16985,8 @@
         "state": "future"
     },
     "opbandit.com": {
-        "epoch": 1574208000.0,
-        "expiration_date": "20-nov-2019",
+        "epoch": 1605830400.0,
+        "expiration_date": "20-nov-2020",
         "state": "future"
     },
     "open.ua": {
@@ -17420,9 +17430,9 @@
         "state": "future"
     },
     "pc1.io": {
-        "epoch": 1574121600.0,
-        "expiration_date": "19-nov-2019",
-        "state": "past"
+        "epoch": 1605744000.0,
+        "expiration_date": "19-nov-2020",
+        "state": "future"
     },
     "pch.com": {
         "epoch": 1611014400,
@@ -21292,7 +21302,7 @@
     "smartocto.com": {
         "epoch": 1574294400.0,
         "expiration_date": "21-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "smartoffer.site": {
         "epoch": 1583625600,
@@ -21535,8 +21545,8 @@
         "state": "future"
     },
     "sophi.io": {
-        "epoch": 1574208000.0,
-        "expiration_date": "20-nov-2019",
+        "epoch": 1605830400.0,
+        "expiration_date": "20-nov-2020",
         "state": "future"
     },
     "sophus3.com": {
@@ -21870,8 +21880,8 @@
         "state": "future"
     },
     "srpx.net": {
-        "epoch": 1574208000.0,
-        "expiration_date": "20-nov-2019",
+        "epoch": 1605830400.0,
+        "expiration_date": "20-nov-2020",
         "state": "future"
     },
     "srv1010elan.com": {
@@ -22055,8 +22065,8 @@
         "state": "future"
     },
     "statistiche-web.com": {
-        "epoch": 1574294400.0,
-        "expiration_date": "21-nov-2019",
+        "epoch": 1605916800.0,
+        "expiration_date": "21-nov-2020",
         "state": "future"
     },
     "statistiche.it": {
@@ -23052,7 +23062,7 @@
     "tetoolbox.com": {
         "epoch": 1574294400.0,
         "expiration_date": "21-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "tgdaudience.com": {
         "epoch": 1577577600.0,
