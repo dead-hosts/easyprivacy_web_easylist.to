@@ -7980,8 +7980,8 @@
         "state": "future"
     },
     "eth-pocket.com": {
-        "epoch": 1574208000.0,
-        "expiration_date": "20-nov-2019",
+        "epoch": 1605830400.0,
+        "expiration_date": "20-nov-2020",
         "state": "future"
     },
     "ethn.io": {
@@ -14055,8 +14055,8 @@
         "state": "future"
     },
     "machieved.com": {
-        "epoch": 1574294400.0,
-        "expiration_date": "21-nov-2019",
+        "epoch": 1605916800.0,
+        "expiration_date": "21-nov-2020",
         "state": "future"
     },
     "macromill.com": {
@@ -14845,17 +14845,17 @@
         "state": "future"
     },
     "minero.cc": {
-        "epoch": 1593907200,
+        "epoch": 1593907200.0,
         "expiration_date": "05-jul-2020",
         "state": "future"
     },
     "minero.pw": {
-        "epoch": 1577318400,
+        "epoch": 1577318400.0,
         "expiration_date": "26-dec-2019",
         "state": "future"
     },
     "minescripts.info": {
-        "epoch": 1586908800,
+        "epoch": 1586908800.0,
         "expiration_date": "15-apr-2020",
         "state": "future"
     },
@@ -14865,7 +14865,7 @@
         "state": "future"
     },
     "minexmr.com": {
-        "epoch": 1591142400,
+        "epoch": 1591142400.0,
         "expiration_date": "03-jun-2020",
         "state": "future"
     },
@@ -14875,12 +14875,12 @@
         "state": "future"
     },
     "mining.best": {
-        "epoch": 1580169600,
+        "epoch": 1580169600.0,
         "expiration_date": "28-jan-2020",
         "state": "future"
     },
     "mininghub.club": {
-        "epoch": 1594425600,
+        "epoch": 1594425600.0,
         "expiration_date": "11-jul-2020",
         "state": "future"
     },
@@ -14895,7 +14895,7 @@
         "state": "future"
     },
     "minr.pw": {
-        "epoch": 1586995200,
+        "epoch": 1586995200.0,
         "expiration_date": "16-apr-2020",
         "state": "future"
     },
@@ -14995,7 +14995,7 @@
         "state": "future"
     },
     "mmpool.org": {
-        "epoch": 1585612800,
+        "epoch": 1585612800.0,
         "expiration_date": "31-mar-2020",
         "state": "future"
     },
@@ -15060,7 +15060,7 @@
         "state": "future"
     },
     "mollnia.com": {
-        "epoch": 1599868800,
+        "epoch": 1599868800.0,
         "expiration_date": "12-sep-2020",
         "state": "future"
     },
@@ -15075,22 +15075,27 @@
         "state": "future"
     },
     "monerise.com": {
-        "epoch": 1602633600,
+        "epoch": 1602633600.0,
         "expiration_date": "14-oct-2020",
         "state": "future"
     },
     "monero-miner.com": {
-        "epoch": 1600819200,
+        "epoch": 1600819200.0,
         "expiration_date": "23-sep-2020",
         "state": "future"
     },
     "monerominer.rocks": {
-        "epoch": 1601337600,
+        "epoch": 1601337600.0,
         "expiration_date": "29-sep-2020",
         "state": "future"
     },
+    "moneromining.online": {
+        "epoch": 1581897600.0,
+        "expiration_date": "17-feb-2020",
+        "state": "future"
+    },
     "moneroocean.stream": {
-        "epoch": 1881100800,
+        "epoch": 1881100800.0,
         "expiration_date": "11-aug-2029",
         "state": "future"
     },
@@ -15120,7 +15125,7 @@
         "state": "future"
     },
     "monkeyminer.net": {
-        "epoch": 1595462400,
+        "epoch": 1595462400.0,
         "expiration_date": "23-jul-2020",
         "state": "future"
     },
@@ -15155,7 +15160,7 @@
         "state": "future"
     },
     "moonsade.com": {
-        "epoch": 1585958400,
+        "epoch": 1585958400.0,
         "expiration_date": "04-apr-2020",
         "state": "future"
     },
@@ -15165,7 +15170,7 @@
         "state": "future"
     },
     "morningdigit.com": {
-        "epoch": 1597017600,
+        "epoch": 1597017600.0,
         "expiration_date": "10-aug-2020",
         "state": "future"
     },
@@ -15280,7 +15285,7 @@
         "state": "past"
     },
     "mrycrypto.com": {
-        "epoch": 1588550400,
+        "epoch": 1588550400.0,
         "expiration_date": "04-may-2020",
         "state": "future"
     },
@@ -15360,7 +15365,7 @@
         "state": "future"
     },
     "munero.me": {
-        "epoch": 1599177600,
+        "epoch": 1599177600.0,
         "expiration_date": "04-sep-2020",
         "state": "future"
     },
@@ -15400,7 +15405,7 @@
         "state": "future"
     },
     "mutinyhq.com": {
-        "epoch": 1586131200,
+        "epoch": 1586131200.0,
         "expiration_date": "06-apr-2020",
         "state": "future"
     },
@@ -15415,7 +15420,7 @@
         "state": "future"
     },
     "mwor.gq": {
-        "epoch": 1885680000,
+        "epoch": 1885680000.0,
         "expiration_date": "03-oct-2029",
         "state": "future"
     },
@@ -15495,7 +15500,7 @@
         "state": "future"
     },
     "mycryrpto.com": {
-        "epoch": 1588550400,
+        "epoch": 1588550400.0,
         "expiration_date": "04-may-2020",
         "state": "future"
     },
@@ -15575,7 +15580,7 @@
         "state": "future"
     },
     "myrcrypto.com": {
-        "epoch": 1588550400,
+        "epoch": 1588550400.0,
         "expiration_date": "04-may-2020",
         "state": "future"
     },
@@ -15590,7 +15595,7 @@
         "state": "future"
     },
     "myregeneaf.com": {
-        "epoch": 1600992000,
+        "epoch": 1600992000.0,
         "expiration_date": "25-sep-2020",
         "state": "future"
     },
@@ -15700,7 +15705,7 @@
         "state": "future"
     },
     "nabaza.com": {
-        "epoch": 1631404800,
+        "epoch": 1631404800.0,
         "expiration_date": "12-sep-2021",
         "state": "future"
     },
@@ -15710,12 +15715,12 @@
         "state": "future"
     },
     "nablabee.com": {
-        "epoch": 1578355200,
+        "epoch": 1578355200.0,
         "expiration_date": "07-jan-2020",
         "state": "future"
     },
     "nahnoji.cz": {
-        "epoch": 1626912000,
+        "epoch": 1626912000.0,
         "expiration_date": "22-jul-2021",
         "state": "future"
     },
@@ -15730,7 +15735,7 @@
         "state": "future"
     },
     "nametraff.com": {
-        "epoch": 1595203200,
+        "epoch": 1595203200.0,
         "expiration_date": "20-jul-2020",
         "state": "future"
     },
@@ -15780,7 +15785,7 @@
         "state": "future"
     },
     "nathetsof.com": {
-        "epoch": 1585958400,
+        "epoch": 1585958400.0,
         "expiration_date": "04-apr-2020",
         "state": "future"
     },
@@ -15900,7 +15905,7 @@
         "state": "future"
     },
     "nddmcconmqsy.ru": {
-        "epoch": 1594425600,
+        "epoch": 1594425600.0,
         "expiration_date": "11-jul-2020",
         "state": "future"
     },
@@ -15980,7 +15985,7 @@
         "state": "future"
     },
     "ner-de-mi-nis-6.info": {
-        "epoch": 1600560000,
+        "epoch": 1600560000.0,
         "expiration_date": "20-sep-2020",
         "state": "future"
     },
@@ -15995,7 +16000,7 @@
         "state": "future"
     },
     "nerohut.com": {
-        "epoch": 1583798400,
+        "epoch": 1583798400.0,
         "expiration_date": "10-mar-2020",
         "state": "future"
     },
@@ -16160,7 +16165,7 @@
         "state": "future"
     },
     "never.ovh": {
-        "epoch": 1581638400,
+        "epoch": 1581638400.0,
         "expiration_date": "14-feb-2020",
         "state": "future"
     },
@@ -16255,7 +16260,7 @@
         "state": "future"
     },
     "nexioniect.com": {
-        "epoch": 1600992000,
+        "epoch": 1600992000.0,
         "expiration_date": "25-sep-2020",
         "state": "future"
     },
@@ -16270,7 +16275,7 @@
         "state": "future"
     },
     "nextbdom.ru": {
-        "epoch": 1590451200,
+        "epoch": 1590451200.0,
         "expiration_date": "26-may-2020",
         "state": "future"
     },
@@ -16280,7 +16285,7 @@
         "state": "future"
     },
     "nexttime.ovh": {
-        "epoch": 1582156800,
+        "epoch": 1582156800.0,
         "expiration_date": "20-feb-2020",
         "state": "future"
     },
@@ -16295,7 +16300,7 @@
         "state": "future"
     },
     "nfwebminer.com": {
-        "epoch": 1580947200,
+        "epoch": 1580947200.0,
         "expiration_date": "06-feb-2020",
         "state": "future"
     },
@@ -16365,32 +16370,32 @@
         "state": "future"
     },
     "nimiq.com": {
-        "epoch": 1577836800,
+        "epoch": 1577836800.0,
         "expiration_date": "01-jan-2020",
         "state": "future"
     },
     "nimiq.watch": {
-        "epoch": 1624147200,
+        "epoch": 1624147200.0,
         "expiration_date": "20-jun-2021",
         "state": "future"
     },
     "nimiqchain.info": {
-        "epoch": 1594080000,
+        "epoch": 1594080000.0,
         "expiration_date": "07-jul-2020",
         "state": "future"
     },
     "nimiqpool.com": {
-        "epoch": 1595721600,
+        "epoch": 1595721600.0,
         "expiration_date": "26-jul-2020",
         "state": "future"
     },
     "nimiqtest.net": {
-        "epoch": 1585526400,
+        "epoch": 1585526400.0,
         "expiration_date": "30-mar-2020",
         "state": "future"
     },
     "nimpool.io": {
-        "epoch": 1576540800,
+        "epoch": 1576540800.0,
         "expiration_date": "17-dec-2019",
         "state": "future"
     },
@@ -16455,7 +16460,7 @@
         "state": "future"
     },
     "notmining.org": {
-        "epoch": 1576368000,
+        "epoch": 1576368000.0,
         "expiration_date": "15-dec-2019",
         "state": "future"
     },
@@ -16700,7 +16705,7 @@
         "state": "future"
     },
     "oei1.gq": {
-        "epoch": 1591056000,
+        "epoch": 1591056000.0,
         "expiration_date": "02-jun-2020",
         "state": "future"
     },
@@ -16720,7 +16725,7 @@
         "state": "future"
     },
     "offerreality.com": {
-        "epoch": 1598227200,
+        "epoch": 1598227200.0,
         "expiration_date": "24-aug-2020",
         "state": "future"
     },
@@ -16790,7 +16795,7 @@
         "state": "future"
     },
     "olecintri.com": {
-        "epoch": 1603843200,
+        "epoch": 1603843200.0,
         "expiration_date": "28-oct-2020",
         "state": "future"
     },
