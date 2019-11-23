@@ -3,6 +3,17 @@
 
 Subject                                                                                              Source     HTTP Code  Analyze Date        
 meetrics.netbb-                                                                                      SYNTAX     XXX        2019-11-23T19:53:10.902182
+121.78.90.104:8383                                                                                   SYNTAX     XXX        2019-11-23T21:08:11.985539
+58.68.146.44:8000                                                                                    SYNTAX     XXX        2019-11-23T21:08:13.133956
+activity.*.miui.com                                                                                  SYNTAX     XXX        2019-11-23T21:08:14.316564
+analytics-beacon-*.amazonaws.com                                                                     SYNTAX     XXX        2019-11-23T21:08:19.866261
+bc.geocities.                                                                                        SYNTAX     XXX        2019-11-23T21:08:25.726280
+bin.clearspring.*                                                                                    SYNTAX     XXX        2019-11-23T21:08:26.742764
+cloudfront.net*                                                                                      SYNTAX     XXX        2019-11-23T21:08:32.109373
+cloudfront.net*                                                                                      SYNTAX     XXX        2019-11-23T21:08:32.173178
+cloudfront.net*                                                                                      SYNTAX     XXX        2019-11-23T21:08:32.238783
+cloudfront.net*                                                                                      SYNTAX     XXX        2019-11-23T21:08:32.363017
+collect.*.miui.com                                                                                   SYNTAX     XXX        2019-11-23T21:08:35.057624
 irs01.                                                                                               SYNTAX     XXX        2019-11-23T20:48:01.708445
 minero-proxy-*.sh                                                                                    SYNTAX     XXX        2019-11-23T20:31:24.675155
 site.flashx.                                                                                         SYNTAX     XXX        2019-11-23T20:47:31.980480
