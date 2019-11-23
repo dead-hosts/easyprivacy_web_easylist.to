@@ -8387,137 +8387,26 @@
         "1573131877": {
             "cast.ra.icast.cn": "INACTIVE"
         },
-        "1573131883": {
-            "cclickvidservgs.com": "INACTIVE"
-        },
         "1573131884": {
             "cct2.o2online.de": "INACTIVE"
-        },
-        "1573131889": {
-            "cd.musicmass.com": "INACTIVE"
-        },
-        "1573131942": {
-            "cdnstats.tube8.com": "INACTIVE"
         },
         "1573131959": {
             "cfcn.allocine.net": "INACTIVE"
         },
-        "1573131999": {
-            "chkpt.zdnet.com": "INACTIVE"
-        },
-        "1573132002": {
-            "chunk.bustle.com": "INACTIVE"
-        },
-        "1573132013": {
-            "clancy.spiceworks.com": "INACTIVE",
-            "classic.comunio.*": "INVALID"
-        },
-        "1573132015": {
-            "clc.stackoverflow.com": "INACTIVE"
-        },
-        "1573132025": {
-            "cl.expedia.com": "INACTIVE"
-        },
-        "1573132032": {
-            "click2.cafepress.com": "INACTIVE"
-        },
-        "1573132068": {
-            "click.jasmin.com": "INACTIVE"
-        },
-        "1573132069": {
-            "click.livejasmin.com": "INACTIVE"
-        },
-        "1573132077": {
-            "click.mmosite.com": "INACTIVE"
-        },
-        "1573132079": {
-            "clicks.hurriyet.com.tr": "INACTIVE"
-        },
-        "1573132086": {
-            "clicks.traffictrader.net": "INACTIVE"
-        },
-        "1573132106": {
-            "client-event-reporter.twitch.tv": "INACTIVE",
-            "clientlog.portal.office.com": "INACTIVE"
-        },
-        "1573132123": {
-            "climatedesk.org*": "INVALID"
-        },
-        "1573132125": {
-            "clk.about.com": "INACTIVE"
-        },
-        "1573132138": {
-            "clog.go.com": "INACTIVE"
-        },
-        "1573132146": {
-            "cls.ichotelsgroup.com": "INACTIVE"
-        },
-        "1573132149": {
-            "c.microsoft.com": "INACTIVE"
-        },
-        "1573132164": {
-            "cmstrendslog.timesnow.tv": "INACTIVE"
-        },
-        "1573132170": {
-            "c.newsinc.com": "INACTIVE"
-        },
-        "1573134415": {
-            "collect2.sas.com": "INACTIVE"
-        },
-        "1573134416": {
-            "collection.theaa.com": "INACTIVE"
-        },
-        "1573134418": {
-            "collector-cdn.github.com": "INACTIVE",
-            "collector.fiverr.com": "INACTIVE"
-        },
-        "1573134426": {
-            "collector.prod.expedia.com": "INACTIVE"
-        },
-        "1573134427": {
-            "collector.shopstream.co": "INACTIVE",
-            "collector.shorte.st": "INACTIVE"
-        },
-        "1573134434": {
-            "collector*.xhamster.com": "INVALID",
-            "collector.tescocompare.com": "INACTIVE",
-            "collector.wallapop.com": "INACTIVE"
-        },
-        "1573134435": {
-            "collect.sas.com": "INACTIVE"
-        },
         "1573134438": {
             "collect.yinyuetai.com": "INACTIVE"
-        },
-        "1573134447": {
-            "comms-web-tracking.uswitchinternal.com": "INACTIVE"
-        },
-        "1573134448": {
-            "compare.easyvoyage.": "INVALID"
-        },
-        "1573134596": {
-            "counter.joins.com": "INACTIVE"
         },
         "1573134624": {
             "counter.people.cn": "INACTIVE"
         },
-        "1573134642": {
-            "counter.sina.com.cn": "INACTIVE"
-        },
-        "1573134645": {
-            "counter.theconversation.edu.au": "INACTIVE"
-        },
         "1573134669": {
-            "counter.zeit.de": "INACTIVE",
-            "counter.zerohedge.com": "INACTIVE"
+            "counter.zeit.de": "INACTIVE"
         },
         "1573134702": {
             "count.joy.cn": "INACTIVE"
         },
         "1573134703": {
-            "count.kandian.com": "INACTIVE",
-            "count.livetv.ru": "INACTIVE",
-            "count.livetv.sx": "INACTIVE"
+            "count.kandian.com": "INACTIVE"
         },
         "1573134706": {
             "count.newhua.com": "INACTIVE"
@@ -8534,21 +8423,6 @@
         "1573134726": {
             "cpix.daserste.de": "INACTIVE"
         },
-        "1573134733": {
-            "cpt.itv.com": "INACTIVE"
-        },
-        "1573134755": {
-            "creativefactory.zalando.": "INVALID"
-        },
-        "1573134762": {
-            "cr-eec.etp-prod.com": "INACTIVE"
-        },
-        "1573134820": {
-            "ct.buzzfeed.com": "INACTIVE"
-        },
-        "1573134826": {
-            "ct.cnet.com": "INACTIVE"
-        },
         "1573134840": {
             "c.t-online.de": "INACTIVE"
         },
@@ -8558,57 +8432,18 @@
         "1573134874": {
             "cxt.deutsche-bank.de": "INACTIVE"
         },
-        "1573134893": {
-            "d1.abtshield.com": "INACTIVE"
-        },
-        "1573134962": {
-            "datacollector.coin.scribol.com": "INACTIVE"
-        },
-        "1573137156": {
-            "data.mic.com": "INACTIVE"
-        },
-        "1573137163": {
-            "data.ninemsn.com.au": "INACTIVE"
-        },
-        "1573137165": {
-            "data.ryanair.com": "INACTIVE"
-        },
-        "1573137175": {
-            "da.virginmedia.com": "INACTIVE"
-        },
-        "1573137180": {
-            "dcs.mattel.com": "INACTIVE"
-        },
-        "1573137181": {
-            "dcs.maxthon.com": "INACTIVE"
-        },
         "1573137213": {
             "deliver.ifeng.com": "INACTIVE"
-        },
-        "1573137244": {
-            "diag.doba.com": "INACTIVE"
-        },
-        "1573137247": {
-            "diet.rodale.com": "INACTIVE"
-        },
-        "1573137305": {
-            "dmeserv.newsinc.com": "INACTIVE"
         },
         "1573137306": {
             "dm.hugolescargot.com": "INACTIVE",
             "dm.journaldesfemmes.com": "INACTIVE"
-        },
-        "1573137324": {
-            "dmtracking2.alibaba.com": "INACTIVE"
         },
         "1573137331": {
             "dmtrack.xiu.com": "INACTIVE"
         },
         "1573137345": {
             "dna.uol.com.br": "INACTIVE"
-        },
-        "1573137393": {
-            "dw.cnet.com": "INACTIVE"
         },
         "1573137402": {
             "dwtracking.sdo.com": "INACTIVE"
@@ -8621,14 +8456,10 @@
         },
         "1573137414": {
             "ea.jeuxvideopc.com": "INACTIVE",
-            "ea.laredoute.": "INVALID",
             "ea.lexpress.fr": "INACTIVE"
         },
         "1573137415": {
             "ea.monsieurmanuel.com": "INACTIVE"
-        },
-        "1573137416": {
-            "ea.pixmania.": "INVALID"
         },
         "1573137423": {
             "ea.rueducommerce.fr": "INACTIVE"
@@ -8636,29 +8467,11 @@
         "1573137436": {
             "ea.warnerbros.fr": "INACTIVE"
         },
-        "1573137447": {
-            "ec2-prod-tracker.babelgum.com": "INACTIVE"
-        },
-        "1573137486": {
-            "ekg.riotgames.com": "INACTIVE"
-        },
         "1573137496": {
             "elr.sfr.fr": "INACTIVE"
         },
-        "1573137503": {
-            "email.aol.com": "INACTIVE"
-        },
         "1573137515": {
             "emng.libero.it": "INACTIVE"
-        },
-        "1573137523": {
-            "encrypted.google.*": "INVALID"
-        },
-        "1573137552": {
-            "enlightenment.secureshoppingbasket.com": "INACTIVE"
-        },
-        "1573137563": {
-            "entry-stats.huffingtonpost.com": "INACTIVE"
         },
         "1573137607": {
             "e-spy.petit.lv": "INACTIVE"
@@ -8666,54 +8479,20 @@
         "1573137614": {
             "estadonline.publiguias.cl": "INACTIVE"
         },
-        "1573137639": {
-            "et.nytimes.com": "INACTIVE"
-        },
-        "1573137652": {
-            "eulerian.sarenza.com": "INACTIVE"
-        },
         "1573137653": {
             "eultech.fnac.com": "INACTIVE"
-        },
-        "1573137676": {
-            "event-reporting-dot-webylytics.appspot.com": "INACTIVE"
         },
         "1573137678": {
             "events.ingatlan.com": "INACTIVE"
         },
-        "1573137679": {
-            "events.jora.com": "INACTIVE"
-        },
-        "1573137694": {
-            "events.redditmedia.com": "INACTIVE"
-        },
         "1573137695": {
-            "events.turbosquid.com": "INACTIVE",
             "events.walla.co.il": "INACTIVE"
-        },
-        "1573137696": {
-            "eventtracker.elitedaily.com": "INACTIVE"
-        },
-        "1573137711": {
-            "ev.kck.st": "INACTIVE"
-        },
-        "1573139287": {
-            "expbl2ro.xbox.com": "INACTIVE",
-            "expdb2.msn.com": "INACTIVE",
-            "expedia.*": "INVALID"
         },
         "1573139291": {
             "extszm.web.de": "INACTIVE"
         },
-        "1573139362": {
-            "felitb.rightinthebox.com": "INACTIVE"
-        },
         "1573139394": {
             "flashx.*": "INVALID"
-        },
-        "1573139415": {
-            "fls-*.amazon.*%": "INVALID",
-            "fls-*.amazon.*&": "INVALID"
         },
         "1573139429": {
             "footprint.anetwork.ir": "INACTIVE"
@@ -8721,88 +8500,20 @@
         "1573139495": {
             "fundingchoicesmessages.google.com": "INACTIVE"
         },
-        "1573139496": {
-            "funn.graphiq.com": "INACTIVE"
-        },
         "1573139509": {
             "fusion.bonniertidskrifter.se": "INACTIVE"
         },
         "1573139510": {
             "fusion.nettavisen.no": "INACTIVE"
         },
-        "1573139541": {
-            "gallup.wn.com": "INACTIVE"
-        },
-        "1573139552": {
-            "gateway.reddit.com|": "INVALID"
-        },
         "1573139553": {
             "gather.hankyung.com": "INACTIVE"
-        },
-        "1573139564": {
-            "g.deathandtaxesmag.com": "INACTIVE"
-        },
-        "1573139569": {
-            "gekko.spiceworks.com": "INACTIVE"
-        },
-        "1573139582": {
-            "geo.hltv.org": "INACTIVE",
-            "geoip.al.com": "INACTIVE",
-            "geoip.cleveland.com": "INACTIVE"
-        },
-        "1573139583": {
-            "geoip.gulflive.com": "INACTIVE",
-            "geoip.lehighvalleylive.com": "INACTIVE"
-        },
-        "1573139584": {
-            "geoip.masslive.com": "INACTIVE",
-            "geoip.mlive.com": "INACTIVE",
-            "geoip.nj.com": "INACTIVE",
-            "geoiplookup.wikimedia.org": "INACTIVE"
-        },
-        "1573139585": {
-            "geoip.nola.com": "INACTIVE",
-            "geoip.oregonlive.com": "INACTIVE",
-            "geoip.pennlive.com": "INACTIVE",
-            "geoip.silive.com": "INACTIVE",
-            "geoip.syracuse.com": "INACTIVE"
-        },
-        "1573139587": {
-            "geo.mozilla.org": "INACTIVE"
-        },
-        "1573139588": {
-            "geo.perezhilton.com": "INACTIVE",
-            "geo.play.it": "INACTIVE"
-        },
-        "1573139589": {
-            "geo.theawesomer.com": "INACTIVE"
-        },
-        "1573139590": {
-            "geo.yahoo.com": "INACTIVE"
         },
         "1573139601": {
             "getscreensaver.it": "INACTIVE"
         },
-        "1573139626": {
-            "gismeteo.*": "INVALID"
-        },
-        "1573139642": {
-            "glean.pop6.com": "INACTIVE"
-        },
-        "1573139671": {
-            "gmonitor.aliimg.com": "INACTIVE"
-        },
-        "1573139677": {
-            "gnar.grammarly.com": "INACTIVE"
-        },
         "1573139682": {
             "go.bluewin.ch": "INACTIVE"
-        },
-        "1573139693": {
-            "google.*": "INVALID"
-        },
-        "1573139728": {
-            "groupon.*": "INVALID"
         },
         "1573139742": {
             "g.siliconweek.es": "INACTIVE"
@@ -8813,18 +8524,6 @@
         "1573139764": {
             "g.techweekeurope.it": "INACTIVE"
         },
-        "1573139770": {
-            "g.vev.io": "INACTIVE"
-        },
-        "1573139791": {
-            "haxx.ly": "INACTIVE"
-        },
-        "1573139799": {
-            "h.cliphunter.com": "INACTIVE"
-        },
-        "1573139841": {
-            "hitcount.heraldm.com": "INACTIVE"
-        },
         "1573139844": {
             "hit.leboncoin.fr": "INACTIVE"
         },
@@ -8834,119 +8533,17 @@
         "1573139868": {
             "hk.ndx.nextmedia.com": "INACTIVE"
         },
-        "1573141453": {
-            "hrum.hotelsapi.io": "INACTIVE"
-        },
-        "1573141464": {
-            "huffingtonpost.*": "INVALID"
-        },
-        "1573141502": {
-            "ibs.indiatimes.com": "INACTIVE"
-        },
-        "1573141504": {
-            "id.allegisgroup.com": "INACTIVE",
-            "id.google.*": "INVALID"
-        },
-        "1573141523": {
-            "id.localsearch.ch": "INACTIVE"
-        },
-        "1573141575": {
-            "imgtrack.domainmarket.com": "INACTIVE"
-        },
-        "1573141583": {
-            "imonitor.dhgate.com": "INACTIVE"
-        },
-        "1573141633": {
-            "influxer.onion.com": "INACTIVE"
-        },
-        "1573141639": {
-            "ingest.onion.com": "INACTIVE"
-        },
-        "1573141650": {
-            "inquiries.redhat.com": "INACTIVE"
-        },
-        "1573141666": {
-            "insidesoci.al": "INACTIVE"
-        },
-        "1573141717": {
-            "intent.cbsi.com": "INACTIVE"
-        },
-        "1573141748": {
-            "ip.breitbart.com": "INACTIVE"
-        },
         "1573141788": {
             "is.base.de": "INACTIVE"
         },
-        "1573141828": {
-            "ixquick.*": "INVALID"
-        },
-        "1573141831": {
-            "jack.allday.com": "INACTIVE"
-        },
-        "1573141893": {
-            "kayak.*": "INVALID"
-        },
         "1573141925": {
-            "kiks.auto.ru": "INACTIVE",
-            "kiks.yandex.": "INACTIVE"
-        },
-        "1573141927": {
-            "kinesisproxy.hearstlabs.com": "INACTIVE"
+            "kiks.auto.ru": "INACTIVE"
         },
         "1573141951": {
             "krissi-ist-weg.de": "INACTIVE"
         },
-        "1573141957": {
-            "l.5min.com": "INACTIVE"
-        },
-        "1573141963": {
-            "laas.americanexpress.com": "INACTIVE"
-        },
-        "1573141983": {
-            "lcs.naver.": "INVALID"
-        },
-        "1573143286": {
-            "linguee.com*": "INVALID"
-        },
-        "1573143288": {
-            "link.codeyear.com": "INACTIVE"
-        },
-        "1573143290": {
-            "link.ex.fm": "INACTIVE"
-        },
-        "1573143304": {
-            "linkpuls.idg.no": "INACTIVE"
-        },
-        "1573143314": {
-            "live-audience.dailymotion.com": "INACTIVE"
-        },
-        "1573143328": {
-            "live.philips.com": "INACTIVE"
-        },
-        "1573143338": {
-            "livesupport.zol.co.zw": "INACTIVE"
-        },
-        "1573143347": {
-            "lm.pcworld.com": "INACTIVE"
-        },
         "1573143348": {
             "ln.ameba.jp": "INACTIVE"
-        },
-        "1573143355": {
-            "log1.24liveplus.com": "INACTIVE"
-        },
-        "1573143376": {
-            "log.data.disney.com": "INACTIVE",
-            "log.deutschegrammophon.com": "INACTIVE"
-        },
-        "1573143377": {
-            "logdev.openload.co": "INACTIVE"
-        },
-        "1573143382": {
-            "logger-*.dailymotion.com": "INVALID"
-        },
-        "1573143383": {
-            "logger.nerdwallet.com": "INACTIVE"
         },
         "1573143395": {
             "logger.rm.uol.com.br": "INACTIVE"
@@ -8954,38 +8551,14 @@
         "1573143397": {
             "logger.uol.com.br": "INACTIVE"
         },
-        "1573143403": {
-            "logger.viki.io": "INACTIVE"
-        },
-        "1573143404": {
-            "loggingservices.tribune.com": "INACTIVE"
-        },
-        "1573143411": {
-            "log.go.com": "INACTIVE",
-            "log.hypebeast.com": "INACTIVE"
-        },
         "1573143423": {
             "log*.ku6.com": "INVALID"
         },
-        "1573143424": {
-            "loglady.publicbroadcasting.net": "INACTIVE"
-        },
-        "1573143437": {
-            "log.player.cntv.cn": "INACTIVE",
-            "log.prezi.com": "INACTIVE"
-        },
         "1573143438": {
-            "log.quora.com": "INACTIVE",
             "log.r7.com": "INACTIVE"
         },
         "1573143446": {
             "logs.51cto.com": "INACTIVE"
-        },
-        "1573143453": {
-            "logs.dashlane.com": "INACTIVE"
-        },
-        "1573143454": {
-            "logs.gaana.com": "INACTIVE"
         },
         "1573143455": {
             "logs.live.tudou.com": "INACTIVE"
@@ -8999,82 +8572,11 @@
         "1573143476": {
             "log.sz-online.de": "INACTIVE"
         },
-        "1573143479": {
-            "log.vdn.apps.cntv.cn": "INACTIVE"
-        },
         "1573143492": {
             "log.ynet.com": "INACTIVE"
         },
-        "1573143493": {
-            "lolbin.net": "INACTIVE"
-        },
-        "1573143529": {
-            "lsam.research.microsoft.com": "INACTIVE"
-        },
-        "1573143541": {
-            "lslmetrics.djlmgdigital.com": "INACTIVE"
-        },
-        "1573143576": {
-            "maps.nokia.com": "INACTIVE"
-        },
-        "1573143579": {
-            "marketing.kalahari.net": "INACTIVE"
-        },
-        "1573143607": {
-            "massdrop.com*": "INVALID"
-        },
-        "1573143680": {
-            "merlin.abc.go.com": "INACTIVE"
-        },
-        "1573143683": {
-            "metric-agent.i10c.net": "INACTIVE",
-            "metric.gstatic.com": "INACTIVE"
-        },
-        "1573143685": {
-            "metric*.rediff.com": "INVALID"
-        },
-        "1573143686": {
-            "metrics.aws.sitepoint.com": "INACTIVE",
-            "metrics.bangbros.com": "INACTIVE"
-        },
-        "1573143687": {
-            "metrics.dailymotion.com": "INACTIVE"
-        },
-        "1573143749": {
-            "mint.boingboing.net": "INACTIVE"
-        },
-        "1573143820": {
-            "mp.twitch.tv": "INACTIVE"
-        },
-        "1573143835": {
-            "mtoza.vzaar.com": "INACTIVE"
-        },
-        "1573145266": {
-            "mts-ws.rueducommerce.fr": "INACTIVE"
-        },
-        "1573145401": {
-            "navlog.channel4.com": "INACTIVE"
-        },
-        "1573145403": {
-            "nb.myspace.com": "INACTIVE"
-        },
-        "1573145407": {
-            "ned.itv.com": "INACTIVE"
-        },
-        "1573145470": {
-            "newsletter.mybboard.net": "INACTIVE"
-        },
-        "1573145520": {
-            "nmtracking.netflix.com": "INACTIVE"
-        },
         "1573145558": {
             "nstat.tudou.com": "INACTIVE"
-        },
-        "1573145654": {
-            "ophan.theguardian.com": "INACTIVE"
-        },
-        "1573145671": {
-            "origin.chron.com": "INACTIVE"
         },
         "1573145692": {
             "outal.origo.hu": "INACTIVE"
@@ -9082,30 +8584,8 @@
         "1573145693": {
             "ovni9.com": "INACTIVE"
         },
-        "1573145702": {
-            "pageinfo.motorsport.com": "INACTIVE"
-        },
-        "1573145725": {
-            "partners.badongo.com": "INACTIVE"
-        },
         "1573145731": {
             "passul.t-online.de": "INACTIVE"
-        },
-        "1573145739": {
-            "pclick.europe.yahoo.com": "INACTIVE"
-        },
-        "1573145742": {
-            "pclick.internal.yahoo.com": "INACTIVE"
-        },
-        "1573145750": {
-            "pclick.yahoo.com": "INACTIVE",
-            "pcp001.com": "INACTIVE"
-        },
-        "1573145781": {
-            "pf.newegg.com": "INACTIVE"
-        },
-        "1573145783": {
-            "phar.gu-web.net": "INACTIVE"
         },
         "1573145807": {
             "pictures.zooplus.com": "INACTIVE"
@@ -9976,9 +9456,6 @@
         },
         "1573156366": {
             "yjtag.yahoo.co.jp": "INACTIVE"
-        },
-        "1573160922": {
-            "counter.promodeejay.net": "INACTIVE"
         },
         "1574538790": {
             "0tracker.com": "INACTIVE",
@@ -11548,6 +11025,170 @@
         },
         "1574546093": {
             "bits.wikimedia.org": "INACTIVE"
+        },
+        "1574546988": {
+            "c.microsoft.com": "INACTIVE",
+            "c.newsinc.com": "INACTIVE"
+        },
+        "1574546989": {
+            "cclickvidservgs.com": "INACTIVE"
+        },
+        "1574546990": {
+            "cd.musicmass.com": "INACTIVE"
+        },
+        "1574546991": {
+            "chunk.bustle.com": "INACTIVE",
+            "classic.comunio.*": "INVALID",
+            "click.mmosite.com": "INACTIVE",
+            "clientlog.portal.office.com": "INACTIVE",
+            "climatedesk.org*": "INVALID",
+            "cls.ichotelsgroup.com": "INACTIVE"
+        },
+        "1574546992": {
+            "collect.sas.com": "INACTIVE",
+            "collect2.sas.com": "INACTIVE",
+            "collection.theaa.com": "INACTIVE",
+            "collector.shopstream.co": "INACTIVE",
+            "collector.shorte.st": "INACTIVE"
+        },
+        "1574546993": {
+            "comms-web-tracking.uswitchinternal.com": "INACTIVE",
+            "compare.easyvoyage.": "INVALID",
+            "count.livetv.ru": "INACTIVE",
+            "count.livetv.sx": "INACTIVE",
+            "counter.joins.com": "INACTIVE",
+            "counter.promodeejay.net": "INACTIVE"
+        },
+        "1574546994": {
+            "creativefactory.zalando.": "INVALID"
+        },
+        "1574546995": {
+            "ct.buzzfeed.com": "INACTIVE"
+        },
+        "1574546996": {
+            "data.ryanair.com": "INACTIVE",
+            "datacollector.coin.scribol.com": "INACTIVE",
+            "dcs.mattel.com": "INACTIVE",
+            "dcs.maxthon.com": "INACTIVE",
+            "diag.doba.com": "INACTIVE"
+        },
+        "1574546997": {
+            "diet.rodale.com": "INACTIVE",
+            "dmeserv.newsinc.com": "INACTIVE"
+        },
+        "1574546999": {
+            "ea.laredoute.": "INVALID",
+            "ea.pixmania.": "INVALID",
+            "ec2-prod-tracker.babelgum.com": "INACTIVE"
+        },
+        "1574547000": {
+            "encrypted.google.*": "INVALID",
+            "entry-stats.huffingtonpost.com": "INACTIVE"
+        },
+        "1574547001": {
+            "eventtracker.elitedaily.com": "INACTIVE"
+        },
+        "1574547002": {
+            "expedia.*": "INVALID"
+        },
+        "1574547005": {
+            "fls-*.amazon.*%": "INVALID",
+            "fls-*.amazon.*&": "INVALID"
+        },
+        "1574547007": {
+            "g.deathandtaxesmag.com": "INACTIVE"
+        },
+        "1574547008": {
+            "gateway.reddit.com|": "INVALID",
+            "geo.mozilla.org": "INACTIVE",
+            "geo.perezhilton.com": "INACTIVE",
+            "geo.theawesomer.com": "INACTIVE"
+        },
+        "1574547009": {
+            "geoiplookup.wikimedia.org": "INACTIVE",
+            "gismeteo.*": "INVALID"
+        },
+        "1574547010": {
+            "google.*": "INVALID",
+            "groupon.*": "INVALID"
+        },
+        "1574547011": {
+            "haxx.ly": "INACTIVE",
+            "hitcount.heraldm.com": "INACTIVE"
+        },
+        "1574547012": {
+            "huffingtonpost.*": "INVALID"
+        },
+        "1574547015": {
+            "id.allegisgroup.com": "INACTIVE",
+            "id.google.*": "INVALID"
+        },
+        "1574547016": {
+            "influxer.onion.com": "INACTIVE",
+            "ingest.onion.com": "INACTIVE",
+            "insidesoci.al": "INACTIVE"
+        },
+        "1574547018": {
+            "ixquick.*": "INVALID",
+            "jack.allday.com": "INACTIVE"
+        },
+        "1574547019": {
+            "kayak.*": "INVALID",
+            "kiks.yandex.": "INACTIVE"
+        },
+        "1574547020": {
+            "l.5min.com": "INACTIVE"
+        },
+        "1574547021": {
+            "lcs.naver.": "INVALID",
+            "linguee.com*": "INVALID",
+            "link.codeyear.com": "INACTIVE",
+            "link.ex.fm": "INACTIVE"
+        },
+        "1574547022": {
+            "live-audience.dailymotion.com": "INACTIVE",
+            "live.philips.com": "INACTIVE",
+            "livesupport.zol.co.zw": "INACTIVE",
+            "log.data.disney.com": "INACTIVE",
+            "log.deutschegrammophon.com": "INACTIVE"
+        },
+        "1574547023": {
+            "log.vdn.apps.cntv.cn": "INACTIVE",
+            "log1.24liveplus.com": "INACTIVE",
+            "logdev.openload.co": "INACTIVE",
+            "logger-*.dailymotion.com": "INVALID",
+            "logger.viki.io": "INACTIVE",
+            "loggingservices.tribune.com": "INACTIVE",
+            "lolbin.net": "INACTIVE",
+            "lsam.research.microsoft.com": "INACTIVE"
+        },
+        "1574547024": {
+            "maps.nokia.com": "INACTIVE",
+            "massdrop.com*": "INVALID"
+        },
+        "1574547025": {
+            "metric*.rediff.com": "INVALID",
+            "metric.gstatic.com": "INACTIVE",
+            "metrics.aws.sitepoint.com": "INACTIVE"
+        },
+        "1574547026": {
+            "metrics.dailymotion.com": "INACTIVE"
+        },
+        "1574547027": {
+            "mint.boingboing.net": "INACTIVE"
+        },
+        "1574547028": {
+            "mp.twitch.tv": "INACTIVE",
+            "mtoza.vzaar.com": "INACTIVE"
+        },
+        "1574547030": {
+            "navlog.channel4.com": "INACTIVE"
+        },
+        "1574547032": {
+            "newsletter.mybboard.net": "INACTIVE"
+        },
+        "1574547036": {
+            "pcp001.com": "INACTIVE"
         }
     }
 }
