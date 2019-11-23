@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201911210924
+! Version: 201911231859
 ! Title: EasyPrivacy
-! Last modified: 21 Nov 2019 09:24 UTC
+! Last modified: 23 Nov 2019 18:59 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -346,6 +346,7 @@
 /?livehit=
 /?mob.ct=
 /?record&key=
+/_/lite/performance/*
 /__analytics/*
 /__dam.gif?
 /__ssobj/core.js
@@ -808,6 +809,7 @@
 /aspstats/index.asp?
 /assets/analytics-
 /assets/analytics:
+/assets/beacons.js
 /assets/tracking-
 /assets/uts/*
 /assign.gif?
@@ -2617,6 +2619,7 @@
 /monetization/pixel-
 /mongoose.fp.js
 /monitor/log/*
+/monitor/v1/log
 /monitor?rtype=
 /monitor_analytic.
 /monitus.js
@@ -13324,6 +13327,7 @@ _mongo_stats/
 ||farsnews.com/stcs.js.aspx?
 ||fast.forbes.com^
 ||fastexercise.com/logging.js
+||fathom.hakibenita.com^
 ||favicon.co.uk/stat/
 ||fc2.com/ana/
 ||fc2.com/ana2/
@@ -13414,6 +13418,7 @@ _mongo_stats/
 ||gamerdeals.net/aggbug.aspx
 ||gamesgames.com/WebAnalysis/
 ||gamezone.com/?act=
+||ganon.yahoo.com^
 ||gardenweb.com^*/iv_footer.js
 ||gardenweb.com^*/iv_header.js
 ||gateway.reddit.com|
@@ -13463,7 +13468,7 @@ _mongo_stats/
 ||glassmoni.researchgate.net^
 ||glean.pop6.com^
 ||global.canon^*/analytics.js
-||global.ssl.fastly.net^$script,domain=argos.co.uk|desertsun.com|jsonline.com|lohud.com|mentalfloss.com|radiotimes.com|sainsburys.co.uk
+||global.ssl.fastly.net^$script,domain=argos.co.uk|desertsun.com|jsonline.com|lohud.com|mentalfloss.com|radiotimes.com|sainsburys.co.uk|usatoday.com
 ||globes.co.il/ga.asp
 ||globes.co.il/shared/s.ashx?
 ||globester.com^*/track.js
@@ -16138,6 +16143,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||g.techweekeurope.it^
 ||gazzetta.it^*/stats.php?
 ||getscreensaver.it/statistiche/
+||ilsole24ore.com/static/js/track.js?
 ||joka.it/inquiero/isapi/csf.dll?
 ||la7.it/js-live/nielsen1.js
 ||libero.it//js/comscore/

@@ -1065,8 +1065,8 @@
         "state": "future"
     },
     "adobedtm.com": {
-        "epoch": 1574380800.0,
-        "expiration_date": "22-nov-2019",
+        "epoch": 1606003200.0,
+        "expiration_date": "22-nov-2020",
         "state": "future"
     },
     "adobetag.com": {
@@ -2590,8 +2590,8 @@
         "state": "future"
     },
     "auto-ping.com": {
-        "epoch": 1574467200.0,
-        "expiration_date": "23-nov-2019",
+        "epoch": 1606089600.0,
+        "expiration_date": "23-nov-2020",
         "state": "future"
     },
     "auto.ru": {
@@ -8005,8 +8005,8 @@
         "state": "future"
     },
     "etracker.com": {
-        "epoch": 1574380800.0,
-        "expiration_date": "22-nov-2019",
+        "epoch": 1606003200.0,
+        "expiration_date": "22-nov-2020",
         "state": "future"
     },
     "etrafficcounter.com": {
@@ -9495,8 +9495,8 @@
         "state": "future"
     },
     "fusestats.com": {
-        "epoch": 1574380800.0,
-        "expiration_date": "22-nov-2019",
+        "epoch": 1606003200.0,
+        "expiration_date": "22-nov-2020",
         "state": "future"
     },
     "futura-sciences.com": {
@@ -10462,7 +10462,7 @@
     "halo77.com": {
         "epoch": 1574467200.0,
         "expiration_date": "23-nov-2019",
-        "state": "future"
+        "state": "past"
     },
     "halstats.com": {
         "epoch": 1579737600.0,
@@ -10660,8 +10660,8 @@
         "state": "future"
     },
     "heystaks.com": {
-        "epoch": 1574467200.0,
-        "expiration_date": "23-nov-2019",
+        "epoch": 1606089600.0,
+        "expiration_date": "23-nov-2020",
         "state": "future"
     },
     "hgcdn.net": {
@@ -11345,8 +11345,8 @@
         "state": "future"
     },
     "id-visitors.com": {
-        "epoch": 1574380800.0,
-        "expiration_date": "22-nov-2019",
+        "epoch": 1606003200.0,
+        "expiration_date": "22-nov-2020",
         "state": "future"
     },
     "id5-sync.com": {
