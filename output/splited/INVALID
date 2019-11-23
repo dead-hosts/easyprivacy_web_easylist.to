@@ -37,6 +37,7 @@ expedia.*                                                                       
 expedia.*                                                                                            SYNTAX     XXX        2019-11-23T22:10:02.389513
 expedia.*                                                                                            SYNTAX     XXX        2019-11-23T22:10:02.502383
 facebook.com*                                                                                        SYNTAX     XXX        2019-11-23T21:23:25.519466
+flashx.*                                                                                             SYNTAX     XXX        2019-11-23T22:34:44.936964
 fls-*.amazon.*%                                                                                      SYNTAX     XXX        2019-11-23T22:10:05.335940
 fls-*.amazon.*&                                                                                      SYNTAX     XXX        2019-11-23T22:10:05.449722
 gateway.reddit.com|                                                                                  SYNTAX     XXX        2019-11-23T22:10:08.220519
@@ -60,6 +61,7 @@ kayak.*                                                                         
 lcs.naver.                                                                                           SYNTAX     XXX        2019-11-23T22:10:21.050492
 linguee.com*                                                                                         SYNTAX     XXX        2019-11-23T22:10:21.605743
 logger-*.dailymotion.com                                                                             SYNTAX     XXX        2019-11-23T22:10:23.460448
+log*.ku6.com                                                                                         SYNTAX     XXX        2019-11-23T22:34:59.263985
 log-*.previewnetworks.com                                                                            SYNTAX     XXX        2019-11-23T21:23:39.311143
 massdrop.com*                                                                                        SYNTAX     XXX        2019-11-23T22:10:24.814549
 metric*.rediff.com                                                                                   SYNTAX     XXX        2019-11-23T22:10:25.809752
@@ -90,4 +92,7 @@ ts.delfi.                                                                       
 vice.com*                                                                                            SYNTAX     XXX        2019-11-23T22:23:00.175071
 vice.com*                                                                                            SYNTAX     XXX        2019-11-23T22:23:00.231094
 vtnlog-*.elb.amazonaws.com                                                                           SYNTAX     XXX        2019-11-23T21:40:38.448146
+wawacity.*                                                                                           SYNTAX     XXX        2019-11-23T22:34:56.072940
+www.google.*                                                                                         SYNTAX     XXX        2019-11-23T22:34:38.302844
+www.imdb.*                                                                                           SYNTAX     XXX        2019-11-23T22:34:38.355735
 yandex.*                                                                                             SYNTAX     XXX        2019-11-23T21:40:41.628641
