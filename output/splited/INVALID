@@ -14,6 +14,13 @@ cloudfront.net*                                                                 
 cloudfront.net*                                                                                      SYNTAX     XXX        2019-11-23T21:08:32.238783
 cloudfront.net*                                                                                      SYNTAX     XXX        2019-11-23T21:08:32.363017
 collect.*.miui.com                                                                                   SYNTAX     XXX        2019-11-23T21:08:35.057624
+collector-*.elb.amazonaws.com                                                                        SYNTAX     XXX        2019-11-23T21:23:14.627968
+collector-*.tvsquared.com                                                                            SYNTAX     XXX        2019-11-23T21:23:14.689511
+datacollect*.abtasty.com                                                                             SYNTAX     XXX        2019-11-23T21:23:20.267328
+facebook.com*                                                                                        SYNTAX     XXX        2019-11-23T21:23:25.519466
+hits-*.iubenda.com                                                                                   SYNTAX     XXX        2019-11-23T21:23:32.150294
 irs01.                                                                                               SYNTAX     XXX        2019-11-23T20:48:01.708445
+log-*.previewnetworks.com                                                                            SYNTAX     XXX        2019-11-23T21:23:39.311143
+metro-trending-*.amazonaws.com                                                                       SYNTAX     XXX        2019-11-23T21:23:43.191239
 minero-proxy-*.sh                                                                                    SYNTAX     XXX        2019-11-23T20:31:24.675155
 site.flashx.                                                                                         SYNTAX     XXX        2019-11-23T20:47:31.980480
