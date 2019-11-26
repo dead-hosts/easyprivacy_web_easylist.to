@@ -2885,8 +2885,8 @@
         "state": "future"
     },
     "babyblog.ru": {
-        "epoch": 1574726400.0,
-        "expiration_date": "26-nov-2019",
+        "epoch": 1606348800.0,
+        "expiration_date": "26-nov-2020",
         "state": "future"
     },
     "bachecaannunci.it": {
@@ -12595,8 +12595,8 @@
         "state": "future"
     },
     "joka.it": {
-        "epoch": 1573344000,
-        "expiration_date": "10-nov-2019",
+        "epoch": 1604966400.0,
+        "expiration_date": "10-nov-2020",
         "state": "future"
     },
     "jokeroo.com": {
@@ -14725,8 +14725,8 @@
         "state": "future"
     },
     "meta.ua": {
-        "epoch": 1574726400.0,
-        "expiration_date": "26-nov-2019",
+        "epoch": 1606348800.0,
+        "expiration_date": "26-nov-2020",
         "state": "future"
     },
     "metabroadcast.com": {
@@ -21310,8 +21310,8 @@
         "state": "future"
     },
     "sl.pt": {
-        "epoch": 1572652800,
-        "expiration_date": "02-nov-2019",
+        "epoch": 1604275200.0,
+        "expiration_date": "02-nov-2020",
         "state": "future"
     },
     "slack.com": {
@@ -25415,9 +25415,9 @@
         "state": "future"
     },
     "videogame.it": {
-        "epoch": 1572393600,
-        "expiration_date": "30-oct-2019",
-        "state": "past"
+        "epoch": 1604016000.0,
+        "expiration_date": "30-oct-2020",
+        "state": "future"
     },
     "videoly.co": {
         "epoch": 1593648000.0,
