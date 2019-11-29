@@ -655,8 +655,8 @@
         "state": "future"
     },
     "acceptableserver.com": {
-        "epoch": 1574899200.0,
-        "expiration_date": "28-nov-2019",
+        "epoch": 1606521600.0,
+        "expiration_date": "28-nov-2020",
         "state": "future"
     },
     "acces-charme.com": {
@@ -2377,6 +2377,11 @@
     "artefact.is": {
         "epoch": 1575158400.0,
         "expiration_date": "01-dec-2019",
+        "state": "future"
+    },
+    "artfut.com": {
+        "epoch": 1586131200.0,
+        "expiration_date": "06-apr-2020",
         "state": "future"
     },
     "aruba.it": {
