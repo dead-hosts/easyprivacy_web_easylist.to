@@ -450,8 +450,8 @@
         "state": "future"
     },
     "7x5.fr": {
-        "epoch": 1574899200.0,
-        "expiration_date": "28-nov-2019",
+        "epoch": 1606521600.0,
+        "expiration_date": "28-nov-2020",
         "state": "future"
     },
     "8020solutions.net": {
@@ -6417,6 +6417,11 @@
     "datacoral.io": {
         "epoch": 1585958400.0,
         "expiration_date": "04-apr-2020",
+        "state": "future"
+    },
+    "datado.me": {
+        "epoch": 1617840000.0,
+        "expiration_date": "08-apr-2021",
         "state": "future"
     },
     "datadoghq-browser-agent.com": {
@@ -21290,8 +21295,8 @@
         "state": "future"
     },
     "sk1n.fr": {
-        "epoch": 1574899200.0,
-        "expiration_date": "28-nov-2019",
+        "epoch": 1606521600.0,
+        "expiration_date": "28-nov-2020",
         "state": "future"
     },
     "sk8t.fr": {
@@ -25720,8 +25725,8 @@
         "state": "future"
     },
     "visits.lt": {
-        "epoch": 1574812800.0,
-        "expiration_date": "27-nov-2019",
+        "epoch": 1606435200.0,
+        "expiration_date": "27-nov-2020",
         "state": "future"
     },
     "visitstats.com": {
@@ -27457,6 +27462,11 @@
     "yupptv.com": {
         "epoch": 1737676800.0,
         "expiration_date": "24-jan-2025",
+        "state": "future"
+    },
+    "ywywjrlbsuv.com": {
+        "epoch": 1595030400.0,
+        "expiration_date": "18-jul-2020",
         "state": "future"
     },
     "yxdown.com": {
