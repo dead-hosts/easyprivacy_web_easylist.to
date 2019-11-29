@@ -8319,85 +8319,6 @@
         "1573153436": {
             "tracking.moneyam.com": "INACTIVE"
         },
-        "1574798590": {
-            "qdtracking.com": "INACTIVE"
-        },
-        "1574798592": {
-            "radiomanlibya.com": "INACTIVE"
-        },
-        "1574798593": {
-            "realtimeplease.com": "INACTIVE"
-        },
-        "1574798594": {
-            "referlytics.com": "INACTIVE"
-        },
-        "1574798595": {
-            "retags.us": "INACTIVE"
-        },
-        "1574798597": {
-            "roivista.com": "INACTIVE"
-        },
-        "1574798598": {
-            "rtbauction.com": "INACTIVE"
-        },
-        "1574798599": {
-            "sarevtop.com": "INACTIVE"
-        },
-        "1574798600": {
-            "scastnet.com": "INACTIVE"
-        },
-        "1574798601": {
-            "secure-pixel.com": "INACTIVE",
-            "segment-analytics.com": "INACTIVE",
-            "selipuquoe.com": "INACTIVE"
-        },
-        "1574798602": {
-            "seoradar.ro": "INACTIVE",
-            "servinator.pw": "INACTIVE",
-            "servingpps.com": "INACTIVE",
-            "servingtrkid.com": "INACTIVE"
-        },
-        "1574798606": {
-            "smfsvc.com": "INACTIVE"
-        },
-        "1574798607": {
-            "socketanalytics.com": "INACTIVE"
-        },
-        "1574798609": {
-            "sptag3.com": "INACTIVE"
-        },
-        "1574798610": {
-            "statcounters.info": "INACTIVE"
-        },
-        "1574798611": {
-            "stats-analytics.info": "INACTIVE",
-            "stats2513.com": "INACTIVE",
-            "statsimg.com": "INACTIVE"
-        },
-        "1574798612": {
-            "statswave.com": "INACTIVE"
-        },
-        "1574798614": {
-            "swoopgrid.com": "INACTIVE",
-            "synergy-sync.com": "INACTIVE"
-        },
-        "1574798616": {
-            "telemetrytaxonomy.net": "INACTIVE",
-            "testpixel.net": "INACTIVE"
-        },
-        "1574798617": {
-            "tighting.info": "INACTIVE"
-        },
-        "1574798618": {
-            "tmpjmp.com": "INACTIVE"
-        },
-        "1574798619": {
-            "tracetracking.net": "INACTIVE"
-        },
-        "1574798624": {
-            "tstlabs.co.uk": "INACTIVE",
-            "tubetrafficcash.com": "INACTIVE"
-        },
         "1574798625": {
             "tylere.net": "INACTIVE",
             "ukrre-tea.info": "INACTIVE",
@@ -10317,6 +10238,83 @@
         },
         "1575058667": {
             "pzkysq.pink": "INACTIVE"
+        },
+        "1575059360": {
+            "qdtracking.com": "INACTIVE"
+        },
+        "1575059361": {
+            "radiomanlibya.com": "INACTIVE"
+        },
+        "1575059362": {
+            "realtimeplease.com": "INACTIVE"
+        },
+        "1575059363": {
+            "referlytics.com": "INACTIVE"
+        },
+        "1575059364": {
+            "retags.us": "INACTIVE"
+        },
+        "1575059366": {
+            "roivista.com": "INACTIVE"
+        },
+        "1575059367": {
+            "rtbauction.com": "INACTIVE"
+        },
+        "1575059368": {
+            "sarevtop.com": "INACTIVE"
+        },
+        "1575059369": {
+            "scastnet.com": "INACTIVE",
+            "secure-pixel.com": "INACTIVE"
+        },
+        "1575059370": {
+            "segment-analytics.com": "INACTIVE",
+            "selipuquoe.com": "INACTIVE"
+        },
+        "1575059371": {
+            "seoradar.ro": "INACTIVE",
+            "servinator.pw": "INACTIVE",
+            "servingpps.com": "INACTIVE",
+            "servingtrkid.com": "INACTIVE"
+        },
+        "1575059375": {
+            "smfsvc.com": "INACTIVE"
+        },
+        "1575059376": {
+            "socketanalytics.com": "INACTIVE"
+        },
+        "1575059377": {
+            "sptag3.com": "INACTIVE"
+        },
+        "1575059379": {
+            "statcounters.info": "INACTIVE",
+            "stats-analytics.info": "INACTIVE",
+            "stats2513.com": "INACTIVE"
+        },
+        "1575059380": {
+            "statsimg.com": "INACTIVE",
+            "statswave.com": "INACTIVE"
+        },
+        "1575059382": {
+            "swoopgrid.com": "INACTIVE",
+            "synergy-sync.com": "INACTIVE"
+        },
+        "1575059384": {
+            "telemetrytaxonomy.net": "INACTIVE",
+            "testpixel.net": "INACTIVE"
+        },
+        "1575059385": {
+            "tighting.info": "INACTIVE"
+        },
+        "1575059386": {
+            "tmpjmp.com": "INACTIVE"
+        },
+        "1575059387": {
+            "tracetracking.net": "INACTIVE"
+        },
+        "1575059392": {
+            "tstlabs.co.uk": "INACTIVE",
+            "tubetrafficcash.com": "INACTIVE"
         }
     }
 }

@@ -19679,6 +19679,11 @@
         "expiration_date": "12-jun-2020",
         "state": "future"
     },
+    "revjet.com": {
+        "epoch": 1600041600.0,
+        "expiration_date": "14-sep-2020",
+        "state": "future"
+    },
     "revolvermaps.com": {
         "epoch": 1595203200.0,
         "expiration_date": "20-jul-2020",
