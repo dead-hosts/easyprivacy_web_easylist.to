@@ -13105,8 +13105,8 @@
         "state": "future"
     },
     "ktxtr.com": {
-        "epoch": 1575158400.0,
-        "expiration_date": "01-dec-2019",
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
         "state": "future"
     },
     "ku6.com": {
@@ -16672,7 +16672,7 @@
     "nuconomy.com": {
         "epoch": 1575158400.0,
         "expiration_date": "01-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "nuggad.net": {
         "epoch": 1580860800.0,
