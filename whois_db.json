@@ -7375,8 +7375,8 @@
         "state": "future"
     },
     "dyo.gs": {
-        "epoch": 1575072000.0,
-        "expiration_date": "30-nov-2019",
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
         "state": "future"
     },
     "dzizsih.ru": {
@@ -8517,6 +8517,11 @@
     "fanplayr.com": {
         "epoch": 1588982400.0,
         "expiration_date": "09-may-2020",
+        "state": "future"
+    },
+    "fansshare.com": {
+        "epoch": 1677974400.0,
+        "expiration_date": "05-mar-2023",
         "state": "future"
     },
     "fantasticfiction.co.uk": {
@@ -13620,8 +13625,8 @@
         "state": "future"
     },
     "lipsy.co.uk": {
-        "epoch": 1575158400.0,
-        "expiration_date": "01-dec-2019",
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
         "state": "future"
     },
     "list-manage.com": {
@@ -14995,8 +15000,8 @@
         "state": "future"
     },
     "miniurls.co": {
-        "epoch": 1574985600.0,
-        "expiration_date": "29-nov-2019",
+        "epoch": 1606608000.0,
+        "expiration_date": "29-nov-2020",
         "state": "future"
     },
     "miniusa.com": {
