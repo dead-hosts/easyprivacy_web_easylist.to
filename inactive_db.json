@@ -8322,96 +8322,8 @@
         "1574801642": {
             "stats.openload.co": "INACTIVE"
         },
-        "1574803116": {
-            "ea.laredoute.": "INVALID",
-            "ea.pixmania.": "INVALID"
-        },
         "1574803139": {
             "logdev.openload.co": "INACTIVE"
-        },
-        "1574803878": {
-            "total.shanghaidaily.com": "INACTIVE",
-            "tracer.perezhilton.com": "INACTIVE",
-            "track.codepen.io": "INACTIVE"
-        },
-        "1574803879": {
-            "track.collegehumor.com": "INACTIVE",
-            "track.ft.com": "INACTIVE",
-            "track.zalando.": "INVALID",
-            "tracker.joost.com": "INACTIVE",
-            "tracker.redditmedia.com": "INACTIVE",
-            "tracker.revip.info": "INACTIVE",
-            "tracker.washtimes.com": "INACTIVE",
-            "tracking.carprices.com": "INACTIVE",
-            "tracking.koego.com": "INACTIVE",
-            "tracking.olx.": "INVALID"
-        },
-        "1574803880": {
-            "tracking.realtor.com": "INACTIVE",
-            "tracking.times247.com": "INACTIVE",
-            "tracking.ustream.tv": "INACTIVE",
-            "tracking.yourfilehost.com": "INACTIVE",
-            "traffic.tuberip.com": "INACTIVE",
-            "traktr.news.com.au": "INACTIVE",
-            "trax.tvguide.com": "INACTIVE",
-            "trck.sixt.com": "INACTIVE"
-        },
-        "1574803881": {
-            "tripadvisor.*": "INVALID",
-            "ts.delfi.": "INVALID"
-        },
-        "1574803882": {
-            "tv-links.eu": "INACTIVE",
-            "u.bb": "INACTIVE"
-        },
-        "1574803883": {
-            "urchin-tracker.bigpoint.net": "INACTIVE",
-            "urlcheck.hulu.com": "INACTIVE"
-        },
-        "1574803884": {
-            "ut.ratepoint.com": "INACTIVE",
-            "uts-rss.crystalmedianetworks.com": "INACTIVE",
-            "v.fwmrm.net": "INACTIVE",
-            "vertical-stats.huffingtonpost.com": "INACTIVE"
-        },
-        "1574803885": {
-            "vice.com*": "INVALID"
-        },
-        "1574803886": {
-            "vitamine.networldmedia.net": "INACTIVE"
-        },
-        "1574803887": {
-            "vstat.vidigy.com": "INACTIVE",
-            "wavescape.mobi": "INACTIVE"
-        },
-        "1574803888": {
-            "weblogger01.data.disney.com": "INACTIVE",
-            "webstats.perfectworld.com": "INACTIVE"
-        },
-        "1574803889": {
-            "winter.metacafe.com": "INACTIVE"
-        },
-        "1574803890": {
-            "worksheetsengine.com": "INACTIVE"
-        },
-        "1574803891": {
-            "wusstrack.wunderground.com": "INACTIVE"
-        },
-        "1574804594": {
-            "www.imdb.*": "INVALID"
-        },
-        "1574804595": {
-            "www.google.*": "INVALID",
-            "wzus.askkids.com": "INACTIVE",
-            "wzus1.ask.com": "INACTIVE",
-            "wzus1.reference.com": "INACTIVE",
-            "wzus1.thesaurus.com": "INACTIVE"
-        },
-        "1574804601": {
-            "estream.to": "INACTIVE",
-            "flashx.*": "INVALID",
-            "play.estream.to": "INACTIVE",
-            "worker.salon.com": "INACTIVE"
         },
         "1574804604": {
             "counter.zeit.de": "INACTIVE"
@@ -8447,7 +8359,6 @@
             "xara.hse24.de": "INACTIVE"
         },
         "1574804610": {
-            "ea.clubic.com": "INACTIVE",
             "gstat.orange.fr": "INACTIVE",
             "hit.leboncoin.fr": "INACTIVE"
         },
@@ -9956,6 +9867,93 @@
             "tags.transportdirect.info": "INACTIVE",
             "ted1.metro.co.uk": "INACTIVE",
             "telemetry.qa.webex.com": "INACTIVE"
+        },
+        "1575189930": {
+            "total.shanghaidaily.com": "INACTIVE"
+        },
+        "1575189931": {
+            "tracer.perezhilton.com": "INACTIVE",
+            "track.codepen.io": "INACTIVE",
+            "track.collegehumor.com": "INACTIVE",
+            "track.ft.com": "INACTIVE",
+            "track.zalando.": "INVALID",
+            "tracker.joost.com": "INACTIVE",
+            "tracker.redditmedia.com": "INACTIVE",
+            "tracker.revip.info": "INACTIVE",
+            "tracker.washtimes.com": "INACTIVE"
+        },
+        "1575189932": {
+            "tracking.carprices.com": "INACTIVE",
+            "tracking.koego.com": "INACTIVE",
+            "tracking.olx.": "INVALID",
+            "tracking.realtor.com": "INACTIVE",
+            "tracking.times247.com": "INACTIVE",
+            "tracking.ustream.tv": "INACTIVE",
+            "tracking.yourfilehost.com": "INACTIVE",
+            "traffic.tuberip.com": "INACTIVE",
+            "traktr.news.com.au": "INACTIVE",
+            "trax.tvguide.com": "INACTIVE",
+            "trck.sixt.com": "INACTIVE"
+        },
+        "1575189933": {
+            "tripadvisor.*": "INVALID",
+            "ts.delfi.": "INVALID"
+        },
+        "1575189934": {
+            "tv-links.eu": "INACTIVE",
+            "u.bb": "INACTIVE"
+        },
+        "1575189935": {
+            "urchin-tracker.bigpoint.net": "INACTIVE"
+        },
+        "1575189936": {
+            "urlcheck.hulu.com": "INACTIVE",
+            "ut.ratepoint.com": "INACTIVE",
+            "uts-rss.crystalmedianetworks.com": "INACTIVE",
+            "v.fwmrm.net": "INACTIVE",
+            "vertical-stats.huffingtonpost.com": "INACTIVE"
+        },
+        "1575189937": {
+            "vice.com*": "INVALID"
+        },
+        "1575189938": {
+            "vitamine.networldmedia.net": "INACTIVE",
+            "vstat.vidigy.com": "INACTIVE"
+        },
+        "1575189939": {
+            "wavescape.mobi": "INACTIVE"
+        },
+        "1575189940": {
+            "weblogger01.data.disney.com": "INACTIVE",
+            "webstats.perfectworld.com": "INACTIVE"
+        },
+        "1575189941": {
+            "winter.metacafe.com": "INACTIVE"
+        },
+        "1575189942": {
+            "worksheetsengine.com": "INACTIVE",
+            "wusstrack.wunderground.com": "INACTIVE"
+        },
+        "1575189943": {
+            "www.google.*": "INVALID",
+            "www.imdb.*": "INVALID",
+            "wzus.askkids.com": "INACTIVE",
+            "wzus1.ask.com": "INACTIVE",
+            "wzus1.reference.com": "INACTIVE",
+            "wzus1.thesaurus.com": "INACTIVE"
+        },
+        "1575189948": {
+            "ea.clubic.com": "INACTIVE",
+            "ea.laredoute.": "INVALID",
+            "ea.pixmania.": "INVALID"
+        },
+        "1575189949": {
+            "estream.to": "INACTIVE",
+            "flashx.*": "INVALID",
+            "play.estream.to": "INACTIVE"
+        },
+        "1575189950": {
+            "worker.salon.com": "INACTIVE"
         }
     }
 }

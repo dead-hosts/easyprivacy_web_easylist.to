@@ -4,10 +4,13 @@
 Subject                                                                                              Source     HTTP Code  Analyze Date        
 compare.easyvoyage.                                                                                  SYNTAX     XXX        2019-12-01T07:11:36.075574
 creativefactory.zalando.                                                                             SYNTAX     XXX        2019-12-01T07:44:23.760043
+ea.laredoute.                                                                                        SYNTAX     XXX        2019-12-01T08:45:48.620238
+ea.pixmania.                                                                                         SYNTAX     XXX        2019-12-01T08:45:48.728354
 encrypted.google.*                                                                                   SYNTAX     XXX        2019-12-01T07:44:29.461689
 expedia.*                                                                                            SYNTAX     XXX        2019-12-01T07:44:30.914691
 expedia.*                                                                                            SYNTAX     XXX        2019-12-01T07:44:30.962045
 expedia.*                                                                                            SYNTAX     XXX        2019-12-01T07:44:31.009413
+flashx.*                                                                                             SYNTAX     XXX        2019-12-01T08:45:49.666148
 fls-*.amazon.*%                                                                                      SYNTAX     XXX        2019-12-01T07:44:33.984131
 fls-*.amazon.*&                                                                                      SYNTAX     XXX        2019-12-01T07:44:34.031864
 gateway.reddit.com|                                                                                  SYNTAX     XXX        2019-12-01T07:44:36.972789
@@ -43,3 +46,11 @@ startpage.*                                                                     
 tagcommander.laredoute.                                                                              SYNTAX     XXX        2019-12-01T08:14:48.113857
 tags.aljazeera.                                                                                      SYNTAX     XXX        2019-12-01T08:14:48.181624
 t.delfi.                                                                                             SYNTAX     XXX        2019-12-01T08:14:47.752904
+tracking.olx.                                                                                        SYNTAX     XXX        2019-12-01T08:45:32.252934
+track.zalando.                                                                                       SYNTAX     XXX        2019-12-01T08:45:31.644035
+tripadvisor.*                                                                                        SYNTAX     XXX        2019-12-01T08:45:33.219539
+ts.delfi.                                                                                            SYNTAX     XXX        2019-12-01T08:45:33.815693
+vice.com*                                                                                            SYNTAX     XXX        2019-12-01T08:45:37.341258
+vice.com*                                                                                            SYNTAX     XXX        2019-12-01T08:45:37.454774
+www.google.*                                                                                         SYNTAX     XXX        2019-12-01T08:45:43.072409
+www.imdb.*                                                                                           SYNTAX     XXX        2019-12-01T08:45:43.122218
