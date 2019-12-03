@@ -6925,9 +6925,9 @@
         "state": "future"
     },
     "directnews.co.uk": {
-        "epoch": 1572480000.0,
-        "expiration_date": "31-oct-2019",
-        "state": "past"
+        "epoch": 1635638400.0,
+        "expiration_date": "31-oct-2021",
+        "state": "future"
     },
     "directprimal.com": {
         "epoch": 1604361600.0,
@@ -8165,8 +8165,8 @@
         "state": "future"
     },
     "eventful.com": {
-        "epoch": 1575244800.0,
-        "expiration_date": "02-dec-2019",
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
         "state": "future"
     },
     "eveonline.com": {
@@ -13570,8 +13570,8 @@
         "state": "future"
     },
     "linkbucks.com": {
-        "epoch": 1575244800.0,
-        "expiration_date": "02-dec-2019",
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
         "state": "future"
     },
     "linkconnector.com": {

@@ -16,6 +16,11 @@ cloudfront.net*                                                                 
 collect.*.miui.com                                                                                   SYNTAX     XXX        2019-12-03T13:53:22.671385
 collector-*.elb.amazonaws.com                                                                        SYNTAX     XXX        2019-12-03T13:53:22.719720
 collector-*.tvsquared.com                                                                            SYNTAX     XXX        2019-12-03T13:53:22.798784
+datacollect*.abtasty.com                                                                             SYNTAX     XXX        2019-12-03T14:05:04.260121
+facebook.com*                                                                                        SYNTAX     XXX        2019-12-03T14:05:08.388966
+hits-*.iubenda.com                                                                                   SYNTAX     XXX        2019-12-03T14:05:14.379219
 irs01.                                                                                               SYNTAX     XXX        2019-12-03T13:29:32.922350
+log-*.previewnetworks.com                                                                            SYNTAX     XXX        2019-12-03T14:05:20.643258
+metro-trending-*.amazonaws.com                                                                       SYNTAX     XXX        2019-12-03T14:05:23.793030
 minero-proxy-*.sh                                                                                    SYNTAX     XXX        2019-12-03T13:17:23.522497
 site.flashx.                                                                                         SYNTAX     XXX        2019-12-03T13:17:30.432948

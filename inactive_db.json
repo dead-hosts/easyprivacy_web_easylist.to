@@ -8667,89 +8667,7 @@
             "collect2.sas.com": "INACTIVE",
             "collection.theaa.com": "INACTIVE"
         },
-        "1575151134": {
-            "datacollect*.abtasty.com": "INVALID",
-            "datam8.co.nz": "INACTIVE",
-            "dkj2m377b0yzw.cloudfront.net": "INACTIVE",
-            "dn-net.com": "INACTIVE",
-            "dt.sellpoint.net": "INACTIVE",
-            "dzxxxg6ij9u99.cloudfront.net": "INACTIVE",
-            "edrta.mol.im": "INACTIVE",
-            "edw.insideline.com": "INACTIVE",
-            "elb.amazonaws.com": "INACTIVE",
-            "enews.pcmag.com": "INACTIVE"
-        },
-        "1575151135": {
-            "embed.docstoc.com": "INACTIVE",
-            "entry-stats.huffpost.com": "INACTIVE",
-            "eservicesanalytics.com.au": "INACTIVE",
-            "etc.grab.com": "INACTIVE",
-            "event.loyalty.bigdoor.com": "INACTIVE",
-            "event.previewnetworks.com": "INACTIVE",
-            "event.trove.com": "INACTIVE",
-            "eventlog.inspsearch.com": "INACTIVE",
-            "events.marquee-cdn.net": "INACTIVE",
-            "facebook.com*": "INVALID",
-            "fastcounter.bcentral.com": "INACTIVE",
-            "fastcounter.onlinehoster.net": "INACTIVE",
-            "fbpixel.network.exchange": "INACTIVE",
-            "flashi.tv": "INACTIVE",
-            "fluidsurveys-com.fs.cm": "INACTIVE",
-            "friends.totallynsfw.com": "INACTIVE",
-            "geo.ltassrv.com": "INACTIVE",
-            "geoip.taskforce.is": "INACTIVE",
-            "geolocation.performgroup.com": "INACTIVE",
-            "goals.ar.gy": "INACTIVE"
-        },
-        "1575151136": {
-            "go-stats.dlinkddns.com": "INACTIVE",
-            "hits-*.iubenda.com": "INVALID",
-            "i-stats.ieurop.net": "INACTIVE",
-            "ihstats.cloudapp.net": "INACTIVE",
-            "imp.pix.com": "INACTIVE",
-            "impi.tv": "INACTIVE",
-            "insights.gravity.com": "INACTIVE",
-            "interestsearch.net": "INACTIVE",
-            "jobs.hrkspjbs.com": "INACTIVE",
-            "join-safe.com": "INACTIVE",
-            "l.coincident.tv": "INACTIVE",
-            "lct.salesforce.com": "INACTIVE",
-            "link.americastestkitchencorp.com": "INACTIVE",
-            "link.huffingtonpost.com": "INACTIVE",
-            "link.tym.cool": "INACTIVE",
-            "log-*.previewnetworks.com": "INVALID",
-            "log.aliyuncs.com": "INACTIVE",
-            "log.liverail.com": "INACTIVE"
-        },
-        "1575151137": {
-            "log1.survey.io": "INACTIVE",
-            "logger.logidea.info": "INACTIVE",
-            "logger.sociablelabs.com": "INACTIVE",
-            "logssl.enquisite.com": "INACTIVE",
-            "longurl.it": "INACTIVE",
-            "lp.vadio.com": "INACTIVE",
-            "mc.webvisor.ru": "INACTIVE",
-            "mediapartner.bigpoint.net": "INACTIVE",
-            "metrics.chmedia.com": "INACTIVE",
-            "metrics.loomia.com": "INACTIVE",
-            "metro-trending-*.amazonaws.com": "INVALID",
-            "mint.good.is": "INACTIVE",
-            "mitel.marketbright.com": "INACTIVE",
-            "mmpstats.mirror-image.com": "INACTIVE",
-            "mp.pianomedia.eu": "INACTIVE",
-            "mtrcs.samba.tv": "INACTIVE",
-            "newsletters.infoworld.com": "INACTIVE",
-            "nonxt1.c.youtube.com": "INACTIVE",
-            "offermatica.intuit.com": "INACTIVE"
-        },
         "1575151138": {
-            "offers.keynote.com": "INACTIVE",
-            "om.1and1.co.uk": "INACTIVE",
-            "optimera.elasticbeanstalk.com": "INACTIVE",
-            "p.dsero.net": "INACTIVE",
-            "pageview.goroost.com": "INACTIVE",
-            "partners.thefilter.com": "INACTIVE",
-            "peermapcontent.affino.com": "INACTIVE",
             "pf.aclst.com": "INACTIVE",
             "pg.buzzfeed.com": "INACTIVE",
             "piano-media.com": "INACTIVE",
@@ -8785,9 +8703,6 @@
             "sitereports.officelive.com": "INACTIVE",
             "spacedust.netmediaeurope.com": "INACTIVE",
             "spoods.rce.veeseo.com": "INACTIVE"
-        },
-        "1575178426": {
-            "intelligence.dgmsearchlab.com": "INACTIVE"
         },
         "1575180323": {
             "stat.easydate.biz": "INACTIVE",
@@ -10248,6 +10163,127 @@
         "1575381206": {
             "data.beyond.com": "INACTIVE",
             "data.fotorama.io": "INACTIVE"
+        },
+        "1575381904": {
+            "datacollect*.abtasty.com": "INVALID",
+            "datam8.co.nz": "INACTIVE"
+        },
+        "1575381905": {
+            "dkj2m377b0yzw.cloudfront.net": "INACTIVE",
+            "dn-net.com": "INACTIVE",
+            "dt.sellpoint.net": "INACTIVE"
+        },
+        "1575381906": {
+            "dzxxxg6ij9u99.cloudfront.net": "INACTIVE",
+            "edrta.mol.im": "INACTIVE",
+            "edw.insideline.com": "INACTIVE",
+            "elb.amazonaws.com": "INACTIVE"
+        },
+        "1575381907": {
+            "embed.docstoc.com": "INACTIVE",
+            "enews.pcmag.com": "INACTIVE",
+            "entry-stats.huffpost.com": "INACTIVE",
+            "eservicesanalytics.com.au": "INACTIVE",
+            "etc.grab.com": "INACTIVE",
+            "event.loyalty.bigdoor.com": "INACTIVE",
+            "event.previewnetworks.com": "INACTIVE",
+            "event.trove.com": "INACTIVE",
+            "eventlog.inspsearch.com": "INACTIVE",
+            "events.marquee-cdn.net": "INACTIVE"
+        },
+        "1575381908": {
+            "facebook.com*": "INVALID"
+        },
+        "1575381909": {
+            "fastcounter.bcentral.com": "INACTIVE",
+            "fastcounter.onlinehoster.net": "INACTIVE",
+            "fbpixel.network.exchange": "INACTIVE",
+            "flashi.tv": "INACTIVE",
+            "fluidsurveys-com.fs.cm": "INACTIVE"
+        },
+        "1575381910": {
+            "friends.totallynsfw.com": "INACTIVE"
+        },
+        "1575381911": {
+            "geo.ltassrv.com": "INACTIVE",
+            "geoip.taskforce.is": "INACTIVE",
+            "geolocation.performgroup.com": "INACTIVE"
+        },
+        "1575381912": {
+            "go-stats.dlinkddns.com": "INACTIVE",
+            "goals.ar.gy": "INACTIVE"
+        },
+        "1575381914": {
+            "hits-*.iubenda.com": "INVALID",
+            "i-stats.ieurop.net": "INACTIVE"
+        },
+        "1575381915": {
+            "ihstats.cloudapp.net": "INACTIVE",
+            "imp.pix.com": "INACTIVE",
+            "impi.tv": "INACTIVE"
+        },
+        "1575381916": {
+            "insights.gravity.com": "INACTIVE",
+            "intelligence.dgmsearchlab.com": "INACTIVE"
+        },
+        "1575381917": {
+            "interestsearch.net": "INACTIVE",
+            "jobs.hrkspjbs.com": "INACTIVE",
+            "join-safe.com": "INACTIVE"
+        },
+        "1575381918": {
+            "l.coincident.tv": "INACTIVE",
+            "lct.salesforce.com": "INACTIVE"
+        },
+        "1575381919": {
+            "link.americastestkitchencorp.com": "INACTIVE",
+            "link.huffingtonpost.com": "INACTIVE",
+            "link.tym.cool": "INACTIVE"
+        },
+        "1575381920": {
+            "log-*.previewnetworks.com": "INVALID",
+            "log.aliyuncs.com": "INACTIVE",
+            "log.liverail.com": "INACTIVE",
+            "log1.survey.io": "INACTIVE",
+            "logger.logidea.info": "INACTIVE",
+            "logger.sociablelabs.com": "INACTIVE"
+        },
+        "1575381921": {
+            "logssl.enquisite.com": "INACTIVE",
+            "longurl.it": "INACTIVE",
+            "lp.vadio.com": "INACTIVE"
+        },
+        "1575381922": {
+            "mc.webvisor.ru": "INACTIVE"
+        },
+        "1575381923": {
+            "mediapartner.bigpoint.net": "INACTIVE",
+            "metrics.chmedia.com": "INACTIVE",
+            "metrics.loomia.com": "INACTIVE",
+            "metro-trending-*.amazonaws.com": "INVALID",
+            "mint.good.is": "INACTIVE",
+            "mitel.marketbright.com": "INACTIVE"
+        },
+        "1575381924": {
+            "mmpstats.mirror-image.com": "INACTIVE",
+            "mp.pianomedia.eu": "INACTIVE",
+            "mtrcs.samba.tv": "INACTIVE"
+        },
+        "1575381926": {
+            "newsletters.infoworld.com": "INACTIVE",
+            "nonxt1.c.youtube.com": "INACTIVE",
+            "offermatica.intuit.com": "INACTIVE",
+            "offers.keynote.com": "INACTIVE",
+            "om.1and1.co.uk": "INACTIVE"
+        },
+        "1575381927": {
+            "optimera.elasticbeanstalk.com": "INACTIVE",
+            "p.dsero.net": "INACTIVE"
+        },
+        "1575381928": {
+            "pageview.goroost.com": "INACTIVE",
+            "partners.thefilter.com": "INACTIVE",
+            "peermapcontent.affino.com": "INACTIVE"
         }
     }
 }
