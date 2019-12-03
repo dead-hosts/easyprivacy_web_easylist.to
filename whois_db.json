@@ -19129,6 +19129,11 @@
         "expiration_date": "20-oct-2020",
         "state": "future"
     },
+    "rapidspike.com": {
+        "epoch": 1641254400.0,
+        "expiration_date": "04-jan-2022",
+        "state": "future"
+    },
     "rapidstats.net": {
         "epoch": 1637625600.0,
         "expiration_date": "23-nov-2021",
