@@ -8325,122 +8325,7 @@
         "1574803139": {
             "logdev.openload.co": "INACTIVE"
         },
-        "1575145034": {
-            "rustopweb.ru": "INACTIVE",
-            "stat-22.medialand.ru": "INACTIVE",
-            "stat-counter.tass-online.ru": "INACTIVE",
-            "stats-*.p2pnow.ru": "INVALID"
-        },
-        "1575145035": {
-            "stats.internet-yadro.com": "INACTIVE",
-            "t.pusk.ru": "INACTIVE",
-            "top.bur-bur.ru": "INACTIVE",
-            "top.sec.uz": "INACTIVE",
-            "track.revolvermarketing.ru": "INACTIVE",
-            "track.rtb-media.ru": "INACTIVE",
-            "tracking.vengovision.ru": "INACTIVE",
-            "viewstat.promoblocks.ru": "INACTIVE",
-            "wapson.ru": "INACTIVE",
-            "wmtools.ru": "INACTIVE"
-        },
-        "1575145036": {
-            "analytic.piri.net": "INACTIVE",
-            "analyticapi.piri.net": "INACTIVE",
-            "maik.ff-bt.net": "INACTIVE",
-            "stats.dominoplaza.com": "INACTIVE",
-            "stats.lnol.com.ar": "INACTIVE",
-            "track.bluecompany.cl": "INACTIVE"
-        },
-        "1575145037": {
-            "198.105.253.2": "INACTIVE",
-            "69.25.121.67": "INACTIVE",
-            "analytics.mecloud.vn": "INACTIVE"
-        },
-        "1575145038": {
-            "a.jango.com": "INACTIVE"
-        },
-        "1575145039": {
-            "adguru.guruji.com": "INACTIVE",
-            "adwiretracker.fwix.com": "INACTIVE",
-            "affiliate.productreview.com.au": "INACTIVE",
-            "airbnb.*": "INVALID"
-        },
-        "1575145040": {
-            "amazon.*": "INVALID"
-        },
-        "1575145041": {
-            "amp.virginmedia.com": "INACTIVE",
-            "analysis.focalprice.com": "INACTIVE",
-            "analytics.247sports.com": "INACTIVE",
-            "analytics.femalefirst.co.uk": "INACTIVE",
-            "analytics.go.com": "INACTIVE",
-            "analytics.newsinc.com": "INACTIVE",
-            "analytics.omgpop.com": "INACTIVE",
-            "analytics.services.distractify.com": "INACTIVE",
-            "analytics.volvocars.com": "INACTIVE",
-            "analytics.wetpaint.me": "INACTIVE",
-            "analytics.whatculture.com": "INACTIVE"
-        },
-        "1575147202": {
-            "analyze.yahooapis.com": "INACTIVE"
-        },
-        "1575147204": {
-            "atax.gamespy.com": "INACTIVE",
-            "atax.gamestats.com": "INACTIVE",
-            "atax.ign.com": "INACTIVE",
-            "athena.mysmartprice.info": "INACTIVE",
-            "atracktive.collegehumor.com": "INACTIVE",
-            "attachmate.com*": "INVALID"
-        },
-        "1575147206": {
-            "b.huffingtonpost.com": "INACTIVE"
-        },
-        "1575147207": {
-            "bc.yahoo.com": "INACTIVE",
-            "bcm.itv.com": "INACTIVE",
-            "beacon-1.newrelic.com": "INACTIVE",
-            "beacon.search.yahoo.com": "INACTIVE",
-            "beacons.helium.com": "INACTIVE",
-            "beacons.vessel-static.com": "INACTIVE"
-        },
-        "1575147208": {
-            "bits.wikimedia.org": "INACTIVE"
-        },
-        "1575147211": {
-            "c.microsoft.com": "INACTIVE",
-            "c.newsinc.com": "INACTIVE"
-        },
-        "1575147212": {
-            "cclickvidservgs.com": "INACTIVE",
-            "cd.musicmass.com": "INACTIVE"
-        },
-        "1575147213": {
-            "chunk.bustle.com": "INACTIVE",
-            "classic.comunio.*": "INVALID",
-            "click.mmosite.com": "INACTIVE"
-        },
-        "1575147214": {
-            "clientlog.portal.office.com": "INACTIVE",
-            "climatedesk.org*": "INVALID",
-            "cls.ichotelsgroup.com": "INACTIVE",
-            "collect.sas.com": "INACTIVE",
-            "collect2.sas.com": "INACTIVE",
-            "collection.theaa.com": "INACTIVE"
-        },
-        "1575184295": {
-            "collector.shopstream.co": "INACTIVE",
-            "collector.shorte.st": "INACTIVE",
-            "comms-web-tracking.uswitchinternal.com": "INACTIVE"
-        },
-        "1575184296": {
-            "compare.easyvoyage.": "INVALID"
-        },
-        "1575186262": {
-            "count.livetv.ru": "INACTIVE",
-            "count.livetv.sx": "INACTIVE"
-        },
         "1575186263": {
-            "counter.joins.com": "INACTIVE",
             "counter.promodeejay.net": "INACTIVE",
             "creativefactory.zalando.": "INVALID"
         },
@@ -10282,6 +10167,119 @@
         "1575384368": {
             "counter.amik.ru": "INACTIVE",
             "medorgs.ru": "INACTIVE"
+        },
+        "1575385122": {
+            "rustopweb.ru": "INACTIVE"
+        },
+        "1575385123": {
+            "stat-22.medialand.ru": "INACTIVE",
+            "stat-counter.tass-online.ru": "INACTIVE",
+            "stats-*.p2pnow.ru": "INVALID",
+            "stats.internet-yadro.com": "INACTIVE",
+            "t.pusk.ru": "INACTIVE",
+            "top.bur-bur.ru": "INACTIVE",
+            "top.sec.uz": "INACTIVE",
+            "track.revolvermarketing.ru": "INACTIVE",
+            "track.rtb-media.ru": "INACTIVE",
+            "tracking.vengovision.ru": "INACTIVE",
+            "viewstat.promoblocks.ru": "INACTIVE",
+            "wapson.ru": "INACTIVE"
+        },
+        "1575385124": {
+            "analytic.piri.net": "INACTIVE",
+            "maik.ff-bt.net": "INACTIVE",
+            "stats.dominoplaza.com": "INACTIVE",
+            "stats.lnol.com.ar": "INACTIVE",
+            "track.bluecompany.cl": "INACTIVE",
+            "wmtools.ru": "INACTIVE"
+        },
+        "1575385125": {
+            "198.105.253.2": "INACTIVE",
+            "analyticapi.piri.net": "INACTIVE",
+            "analytics.mecloud.vn": "INACTIVE"
+        },
+        "1575385126": {
+            "69.25.121.67": "INACTIVE",
+            "a.jango.com": "INACTIVE"
+        },
+        "1575385127": {
+            "adguru.guruji.com": "INACTIVE",
+            "adwiretracker.fwix.com": "INACTIVE",
+            "affiliate.productreview.com.au": "INACTIVE"
+        },
+        "1575385128": {
+            "airbnb.*": "INVALID"
+        },
+        "1575385129": {
+            "amazon.*": "INVALID",
+            "amp.virginmedia.com": "INACTIVE",
+            "analysis.focalprice.com": "INACTIVE",
+            "analytics.247sports.com": "INACTIVE",
+            "analytics.femalefirst.co.uk": "INACTIVE",
+            "analytics.go.com": "INACTIVE",
+            "analytics.newsinc.com": "INACTIVE",
+            "analytics.omgpop.com": "INACTIVE",
+            "analytics.services.distractify.com": "INACTIVE"
+        },
+        "1575385130": {
+            "analytics.volvocars.com": "INACTIVE",
+            "analytics.wetpaint.me": "INACTIVE",
+            "analytics.whatculture.com": "INACTIVE",
+            "analyze.yahooapis.com": "INACTIVE"
+        },
+        "1575385132": {
+            "atax.gamespy.com": "INACTIVE",
+            "atax.gamestats.com": "INACTIVE",
+            "atax.ign.com": "INACTIVE",
+            "athena.mysmartprice.info": "INACTIVE",
+            "atracktive.collegehumor.com": "INACTIVE",
+            "attachmate.com*": "INVALID"
+        },
+        "1575385133": {
+            "b.huffingtonpost.com": "INACTIVE"
+        },
+        "1575385134": {
+            "bc.yahoo.com": "INACTIVE",
+            "bcm.itv.com": "INACTIVE"
+        },
+        "1575385135": {
+            "beacon-1.newrelic.com": "INACTIVE",
+            "beacon.search.yahoo.com": "INACTIVE",
+            "beacons.helium.com": "INACTIVE",
+            "beacons.vessel-static.com": "INACTIVE"
+        },
+        "1575385136": {
+            "bits.wikimedia.org": "INACTIVE"
+        },
+        "1575385138": {
+            "c.microsoft.com": "INACTIVE",
+            "c.newsinc.com": "INACTIVE"
+        },
+        "1575385140": {
+            "cclickvidservgs.com": "INACTIVE",
+            "cd.musicmass.com": "INACTIVE"
+        },
+        "1575385141": {
+            "chunk.bustle.com": "INACTIVE",
+            "classic.comunio.*": "INVALID",
+            "click.mmosite.com": "INACTIVE",
+            "clientlog.portal.office.com": "INACTIVE",
+            "climatedesk.org*": "INVALID",
+            "cls.ichotelsgroup.com": "INACTIVE"
+        },
+        "1575385142": {
+            "collect.sas.com": "INACTIVE",
+            "collect2.sas.com": "INACTIVE",
+            "collection.theaa.com": "INACTIVE",
+            "collector.shopstream.co": "INACTIVE",
+            "collector.shorte.st": "INACTIVE",
+            "comms-web-tracking.uswitchinternal.com": "INACTIVE",
+            "compare.easyvoyage.": "INVALID"
+        },
+        "1575385143": {
+            "count.livetv.ru": "INACTIVE",
+            "count.livetv.sx": "INACTIVE",
+            "counter.joins.com": "INACTIVE"
         }
     }
 }
