@@ -8667,54 +8667,7 @@
             "collect2.sas.com": "INACTIVE",
             "collection.theaa.com": "INACTIVE"
         },
-        "1575151127": {
-            "bb-analytics.jp": "INACTIVE",
-            "hotstats.gr": "INACTIVE",
-            "japanmetrix.jp": "INACTIVE",
-            "mediaindex.ee": "INACTIVE",
-            "megastat.net": "INACTIVE",
-            "melatstat.com": "INACTIVE",
-            "prostats.it": "INACTIVE",
-            "sitechart.dk": "INACTIVE",
-            "stats4u.lv": "INACTIVE",
-            "statsadvance-01.net": "INACTIVE",
-            "statsview.it": "INACTIVE",
-            "ultrastats.it": "INACTIVE",
-            "webstatistika.lt": "INACTIVE",
-            "webtraffstats.net": "INACTIVE"
-        },
-        "1575151128": {
-            "109.169.66.161": "INACTIVE",
-            "121.78.90.104:8383": "INVALID",
-            "123myp.co.uk": "INACTIVE",
-            "195.182.58.105": "INACTIVE",
-            "208.91.157.30": "INACTIVE",
-            "209.15.236.80": "INACTIVE",
-            "213.8.137.51": "INACTIVE",
-            "216.18.176.4": "INACTIVE",
-            "219.232.238.60": "INACTIVE",
-            "4theclueless.com": "INACTIVE",
-            "blogtraffic.sg": "INACTIVE",
-            "cntcash.ru": "INACTIVE",
-            "countstat.ru": "INACTIVE",
-            "jetcounter.ru": "INACTIVE",
-            "k3dqv.ru": "INACTIVE",
-            "persianstat.ir": "INACTIVE",
-            "personage.name": "INACTIVE",
-            "popstats.com.br": "INACTIVE",
-            "wunderdaten.com": "INACTIVE"
-        },
         "1575151129": {
-            "58.68.146.44:8000": "INVALID",
-            "61.129.118.83": "INACTIVE",
-            "62.219.24.238": "INACTIVE",
-            "74.117.176.217": "INACTIVE",
-            "93.93.53.198": "INACTIVE",
-            "a.unanimis.co.uk": "INACTIVE",
-            "a2a.lockerz.com": "INACTIVE",
-            "aaa.aj5.info": "INACTIVE",
-            "activity.*.miui.com": "INVALID",
-            "adg.bzgint.com": "INACTIVE",
             "affiliates.spark.net": "INACTIVE",
             "affiliates.swappernet.com": "INACTIVE",
             "affl.sucuri.net": "INACTIVE",
@@ -10204,6 +10157,81 @@
         },
         "1575379774": {
             "users.51.la": "INACTIVE"
+        },
+        "1575380453": {
+            "mediaindex.ee": "INACTIVE",
+            "sitechart.dk": "INACTIVE"
+        },
+        "1575380454": {
+            "hotstats.gr": "INACTIVE"
+        },
+        "1575380456": {
+            "megastat.net": "INACTIVE",
+            "prostats.it": "INACTIVE",
+            "statsadvance-01.net": "INACTIVE",
+            "statsview.it": "INACTIVE"
+        },
+        "1575380457": {
+            "bb-analytics.jp": "INACTIVE",
+            "ultrastats.it": "INACTIVE",
+            "webtraffstats.net": "INACTIVE"
+        },
+        "1575380458": {
+            "japanmetrix.jp": "INACTIVE"
+        },
+        "1575380459": {
+            "melatstat.com": "INACTIVE",
+            "persianstat.ir": "INACTIVE",
+            "stats4u.lv": "INACTIVE",
+            "webstatistika.lt": "INACTIVE"
+        },
+        "1575380461": {
+            "popstats.com.br": "INACTIVE"
+        },
+        "1575380462": {
+            "109.169.66.161": "INACTIVE"
+        },
+        "1575380463": {
+            "cntcash.ru": "INACTIVE",
+            "countstat.ru": "INACTIVE"
+        },
+        "1575380464": {
+            "jetcounter.ru": "INACTIVE",
+            "k3dqv.ru": "INACTIVE"
+        },
+        "1575380465": {
+            "personage.name": "INACTIVE"
+        },
+        "1575380467": {
+            "wunderdaten.com": "INACTIVE"
+        },
+        "1575380468": {
+            "blogtraffic.sg": "INACTIVE"
+        },
+        "1575380470": {
+            "121.78.90.104:8383": "INVALID",
+            "123myp.co.uk": "INACTIVE",
+            "195.182.58.105": "INACTIVE"
+        },
+        "1575380471": {
+            "208.91.157.30": "INACTIVE",
+            "209.15.236.80": "INACTIVE",
+            "213.8.137.51": "INACTIVE",
+            "216.18.176.4": "INACTIVE",
+            "219.232.238.60": "INACTIVE",
+            "4theclueless.com": "INACTIVE",
+            "58.68.146.44:8000": "INVALID",
+            "61.129.118.83": "INACTIVE",
+            "62.219.24.238": "INACTIVE",
+            "74.117.176.217": "INACTIVE",
+            "93.93.53.198": "INACTIVE",
+            "a.unanimis.co.uk": "INACTIVE",
+            "a2a.lockerz.com": "INACTIVE",
+            "aaa.aj5.info": "INACTIVE"
+        },
+        "1575380472": {
+            "activity.*.miui.com": "INVALID",
+            "adg.bzgint.com": "INACTIVE"
         }
     }
 }

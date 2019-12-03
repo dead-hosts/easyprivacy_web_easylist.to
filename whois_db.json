@@ -9810,9 +9810,9 @@
         "state": "future"
     },
     "geocontatore.com": {
-        "epoch": 1575158400.0,
-        "expiration_date": "01-dec-2019",
-        "state": "past"
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
+        "state": "future"
     },
     "geoip-db.com": {
         "epoch": 1617580800.0,
