@@ -8455,10 +8455,7 @@
         },
         "1575144309": {
             "analytics-static.unister-gmbh.de": "INACTIVE",
-            "asci.freenet.de": "INACTIVE",
-            "convertmarketing.net": "INACTIVE",
-            "cormce.com": "INACTIVE",
-            "countingbiz.info": "INACTIVE"
+            "asci.freenet.de": "INACTIVE"
         },
         "1575144310": {
             "analytics.unister-gmbh.de": "INACTIVE",
@@ -8538,41 +8535,9 @@
             "bstracker.blogspirit.net": "INACTIVE",
             "contatore-di-visite.campusanuncios.com": "INACTIVE"
         },
-        "1575145026": {
-            "csi-tracking.com": "INACTIVE",
-            "customerdiscoverytrack.com": "INACTIVE",
-            "daylife-analytics.com": "INACTIVE",
-            "declaredthoughtfulness.co": "INACTIVE",
-            "dhmtracking.co.za": "INACTIVE",
-            "dinkstat.com": "INACTIVE",
-            "dlrowehtfodne.com": "INACTIVE",
-            "downture.in": "INACTIVE",
-            "dummy-domain-do-not-change.com": "INACTIVE",
-            "enectoanalytics.com": "INACTIVE",
-            "etherealhakai.com": "INACTIVE",
-            "etrafficstats.com": "INACTIVE",
-            "eventbeacon.ca": "INACTIVE",
-            "eventoptimize.com": "INACTIVE",
-            "evisitcs.com": "INACTIVE",
-            "evisitcs2.com": "INACTIVE",
-            "farmer.wego.com": "INACTIVE",
-            "flash-stat.com": "INACTIVE",
-            "flowstats.net": "INACTIVE",
-            "frescoerspica.com": "INACTIVE"
-        },
         "1575145027": {
             "eageweb.com": "INACTIVE",
             "encoderfarmced-stats-ns.servicebus.windows.net": "INACTIVE",
-            "fshka.com": "INACTIVE",
-            "gemtrackers.com": "INACTIVE",
-            "getetafun.info": "INACTIVE",
-            "goaltraffic.com": "INACTIVE",
-            "guruquicks.net": "INACTIVE",
-            "haraju.co": "INACTIVE",
-            "hitmaze-counters.net": "INACTIVE",
-            "homechader.com": "INACTIVE",
-            "hoststats.info": "INACTIVE",
-            "hurterkranach.net": "INACTIVE",
             "ijncw.tv": "INACTIVE",
             "imanginatium.com": "INACTIVE"
         },
@@ -9991,6 +9956,85 @@
         },
         "1575370402": {
             "comradepony.com": "INACTIVE"
+        },
+        "1575372465": {
+            "convertmarketing.net": "INACTIVE",
+            "cormce.com": "INACTIVE"
+        },
+        "1575372466": {
+            "countingbiz.info": "INACTIVE"
+        },
+        "1575372468": {
+            "csi-tracking.com": "INACTIVE",
+            "customerdiscoverytrack.com": "INACTIVE"
+        },
+        "1575372470": {
+            "daylife-analytics.com": "INACTIVE",
+            "declaredthoughtfulness.co": "INACTIVE"
+        },
+        "1575372471": {
+            "dhmtracking.co.za": "INACTIVE",
+            "dinkstat.com": "INACTIVE"
+        },
+        "1575372472": {
+            "dlrowehtfodne.com": "INACTIVE"
+        },
+        "1575372473": {
+            "downture.in": "INACTIVE"
+        },
+        "1575372474": {
+            "dummy-domain-do-not-change.com": "INACTIVE"
+        },
+        "1575372477": {
+            "enectoanalytics.com": "INACTIVE"
+        },
+        "1575372478": {
+            "etherealhakai.com": "INACTIVE",
+            "etrafficstats.com": "INACTIVE"
+        },
+        "1575372479": {
+            "eventbeacon.ca": "INACTIVE",
+            "eventoptimize.com": "INACTIVE",
+            "evisitcs.com": "INACTIVE"
+        },
+        "1575372480": {
+            "evisitcs2.com": "INACTIVE"
+        },
+        "1575372481": {
+            "farmer.wego.com": "INACTIVE"
+        },
+        "1575372483": {
+            "flash-stat.com": "INACTIVE",
+            "flowstats.net": "INACTIVE"
+        },
+        "1575372486": {
+            "frescoerspica.com": "INACTIVE",
+            "fshka.com": "INACTIVE"
+        },
+        "1575372487": {
+            "gemtrackers.com": "INACTIVE"
+        },
+        "1575372488": {
+            "getetafun.info": "INACTIVE"
+        },
+        "1575372489": {
+            "goaltraffic.com": "INACTIVE"
+        },
+        "1575372491": {
+            "guruquicks.net": "INACTIVE"
+        },
+        "1575372492": {
+            "haraju.co": "INACTIVE"
+        },
+        "1575372493": {
+            "hitmaze-counters.net": "INACTIVE"
+        },
+        "1575372494": {
+            "homechader.com": "INACTIVE"
+        },
+        "1575372495": {
+            "hoststats.info": "INACTIVE",
+            "hurterkranach.net": "INACTIVE"
         }
     }
 }
