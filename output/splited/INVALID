@@ -6,6 +6,16 @@ meetrics.netbb-                                                                 
 121.78.90.104:8383                                                                                   SYNTAX     XXX        2019-12-03T13:41:10.907544
 58.68.146.44:8000                                                                                    SYNTAX     XXX        2019-12-03T13:41:11.601339
 activity.*.miui.com                                                                                  SYNTAX     XXX        2019-12-03T13:41:12.322649
+analytics-beacon-*.amazonaws.com                                                                     SYNTAX     XXX        2019-12-03T13:53:13.283726
+bc.geocities.                                                                                        SYNTAX     XXX        2019-12-03T13:53:16.568303
+bin.clearspring.*                                                                                    SYNTAX     XXX        2019-12-03T13:53:17.016369
+cloudfront.net*                                                                                      SYNTAX     XXX        2019-12-03T13:53:20.421774
+cloudfront.net*                                                                                      SYNTAX     XXX        2019-12-03T13:53:20.460937
+cloudfront.net*                                                                                      SYNTAX     XXX        2019-12-03T13:53:20.501056
+cloudfront.net*                                                                                      SYNTAX     XXX        2019-12-03T13:53:20.589602
+collect.*.miui.com                                                                                   SYNTAX     XXX        2019-12-03T13:53:22.671385
+collector-*.elb.amazonaws.com                                                                        SYNTAX     XXX        2019-12-03T13:53:22.719720
+collector-*.tvsquared.com                                                                            SYNTAX     XXX        2019-12-03T13:53:22.798784
 irs01.                                                                                               SYNTAX     XXX        2019-12-03T13:29:32.922350
 minero-proxy-*.sh                                                                                    SYNTAX     XXX        2019-12-03T13:17:23.522497
 site.flashx.                                                                                         SYNTAX     XXX        2019-12-03T13:17:30.432948
