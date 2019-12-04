@@ -8325,67 +8325,6 @@
         "1574803139": {
             "logdev.openload.co": "INACTIVE"
         },
-        "1575375393": {
-            "pzkysq.pink": "INACTIVE"
-        },
-        "1575375394": {
-            "qdtracking.com": "INACTIVE"
-        },
-        "1575375395": {
-            "radiomanlibya.com": "INACTIVE"
-        },
-        "1575375396": {
-            "realtimeplease.com": "INACTIVE"
-        },
-        "1575375397": {
-            "referlytics.com": "INACTIVE"
-        },
-        "1575375398": {
-            "retags.us": "INACTIVE"
-        },
-        "1575375400": {
-            "roivista.com": "INACTIVE"
-        },
-        "1575375401": {
-            "rtbauction.com": "INACTIVE"
-        },
-        "1575375402": {
-            "sarevtop.com": "INACTIVE"
-        },
-        "1575375403": {
-            "scastnet.com": "INACTIVE"
-        },
-        "1575375404": {
-            "secure-pixel.com": "INACTIVE",
-            "segment-analytics.com": "INACTIVE",
-            "selipuquoe.com": "INACTIVE"
-        },
-        "1575375405": {
-            "seoradar.ro": "INACTIVE",
-            "servinator.pw": "INACTIVE",
-            "servingpps.com": "INACTIVE",
-            "servingtrkid.com": "INACTIVE"
-        },
-        "1575375409": {
-            "smfsvc.com": "INACTIVE"
-        },
-        "1575375410": {
-            "socketanalytics.com": "INACTIVE"
-        },
-        "1575375412": {
-            "sptag3.com": "INACTIVE"
-        },
-        "1575375413": {
-            "statcounters.info": "INACTIVE"
-        },
-        "1575375414": {
-            "stats-analytics.info": "INACTIVE",
-            "stats2513.com": "INACTIVE",
-            "statsimg.com": "INACTIVE"
-        },
-        "1575375415": {
-            "statswave.com": "INACTIVE"
-        },
         "1575376810": {
             "tstlabs.co.uk": "INACTIVE",
             "tubetrafficcash.com": "INACTIVE",
@@ -10160,6 +10099,35 @@
         },
         "1575462113": {
             "tracetracking.net": "INACTIVE"
+        },
+        "1575463498": {
+            "pzkysq.pink": "INACTIVE",
+            "qdtracking.com": "INACTIVE",
+            "radiomanlibya.com": "INACTIVE",
+            "realtimeplease.com": "INACTIVE",
+            "referlytics.com": "INACTIVE",
+            "retags.us": "INACTIVE",
+            "roivista.com": "INACTIVE",
+            "rtbauction.com": "INACTIVE",
+            "sarevtop.com": "INACTIVE",
+            "scastnet.com": "INACTIVE"
+        },
+        "1575463499": {
+            "secure-pixel.com": "INACTIVE",
+            "segment-analytics.com": "INACTIVE",
+            "selipuquoe.com": "INACTIVE",
+            "seoradar.ro": "INACTIVE",
+            "servinator.pw": "INACTIVE",
+            "servingpps.com": "INACTIVE",
+            "servingtrkid.com": "INACTIVE",
+            "smfsvc.com": "INACTIVE",
+            "socketanalytics.com": "INACTIVE",
+            "sptag3.com": "INACTIVE",
+            "statcounters.info": "INACTIVE",
+            "stats-analytics.info": "INACTIVE",
+            "stats2513.com": "INACTIVE",
+            "statsimg.com": "INACTIVE",
+            "statswave.com": "INACTIVE"
         }
     }
 }

@@ -5300,9 +5300,9 @@
         "state": "future"
     },
     "coinblind.com": {
-        "epoch": 1575331200.0,
-        "expiration_date": "03-dec-2019",
-        "state": "past"
+        "epoch": 1606953600.0,
+        "expiration_date": "03-dec-2020",
+        "state": "future"
     },
     "coincheck.com": {
         "epoch": 1575936000.0,
@@ -27612,6 +27612,11 @@
     "zemanta.com": {
         "epoch": 1620000000.0,
         "expiration_date": "03-may-2021",
+        "state": "future"
+    },
+    "zengenti.com": {
+        "epoch": 1589760000.0,
+        "expiration_date": "18-may-2020",
         "state": "future"
     },
     "zeotap.com": {
