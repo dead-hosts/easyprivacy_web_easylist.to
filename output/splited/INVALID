@@ -6,6 +6,7 @@ meetrics.netbb-                                                                 
 121.78.90.104:8383                                                                                   SYNTAX     XXX        2019-12-04T14:17:22.922140
 58.68.146.44:8000                                                                                    SYNTAX     XXX        2019-12-04T14:17:23.641874
 activity.*.miui.com                                                                                  SYNTAX     XXX        2019-12-04T14:17:24.395881
+aff*.kolektiva.net                                                                                   SYNTAX     XXX        2019-12-04T15:43:25.837646
 analytics-beacon-*.amazonaws.com                                                                     SYNTAX     XXX        2019-12-04T14:17:28.282178
 bc.geocities.                                                                                        SYNTAX     XXX        2019-12-04T14:37:14.919437
 bin.clearspring.*                                                                                    SYNTAX     XXX        2019-12-04T14:37:15.332994
@@ -27,3 +28,5 @@ site.flashx.                                                                    
 targeting.*.arcpublishing.com                                                                        SYNTAX     XXX        2019-12-04T15:19:55.060331
 tracker.twenga.                                                                                      SYNTAX     XXX        2019-12-04T15:19:58.970670
 tracking.*.miui.com                                                                                  SYNTAX     XXX        2019-12-04T15:19:59.198223
+vtnlog-*.elb.amazonaws.com                                                                           SYNTAX     XXX        2019-12-04T15:43:15.250561
+yandex.*                                                                                             SYNTAX     XXX        2019-12-04T15:43:18.024336
