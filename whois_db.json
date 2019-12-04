@@ -19329,6 +19329,11 @@
         "expiration_date": "07-oct-2020",
         "state": "future"
     },
+    "reciteme.com": {
+        "epoch": 1586649600.0,
+        "expiration_date": "12-apr-2020",
+        "state": "future"
+    },
     "recobell.io": {
         "epoch": 1598227200.0,
         "expiration_date": "24-aug-2020",
@@ -21110,8 +21115,8 @@
         "state": "future"
     },
     "silverpop.com": {
-        "epoch": 1575417600.0,
-        "expiration_date": "04-dec-2019",
+        "epoch": 1607040000.0,
+        "expiration_date": "04-dec-2020",
         "state": "future"
     },
     "silverpush.co": {
@@ -21672,6 +21677,11 @@
     "socketviking.net": {
         "epoch": 1592697600.0,
         "expiration_date": "21-jun-2020",
+        "state": "future"
+    },
+    "socsi.in": {
+        "epoch": 1596067200.0,
+        "expiration_date": "30-jul-2020",
         "state": "future"
     },
     "sodoit.com": {
@@ -23107,7 +23117,7 @@
     "tcimg.com": {
         "epoch": 1575417600.0,
         "expiration_date": "04-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "tcpalm.com": {
         "epoch": 1604620800.0,
