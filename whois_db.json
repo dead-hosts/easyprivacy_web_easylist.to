@@ -15299,6 +15299,11 @@
         "expiration_date": "07-feb-2020",
         "state": "future"
     },
+    "mopinion.com": {
+        "epoch": 1597363200.0,
+        "expiration_date": "14-aug-2020",
+        "state": "future"
+    },
     "morningdigit.com": {
         "epoch": 1597017600.0,
         "expiration_date": "10-aug-2020",
@@ -15670,9 +15675,9 @@
         "state": "future"
     },
     "mynewcounter.com": {
-        "epoch": 1575331200.0,
-        "expiration_date": "03-dec-2019",
-        "state": "past"
+        "epoch": 1606953600.0,
+        "expiration_date": "03-dec-2020",
+        "state": "future"
     },
     "mynsystems.com": {
         "epoch": 1654560000.0,
