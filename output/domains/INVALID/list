@@ -8,13 +8,19 @@ site.flashx.
 58.68.146.44:8000
 activity.*.miui.com
 aff*.kolektiva.net
+airbnb.*
+amazon.*
 analytics-beacon-*.amazonaws.com
+attachmate.com*
 bc.geocities.
 bin.clearspring.*
+classic.comunio.*
+climatedesk.org*
 cloudfront.net*
 collect.*.miui.com
 collector-*.elb.amazonaws.com
 collector-*.tvsquared.com
+compare.easyvoyage.
 datacollect*.abtasty.com
 etwun.com:8080
 facebook.com*
@@ -23,6 +29,7 @@ irs01.
 log-*.previewnetworks.com
 metro-trending-*.amazonaws.com
 stats2.*.fdnames.com
+stats-*.p2pnow.ru
 targeting.*.arcpublishing.com
 tracker.twenga.
 tracking.*.miui.com
