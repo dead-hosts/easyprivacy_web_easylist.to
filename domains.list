@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201912030951
+! Version: 201912040936
 ! Title: EasyPrivacy
-! Last modified: 03 Dec 2019 09:51 UTC
+! Last modified: 04 Dec 2019 09:36 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2286,6 +2286,7 @@
 /js_tracker.
 /js_tracking?
 /jscounter.
+/jscript/dwac-
 /jserrLog?
 /jslogger.php?ref=
 /jsnlog.js
@@ -3504,6 +3505,7 @@
 /socialButtonTracker.
 /SocialSharingTracking.
 /SocialTrack_
+/socialTracking.js
 /socialtracking.min.js
 /softclick.js
 /softpage/stats_registerhit.asp?
@@ -4088,6 +4090,8 @@
 /tracking/index.
 /tracking/json2.
 /tracking/log.php?
+/tracking/log?
+/tracking/logFinish?
 /tracking/open?
 /tracking/pageview.
 /tracking/partner_
@@ -4395,6 +4399,7 @@
 /VisitCounter.
 /VisitLog.asmx
 /visitor-event?
+/visitor-js/?
 /Visitor.aspx?
 /visitor.cgi?aff
 /visitor.gif?ts=
@@ -5457,6 +5462,7 @@ _mongo_stats/
 ||brilig.com^$third-party
 ||bronto.com^$third-party
 ||browser-statistik.de^$third-party
+||browser-update.org^$third-party
 ||brsrvr.com^$third-party
 ||bstk.co^$third-party
 ||bstn-14-ma.com^$third-party
@@ -6162,6 +6168,7 @@ _mongo_stats/
 ||hoststats.info^$third-party
 ||hotdogsandads.com^$third-party
 ||hotjar.com^$third-party
+||hotjar.io^$third-party
 ||hotlog.ru^$third-party
 ||hqhrt.com^$third-party
 ||hs-analytics.net^$third-party
@@ -6541,6 +6548,7 @@ _mongo_stats/
 ||monstat.com^$third-party
 ||monu.delivery^$third-party
 ||mooseway.com^$third-party
+||mopinion.com^$third-party
 ||motrixi.com^$third-party
 ||mouse3k.com^$third-party
 ||mouseflow.com^$third-party
@@ -6913,6 +6921,7 @@ _mongo_stats/
 ||realtracking.ninja^$third-party
 ||realytics.io^$third-party
 ||realzeit.io^$third-party
+||reciteme.com^$third-party
 ||recoset.com^$third-party
 ||recruitics.com^$third-party
 ||redcounter.net^$third-party
@@ -7162,6 +7171,7 @@ _mongo_stats/
 ||sociaplus.com^$third-party
 ||socketanalytics.com^$third-party
 ||socketviking.net^$third-party
+||socsi.in^$third-party
 ||sodoit.com^$third-party
 ||soflopxl.com^$third-party
 ||softonic-analytics.net^$third-party
@@ -7264,7 +7274,9 @@ _mongo_stats/
 ||successfultogether.co.uk^$third-party
 ||summerhamster.com^$third-party
 ||summitemarketinganalytics.com^$third-party
+||sumo.com^$third-party
 ||sumologic.com^$third-party,domain=~sumologic.net
+||sumome.com^$third-party
 ||supercounters.com^$third-party
 ||superstats.com^$third-party
 ||supert.ag^$third-party
@@ -7711,6 +7723,7 @@ _mongo_stats/
 ||zdtag.com^$third-party
 ||zedwhyex.com^$third-party
 ||zeerat.com^$third-party
+||zengenti.com^$third-party
 ||zenlivestats.com^$third-party
 ||zeotap.com^$third-party
 ||zesep.com^$third-party
@@ -9631,6 +9644,7 @@ _mongo_stats/
 ||aklamio.com/ovlbtntrk?
 ||aksb-a.akamaihd.net^
 ||alenty.com/trk/
+||alex.leonard.ie/misc-images/transparent.png
 ||alexa.com/minisiteinfo/$third-party
 ||alexa.com/traffic/
 ||alexandria.marfeelcdn.com^
@@ -11352,10 +11366,6 @@ _mongo_stats/
 ||su.pr/hosted_js$third-party
 ||sugarops.com/w?action=impression$third-party
 ||sulia.com/papi/sulia_partner.js/$third-party
-||sumo.com/api/event/
-||sumo.com/apps/heatmaps/
-||sumome.com/api/event/?
-||sumome.com/apps/heatmaps/
 ||sundaysky.com/sst.gif?
 ||sundaysky.com/vop/$third-party
 ||survey.interquest.com^
