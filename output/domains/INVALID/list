@@ -16,11 +16,13 @@ collect.*.miui.com
 collector-*.elb.amazonaws.com
 collector-*.tvsquared.com
 datacollect*.abtasty.com
+etwun.com:8080
 facebook.com*
 hits-*.iubenda.com
 irs01.
 log-*.previewnetworks.com
 metro-trending-*.amazonaws.com
+stats2.*.fdnames.com
 targeting.*.arcpublishing.com
 tracker.twenga.
 tracking.*.miui.com
