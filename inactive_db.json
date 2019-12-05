@@ -8325,10 +8325,6 @@
         "1574803139": {
             "logdev.openload.co": "INACTIVE"
         },
-        "1575485084": {
-            "analytics.thevideo.me": "INACTIVE",
-            "dv0.info": "INACTIVE"
-        },
         "1575548392": {
             "0tracker.com": "INACTIVE",
             "100im.info": "INACTIVE",
@@ -10234,6 +10230,10 @@
         },
         "1575587267": {
             "visit.hepsiburada.com": "INACTIVE"
+        },
+        "1575588379": {
+            "analytics.thevideo.me": "INACTIVE",
+            "dv0.info": "INACTIVE"
         }
     }
 }
