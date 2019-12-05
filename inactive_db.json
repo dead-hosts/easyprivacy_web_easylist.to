@@ -8325,61 +8325,6 @@
         "1574803139": {
             "logdev.openload.co": "INACTIVE"
         },
-        "1575460513": {
-            "pickzor.com": "INACTIVE",
-            "pixel.parsely.com": "INACTIVE"
-        },
-        "1575460514": {
-            "pixelsnippet.com": "INACTIVE",
-            "plwosvr.net": "INACTIVE"
-        },
-        "1575460515": {
-            "ppclocation.biz": "INACTIVE",
-            "ppctracking.net": "INACTIVE"
-        },
-        "1575460516": {
-            "profilertracking3.com": "INACTIVE",
-            "projecthaile.com": "INACTIVE",
-            "psyma-statistics.com": "INACTIVE"
-        },
-        "1575462091": {
-            "ijncw.tv": "INACTIVE",
-            "imanginatium.com": "INACTIVE",
-            "integritystat.com": "INACTIVE",
-            "intelevance.com": "INACTIVE",
-            "ipcounter.de": "INACTIVE",
-            "irelandmetrix.ie": "INACTIVE",
-            "jimdo-stats.com": "INACTIVE",
-            "jsid.info": "INACTIVE",
-            "l2.visiblemeasures.com": "INACTIVE",
-            "lead-tracking.biz": "INACTIVE",
-            "lymantriacypresdoctrine.biz": "INACTIVE",
-            "market015.com": "INACTIVE",
-            "martianstats.com": "INACTIVE",
-            "maryneallynndyl.com": "INACTIVE"
-        },
-        "1575462092": {
-            "md-ia.info": "INACTIVE",
-            "metakeyproducer.com": "INACTIVE",
-            "meyersdalebixby.com": "INACTIVE",
-            "midkotatraffic.net": "INACTIVE",
-            "mletracker.com": "INACTIVE",
-            "mtrics.cdc.gov": "INACTIVE",
-            "mucocutaneousmyrmecophaga.com": "INACTIVE",
-            "nestedmedia.com": "INACTIVE",
-            "newpoints.info": "INACTIVE",
-            "newstatscounter.info": "INACTIVE",
-            "nicewii.com": "INACTIVE",
-            "novately.com": "INACTIVE",
-            "od.visiblemeasures.com": "INACTIVE",
-            "odesaconflate.com": "INACTIVE",
-            "ogxatekkyzr.com": "INACTIVE",
-            "online-media-stats.com": "INACTIVE",
-            "online-right-now.net": "INACTIVE",
-            "openxtracker.com": "INACTIVE",
-            "optreadetrus.info": "INACTIVE",
-            "p.l1v.ly": "INACTIVE"
-        },
         "1575462109": {
             "swoopgrid.com": "INACTIVE",
             "synergy-sync.com": "INACTIVE"
@@ -8398,9 +8343,6 @@
             "tracetracking.net": "INACTIVE"
         },
         "1575463498": {
-            "pzkysq.pink": "INACTIVE",
-            "qdtracking.com": "INACTIVE",
-            "radiomanlibya.com": "INACTIVE",
             "realtimeplease.com": "INACTIVE",
             "referlytics.com": "INACTIVE",
             "retags.us": "INACTIVE",
@@ -10098,6 +10040,108 @@
             "homechader.com": "INACTIVE",
             "hoststats.info": "INACTIVE",
             "hurterkranach.net": "INACTIVE"
+        },
+        "1575551704": {
+            "ijncw.tv": "INACTIVE",
+            "imanginatium.com": "INACTIVE",
+            "integritystat.com": "INACTIVE",
+            "intelevance.com": "INACTIVE"
+        },
+        "1575551705": {
+            "ipcounter.de": "INACTIVE"
+        },
+        "1575551706": {
+            "irelandmetrix.ie": "INACTIVE",
+            "jimdo-stats.com": "INACTIVE"
+        },
+        "1575551707": {
+            "jsid.info": "INACTIVE"
+        },
+        "1575551709": {
+            "l2.visiblemeasures.com": "INACTIVE"
+        },
+        "1575551710": {
+            "lead-tracking.biz": "INACTIVE"
+        },
+        "1575551714": {
+            "lymantriacypresdoctrine.biz": "INACTIVE"
+        },
+        "1575551715": {
+            "market015.com": "INACTIVE",
+            "martianstats.com": "INACTIVE",
+            "maryneallynndyl.com": "INACTIVE"
+        },
+        "1575551716": {
+            "md-ia.info": "INACTIVE"
+        },
+        "1575551717": {
+            "metakeyproducer.com": "INACTIVE",
+            "meyersdalebixby.com": "INACTIVE"
+        },
+        "1575551718": {
+            "midkotatraffic.net": "INACTIVE"
+        },
+        "1575551719": {
+            "mletracker.com": "INACTIVE"
+        },
+        "1575551721": {
+            "mtrics.cdc.gov": "INACTIVE",
+            "mucocutaneousmyrmecophaga.com": "INACTIVE"
+        },
+        "1575551724": {
+            "nestedmedia.com": "INACTIVE",
+            "newpoints.info": "INACTIVE",
+            "newstatscounter.info": "INACTIVE"
+        },
+        "1575551725": {
+            "nicewii.com": "INACTIVE",
+            "novately.com": "INACTIVE"
+        },
+        "1575551726": {
+            "od.visiblemeasures.com": "INACTIVE",
+            "odesaconflate.com": "INACTIVE"
+        },
+        "1575551727": {
+            "ogxatekkyzr.com": "INACTIVE"
+        },
+        "1575551728": {
+            "online-media-stats.com": "INACTIVE",
+            "online-right-now.net": "INACTIVE",
+            "openxtracker.com": "INACTIVE"
+        },
+        "1575551729": {
+            "optreadetrus.info": "INACTIVE"
+        },
+        "1575551730": {
+            "p.l1v.ly": "INACTIVE"
+        },
+        "1575551732": {
+            "pickzor.com": "INACTIVE"
+        },
+        "1575551733": {
+            "pixel.parsely.com": "INACTIVE",
+            "pixelsnippet.com": "INACTIVE"
+        },
+        "1575551734": {
+            "plwosvr.net": "INACTIVE"
+        },
+        "1575551735": {
+            "ppclocation.biz": "INACTIVE",
+            "ppctracking.net": "INACTIVE",
+            "profilertracking3.com": "INACTIVE",
+            "projecthaile.com": "INACTIVE"
+        },
+        "1575551736": {
+            "psyma-statistics.com": "INACTIVE"
+        },
+        "1575551737": {
+            "pzkysq.pink": "INACTIVE"
+        },
+        "1575551738": {
+            "qdtracking.com": "INACTIVE"
+        },
+        "1575551739": {
+            "radiomanlibya.com": "INACTIVE"
         }
     }
 }
