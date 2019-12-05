@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201912040936
+! Version: 201912051010
 ! Title: EasyPrivacy
-! Last modified: 04 Dec 2019 09:36 UTC
+! Last modified: 05 Dec 2019 10:10 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1619,6 +1619,7 @@
 /event.php?campaign=
 /event/*/*?*&euidl=*&url=
 /event/?ra=
+/event/impression/*
 /event/pageview/*
 /event/pageview?
 /event/pageviewgeodevice/*
@@ -2152,6 +2153,7 @@
 /impression?*.loadAds&
 /impression?bid
 /impression?rkey=
+/impression_logging
 /impression_tracker.
 /impression_tracking.
 /impressioncount.
@@ -2433,6 +2435,7 @@
 /log_event?
 /log_hit.
 /log_impression/*
+/log_impressions
 /log_interaction?
 /log_presence/*
 /log_stats.php?
@@ -3198,6 +3201,7 @@
 /realytics.js
 /recommendtrack?
 /record-impressions.
+/record-impressions?
 /record-stats?
 /record.do?
 /record_clicks.
@@ -10096,7 +10100,7 @@ _mongo_stats/
 ||communicatorcorp.com^*/conversiontracking.js
 ||compendiumblog.com/js/stats.js
 ||competitoor.com/analytics/
-||concert.io/lib/$script,third-party
+||concert.io/lookup/
 ||conde.io/beacon
 ||condenastdigital.com/content?$third-party
 ||connect.facebook.net/signals/$third-party
@@ -10734,6 +10738,7 @@ _mongo_stats/
 ||link.tym.cool^
 ||linkbucks.com/visitScript/
 ||linkdeli.com/widget.js
+||linkedin.com/countserv/count/$third-party
 ||linkedin.com/emimp/$image
 ||links.voyeurweb.com^
 ||linkwithin.com/pixel.png
@@ -12738,7 +12743,6 @@ _mongo_stats/
 ||amazon.*/batch/*/oe/$ping
 ||amazon.*/batch/*uedata=$image
 ||amazon.*/gp/r.html?
-||amazon.*/record-impressions?
 ||amazon.*/uedata/
 ||amazon.com/clog/
 ||amazon.com/empty.gif?$image
@@ -13356,10 +13360,8 @@ _mongo_stats/
 ||facebook.com/ajax/*/log.php
 ||facebook.com/ajax/*logging.
 ||facebook.com/ct.php
-||facebook.com/friends/requests/log_impressions
 ||facebook.com/search/web/instrumentation.php?
 ||facebook.com/xti.php?
-||facebook.com^*/impression_logging/
 ||fanatical.com^*/fansp.js
 ||fanfiction.net/eye/
 ||fanhow.com/script/tracker.js
@@ -14614,7 +14616,6 @@ _mongo_stats/
 ||spankbang.com^*.d-ai-why.js
 ||speakertext.com/analytics/
 ||speed.wikia.net^
-||spinback.com/spinback/event/impression/
 ||spinmedia.com/clarity.min.js
 ||spinmediacdn.com/clarity.min.js
 ||splurgy.com/bacon/*_ct.gif$image
@@ -16023,7 +16024,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||logx.mtime.cn^
 ||logx.mtime.com^
 ||luobo.tv/staticts.html
-||map.baidu.com/newmap_test/static/common/images/transparent.gif?*&code=
+||map.baidu.com/newmap_test/static/common/images/transparent.gif
 ||mar.vip.com^
 ||mp.weixin.qq.com/mp/appmsgreport?
 ||mp.weixin.qq.com/mp/getappmsgad?
@@ -16716,6 +16717,10 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||lightningmaps.org^*/piwik.js
 @@||listrakbi.com^$image,script,stylesheet,domain=sks-bottle.com
 @@||logging.apache.org^$domain=apache.org
+@@||marketo.com/index.php/form/$subdocument
+@@||marketo.com/js/forms2/$stylesheet
+@@||marketo.com/jsloader/*/loader.php.js$script
+@@||marketo.com^$script,stylesheet,subdocument,domain=awscloud.com
 @@||maxmind.com/geoip/$xmlhttprequest,domain=bandai-hobby.net|elgato.com|filld.com
 @@||maxmind.com^*/geoip.js$domain=aljazeera.com|ballerstatus.com|bikemap.net|carltonjordan.com|cashu.com|coolsport.tv|dereon.com|dr.dk|everydaysource.com|fab.com|girlgames4u.com|incgamers.com|ip-address.cc|maaduu.com|qatarairways.com|sat-direction.com|sotctours.com|stoli.com|vibe.com
 @@||maxmind.com^*/geoip2.js$domain=boostedboards.com|elgato.com|fallout4.com|filld.com|metronews.ca|mtv.com.lb|runningheroes.com|teslamotors.com
