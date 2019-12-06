@@ -8325,112 +8325,6 @@
         "1574803139": {
             "logdev.openload.co": "INACTIVE"
         },
-        "1575557772": {
-            "visitlog.net": "INACTIVE"
-        },
-        "1575557773": {
-            "visualdna-stats.com": "INACTIVE"
-        },
-        "1575557774": {
-            "vunetotbe.com": "INACTIVE"
-        },
-        "1575557775": {
-            "webalytics.pw": "INACTIVE"
-        },
-        "1575557776": {
-            "webseoanalytics.co.za": "INACTIVE"
-        },
-        "1575557777": {
-            "whatismyip.win": "INACTIVE"
-        },
-        "1575557779": {
-            "wredint.com": "INACTIVE",
-            "wwwstats.info": "INACTIVE",
-            "x.ligatus.com": "INACTIVE",
-            "xclk-integracion.com": "INACTIVE"
-        },
-        "1575557780": {
-            "yandex-metrica.ru": "INACTIVE",
-            "ycctrk.co.uk": "INACTIVE"
-        },
-        "1575557781": {
-            "youmetrix.co.uk": "INACTIVE"
-        },
-        "1575557782": {
-            "185.165.169.108": "INACTIVE",
-            "zenlivestats.com": "INACTIVE",
-            "zowary.com": "INACTIVE",
-            "zroitracker.com": "INACTIVE"
-        },
-        "1575557783": {
-            "1beb2a44.space": "INACTIVE",
-            "1q2w3.life": "INACTIVE",
-            "1q2w3.me": "INACTIVE",
-            "1q2w3.top": "INACTIVE",
-            "300ca0d0.space": "INACTIVE",
-            "310ca263.space": "INACTIVE",
-            "320ca3f6.space": "INACTIVE",
-            "330ca589.space": "INACTIVE",
-            "340ca71c.space": "INACTIVE",
-            "360caa42.space": "INACTIVE",
-            "370cabd5.space": "INACTIVE",
-            "3c0cb3b4.space": "INACTIVE",
-            "3d0cb547.space": "INACTIVE",
-            "8jd2lfsq.me": "INACTIVE"
-        },
-        "1575557784": {
-            "aeros03.tk": "INACTIVE",
-            "aeros04.tk": "INACTIVE",
-            "aeros05.tk": "INACTIVE",
-            "aeros06.tk": "INACTIVE",
-            "aeros07.tk": "INACTIVE",
-            "aeros09.tk": "INACTIVE",
-            "aeros10.tk": "INACTIVE",
-            "aeros11.tk": "INACTIVE",
-            "aeros12.tk": "INACTIVE",
-            "afflow.18-plus.net": "INACTIVE",
-            "alflying.bid": "INACTIVE",
-            "alflying.date": "INACTIVE"
-        },
-        "1575557785": {
-            "alflying.win": "INACTIVE",
-            "amhixwqagiz.ru": "INACTIVE",
-            "anybest.pw": "INACTIVE",
-            "api.inwemo.com": "INACTIVE",
-            "appelamule.com": "INACTIVE",
-            "aservices.party": "INACTIVE",
-            "aster18cdn.nl": "INACTIVE"
-        },
-        "1575557786": {
-            "aster18prx.nl": "INACTIVE",
-            "aymcsx.ru": "INACTIVE",
-            "bauersagtnein.myeffect.net": "INACTIVE",
-            "baywttgdhe.download": "INACTIVE",
-            "belicimo.pw": "INACTIVE"
-        },
-        "1575557787": {
-            "bewhoyouare.gq": "INACTIVE",
-            "bhzejltg.info": "INACTIVE",
-            "bjorksta.men": "INACTIVE",
-            "blockchained.party": "INACTIVE",
-            "bowithow.com": "INACTIVE",
-            "bsyauqwerd.party": "INACTIVE"
-        },
-        "1575557788": {
-            "c0i8h8ac7e.bid": "INACTIVE",
-            "cc.gofile.io": "INACTIVE",
-            "ccvwtdtwyu.trade": "INACTIVE",
-            "cdn-jquery.host": "INACTIVE",
-            "cdnfile.xyz": "INACTIVE",
-            "cfcnet.top": "INACTIVE",
-            "chainblock.science": "INACTIVE",
-            "chmproxy.bid": "INACTIVE",
-            "clickwith.bid": "INACTIVE"
-        },
-        "1575557789": {
-            "cndhit.xyz": "INACTIVE",
-            "coin-services.info": "INACTIVE"
-        },
         "1575560422": {
             "coinhive-proxy.party": "INACTIVE",
             "coinrail.io": "INACTIVE",
@@ -10145,6 +10039,86 @@
             "userchecker.info": "INACTIVE",
             "useronlinecounter.com": "INACTIVE",
             "valaffiliates.com": "INACTIVE"
+        },
+        "1575646984": {
+            "185.165.169.108": "INACTIVE",
+            "1beb2a44.space": "INACTIVE",
+            "1q2w3.life": "INACTIVE",
+            "1q2w3.me": "INACTIVE",
+            "visitlog.net": "INACTIVE",
+            "visualdna-stats.com": "INACTIVE",
+            "vunetotbe.com": "INACTIVE",
+            "webalytics.pw": "INACTIVE",
+            "webseoanalytics.co.za": "INACTIVE",
+            "whatismyip.win": "INACTIVE",
+            "wredint.com": "INACTIVE",
+            "wwwstats.info": "INACTIVE",
+            "x.ligatus.com": "INACTIVE",
+            "xclk-integracion.com": "INACTIVE",
+            "yandex-metrica.ru": "INACTIVE",
+            "ycctrk.co.uk": "INACTIVE",
+            "youmetrix.co.uk": "INACTIVE",
+            "zenlivestats.com": "INACTIVE",
+            "zowary.com": "INACTIVE",
+            "zroitracker.com": "INACTIVE"
+        },
+        "1575646985": {
+            "1q2w3.top": "INACTIVE",
+            "300ca0d0.space": "INACTIVE",
+            "310ca263.space": "INACTIVE",
+            "320ca3f6.space": "INACTIVE",
+            "330ca589.space": "INACTIVE",
+            "340ca71c.space": "INACTIVE",
+            "360caa42.space": "INACTIVE",
+            "370cabd5.space": "INACTIVE",
+            "3c0cb3b4.space": "INACTIVE",
+            "3d0cb547.space": "INACTIVE",
+            "8jd2lfsq.me": "INACTIVE",
+            "aeros03.tk": "INACTIVE",
+            "aeros04.tk": "INACTIVE",
+            "aeros05.tk": "INACTIVE",
+            "aeros06.tk": "INACTIVE",
+            "aeros07.tk": "INACTIVE",
+            "aeros09.tk": "INACTIVE",
+            "aeros10.tk": "INACTIVE",
+            "aeros11.tk": "INACTIVE",
+            "aeros12.tk": "INACTIVE",
+            "alflying.bid": "INACTIVE"
+        },
+        "1575646986": {
+            "afflow.18-plus.net": "INACTIVE",
+            "alflying.date": "INACTIVE",
+            "alflying.win": "INACTIVE",
+            "amhixwqagiz.ru": "INACTIVE",
+            "anybest.pw": "INACTIVE",
+            "api.inwemo.com": "INACTIVE",
+            "appelamule.com": "INACTIVE",
+            "aservices.party": "INACTIVE",
+            "aster18cdn.nl": "INACTIVE",
+            "aster18prx.nl": "INACTIVE",
+            "aymcsx.ru": "INACTIVE",
+            "bauersagtnein.myeffect.net": "INACTIVE",
+            "baywttgdhe.download": "INACTIVE",
+            "belicimo.pw": "INACTIVE",
+            "bewhoyouare.gq": "INACTIVE",
+            "bhzejltg.info": "INACTIVE",
+            "bjorksta.men": "INACTIVE",
+            "blockchained.party": "INACTIVE",
+            "bowithow.com": "INACTIVE",
+            "bsyauqwerd.party": "INACTIVE",
+            "c0i8h8ac7e.bid": "INACTIVE"
+        },
+        "1575646987": {
+            "cc.gofile.io": "INACTIVE",
+            "ccvwtdtwyu.trade": "INACTIVE",
+            "cdn-jquery.host": "INACTIVE",
+            "cdnfile.xyz": "INACTIVE",
+            "cfcnet.top": "INACTIVE",
+            "chainblock.science": "INACTIVE",
+            "chmproxy.bid": "INACTIVE",
+            "clickwith.bid": "INACTIVE",
+            "cndhit.xyz": "INACTIVE",
+            "coin-services.info": "INACTIVE"
         }
     }
 }
