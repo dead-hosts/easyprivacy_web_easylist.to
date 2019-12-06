@@ -4,4 +4,8 @@
 0.0.0.0 meetrics.netbb-
 0.0.0.0 minero-proxy-*.sh
 0.0.0.0 site.flashx.
+0.0.0.0 activity.*.miui.com
+0.0.0.0 analytics-beacon-*.amazonaws.com
+0.0.0.0 bc.geocities.
+0.0.0.0 bin.clearspring.*
 0.0.0.0 irs01.

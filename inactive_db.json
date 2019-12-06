@@ -8325,30 +8325,6 @@
         "1574803139": {
             "logdev.openload.co": "INACTIVE"
         },
-        "1575564897": {
-            "teriotracker.de": "INACTIVE",
-            "trackfreundlich.de": "INACTIVE",
-            "web-controlling.org": "INACTIVE"
-        },
-        "1575564898": {
-            "7e59f52a58ab3be819c9a90ba53b9ffe.ovh": "INACTIVE",
-            "xa-counter.com": "INACTIVE"
-        },
-        "1575564900": {
-            "goyavelab.com": "INACTIVE",
-            "ncdnprorogeraie.lol": "INACTIVE"
-        },
-        "1575564901": {
-            "tnsinternet.be": "INACTIVE",
-            "url-stats.net": "INACTIVE"
-        },
-        "1575564918": {
-            "jetcounter.ru": "INACTIVE",
-            "k3dqv.ru": "INACTIVE"
-        },
-        "1575564919": {
-            "personage.name": "INACTIVE"
-        },
         "1575567210": {
             "blogtraffic.sg": "INACTIVE",
             "wunderdaten.com": "INACTIVE"
@@ -8370,59 +8346,7 @@
         "1575567216": {
             "61.129.118.83": "INACTIVE",
             "62.219.24.238": "INACTIVE",
-            "74.117.176.217": "INACTIVE",
-            "93.93.53.198": "INACTIVE",
-            "a.unanimis.co.uk": "INACTIVE",
-            "a2a.lockerz.com": "INACTIVE",
-            "aaa.aj5.info": "INACTIVE"
-        },
-        "1575567217": {
-            "activity.*.miui.com": "INVALID",
-            "adg.bzgint.com": "INACTIVE"
-        },
-        "1575567218": {
-            "affiliates.spark.net": "INACTIVE",
-            "affiliates.swappernet.com": "INACTIVE",
-            "affl.sucuri.net": "INACTIVE"
-        },
-        "1575567222": {
-            "ams.addflow.ru": "INACTIVE",
-            "analytics-beacon-*.amazonaws.com": "INVALID",
-            "analytics-v2.anvato.com": "INACTIVE",
-            "analytics.abacast.com": "INACTIVE",
-            "analytics.adeevo.com": "INACTIVE",
-            "analytics.artirix.com": "INACTIVE",
-            "analytics.closealert.com": "INACTIVE",
-            "analytics.edgekey.net": "INACTIVE",
-            "analytics.edgesuite.net": "INACTIVE"
-        },
-        "1575567223": {
-            "analytics.episodic.com": "INACTIVE",
-            "analytics.hosting24.com": "INACTIVE",
-            "analytics.hpprintx.com": "INACTIVE",
-            "analytics.r17.com": "INACTIVE",
-            "analytics.revee.com": "INACTIVE",
-            "analytics.truecarbon.org": "INACTIVE",
-            "analyzer.qmerce.com": "INACTIVE"
-        },
-        "1575567224": {
-            "api.awe.sm": "INACTIVE",
-            "api.choicestream.com": "INACTIVE",
-            "api.fyreball.com": "INACTIVE",
-            "app.insightgrit.com": "INACTIVE"
-        },
-        "1575567226": {
-            "basilic.netdna-cdn.com": "INACTIVE",
-            "bc.geocities.": "INVALID"
-        },
-        "1575567227": {
-            "beacon.guim.co.uk": "INACTIVE",
-            "beacon.richrelevance.com": "INACTIVE",
-            "bibzopl.com": "INACTIVE",
-            "bin.clearspring.*": "INVALID"
-        },
-        "1575567228": {
-            "blamcity.com": "INACTIVE"
+            "74.117.176.217": "INACTIVE"
         },
         "1575567229": {
             "buzzbox.buzzfeed.com": "INACTIVE",
@@ -10071,6 +9995,72 @@
         "1575651702": {
             "cntcash.ru": "INACTIVE",
             "countstat.ru": "INACTIVE"
+        },
+        "1575653984": {
+            "7e59f52a58ab3be819c9a90ba53b9ffe.ovh": "INACTIVE",
+            "goyavelab.com": "INACTIVE",
+            "ncdnprorogeraie.lol": "INACTIVE",
+            "teriotracker.de": "INACTIVE",
+            "tnsinternet.be": "INACTIVE",
+            "trackfreundlich.de": "INACTIVE",
+            "url-stats.net": "INACTIVE",
+            "web-controlling.org": "INACTIVE",
+            "xa-counter.com": "INACTIVE"
+        },
+        "1575653985": {
+            "jetcounter.ru": "INACTIVE",
+            "k3dqv.ru": "INACTIVE"
+        },
+        "1575653987": {
+            "personage.name": "INACTIVE"
+        },
+        "1575653993": {
+            "93.93.53.198": "INACTIVE"
+        },
+        "1575653994": {
+            "a.unanimis.co.uk": "INACTIVE",
+            "a2a.lockerz.com": "INACTIVE",
+            "aaa.aj5.info": "INACTIVE",
+            "activity.*.miui.com": "INVALID"
+        },
+        "1575653995": {
+            "adg.bzgint.com": "INACTIVE",
+            "affiliates.spark.net": "INACTIVE",
+            "affiliates.swappernet.com": "INACTIVE",
+            "affl.sucuri.net": "INACTIVE"
+        },
+        "1575653999": {
+            "ams.addflow.ru": "INACTIVE",
+            "analytics-beacon-*.amazonaws.com": "INVALID",
+            "analytics-v2.anvato.com": "INACTIVE",
+            "analytics.adeevo.com": "INACTIVE",
+            "analytics.artirix.com": "INACTIVE",
+            "analytics.closealert.com": "INACTIVE",
+            "analytics.edgekey.net": "INACTIVE",
+            "analytics.edgesuite.net": "INACTIVE",
+            "analytics.episodic.com": "INACTIVE",
+            "analytics.hosting24.com": "INACTIVE",
+            "analytics.hpprintx.com": "INACTIVE",
+            "analytics.revee.com": "INACTIVE"
+        },
+        "1575654000": {
+            "analytics.truecarbon.org": "INACTIVE",
+            "analyzer.qmerce.com": "INACTIVE",
+            "api.awe.sm": "INACTIVE",
+            "api.choicestream.com": "INACTIVE",
+            "api.fyreball.com": "INACTIVE",
+            "app.insightgrit.com": "INACTIVE"
+        },
+        "1575654003": {
+            "basilic.netdna-cdn.com": "INACTIVE",
+            "bc.geocities.": "INVALID",
+            "beacon.guim.co.uk": "INACTIVE",
+            "beacon.richrelevance.com": "INACTIVE",
+            "bibzopl.com": "INACTIVE",
+            "bin.clearspring.*": "INVALID"
+        },
+        "1575654004": {
+            "blamcity.com": "INACTIVE"
         }
     }
 }
