@@ -1627,7 +1627,7 @@
     "alice.it": {
         "epoch": 1575590400.0,
         "expiration_date": "06-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "aliexpress.com": {
         "epoch": 1618531200.0,
