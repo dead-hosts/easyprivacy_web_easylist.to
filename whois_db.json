@@ -6287,7 +6287,7 @@
     "cxt.ms": {
         "epoch": 1575590400.0,
         "expiration_date": "06-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "cya1t.net": {
         "epoch": 1581638400.0,
@@ -9567,7 +9567,7 @@
     "funstage.com": {
         "epoch": 1575590400.0,
         "expiration_date": "06-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "furk.net": {
         "epoch": 1601164800.0,
