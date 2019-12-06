@@ -19415,8 +19415,8 @@
         "state": "future"
     },
     "redstatcounter.com": {
-        "epoch": 1575590400.0,
-        "expiration_date": "06-dec-2019",
+        "epoch": 1638748800.0,
+        "expiration_date": "06-dec-2021",
         "state": "future"
     },
     "redtube.com": {
@@ -23065,8 +23065,8 @@
         "state": "future"
     },
     "taps.io": {
-        "epoch": 1575590400.0,
-        "expiration_date": "06-dec-2019",
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
         "state": "future"
     },
     "tapstream.com": {
@@ -24192,7 +24192,7 @@
     "trafex.net": {
         "epoch": 1575590400.0,
         "expiration_date": "06-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "trafficby.net": {
         "epoch": 1589241600.0,
