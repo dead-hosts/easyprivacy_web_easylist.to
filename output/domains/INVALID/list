@@ -23,12 +23,15 @@ collector-*.tvsquared.com
 compare.easyvoyage.
 creativefactory.zalando.
 datacollect*.abtasty.com
+ea.laredoute.
+ea.pixmania.
 encrypted.google.*
 etwun.com:8080
 expedia.*
 facebook.com*
-fls-*.amazon.*&
+flashx.*
 fls-*.amazon.*%
+fls-*.amazon.*&
 gateway.reddit.com|
 gismeteo.*
 google.*
@@ -65,4 +68,6 @@ tripadvisor.*
 ts.delfi.
 vice.com*
 vtnlog-*.elb.amazonaws.com
+www.google.*
+www.imdb.*
 yandex.*

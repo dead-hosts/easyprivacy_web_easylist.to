@@ -8325,80 +8325,6 @@
         "1574803139": {
             "logdev.openload.co": "INACTIVE"
         },
-        "1575583499": {
-            "vstat.vidigy.com": "INACTIVE"
-        },
-        "1575583500": {
-            "wavescape.mobi": "INACTIVE",
-            "weblogger01.data.disney.com": "INACTIVE"
-        },
-        "1575583501": {
-            "webstats.perfectworld.com": "INACTIVE"
-        },
-        "1575583502": {
-            "winter.metacafe.com": "INACTIVE",
-            "worksheetsengine.com": "INACTIVE"
-        },
-        "1575583503": {
-            "wusstrack.wunderground.com": "INACTIVE",
-            "www.google.*": "INVALID",
-            "www.imdb.*": "INVALID",
-            "wzus.askkids.com": "INACTIVE",
-            "wzus1.ask.com": "INACTIVE",
-            "wzus1.reference.com": "INACTIVE",
-            "wzus1.thesaurus.com": "INACTIVE"
-        },
-        "1575583507": {
-            "ea.clubic.com": "INACTIVE",
-            "ea.laredoute.": "INVALID"
-        },
-        "1575585267": {
-            "ea.pixmania.": "INVALID"
-        },
-        "1575585268": {
-            "estream.to": "INACTIVE",
-            "flashx.*": "INVALID",
-            "play.estream.to": "INACTIVE",
-            "worker.salon.com": "INACTIVE"
-        },
-        "1575585271": {
-            "counter.zeit.de": "INACTIVE",
-            "cpix.daserste.de": "INACTIVE"
-        },
-        "1575585272": {
-            "extszm.web.de": "INACTIVE",
-            "go.bluewin.ch": "INACTIVE"
-        },
-        "1575585273": {
-            "krissi-ist-weg.de": "INACTIVE",
-            "log.sz-online.de": "INACTIVE"
-        },
-        "1575585274": {
-            "passul.t-online.de": "INACTIVE",
-            "pix.friendscout24.de": "INACTIVE",
-            "rwt.reichelt.de": "INACTIVE",
-            "s.fsphp.t-online.de": "INACTIVE",
-            "stats.daserste.de": "INACTIVE"
-        },
-        "1575585275": {
-            "tracking.autoscout24.com": "INACTIVE",
-            "tracking.kurier.at": "INACTIVE",
-            "tracking.netbank.de": "INACTIVE",
-            "ts.otto.de": "INACTIVE",
-            "tvcommunity.at": "INACTIVE",
-            "xara.hse24.de": "INACTIVE"
-        },
-        "1575585276": {
-            "accn.allocine.net": "INACTIVE",
-            "analytics.rtbf.be": "INACTIVE",
-            "dm.hugolescargot.com": "INACTIVE",
-            "dm.journaldesfemmes.com": "INACTIVE"
-        },
-        "1575585277": {
-            "gstat.orange.fr": "INACTIVE",
-            "hit.leboncoin.fr": "INACTIVE",
-            "ovni9.com": "INACTIVE"
-        },
         "1575585278": {
             "wawacity.*": "INVALID"
         },
@@ -10062,6 +9988,77 @@
         },
         "1575726111": {
             "vitamine.networldmedia.net": "INACTIVE"
+        },
+        "1575730499": {
+            "vstat.vidigy.com": "INACTIVE"
+        },
+        "1575730500": {
+            "wavescape.mobi": "INACTIVE"
+        },
+        "1575730501": {
+            "weblogger01.data.disney.com": "INACTIVE",
+            "webstats.perfectworld.com": "INACTIVE"
+        },
+        "1575730502": {
+            "winter.metacafe.com": "INACTIVE"
+        },
+        "1575730503": {
+            "worksheetsengine.com": "INACTIVE",
+            "wusstrack.wunderground.com": "INACTIVE",
+            "www.google.*": "INVALID",
+            "www.imdb.*": "INVALID",
+            "wzus.askkids.com": "INACTIVE",
+            "wzus1.ask.com": "INACTIVE",
+            "wzus1.reference.com": "INACTIVE",
+            "wzus1.thesaurus.com": "INACTIVE"
+        },
+        "1575730509": {
+            "ea.clubic.com": "INACTIVE",
+            "ea.laredoute.": "INVALID",
+            "ea.pixmania.": "INVALID"
+        },
+        "1575730510": {
+            "flashx.*": "INVALID",
+            "play.estream.to": "INACTIVE",
+            "worker.salon.com": "INACTIVE"
+        },
+        "1575730513": {
+            "counter.zeit.de": "INACTIVE",
+            "cpix.daserste.de": "INACTIVE"
+        },
+        "1575730514": {
+            "extszm.web.de": "INACTIVE",
+            "go.bluewin.ch": "INACTIVE"
+        },
+        "1575730515": {
+            "krissi-ist-weg.de": "INACTIVE",
+            "log.sz-online.de": "INACTIVE",
+            "passul.t-online.de": "INACTIVE",
+            "pix.friendscout24.de": "INACTIVE"
+        },
+        "1575730516": {
+            "rwt.reichelt.de": "INACTIVE",
+            "s.fsphp.t-online.de": "INACTIVE",
+            "stats.daserste.de": "INACTIVE",
+            "tracking.autoscout24.com": "INACTIVE",
+            "tracking.kurier.at": "INACTIVE"
+        },
+        "1575730517": {
+            "accn.allocine.net": "INACTIVE",
+            "analytics.rtbf.be": "INACTIVE",
+            "tracking.netbank.de": "INACTIVE",
+            "ts.otto.de": "INACTIVE",
+            "tvcommunity.at": "INACTIVE",
+            "xara.hse24.de": "INACTIVE"
+        },
+        "1575730518": {
+            "dm.hugolescargot.com": "INACTIVE",
+            "dm.journaldesfemmes.com": "INACTIVE",
+            "gstat.orange.fr": "INACTIVE",
+            "hit.leboncoin.fr": "INACTIVE"
+        },
+        "1575730519": {
+            "ovni9.com": "INACTIVE"
         }
     }
 }
