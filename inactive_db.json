@@ -8325,32 +8325,6 @@
         "1574803139": {
             "logdev.openload.co": "INACTIVE"
         },
-        "1575587262": {
-            "e-spy.petit.lv": "INACTIVE",
-            "fusion.nettavisen.no": "INACTIVE"
-        },
-        "1575587263": {
-            "log.r7.com": "INACTIVE",
-            "sapo.*": "INVALID"
-        },
-        "1575587265": {
-            "stat.lenta.ru": "INACTIVE",
-            "stat.woman-announce.ru": "INACTIVE",
-            "stats.lifenews.ru": "INACTIVE",
-            "trak-analytics.blic.rs": "INACTIVE"
-        },
-        "1575587266": {
-            "beacon.mtgx.tv": "INACTIVE",
-            "prod-metro-collector.cloudapp.net": "INACTIVE",
-            "stats.milenio.com": "INACTIVE"
-        },
-        "1575587267": {
-            "visit.hepsiburada.com": "INACTIVE"
-        },
-        "1575588379": {
-            "analytics.thevideo.me": "INACTIVE",
-            "dv0.info": "INACTIVE"
-        },
         "1575634972": {
             "hitmaze-counters.net": "INACTIVE"
         },
@@ -10061,6 +10035,32 @@
         "1575733816": {
             "gather.hankyung.com": "INACTIVE",
             "visit.geocities.jp": "INACTIVE"
+        },
+        "1575736353": {
+            "e-spy.petit.lv": "INACTIVE",
+            "fusion.nettavisen.no": "INACTIVE",
+            "log.r7.com": "INACTIVE"
+        },
+        "1575736354": {
+            "sapo.*": "INVALID"
+        },
+        "1575736356": {
+            "stat.lenta.ru": "INACTIVE",
+            "stat.woman-announce.ru": "INACTIVE",
+            "stats.lifenews.ru": "INACTIVE",
+            "stats.milenio.com": "INACTIVE",
+            "trak-analytics.blic.rs": "INACTIVE"
+        },
+        "1575736357": {
+            "beacon.mtgx.tv": "INACTIVE",
+            "prod-metro-collector.cloudapp.net": "INACTIVE",
+            "visit.hepsiburada.com": "INACTIVE"
+        },
+        "1575736375": {
+            "analytics.thevideo.me": "INACTIVE"
+        },
+        "1575736376": {
+            "dv0.info": "INACTIVE"
         }
     }
 }
