@@ -79,6 +79,7 @@
 0.0.0.0 analytics.linkwelove.com
 0.0.0.0 analytics.mecloud.vn
 0.0.0.0 analytics.newsinc.com
+0.0.0.0 analytics.nextmedia.com
 0.0.0.0 analytics.omgpop.com
 0.0.0.0 analytics.revee.com
 0.0.0.0 analytics.rtbf.be
@@ -113,6 +114,7 @@
 0.0.0.0 atax.gamestats.com
 0.0.0.0 atax.ign.com
 0.0.0.0 athena.mysmartprice.info
+0.0.0.0 atm.youku.com
 0.0.0.0 atracktive.collegehumor.com
 0.0.0.0 audienceserver.aws.forebase.com
 0.0.0.0 a.unanimis.co.uk
@@ -217,6 +219,7 @@
 0.0.0.0 collector.shorte.st
 0.0.0.0 collector.snplow.net
 0.0.0.0 collect.sas.com
+0.0.0.0 collect.yinyuetai.com
 0.0.0.0 comms-web-tracking.uswitchinternal.com
 0.0.0.0 comradepony.com
 0.0.0.0 confido.dyndns.org
@@ -241,8 +244,11 @@
 0.0.0.0 counter.zeit.de
 0.0.0.0 countimo.de
 0.0.0.0 countingbiz.info
+0.0.0.0 count.joy.cn
 0.0.0.0 count.livetv.ru
 0.0.0.0 count.livetv.sx
+0.0.0.0 count.newhua.com
+0.0.0.0 count.qiannao.com
 0.0.0.0 count.snacktv.de
 0.0.0.0 countstat.ru
 0.0.0.0 cpix.daserste.de
@@ -255,6 +261,7 @@
 0.0.0.0 cts.channelintelligence.com
 0.0.0.0 cts-log.channelintelligence.com
 0.0.0.0 cts-secure.channelintelligence.com
+0.0.0.0 cupid.iqiyi.com
 0.0.0.0 curate.nestedmedia.com
 0.0.0.0 customerdiscoverytrack.com
 0.0.0.0 c-webstats.de
@@ -295,6 +302,7 @@
 0.0.0.0 dcs.mattel.com
 0.0.0.0 dcs.maxthon.com
 0.0.0.0 declaredthoughtfulness.co
+0.0.0.0 deliver.ifeng.com
 0.0.0.0 depttake.ga
 0.0.0.0 dexim.space
 0.0.0.0 dhmtracking.co.za
@@ -348,6 +356,7 @@
 0.0.0.0 event.previewnetworks.com
 0.0.0.0 events.marquee-cdn.net
 0.0.0.0 events.snacktv.de
+0.0.0.0 events.walla.co.il
 0.0.0.0 eventtracker.elitedaily.com
 0.0.0.0 event.trove.com
 0.0.0.0 evisitcs2.com
@@ -379,6 +388,7 @@
 0.0.0.0 frescoerspica.com
 0.0.0.0 friends.totallynsfw.com
 0.0.0.0 fshka.com
+0.0.0.0 gather.hankyung.com
 0.0.0.0 g.deathandtaxesmag.com
 0.0.0.0 gemtrackers.com
 0.0.0.0 geoiplookup.wikimedia.org
@@ -389,6 +399,7 @@
 0.0.0.0 geo.perezhilton.com
 0.0.0.0 geo.theawesomer.com
 0.0.0.0 getetafun.info
+0.0.0.0 getscreensaver.it
 0.0.0.0 gettate.date
 0.0.0.0 gettate.faith
 0.0.0.0 gettate.racing
@@ -410,6 +421,7 @@
 0.0.0.0 herphemiste.com
 0.0.0.0 hitcount.heraldm.com
 0.0.0.0 hit.leboncoin.fr
+0.0.0.0 hk.ndx.nextmedia.com
 0.0.0.0 hlpidkr.ru
 0.0.0.0 hodlers.party
 0.0.0.0 hodling.faith
@@ -471,8 +483,8 @@
 0.0.0.0 jobs.hrkspjbs.com
 0.0.0.0 join-safe.com
 0.0.0.0 jqcdn.download
-0.0.0.0 jqr-cdn.download
 0.0.0.0 jqrcdn.download
+0.0.0.0 jqr-cdn.download
 0.0.0.0 jquerrycdn.download
 0.0.0.0 jquery-uim.download
 0.0.0.0 jqxrrygqnagn.ru
@@ -530,10 +542,12 @@
 0.0.0.0 logger.viki.io
 0.0.0.0 loggingservices.tribune.com
 0.0.0.0 log.liverail.com
+0.0.0.0 logs.live.tudou.com
 0.0.0.0 logssl.enquisite.com
 0.0.0.0 log.sz-online.de
 0.0.0.0 log.vdn.apps.cntv.cn
 0.0.0.0 log.v.iask.com
+0.0.0.0 log.ynet.com
 0.0.0.0 lolbin.net
 0.0.0.0 longurl.it
 0.0.0.0 look.urs.tw
@@ -612,6 +626,7 @@
 0.0.0.0 nonxt1.c.youtube.com
 0.0.0.0 northclick-statistiken.de
 0.0.0.0 novately.com
+0.0.0.0 nstat.tudou.com
 0.0.0.0 nvc.n1bus-exp.com
 0.0.0.0 n.yunshipei.com
 0.0.0.0 odesaconflate.com
@@ -698,6 +713,7 @@
 0.0.0.0 pr-textlink.de
 0.0.0.0 psyma-statistics.com
 0.0.0.0 pulse-analytics-beacon.reutersmedia.net
+0.0.0.0 pv.csdn.net
 0.0.0.0 px.247inc.net
 0.0.0.0 px.reactrmod.com
 0.0.0.0 pzkysq.pink
@@ -707,6 +723,7 @@
 0.0.0.0 radiomanlibya.com
 0.0.0.0 rainbow-uk.mythings.com
 0.0.0.0 ranking-it.de
+0.0.0.0 ranking.ynet.com
 0.0.0.0 rd.meebo.com
 0.0.0.0 realnetwrk.com
 0.0.0.0 realtimeplease.com
@@ -788,7 +805,9 @@
 0.0.0.0 sp.udimg.com
 0.0.0.0 ssl4stats.de
 0.0.0.0 ssl-stats.wordpress.com
+0.0.0.0 sta.ifeng.com
 0.0.0.0 stat-22.medialand.ru
+0.0.0.0 stat.bilibili.tv
 0.0.0.0 statcounters.info
 0.0.0.0 stat-counter.tass-online.ru
 0.0.0.0 stat.easydate.biz
@@ -799,7 +818,9 @@
 0.0.0.0 statistics.m0lxcdn.kukuplay.com
 0.0.0.0 stat.itp-nyc.com
 0.0.0.0 statking.net
+0.0.0.0 stat.ku6.com
 0.0.0.0 stat.php-d.com
+0.0.0.0 stat.pptv.com
 0.0.0.0 stats2513.com
 0.0.0.0 stats2.lightningcast.net
 0.0.0.0 stats4u.lv
@@ -851,6 +872,7 @@
 0.0.0.0 stats.suite101.com
 0.0.0.0 stats.surfaid.ihost.com
 0.0.0.0 stats.svpply.com
+0.0.0.0 stats.tudou.com
 0.0.0.0 stats.tvmaze.com
 0.0.0.0 stats.vc.gg
 0.0.0.0 stats.video.search.yahoo.com
@@ -861,11 +883,14 @@
 0.0.0.0 stats.yourminis.com
 0.0.0.0 stat.to.cupidplc.com
 0.0.0.0 stat.torrentbar.com
+0.0.0.0 stat.tudou.com
 0.0.0.0 stat.webtool.it
+0.0.0.0 stat.xunlei.com
 0.0.0.0 stat.youku.com
 0.0.0.0 stcollection.moneysupermarket.com
 0.0.0.0 storewidesearch.com
 0.0.0.0 streamstats1.blinkx.com
+0.0.0.0 st.vq.ku6.cn
 0.0.0.0 subloader.cf
 0.0.0.0 sundayskylb1.com
 0.0.0.0 svivqrhrh.ru
@@ -892,6 +917,7 @@
 0.0.0.0 thersprens.com
 0.0.0.0 thinairsoftware.net
 0.0.0.0 tighting.info
+0.0.0.0 tinglog.baidu.com
 0.0.0.0 tmpjmp.com
 0.0.0.0 t.my.jobs
 0.0.0.0 tnsinternet.be
@@ -916,6 +942,7 @@
 0.0.0.0 tracker.everestnutrition.com
 0.0.0.0 tracker.issuu.com
 0.0.0.0 tracker.joost.com
+0.0.0.0 tracker.live.tudou.com
 0.0.0.0 tracker.mgnetwork.com
 0.0.0.0 tracker.mtrax.net
 0.0.0.0 tracker.myseofriend.net
@@ -1023,6 +1050,7 @@
 0.0.0.0 vertical-stats.huffpost.com
 0.0.0.0 v.fwmrm.net
 0.0.0.0 viewstat.promoblocks.ru
+0.0.0.0 visit.geocities.jp
 0.0.0.0 visitlog.net
 0.0.0.0 visualdna-stats.com
 0.0.0.0 vitamine.networldmedia.net
@@ -1039,6 +1067,7 @@
 0.0.0.0 watch.teroti.com
 0.0.0.0 wavescape.mobi
 0.0.0.0 webalytics.pw
+0.0.0.0 webclick.yeshj.com
 0.0.0.0 web-controlling.org
 0.0.0.0 webeffective.keynote.com
 0.0.0.0 weblogger01.data.disney.com
