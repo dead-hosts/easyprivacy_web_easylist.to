@@ -8325,121 +8325,7 @@
         "1574803139": {
             "logdev.openload.co": "INACTIVE"
         },
-        "1575661164": {
-            "track.dzloans.com": "INACTIVE",
-            "track.g-bot.net": "INACTIVE",
-            "track.gridlockparadise.com": "INACTIVE",
-            "track.kandle.org": "INACTIVE",
-            "track.mobicast.io": "INACTIVE",
-            "track.mybloglog.com": "INACTIVE",
-            "track.parse.ly": "INACTIVE",
-            "track.prezna.com": "INACTIVE",
-            "track.propelplus.com": "INACTIVE",
-            "track.redirecting2.net": "INACTIVE",
-            "track.ringcentral.com": "INACTIVE",
-            "track.sauce.ly": "INACTIVE",
-            "track.sigfig.com": "INACTIVE"
-        },
-        "1575661165": {
-            "tracker.everestnutrition.com": "INACTIVE",
-            "tracker.issuu.com": "INACTIVE",
-            "tracker.mgnetwork.com": "INACTIVE",
-            "tracker.mtrax.net": "INACTIVE",
-            "tracker.myseofriend.net": "INACTIVE",
-            "tracker.neon-images.com": "INACTIVE",
-            "tracker.neon-lab.com": "INACTIVE",
-            "tracker.seoboost.net": "INACTIVE",
-            "tracker.streamroot.io": "INACTIVE",
-            "tracker.twenga.": "INVALID",
-            "tracker.u-link.me": "INACTIVE",
-            "tracker.vreveal.com": "INACTIVE",
-            "tracker2.apollo-mail.net": "INACTIVE",
-            "tracking.*.miui.com": "INVALID",
-            "tracking.allposters.com": "INACTIVE",
-            "tracking.bidmizer.com": "INACTIVE",
-            "tracking.cmcigroup.com": "INACTIVE",
-            "tracking.cmjump.com.au": "INACTIVE",
-            "tracking.i-click.com.hk": "INACTIVE"
-        },
-        "1575661166": {
-            "tracking.performgroup.com": "INACTIVE",
-            "tracking.tradeking.com": "INACTIVE",
-            "tracking2.interweave.com": "INACTIVE",
-            "trackingdev.nixxie.com": "INACTIVE",
-            "tracksys.developlabs.net": "INACTIVE",
-            "traffic.belaydevelopment.com": "INACTIVE",
-            "trax.dirxion.com": "INACTIVE",
-            "triad.technorati.com": "INACTIVE"
-        },
-        "1575661167": {
-            "ttwbs.channelintelligence.com": "INACTIVE"
-        },
-        "1575661168": {
-            "upcat.custvox.org": "INACTIVE",
-            "userlog.synapseip.tv": "INACTIVE",
-            "vds_dyn.rightster.com": "INACTIVE",
-            "vertical-stats.huffpost.com": "INACTIVE"
-        },
-        "1575661170": {
-            "voss.collegehumor.com": "INACTIVE",
-            "vra.outbrain.com": "INACTIVE",
-            "vrp.outbrain.com": "INACTIVE",
-            "vrt.outbrain.com": "INACTIVE",
-            "vtnlog-*.elb.amazonaws.com": "INVALID",
-            "watch.teroti.com": "INACTIVE",
-            "webeffective.keynote.com": "INACTIVE",
-            "webstats.seoinc.com": "INACTIVE",
-            "webtracker.educationconnection.com": "INACTIVE"
-        },
-        "1575661171": {
-            "whoson.creativemark.co.uk": "INACTIVE"
-        },
-        "1575661172": {
-            "wsb.aracert.com": "INACTIVE",
-            "wunderloop.aol.co.uk": "INACTIVE",
-            "wvnetworkmedia.org": "INACTIVE",
-            "yandex.*": "INVALID",
-            "yapi.awe.sm": "INACTIVE"
-        },
-        "1575661173": {
-            "analytics-static.unister-gmbh.de": "INACTIVE",
-            "analytics.unister-gmbh.de": "INACTIVE",
-            "ys.ddns.me": "INACTIVE"
-        },
-        "1575663457": {
-            "asci.freenet.de": "INACTIVE",
-            "bt.ilsemedia.nl": "INACTIVE",
-            "collect.finanzen.net": "INACTIVE"
-        },
-        "1575663458": {
-            "confido.dyndns.org": "INACTIVE",
-            "count.snacktv.de": "INACTIVE",
-            "events.snacktv.de": "INACTIVE",
-            "ivw.discover-outdoor.de": "INACTIVE",
-            "ivw.dumontreise.de": "INACTIVE",
-            "ivw.fem.com": "INACTIVE",
-            "kontextr.eu": "INACTIVE"
-        },
-        "1575663459": {
-            "met.vgwort.de": "INACTIVE",
-            "pix.news.at": "INACTIVE",
-            "pixel.holtzbrinckdigital.info": "INACTIVE",
-            "pixel.nbsp.de": "INACTIVE",
-            "sett.i12.de": "INACTIVE",
-            "stats.av.de": "INACTIVE",
-            "stats.ilsemedia.nl": "INACTIVE",
-            "stats.nekapuzer.at": "INACTIVE"
-        },
         "1575663460": {
-            "tap.idg.de": "INACTIVE",
-            "tracker.netdisk.de": "INACTIVE",
-            "tracking-rce.veeseo.com": "INACTIVE",
-            "tracking.ddd.de": "INACTIVE",
-            "tracking.gj-mobile-services.de": "INACTIVE",
-            "tracking.mvsuite.de": "INACTIVE",
-            "tracking.rce.veeseo.com": "INACTIVE",
-            "tracking.sim-technik.de": "INACTIVE",
-            "traffic.brand-wall.net": "INACTIVE",
             "wrmwb.7val.com": "INACTIVE"
         },
         "1575663461": {
@@ -10278,6 +10164,122 @@
             "tra.pmdstatic.net": "INACTIVE",
             "track.cafemomstatic.com": "INACTIVE",
             "track.captivate.ai": "INACTIVE"
+        },
+        "1575786267": {
+            "track.dzloans.com": "INACTIVE",
+            "track.g-bot.net": "INACTIVE",
+            "track.gridlockparadise.com": "INACTIVE",
+            "track.kandle.org": "INACTIVE",
+            "track.mobicast.io": "INACTIVE"
+        },
+        "1575786268": {
+            "track.mybloglog.com": "INACTIVE",
+            "track.parse.ly": "INACTIVE",
+            "track.prezna.com": "INACTIVE",
+            "track.propelplus.com": "INACTIVE",
+            "track.redirecting2.net": "INACTIVE",
+            "track.ringcentral.com": "INACTIVE",
+            "track.sauce.ly": "INACTIVE",
+            "track.sigfig.com": "INACTIVE",
+            "tracker.everestnutrition.com": "INACTIVE",
+            "tracker.issuu.com": "INACTIVE",
+            "tracker.mgnetwork.com": "INACTIVE",
+            "tracker.mtrax.net": "INACTIVE",
+            "tracker.myseofriend.net": "INACTIVE",
+            "tracker.neon-images.com": "INACTIVE",
+            "tracker.neon-lab.com": "INACTIVE",
+            "tracker.seoboost.net": "INACTIVE",
+            "tracker.streamroot.io": "INACTIVE",
+            "tracker.twenga.": "INVALID",
+            "tracker.u-link.me": "INACTIVE",
+            "tracker.vreveal.com": "INACTIVE",
+            "tracker2.apollo-mail.net": "INACTIVE"
+        },
+        "1575786269": {
+            "tracking.*.miui.com": "INVALID",
+            "tracking.allposters.com": "INACTIVE",
+            "tracking.bidmizer.com": "INACTIVE",
+            "tracking.cmcigroup.com": "INACTIVE",
+            "tracking.cmjump.com.au": "INACTIVE",
+            "tracking.i-click.com.hk": "INACTIVE",
+            "tracking.performgroup.com": "INACTIVE",
+            "tracking.tradeking.com": "INACTIVE",
+            "tracking2.interweave.com": "INACTIVE",
+            "trackingdev.nixxie.com": "INACTIVE",
+            "tracksys.developlabs.net": "INACTIVE",
+            "traffic.belaydevelopment.com": "INACTIVE",
+            "trax.dirxion.com": "INACTIVE"
+        },
+        "1575786270": {
+            "triad.technorati.com": "INACTIVE",
+            "ttwbs.channelintelligence.com": "INACTIVE"
+        },
+        "1575786271": {
+            "upcat.custvox.org": "INACTIVE",
+            "userlog.synapseip.tv": "INACTIVE",
+            "vds_dyn.rightster.com": "INACTIVE"
+        },
+        "1575786272": {
+            "vertical-stats.huffpost.com": "INACTIVE"
+        },
+        "1575786273": {
+            "voss.collegehumor.com": "INACTIVE",
+            "vra.outbrain.com": "INACTIVE",
+            "vrp.outbrain.com": "INACTIVE",
+            "vrt.outbrain.com": "INACTIVE",
+            "vtnlog-*.elb.amazonaws.com": "INVALID"
+        },
+        "1575786274": {
+            "watch.teroti.com": "INACTIVE",
+            "webeffective.keynote.com": "INACTIVE",
+            "webstats.seoinc.com": "INACTIVE",
+            "webtracker.educationconnection.com": "INACTIVE",
+            "whoson.creativemark.co.uk": "INACTIVE"
+        },
+        "1575786275": {
+            "wsb.aracert.com": "INACTIVE",
+            "wunderloop.aol.co.uk": "INACTIVE",
+            "wvnetworkmedia.org": "INACTIVE"
+        },
+        "1575786276": {
+            "yandex.*": "INVALID",
+            "yapi.awe.sm": "INACTIVE",
+            "ys.ddns.me": "INACTIVE"
+        },
+        "1575786277": {
+            "analytics-static.unister-gmbh.de": "INACTIVE",
+            "analytics.unister-gmbh.de": "INACTIVE",
+            "asci.freenet.de": "INACTIVE",
+            "bt.ilsemedia.nl": "INACTIVE",
+            "collect.finanzen.net": "INACTIVE",
+            "confido.dyndns.org": "INACTIVE",
+            "count.snacktv.de": "INACTIVE",
+            "events.snacktv.de": "INACTIVE"
+        },
+        "1575786278": {
+            "ivw.discover-outdoor.de": "INACTIVE",
+            "ivw.dumontreise.de": "INACTIVE",
+            "ivw.fem.com": "INACTIVE",
+            "kontextr.eu": "INACTIVE",
+            "met.vgwort.de": "INACTIVE",
+            "pix.news.at": "INACTIVE",
+            "pixel.holtzbrinckdigital.info": "INACTIVE",
+            "pixel.nbsp.de": "INACTIVE"
+        },
+        "1575786279": {
+            "sett.i12.de": "INACTIVE",
+            "stats.av.de": "INACTIVE",
+            "stats.ilsemedia.nl": "INACTIVE",
+            "stats.nekapuzer.at": "INACTIVE",
+            "tap.idg.de": "INACTIVE",
+            "tracker.netdisk.de": "INACTIVE",
+            "tracking-rce.veeseo.com": "INACTIVE",
+            "tracking.ddd.de": "INACTIVE",
+            "tracking.gj-mobile-services.de": "INACTIVE",
+            "tracking.mvsuite.de": "INACTIVE",
+            "tracking.rce.veeseo.com": "INACTIVE",
+            "tracking.sim-technik.de": "INACTIVE",
+            "traffic.brand-wall.net": "INACTIVE"
         }
     }
 }
