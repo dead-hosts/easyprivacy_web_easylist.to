@@ -5920,8 +5920,8 @@
         "state": "future"
     },
     "cpcmanager.com": {
-        "epoch": 1575676800.0,
-        "expiration_date": "07-dec-2019",
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
         "state": "future"
     },
     "cphalk.com": {
@@ -7147,7 +7147,7 @@
     "doclix.com": {
         "epoch": 1575763200.0,
         "expiration_date": "08-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "docstoc.com": {
         "epoch": 1637107200.0,
@@ -8252,7 +8252,7 @@
     "ewebanalytics.com": {
         "epoch": 1575763200.0,
         "expiration_date": "08-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "ewebcounter.com": {
         "epoch": 1600992000.0,
@@ -9580,9 +9580,9 @@
         "state": "future"
     },
     "funstage.com": {
-        "epoch": 1575590400.0,
-        "expiration_date": "06-dec-2019",
-        "state": "past"
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
+        "state": "future"
     },
     "furk.net": {
         "epoch": 1601164800.0,
