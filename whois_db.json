@@ -6215,8 +6215,8 @@
         "state": "future"
     },
     "ctscdn.com": {
-        "epoch": 1575763200.0,
-        "expiration_date": "08-dec-2019",
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
         "state": "future"
     },
     "cttracking02.com": {
@@ -9202,6 +9202,11 @@
     "frailoffer.com": {
         "epoch": 1596412800.0,
         "expiration_date": "03-aug-2020",
+        "state": "future"
+    },
+    "france24.com": {
+        "epoch": 1638316800.0,
+        "expiration_date": "01-dec-2021",
         "state": "future"
     },
     "franceculture.fr": {
@@ -14760,8 +14765,8 @@
         "state": "future"
     },
     "merck.com": {
-        "epoch": 1575763200.0,
-        "expiration_date": "08-dec-2019",
+        "epoch": 1638921600.0,
+        "expiration_date": "08-dec-2021",
         "state": "future"
     },
     "mercola.com": {
@@ -16372,7 +16377,7 @@
     "newscom.com": {
         "epoch": 1575763200.0,
         "expiration_date": "08-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "newscorpaustralia.com": {
         "epoch": 1589068800.0,
