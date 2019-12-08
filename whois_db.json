@@ -3545,8 +3545,8 @@
         "state": "future"
     },
     "blog104.com": {
-        "epoch": 1575763200.0,
-        "expiration_date": "08-dec-2019",
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
         "state": "future"
     },
     "blogblog.com": {
@@ -5915,8 +5915,8 @@
         "state": "future"
     },
     "cpaevent.ru": {
-        "epoch": 1575763200.0,
-        "expiration_date": "08-dec-2019",
+        "epoch": 1607385600.0,
+        "expiration_date": "08-dec-2020",
         "state": "future"
     },
     "cpcmanager.com": {
@@ -16405,8 +16405,8 @@
         "state": "future"
     },
     "nex8.net": {
-        "epoch": 1575676800.0,
-        "expiration_date": "07-dec-2019",
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
         "state": "future"
     },
     "nexeps.com": {
@@ -18372,6 +18372,11 @@
     "postquare.com": {
         "epoch": 1586217600.0,
         "expiration_date": "07-apr-2020",
+        "state": "future"
+    },
+    "potterpetrey.com": {
+        "epoch": 1606003200.0,
+        "expiration_date": "22-nov-2020",
         "state": "future"
     },
     "potterybarn.com": {
