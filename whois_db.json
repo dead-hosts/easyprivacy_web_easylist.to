@@ -15880,8 +15880,8 @@
         "state": "future"
     },
     "mywebsearch.com": {
-        "epoch": 1575936000.0,
-        "expiration_date": "10-dec-2019",
+        "epoch": 1639094400.0,
+        "expiration_date": "10-dec-2021",
         "state": "future"
     },
     "mywebstats.org": {
@@ -16415,9 +16415,9 @@
         "state": "future"
     },
     "newscom.com": {
-        "epoch": 1575763200.0,
-        "expiration_date": "08-dec-2019",
-        "state": "past"
+        "epoch": 1670457600.0,
+        "expiration_date": "08-dec-2022",
+        "state": "future"
     },
     "newscorpaustralia.com": {
         "epoch": 1589068800.0,
@@ -18315,8 +18315,8 @@
         "state": "future"
     },
     "pokernews.com": {
-        "epoch": 1575849600.0,
-        "expiration_date": "09-dec-2019",
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "poki.com": {
