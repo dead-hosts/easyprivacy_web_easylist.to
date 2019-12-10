@@ -20234,6 +20234,11 @@
         "expiration_date": "24-nov-2020",
         "state": "future"
     },
+    "s7target.ru": {
+        "epoch": 1585699200.0,
+        "expiration_date": "01-apr-2020",
+        "state": "future"
+    },
     "s7ven.com": {
         "epoch": 1820793600.0,
         "expiration_date": "13-sep-2027",
@@ -23045,8 +23050,8 @@
         "state": "future"
     },
     "tagcommander.com": {
-        "epoch": 1575849600.0,
-        "expiration_date": "09-dec-2019",
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "tagifydiageo.com": {
@@ -23580,8 +23585,8 @@
         "state": "future"
     },
     "thisisanothercoolthing.com": {
-        "epoch": 1575849600.0,
-        "expiration_date": "09-dec-2019",
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "thismetric.com": {
