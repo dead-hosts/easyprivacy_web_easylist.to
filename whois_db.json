@@ -21654,6 +21654,11 @@
         "expiration_date": "06-may-2020",
         "state": "future"
     },
+    "snapkit.com": {
+        "epoch": 1638403200.0,
+        "expiration_date": "02-dec-2021",
+        "state": "future"
+    },
     "snapsmedia.io": {
         "epoch": 1652140800.0,
         "expiration_date": "10-may-2022",
