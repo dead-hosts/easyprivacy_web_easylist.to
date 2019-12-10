@@ -10635,8 +10635,8 @@
         "state": "future"
     },
     "hashing.win": {
-        "epoch": 1575936000.0,
-        "expiration_date": "10-dec-2019",
+        "epoch": 1607558400.0,
+        "expiration_date": "10-dec-2020",
         "state": "future"
     },
     "hashnest.com": {
@@ -14995,9 +14995,9 @@
         "state": "past"
     },
     "minemytraffic.com": {
-        "epoch": 1575676800.0,
-        "expiration_date": "07-dec-2019",
-        "state": "past"
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
+        "state": "future"
     },
     "minerad.com": {
         "epoch": 1579219200.0,
