@@ -770,8 +770,8 @@
         "state": "future"
     },
     "activeconversion.com": {
-        "epoch": 1575849600.0,
-        "expiration_date": "09-dec-2019",
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "activemeter.com": {
@@ -2785,8 +2785,8 @@
         "state": "future"
     },
     "awesomelytics.com": {
-        "epoch": 1575849600.0,
-        "expiration_date": "09-dec-2019",
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "awin1.com": {
@@ -4745,8 +4745,8 @@
         "state": "future"
     },
     "christiantop1000.com": {
-        "epoch": 1575849600.0,
-        "expiration_date": "09-dec-2019",
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
         "state": "future"
     },
     "christmalicious.com": {
@@ -5287,6 +5287,11 @@
     "coherentpath.com": {
         "epoch": 1789084800.0,
         "expiration_date": "11-sep-2026",
+        "state": "future"
+    },
+    "cohesionapps.com": {
+        "epoch": 1583539200.0,
+        "expiration_date": "07-mar-2020",
         "state": "future"
     },
     "coin-cube.com": {
