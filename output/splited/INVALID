@@ -28,12 +28,15 @@ collector-*.tvsquared.com                                                       
 compare.easyvoyage.                                                                                  SYNTAX     XXX        2019-12-10T18:11:02.748912
 creativefactory.zalando.                                                                             SYNTAX     XXX        2019-12-10T18:11:04.307317
 datacollect*.abtasty.com                                                                             SYNTAX     XXX        2019-12-10T15:59:59.417408
+ea.laredoute.                                                                                        SYNTAX     XXX        2019-12-10T19:38:28.163298
+ea.pixmania.                                                                                         SYNTAX     XXX        2019-12-10T19:38:28.253071
 encrypted.google.*                                                                                   SYNTAX     XXX        2019-12-10T18:11:10.177364
 etwun.com:8080                                                                                       SYNTAX     XXX        2019-12-10T17:15:22.920325
 expedia.*                                                                                            SYNTAX     XXX        2019-12-10T18:11:11.616563
 expedia.*                                                                                            SYNTAX     XXX        2019-12-10T18:11:11.671265
 expedia.*                                                                                            SYNTAX     XXX        2019-12-10T18:11:11.789094
 facebook.com*                                                                                        SYNTAX     XXX        2019-12-10T16:00:03.804273
+flashx.*                                                                                             SYNTAX     XXX        2019-12-10T19:38:29.096286
 fls-*.amazon.*%                                                                                      SYNTAX     XXX        2019-12-10T18:11:14.774668
 fls-*.amazon.*&                                                                                      SYNTAX     XXX        2019-12-10T18:11:14.826596
 gateway.reddit.com|                                                                                  SYNTAX     XXX        2019-12-10T18:11:17.908180
@@ -88,4 +91,7 @@ ts.delfi.                                                                       
 vice.com*                                                                                            SYNTAX     XXX        2019-12-10T19:09:31.718100
 vice.com*                                                                                            SYNTAX     XXX        2019-12-10T19:09:31.773726
 vtnlog-*.elb.amazonaws.com                                                                           SYNTAX     XXX        2019-12-10T16:48:15.305872
+wawacity.*                                                                                           SYNTAX     XXX        2019-12-10T19:38:37.206607
+www.google.*                                                                                         SYNTAX     XXX        2019-12-10T19:38:23.294562
+www.imdb.*                                                                                           SYNTAX     XXX        2019-12-10T19:38:23.336563
 yandex.*                                                                                             SYNTAX     XXX        2019-12-10T16:48:18.117449
