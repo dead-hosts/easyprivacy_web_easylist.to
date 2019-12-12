@@ -410,8 +410,8 @@
         "state": "future"
     },
     "6sc.co": {
-        "epoch": 1576022400.0,
-        "expiration_date": "11-dec-2019",
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
         "state": "future"
     },
     "6waves.com": {
@@ -882,7 +882,7 @@
     "adchemix.com": {
         "epoch": 1576108800.0,
         "expiration_date": "12-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "adchemy-content.com": {
         "epoch": 1599696000.0,
@@ -1425,8 +1425,8 @@
         "state": "future"
     },
     "agilecrm.com": {
-        "epoch": 1576022400.0,
-        "expiration_date": "11-dec-2019",
+        "epoch": 1733875200.0,
+        "expiration_date": "11-dec-2024",
         "state": "future"
     },
     "agilone.com": {
@@ -5612,6 +5612,11 @@
     "contemporaryceremonies.ca": {
         "epoch": 1623456000.0,
         "expiration_date": "12-jun-2021",
+        "state": "future"
+    },
+    "contensis.com": {
+        "epoch": 1594252800.0,
+        "expiration_date": "09-jul-2020",
         "state": "future"
     },
     "content-square.net": {
