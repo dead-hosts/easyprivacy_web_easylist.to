@@ -23,10 +23,13 @@
 0.0.0.0 compare.easyvoyage.
 0.0.0.0 creativefactory.zalando.
 0.0.0.0 datacollect*.abtasty.com
+0.0.0.0 ea.laredoute.
+0.0.0.0 ea.pixmania.
 0.0.0.0 encrypted.google.*
 0.0.0.0 etwun.com:8080
 0.0.0.0 expedia.*
 0.0.0.0 facebook.com*
+0.0.0.0 flashx.*
 0.0.0.0 fls-*.amazon.*%
 0.0.0.0 fls-*.amazon.*&
 0.0.0.0 gateway.reddit.com|
@@ -59,5 +62,12 @@
 0.0.0.0 t.delfi.
 0.0.0.0 tracker.twenga.
 0.0.0.0 tracking.*.miui.com
+0.0.0.0 tracking.olx.
+0.0.0.0 track.zalando.
+0.0.0.0 tripadvisor.*
+0.0.0.0 ts.delfi.
+0.0.0.0 vice.com*
 0.0.0.0 vtnlog-*.elb.amazonaws.com
+0.0.0.0 www.google.*
+0.0.0.0 www.imdb.*
 0.0.0.0 yandex.*
