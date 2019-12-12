@@ -6145,9 +6145,9 @@
         "state": "future"
     },
     "crypto-coins.club": {
-        "epoch": 1574985600.0,
-        "expiration_date": "29-nov-2019",
-        "state": "past"
+        "epoch": 1606608000.0,
+        "expiration_date": "29-nov-2020",
+        "state": "future"
     },
     "crypto-coins.com": {
         "epoch": 1595116800.0,
@@ -6192,7 +6192,7 @@
     "cryptonoter.com": {
         "epoch": 1576108800.0,
         "expiration_date": "12-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "csbew.com": {
         "epoch": 1592092800.0,
@@ -26410,8 +26410,8 @@
         "state": "future"
     },
     "webcounter.ws": {
-        "epoch": 1576022400.0,
-        "expiration_date": "11-dec-2019",
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
         "state": "future"
     },
     "webcrawler.com": {
@@ -26677,6 +26677,11 @@
     "webtrekk.net": {
         "epoch": 1578614400.0,
         "expiration_date": "10-jan-2020",
+        "state": "future"
+    },
+    "webtrends-optimize.com": {
+        "epoch": 1593129600.0,
+        "expiration_date": "26-jun-2020",
         "state": "future"
     },
     "webtrends.com": {
@@ -27555,14 +27560,14 @@
         "state": "future"
     },
     "youborafds01.com": {
-        "epoch": 1575936000.0,
-        "expiration_date": "10-dec-2019",
-        "state": "past"
+        "epoch": 1639094400.0,
+        "expiration_date": "10-dec-2021",
+        "state": "future"
     },
     "youboranqs01.com": {
-        "epoch": 1575936000.0,
-        "expiration_date": "10-dec-2019",
-        "state": "past"
+        "epoch": 1639094400.0,
+        "expiration_date": "10-dec-2021",
+        "state": "future"
     },
     "youdao.com": {
         "epoch": 1592179200.0,
