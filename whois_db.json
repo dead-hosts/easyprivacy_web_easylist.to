@@ -6825,8 +6825,8 @@
         "state": "future"
     },
     "device9.com": {
-        "epoch": 1576022400.0,
-        "expiration_date": "11-dec-2019",
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
         "state": "future"
     },
     "devphp.org.ua": {
@@ -7005,13 +7005,13 @@
         "state": "future"
     },
     "discover-path.com": {
-        "epoch": 1576022400.0,
-        "expiration_date": "11-dec-2019",
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
         "state": "future"
     },
     "discovertrail.net": {
-        "epoch": 1576022400.0,
-        "expiration_date": "11-dec-2019",
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
         "state": "future"
     },
     "discovery.com": {
@@ -8402,6 +8402,11 @@
     "explore-123.com": {
         "epoch": 1602892800.0,
         "expiration_date": "17-oct-2020",
+        "state": "future"
+    },
+    "exponea.com": {
+        "epoch": 1604793600.0,
+        "expiration_date": "08-nov-2020",
         "state": "future"
     },
     "exposebox.com": {
@@ -9997,6 +10002,11 @@
     "gfycat.com": {
         "epoch": 1613433600.0,
         "expiration_date": "16-feb-2021",
+        "state": "future"
+    },
+    "gglscr.online": {
+        "epoch": 1590019200.0,
+        "expiration_date": "21-may-2020",
         "state": "future"
     },
     "ggxt.net": {
@@ -12055,8 +12065,8 @@
         "state": "future"
     },
     "instana.io": {
-        "epoch": 1576022400.0,
-        "expiration_date": "11-dec-2019",
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
         "state": "future"
     },
     "instant.page": {
