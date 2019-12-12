@@ -10894,6 +10894,11 @@
         "expiration_date": "12-jun-2020",
         "state": "future"
     },
+    "historicalbeam.com": {
+        "epoch": 1599177600.0,
+        "expiration_date": "04-sep-2020",
+        "state": "future"
+    },
     "hit-counter-download.com": {
         "epoch": 1604448000.0,
         "expiration_date": "04-nov-2020",
@@ -14669,6 +14674,11 @@
         "expiration_date": "27-mar-2020",
         "state": "future"
     },
+    "meatydime.com": {
+        "epoch": 1599177600.0,
+        "expiration_date": "04-sep-2020",
+        "state": "future"
+    },
     "mebablo.com": {
         "epoch": 1592179200.0,
         "expiration_date": "15-jun-2020",
@@ -16202,6 +16212,11 @@
     "needle.com": {
         "epoch": 1681603200.0,
         "expiration_date": "16-apr-2023",
+        "state": "future"
+    },
+    "neighborlywatch.com": {
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
         "state": "future"
     },
     "neki.org": {
@@ -19392,6 +19407,11 @@
     "realitytvworld.com": {
         "epoch": 1633046400.0,
         "expiration_date": "01-oct-2021",
+        "state": "future"
+    },
+    "realizerecess.com": {
+        "epoch": 1602115200.0,
+        "expiration_date": "08-oct-2020",
         "state": "future"
     },
     "reallifecam.com": {
@@ -23022,6 +23042,11 @@
     "svtrd.com": {
         "epoch": 1583193600.0,
         "expiration_date": "03-mar-2020",
+        "state": "future"
+    },
+    "sweetslope.com": {
+        "epoch": 1599264000.0,
+        "expiration_date": "05-sep-2020",
         "state": "future"
     },
     "swfstats.com": {
