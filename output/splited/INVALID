@@ -7,9 +7,17 @@ meetrics.netbb-                                                                 
 58.68.146.44:8000                                                                                    SYNTAX     XXX        2019-12-12T17:48:48.606669
 activity.*.miui.com                                                                                  SYNTAX     XXX        2019-12-12T17:48:49.529611
 aff*.kolektiva.net                                                                                   SYNTAX     XXX        2019-12-12T20:16:08.878148
+airbnb.*                                                                                             SYNTAX     XXX        2019-12-12T20:29:05.380843
+amazon.*                                                                                             SYNTAX     XXX        2019-12-12T20:29:05.984512
+amazon.*                                                                                             SYNTAX     XXX        2019-12-12T20:29:06.026746
+amazon.*                                                                                             SYNTAX     XXX        2019-12-12T20:29:06.078215
+amazon.*                                                                                             SYNTAX     XXX        2019-12-12T20:29:06.120604
 analytics-beacon-*.amazonaws.com                                                                     SYNTAX     XXX        2019-12-12T17:48:54.313340
+attachmate.com*                                                                                      SYNTAX     XXX        2019-12-12T20:29:09.070487
 bc.geocities.                                                                                        SYNTAX     XXX        2019-12-12T17:48:58.472028
 bin.clearspring.*                                                                                    SYNTAX     XXX        2019-12-12T17:48:58.900377
+classic.comunio.*                                                                                    SYNTAX     XXX        2019-12-12T20:29:16.385892
+climatedesk.org*                                                                                     SYNTAX     XXX        2019-12-12T20:29:16.564880
 cloudfront.net*                                                                                      SYNTAX     XXX        2019-12-12T18:27:32.451613
 cloudfront.net*                                                                                      SYNTAX     XXX        2019-12-12T18:27:32.502294
 cloudfront.net*                                                                                      SYNTAX     XXX        2019-12-12T18:27:32.552081
@@ -27,6 +35,7 @@ metro-trending-*.amazonaws.com                                                  
 minero-proxy-*.sh                                                                                    SYNTAX     XXX        2019-12-12T15:51:25.635057
 site.flashx.                                                                                         SYNTAX     XXX        2019-12-12T15:51:32.726933
 stats2.*.fdnames.com                                                                                 SYNTAX     XXX        2019-12-12T20:16:14.787936
+stats-*.p2pnow.ru                                                                                    SYNTAX     XXX        2019-12-12T20:29:01.243982
 targeting.*.arcpublishing.com                                                                        SYNTAX     XXX        2019-12-12T19:03:39.144514
 tracker.twenga.                                                                                      SYNTAX     XXX        2019-12-12T19:40:00.315021
 tracking.*.miui.com                                                                                  SYNTAX     XXX        2019-12-12T19:40:00.495686
