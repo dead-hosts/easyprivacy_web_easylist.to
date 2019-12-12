@@ -8325,74 +8325,6 @@
         "1574803139": {
             "logdev.openload.co": "INACTIVE"
         },
-        "1575990515": {
-            "goyavelab.com": "INACTIVE",
-            "ncdnprorogeraie.lol": "INACTIVE"
-        },
-        "1575990516": {
-            "tnsinternet.be": "INACTIVE",
-            "url-stats.net": "INACTIVE"
-        },
-        "1575990519": {
-            "irs01.": "INVALID"
-        },
-        "1575990521": {
-            "users.51.la": "INACTIVE"
-        },
-        "1575990523": {
-            "hotstats.gr": "INACTIVE",
-            "mediaindex.ee": "INACTIVE",
-            "sitechart.dk": "INACTIVE"
-        },
-        "1575990526": {
-            "megastat.net": "INACTIVE",
-            "prostats.it": "INACTIVE"
-        },
-        "1575990527": {
-            "statsadvance-01.net": "INACTIVE",
-            "statsview.it": "INACTIVE",
-            "ultrastats.it": "INACTIVE",
-            "webtraffstats.net": "INACTIVE"
-        },
-        "1575990528": {
-            "bb-analytics.jp": "INACTIVE"
-        },
-        "1575990529": {
-            "japanmetrix.jp": "INACTIVE"
-        },
-        "1575990530": {
-            "stats4u.lv": "INACTIVE",
-            "webstatistika.lt": "INACTIVE"
-        },
-        "1575990531": {
-            "melatstat.com": "INACTIVE",
-            "persianstat.ir": "INACTIVE"
-        },
-        "1575990533": {
-            "popstats.com.br": "INACTIVE"
-        },
-        "1575990534": {
-            "109.169.66.161": "INACTIVE"
-        },
-        "1575990535": {
-            "cntcash.ru": "INACTIVE"
-        },
-        "1575990536": {
-            "countstat.ru": "INACTIVE"
-        },
-        "1575990537": {
-            "jetcounter.ru": "INACTIVE"
-        },
-        "1575991943": {
-            "k3dqv.ru": "INACTIVE"
-        },
-        "1575991944": {
-            "personage.name": "INACTIVE"
-        },
-        "1575991946": {
-            "blogtraffic.sg": "INACTIVE",
-            "wunderdaten.com": "INACTIVE"
-        },
         "1575991949": {
             "121.78.90.104:8383": "INVALID",
             "123myp.co.uk": "INACTIVE",
@@ -10311,6 +10243,72 @@
         },
         "1576168513": {
             "7e59f52a58ab3be819c9a90ba53b9ffe.ovh": "INACTIVE"
+        },
+        "1576170658": {
+            "goyavelab.com": "INACTIVE",
+            "ncdnprorogeraie.lol": "INACTIVE"
+        },
+        "1576170659": {
+            "tnsinternet.be": "INACTIVE",
+            "url-stats.net": "INACTIVE"
+        },
+        "1576170662": {
+            "irs01.": "INVALID"
+        },
+        "1576170664": {
+            "users.51.la": "INACTIVE"
+        },
+        "1576170666": {
+            "mediaindex.ee": "INACTIVE",
+            "sitechart.dk": "INACTIVE"
+        },
+        "1576170667": {
+            "hotstats.gr": "INACTIVE"
+        },
+        "1576170669": {
+            "megastat.net": "INACTIVE"
+        },
+        "1576170670": {
+            "prostats.it": "INACTIVE",
+            "statsadvance-01.net": "INACTIVE",
+            "statsview.it": "INACTIVE",
+            "ultrastats.it": "INACTIVE"
+        },
+        "1576170671": {
+            "bb-analytics.jp": "INACTIVE",
+            "webtraffstats.net": "INACTIVE"
+        },
+        "1576170672": {
+            "japanmetrix.jp": "INACTIVE"
+        },
+        "1576170674": {
+            "melatstat.com": "INACTIVE",
+            "persianstat.ir": "INACTIVE",
+            "stats4u.lv": "INACTIVE",
+            "webstatistika.lt": "INACTIVE"
+        },
+        "1576170676": {
+            "popstats.com.br": "INACTIVE"
+        },
+        "1576170677": {
+            "109.169.66.161": "INACTIVE"
+        },
+        "1576170679": {
+            "cntcash.ru": "INACTIVE",
+            "countstat.ru": "INACTIVE"
+        },
+        "1576170680": {
+            "jetcounter.ru": "INACTIVE"
+        },
+        "1576170681": {
+            "k3dqv.ru": "INACTIVE"
+        },
+        "1576170682": {
+            "personage.name": "INACTIVE"
+        },
+        "1576170685": {
+            "blogtraffic.sg": "INACTIVE",
+            "wunderdaten.com": "INACTIVE"
         }
     }
 }
