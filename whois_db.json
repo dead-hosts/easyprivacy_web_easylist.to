@@ -12329,6 +12329,11 @@
         "expiration_date": "12-jun-2020",
         "state": "future"
     },
+    "iper2.com": {
+        "epoch": 1628899200.0,
+        "expiration_date": "14-aug-2021",
+        "state": "future"
+    },
     "iperceptions.com": {
         "epoch": 1581811200.0,
         "expiration_date": "16-feb-2020",
@@ -12939,6 +12944,11 @@
         "expiration_date": "07-nov-2020",
         "state": "future"
     },
+    "keet1liod.com": {
+        "epoch": 1587340800.0,
+        "expiration_date": "20-apr-2020",
+        "state": "future"
+    },
     "kelkoo.co.uk": {
         "epoch": 1638576000.0,
         "expiration_date": "04-dec-2021",
@@ -13545,8 +13555,8 @@
         "state": "future"
     },
     "letterboxtrail.com": {
-        "epoch": 1576022400.0,
-        "expiration_date": "11-dec-2019",
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
         "state": "future"
     },
     "letv.com": {
@@ -13935,8 +13945,8 @@
         "state": "future"
     },
     "logaholic.com": {
-        "epoch": 1576108800.0,
-        "expiration_date": "12-dec-2019",
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
         "state": "future"
     },
     "logbor.com": {
@@ -13962,6 +13972,11 @@
     "logger.co.kr": {
         "epoch": 1624579200.0,
         "expiration_date": "25-jun-2021",
+        "state": "future"
+    },
+    "logger.pw": {
+        "epoch": 1581638400.0,
+        "expiration_date": "14-feb-2020",
         "state": "future"
     },
     "logger.su": {
@@ -14225,8 +14240,8 @@
         "state": "future"
     },
     "m-pathy.com": {
-        "epoch": 1576022400.0,
-        "expiration_date": "11-dec-2019",
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
         "state": "future"
     },
     "m-t.io": {
@@ -17650,8 +17665,8 @@
         "state": "future"
     },
     "pathful.com": {
-        "epoch": 1576108800.0,
-        "expiration_date": "12-dec-2019",
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
         "state": "future"
     },
     "paxful.com": {
@@ -18167,7 +18182,7 @@
     "placemypixel.com": {
         "epoch": 1576108800.0,
         "expiration_date": "12-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "pladform.ru": {
         "epoch": 1588896000.0,
