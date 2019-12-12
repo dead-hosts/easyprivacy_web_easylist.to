@@ -6729,6 +6729,11 @@
         "expiration_date": "21-nov-2024",
         "state": "future"
     },
+    "dellcdn.com": {
+        "epoch": 1588032000.0,
+        "expiration_date": "28-apr-2020",
+        "state": "future"
+    },
     "delvenetworks.com": {
         "epoch": 1588377600.0,
         "expiration_date": "02-may-2020",
