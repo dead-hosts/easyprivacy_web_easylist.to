@@ -22304,6 +22304,11 @@
         "expiration_date": "12-feb-2020",
         "state": "future"
     },
+    "stat-track.com": {
+        "epoch": 1612224000.0,
+        "expiration_date": "02-feb-2021",
+        "state": "future"
+    },
     "stat-well.com": {
         "epoch": 1590537600.0,
         "expiration_date": "27-may-2020",
@@ -23060,8 +23065,8 @@
         "state": "future"
     },
     "synerise.com": {
-        "epoch": 1576022400.0,
-        "expiration_date": "11-dec-2019",
+        "epoch": 1670716800.0,
+        "expiration_date": "11-dec-2022",
         "state": "future"
     },
     "synovite-scripts.com": {
@@ -23674,6 +23679,11 @@
         "expiration_date": "10-jun-2022",
         "state": "future"
     },
+    "threat-analytics.com": {
+        "epoch": 1622937600.0,
+        "expiration_date": "06-jun-2021",
+        "state": "future"
+    },
     "thrillist.com": {
         "epoch": 1731888000.0,
         "expiration_date": "18-nov-2024",
@@ -24175,8 +24185,8 @@
         "state": "future"
     },
     "trackdiscovery.net": {
-        "epoch": 1576022400.0,
-        "expiration_date": "11-dec-2019",
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
         "state": "future"
     },
     "trackeame.com": {
@@ -24380,8 +24390,8 @@
         "state": "future"
     },
     "trail-web.com": {
-        "epoch": 1576022400.0,
-        "expiration_date": "11-dec-2019",
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
         "state": "future"
     },
     "trailheadapp.com": {
@@ -24947,6 +24957,11 @@
     "uarating.com": {
         "epoch": 1602720000.0,
         "expiration_date": "15-oct-2020",
+        "state": "future"
+    },
+    "ub-analytics.com": {
+        "epoch": 1596326400.0,
+        "expiration_date": "02-aug-2020",
         "state": "future"
     },
     "ubertags.com": {
