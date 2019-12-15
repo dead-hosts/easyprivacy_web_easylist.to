@@ -8325,80 +8325,6 @@
         "1574803139": {
             "logdev.openload.co": "INACTIVE"
         },
-        "1576168509": {
-            "pr-textlink.de": "INACTIVE",
-            "propagerank.de": "INACTIVE",
-            "ranking-it.de": "INACTIVE"
-        },
-        "1576168510": {
-            "roitracking.net": "INACTIVE",
-            "ssl4stats.de": "INACTIVE"
-        },
-        "1576168511": {
-            "tausch-link.de": "INACTIVE",
-            "teriotracker.de": "INACTIVE",
-            "trackfreundlich.de": "INACTIVE"
-        },
-        "1576168512": {
-            "web-controlling.org": "INACTIVE",
-            "xa-counter.com": "INACTIVE"
-        },
-        "1576168513": {
-            "7e59f52a58ab3be819c9a90ba53b9ffe.ovh": "INACTIVE"
-        },
-        "1576170658": {
-            "goyavelab.com": "INACTIVE",
-            "ncdnprorogeraie.lol": "INACTIVE"
-        },
-        "1576170659": {
-            "tnsinternet.be": "INACTIVE",
-            "url-stats.net": "INACTIVE"
-        },
-        "1576170662": {
-            "irs01.": "INVALID"
-        },
-        "1576170664": {
-            "users.51.la": "INACTIVE"
-        },
-        "1576170666": {
-            "mediaindex.ee": "INACTIVE",
-            "sitechart.dk": "INACTIVE"
-        },
-        "1576170667": {
-            "hotstats.gr": "INACTIVE"
-        },
-        "1576170669": {
-            "megastat.net": "INACTIVE"
-        },
-        "1576170670": {
-            "prostats.it": "INACTIVE",
-            "statsadvance-01.net": "INACTIVE",
-            "statsview.it": "INACTIVE",
-            "ultrastats.it": "INACTIVE"
-        },
-        "1576170671": {
-            "bb-analytics.jp": "INACTIVE",
-            "webtraffstats.net": "INACTIVE"
-        },
-        "1576170672": {
-            "japanmetrix.jp": "INACTIVE"
-        },
-        "1576170674": {
-            "melatstat.com": "INACTIVE",
-            "persianstat.ir": "INACTIVE",
-            "stats4u.lv": "INACTIVE",
-            "webstatistika.lt": "INACTIVE"
-        },
-        "1576170676": {
-            "popstats.com.br": "INACTIVE"
-        },
-        "1576170677": {
-            "109.169.66.161": "INACTIVE"
-        },
-        "1576170679": {
-            "cntcash.ru": "INACTIVE",
-            "countstat.ru": "INACTIVE"
-        },
         "1576170680": {
             "jetcounter.ru": "INACTIVE"
         },
@@ -10302,6 +10228,77 @@
             "pageranking.li": "INACTIVE",
             "pr-link.eu": "INACTIVE",
             "pr-rang.de": "INACTIVE"
+        },
+        "1576449342": {
+            "pr-textlink.de": "INACTIVE",
+            "propagerank.de": "INACTIVE",
+            "ranking-it.de": "INACTIVE"
+        },
+        "1576449343": {
+            "roitracking.net": "INACTIVE",
+            "ssl4stats.de": "INACTIVE",
+            "tausch-link.de": "INACTIVE",
+            "teriotracker.de": "INACTIVE"
+        },
+        "1576449344": {
+            "trackfreundlich.de": "INACTIVE",
+            "web-controlling.org": "INACTIVE",
+            "xa-counter.com": "INACTIVE"
+        },
+        "1576449345": {
+            "7e59f52a58ab3be819c9a90ba53b9ffe.ovh": "INACTIVE"
+        },
+        "1576449347": {
+            "goyavelab.com": "INACTIVE",
+            "ncdnprorogeraie.lol": "INACTIVE"
+        },
+        "1576449348": {
+            "tnsinternet.be": "INACTIVE",
+            "url-stats.net": "INACTIVE"
+        },
+        "1576449350": {
+            "irs01.": "INVALID"
+        },
+        "1576449351": {
+            "users.51.la": "INACTIVE"
+        },
+        "1576449353": {
+            "mediaindex.ee": "INACTIVE",
+            "sitechart.dk": "INACTIVE"
+        },
+        "1576449354": {
+            "hotstats.gr": "INACTIVE"
+        },
+        "1576449356": {
+            "megastat.net": "INACTIVE",
+            "prostats.it": "INACTIVE",
+            "statsadvance-01.net": "INACTIVE",
+            "statsview.it": "INACTIVE"
+        },
+        "1576449357": {
+            "bb-analytics.jp": "INACTIVE",
+            "ultrastats.it": "INACTIVE",
+            "webtraffstats.net": "INACTIVE"
+        },
+        "1576449358": {
+            "japanmetrix.jp": "INACTIVE"
+        },
+        "1576449359": {
+            "stats4u.lv": "INACTIVE"
+        },
+        "1576449360": {
+            "melatstat.com": "INACTIVE",
+            "webstatistika.lt": "INACTIVE"
+        },
+        "1576449361": {
+            "popstats.com.br": "INACTIVE"
+        },
+        "1576449362": {
+            "109.169.66.161": "INACTIVE"
+        },
+        "1576449363": {
+            "cntcash.ru": "INACTIVE",
+            "countstat.ru": "INACTIVE"
         }
     }
 }
