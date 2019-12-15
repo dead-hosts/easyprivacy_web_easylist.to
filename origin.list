@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201912121049
+! Version: 201912151851
 ! Title: EasyPrivacy
-! Last modified: 12 Dec 2019 10:49 UTC
+! Last modified: 15 Dec 2019 18:51 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -660,6 +660,7 @@
 /analytics/engine/*
 /analytics/event
 /analytics/final.
+/analytics/frame.
 /analytics/ga.
 /analytics/ga/*
 /analytics/ga?
@@ -2421,6 +2422,7 @@
 /log/impression/*
 /log/init?
 /log/jserr.php
+/log/log-event-
 /log/log.php?
 /log/p.gif?
 /log/pageview
@@ -4107,6 +4109,7 @@
 /tracking/digitalData.
 /tracking/epixels.
 /tracking/events?
+/tracking/events|
 /tracking/fingerprint/*
 /tracking/hbx-
 /tracking/impression/*
@@ -4181,6 +4184,7 @@
 /TrackingHandler.
 /trackingheader.
 /trackingImpression/*
+/trackingOnload-
 /trackingp.gif
 /trackingPixel.
 /TrackingPixel/*
@@ -5473,6 +5477,7 @@ _mongo_stats/
 ||bm324.com^$third-party
 ||bmlmedia.com^$third-party
 ||bmmetrix.com^$third-party
+||bntech.io^$third-party
 ||bookforest.biz^$third-party
 ||boomerang.com.au^$third-party
 ||boomtrain.com^$third-party
@@ -6793,6 +6798,7 @@ _mongo_stats/
 ||peep1alea.com^$third-party
 ||peerius.com^$third-party
 ||pega.com^$third-party
+||pepperjam.com^$third-party
 ||percentmobile.com^$third-party
 ||perfdrive.com^$third-party
 ||perfectaudience.com^$third-party
@@ -11936,6 +11942,7 @@ _mongo_stats/
 ||ctr-opc.nmg.de^
 ||ctr.nmg.de^$third-party
 ||d.adrolays.de^
+||d.finative.eu^
 ||d.nativendo.de^
 ||d.omsnative.de^
 ||data.econa.com^
@@ -12477,6 +12484,7 @@ _mongo_stats/
 ||cafenews.pl/mpl/static/static.js?
 ||fab.interia.pl^
 ||hit.interia.pl^
+||iwa.iplsc.com/plugins/$script
 ||liczniki.org/hit.php
 ||marketing.tr.netsalesmedia.pl^
 ||pixel.homebook.pl^
@@ -15345,6 +15353,15 @@ _mongo_stats/
 ||zylom.com^*/global_tracking.jsp?
 ||zylom.com^*/tracking_spotlight.js
 ||zytpirwai.net/track/
+! PerimeterX
+||kiehls.com/IZ/G8ATFja1/
+||lancome-usa.com/IZ/q99AlOxk/
+||laroche-posay.us/IZ/9VyUvZ4f/
+||nyxcosmetics.com/IZ/LZNv2dn4/
+||ralphlauren.fr/IZ/fr_FR/jBdHNCWl/
+||seatgeek.com/aG6ZzoXU/
+||seekingalpha.com/xgCxM9By/
+||zillow.com/HYx10rg3/
 ! Consent/GDPR tracking
 ||bucksfreepress-gb.bucksfreepress.co.uk^
 ||cmp.arnnet.com.au^
@@ -15366,11 +15383,15 @@ _mongo_stats/
 ||gazette-news-gb.gazette-news.co.uk^
 ||h-bid.com^$third-party
 ||mdn.neowin.net^
+||orionis.techradar.com^
+||rps-p2.rockpapershotgun.com^
+||rps-uk.rockpapershotgun.com^
 ||sthelensstar-gb.sthelensstar.co.uk^
 ||thenational-gb.thenational.scot^
 ||ttauri.laptopmag.com^
 ||ttauri.tomsguide.com^
 ||ttauri.tomshardware.com^
+||vg247.com/wp-content/themes/vg247/scripts/mvg247-fsm.js
 ||worcesternews-gb.worcesternews.co.uk^
 ||yourlocalguardian-gb.yourlocalguardian.co.uk^
 ! Eulerian
@@ -15858,6 +15879,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||tp.deawm.com^
 ||tr.werkenntwen.de^
 ||track.bazonline.ch^
+||track.berliner-kurier.de^
 ||track.bernerzeitung.ch^
 ||track.cinestar.de^
 ||track.derbund.ch^
@@ -16010,6 +16032,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||analytics.nextmedia.com^
 ||analytics.shop.hisense.com^
 ||analytics.zhihu.com^
+||anti-bot.baidu.com^
 ||atm.youku.com^
 ||autohome.com.cn/count.js
 ||autohome.com.cn/deliver?
@@ -16464,7 +16487,10 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||kommersant.uk/banner_stats
 ||lamoda.ru/z?
 ||link.subscribe.ru^
-||livelib.ru/service/
+||livelib.ru/service/pinger
+||livelib.ru/service/spv
+||livelib.ru/service/traffic
+||livelib.ru/service/visitlist/
 ||lmcdn.ru^*/statistics.js
 ||log.ren.tv^
 ||mail.ru/count/
@@ -16905,6 +16931,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||vaadin.com^*/heatmap.js
 @@||validate.onecount.net/js/all.min.js$script,domain=foreignpolicy.com
 @@||validate.onecount.net/onecount/api/public/$script,domain=foreignpolicy.com
+@@||varagesale.com/assets/analytics-$script,~third-party
 @@||vast.com/vimpressions.js$domain=everycarlisted.com
 @@||vice.com^*/AdobeAnalyticsSDK.min.js
 @@||vidible.tv^*/ComScore.StreamSense.js
@@ -16987,6 +17014,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||smetrics.aem.playstation.com/b/ss/$image
 @@||smetrics.farnell.com/b/ss/$image
 @@||smetrics.foxnews.com/b/ss/$image
+@@||smetrics.rtl.nl/b/ss/$image
 @@||smetrics.target.com/b/ss/$image
 @@||smetrics.ticketmaster.com/b/ss/$image
 @@||som.aeroplan.com/b/ss/$image
@@ -17153,6 +17181,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||gemius.pl/gstream.js
 @@||gminazamosc.pl/wp-content/plugins/wp-google-analytics-events/js/ga-scroll-events.js?
 @@||hdtvpolska.com/wp-content/plugins/wpdiscuz/assets/third-party/wpdcookiejs/customcookie.js
+@@||iwa.iplsc.com/iwa.js$script
 @@||kropka.onet.pl^*/onet.js$domain=tvnwarszawa.pl
 @@||login.ingbank.pl^*/satelliteLib-$script
 @@||ninja.onap.io/ninja-cee.js$domain=olx.pl
