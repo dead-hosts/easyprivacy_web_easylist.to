@@ -9374,6 +9374,11 @@
         "expiration_date": "19-jan-2020",
         "state": "future"
     },
+    "freecontent.science": {
+        "epoch": 1579392000.0,
+        "expiration_date": "19-jan-2020",
+        "state": "future"
+    },
     "freecontent.stream": {
         "epoch": 1579392000.0,
         "expiration_date": "19-jan-2020",
@@ -10709,6 +10714,11 @@
         "expiration_date": "13-feb-2020",
         "state": "future"
     },
+    "hashforcash.us": {
+        "epoch": 1601251200.0,
+        "expiration_date": "28-sep-2020",
+        "state": "future"
+    },
     "hashing.win": {
         "epoch": 1607558400.0,
         "expiration_date": "10-dec-2020",
@@ -11175,6 +11185,11 @@
         "state": "future"
     },
     "hostingcloud.racing": {
+        "epoch": 1585958400.0,
+        "expiration_date": "04-apr-2020",
+        "state": "future"
+    },
+    "hostingcloud.science": {
         "epoch": 1585958400.0,
         "expiration_date": "04-apr-2020",
         "state": "future"
@@ -16767,7 +16782,7 @@
     "notmining.org": {
         "epoch": 1576368000.0,
         "expiration_date": "15-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "nouvelobs.com": {
         "epoch": 1579305600.0,
