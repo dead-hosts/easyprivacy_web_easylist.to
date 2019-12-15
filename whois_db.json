@@ -20954,6 +20954,11 @@
         "expiration_date": "16-jun-2020",
         "state": "future"
     },
+    "seoradar.ro": {
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
+        "state": "future"
+    },
     "seoul.co.kr": {
         "epoch": 1602720000.0,
         "expiration_date": "15-oct-2020",
@@ -21359,6 +21364,11 @@
         "expiration_date": "15-mar-2024",
         "state": "future"
     },
+    "simplycast.us": {
+        "epoch": 1605225600.0,
+        "expiration_date": "13-nov-2020",
+        "state": "future"
+    },
     "simplyhired.com": {
         "epoch": 1585180800.0,
         "expiration_date": "26-mar-2020",
@@ -21492,6 +21502,11 @@
     "siteswithcontent.com": {
         "epoch": 1582848000.0,
         "expiration_date": "28-feb-2020",
+        "state": "future"
+    },
+    "sitetag.us": {
+        "epoch": 1593388800.0,
+        "expiration_date": "29-jun-2020",
         "state": "future"
     },
     "sitetagger.co.uk": {
@@ -21982,6 +21997,11 @@
     "sortsummer.com": {
         "epoch": 1579996800.0,
         "expiration_date": "26-jan-2020",
+        "state": "future"
+    },
+    "soska.us": {
+        "epoch": 1598745600.0,
+        "expiration_date": "30-aug-2020",
         "state": "future"
     },
     "soufun.com": {
@@ -22905,8 +22925,8 @@
         "state": "future"
     },
     "submitnet.net": {
-        "epoch": 1576281600.0,
-        "expiration_date": "14-dec-2019",
+        "epoch": 1607904000.0,
+        "expiration_date": "14-dec-2020",
         "state": "future"
     },
     "subtraxion.com": {
@@ -24315,8 +24335,8 @@
         "state": "future"
     },
     "trackingpro.pro": {
-        "epoch": 1576281600.0,
-        "expiration_date": "14-dec-2019",
+        "epoch": 1607904000.0,
+        "expiration_date": "14-dec-2020",
         "state": "future"
     },
     "trackjs.com": {
@@ -24667,6 +24687,11 @@
     "trkme.net": {
         "epoch": 1581033600.0,
         "expiration_date": "07-feb-2020",
+        "state": "future"
+    },
+    "trkn.us": {
+        "epoch": 1601424000.0,
+        "expiration_date": "30-sep-2020",
         "state": "future"
     },
     "trksrv44.com": {
