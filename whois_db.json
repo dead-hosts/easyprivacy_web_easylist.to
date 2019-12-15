@@ -7130,8 +7130,8 @@
         "state": "future"
     },
     "dmclick.cn": {
-        "epoch": 1576195200.0,
-        "expiration_date": "13-dec-2019",
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
         "state": "future"
     },
     "dmd53.com": {
@@ -9894,6 +9894,11 @@
         "expiration_date": "06-sep-2020",
         "state": "future"
     },
+    "geni.us": {
+        "epoch": 1720396800.0,
+        "expiration_date": "08-jul-2024",
+        "state": "future"
+    },
     "genieedmp.com": {
         "epoch": 1659484800.0,
         "expiration_date": "03-aug-2022",
@@ -10797,7 +10802,7 @@
     "heatmap.it": {
         "epoch": 1576281600.0,
         "expiration_date": "14-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "heatmap.services": {
         "epoch": 1587340800.0,
@@ -11045,8 +11050,8 @@
         "state": "future"
     },
     "hitwake.com": {
-        "epoch": 1576195200.0,
-        "expiration_date": "13-dec-2019",
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
         "state": "future"
     },
     "hitwebcounter.com": {
@@ -11905,8 +11910,8 @@
         "state": "future"
     },
     "infoprodata.com": {
-        "epoch": 1576281600.0,
-        "expiration_date": "14-dec-2019",
+        "epoch": 1607904000.0,
+        "expiration_date": "14-dec-2020",
         "state": "future"
     },
     "infoq.com": {
@@ -12155,8 +12160,8 @@
         "state": "future"
     },
     "intelli-tracker.com": {
-        "epoch": 1576281600.0,
-        "expiration_date": "14-dec-2019",
+        "epoch": 1607904000.0,
+        "expiration_date": "14-dec-2020",
         "state": "future"
     },
     "intelligencefocus.com": {
@@ -12270,8 +12275,13 @@
         "state": "future"
     },
     "invitemedia.com": {
-        "epoch": 1576195200.0,
-        "expiration_date": "13-dec-2019",
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
+        "state": "future"
+    },
+    "invoc.us": {
+        "epoch": 1623369600.0,
+        "expiration_date": "11-jun-2021",
         "state": "future"
     },
     "invoca.net": {
@@ -12555,8 +12565,8 @@
         "state": "future"
     },
     "itracker360.com": {
-        "epoch": 1576281600.0,
-        "expiration_date": "14-dec-2019",
+        "epoch": 1607904000.0,
+        "expiration_date": "14-dec-2020",
         "state": "future"
     },
     "itrackerpro.com": {
