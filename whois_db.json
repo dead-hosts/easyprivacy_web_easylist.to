@@ -10647,7 +10647,7 @@
     "h-bid.com": {
         "epoch": 1576454400.0,
         "expiration_date": "16-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "h2porn.com": {
         "epoch": 1691193600.0,
@@ -13084,6 +13084,11 @@
         "expiration_date": "21-dec-2019",
         "state": "future"
     },
+    "kiehls.com": {
+        "epoch": 1619481600.0,
+        "expiration_date": "27-apr-2021",
+        "state": "future"
+    },
     "killerstartups.com": {
         "epoch": 1605830400.0,
         "expiration_date": "20-nov-2020",
@@ -13374,6 +13379,11 @@
         "expiration_date": "30-jan-2020",
         "state": "future"
     },
+    "lancome-usa.com": {
+        "epoch": 1633305600.0,
+        "expiration_date": "04-oct-2021",
+        "state": "future"
+    },
     "landingpg.com": {
         "epoch": 1603843200.0,
         "expiration_date": "28-oct-2020",
@@ -13387,6 +13397,11 @@
     "lansrv030.com": {
         "epoch": 1589760000.0,
         "expiration_date": "18-may-2020",
+        "state": "future"
+    },
+    "laroche-posay.us": {
+        "epoch": 1619308800.0,
+        "expiration_date": "25-apr-2021",
         "state": "future"
     },
     "lasagneandands.com": {
@@ -16964,6 +16979,11 @@
         "expiration_date": "12-may-2020",
         "state": "future"
     },
+    "nyxcosmetics.com": {
+        "epoch": 1615766400.0,
+        "expiration_date": "15-mar-2021",
+        "state": "future"
+    },
     "nzbsrus.com": {
         "epoch": 1582502400.0,
         "expiration_date": "24-feb-2020",
@@ -19319,6 +19339,11 @@
         "expiration_date": "24-sep-2020",
         "state": "future"
     },
+    "ralphlauren.fr": {
+        "epoch": 1587340800.0,
+        "expiration_date": "20-apr-2020",
+        "state": "future"
+    },
     "rambler.ru": {
         "epoch": 1598918400.0,
         "expiration_date": "01-sep-2020",
@@ -20837,6 +20862,11 @@
     "seeip.org": {
         "epoch": 1598227200.0,
         "expiration_date": "24-aug-2020",
+        "state": "future"
+    },
+    "seekingalpha.com": {
+        "epoch": 1599091200.0,
+        "expiration_date": "03-sep-2020",
         "state": "future"
     },
     "seevolution.com": {
@@ -25210,8 +25240,8 @@
         "state": "future"
     },
     "unicornapp.com": {
-        "epoch": 1576195200.0,
-        "expiration_date": "13-dec-2019",
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
         "state": "future"
     },
     "unionleader.com": {
@@ -25870,8 +25900,8 @@
         "state": "future"
     },
     "vimeo.com": {
-        "epoch": 1576368000.0,
-        "expiration_date": "15-dec-2019",
+        "epoch": 1607990400.0,
+        "expiration_date": "15-dec-2020",
         "state": "future"
     },
     "vimeocdn.com": {
@@ -27850,8 +27880,8 @@
         "state": "future"
     },
     "zap2it.com": {
-        "epoch": 1576454400.0,
-        "expiration_date": "16-dec-2019",
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
         "state": "future"
     },
     "zapcdn.space": {
@@ -27937,6 +27967,11 @@
     "ziffprod.com": {
         "epoch": 1596499200.0,
         "expiration_date": "04-aug-2020",
+        "state": "future"
+    },
+    "zillow.com": {
+        "epoch": 1825891200.0,
+        "expiration_date": "11-nov-2027",
         "state": "future"
     },
     "zipstat.dk": {
