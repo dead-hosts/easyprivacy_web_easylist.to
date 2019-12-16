@@ -8325,127 +8325,7 @@
         "1574803139": {
             "logdev.openload.co": "INACTIVE"
         },
-        "1576186779": {
-            "pcp001.com": "INACTIVE"
-        },
-        "1576186780": {
-            "pictures.zooplus.com": "INACTIVE",
-            "ping.buto.tv": "INACTIVE",
-            "ping.tvmaze.com": "INACTIVE",
-            "pixel.archive.": "INVALID",
-            "pixel.buzzfeed.com": "INACTIVE"
-        },
-        "1576186781": {
-            "pixel.klout.com": "INACTIVE",
-            "pixel.redditmedia.com": "INACTIVE",
-            "pluto.airbnb.com": "INACTIVE"
-        },
-        "1576186782": {
-            "pong.gannettdigital.com": "INACTIVE",
-            "pound.buzzfeed.com": "INACTIVE"
-        },
-        "1576186783": {
-            "pulsar.ebay.": "INVALID",
-            "pulse-analytics-beacon.reutersmedia.net": "INACTIVE"
-        },
-        "1576186784": {
-            "rainbow-uk.mythings.com": "INACTIVE"
-        },
-        "1576186785": {
-            "rd.meebo.com": "INACTIVE"
-        },
-        "1576186786": {
-            "refer.evine.com": "INACTIVE"
-        },
-        "1576186787": {
-            "report.shell.com": "INACTIVE",
-            "reporting.onthebeach.co.uk": "INACTIVE",
-            "reporting.wilkinsonplus.com": "INACTIVE"
-        },
-        "1576186788": {
-            "rover.ebay.": "INVALID"
-        },
-        "1576186789": {
-            "s.infogr.am": "INACTIVE",
-            "s2.youtube.com": "INACTIVE",
-            "s3s-bofm.net": "INACTIVE",
-            "sa.bbc.com": "INACTIVE",
-            "satellite-tv-guides.com": "INACTIVE",
-            "sb.vevo.com": "INACTIVE"
-        },
-        "1576186790": {
-            "search.firstplace.com": "INACTIVE"
-        },
-        "1576186791": {
-            "sense.dailymotion.com": "INACTIVE"
-        },
-        "1576186792": {
-            "singer22-static.com": "INACTIVE",
-            "sixpack.udimg.com": "INACTIVE"
-        },
-        "1576186793": {
-            "skyscanner.*": "INVALID"
-        },
-        "1576186794": {
-            "snowplow-collector.sugarops.com": "INACTIVE",
-            "socialstreamingplayer.crystalmedianetworks.com": "INACTIVE",
-            "sp.centralfloridafuture.com": "INACTIVE"
-        },
-        "1576186795": {
-            "sp.udimg.com": "INACTIVE",
-            "spanids.reference.com": "INACTIVE"
-        },
-        "1576186796": {
-            "spinmediacdn.com": "INACTIVE",
-            "ssl-stats.wordpress.com": "INACTIVE"
-        },
-        "1576186797": {
-            "startpage.*": "INVALID",
-            "stat.torrentbar.com": "INACTIVE",
-            "stats.behance.net": "INACTIVE",
-            "stats.break.com": "INACTIVE",
-            "stats.ebay.com": "INACTIVE",
-            "stats.europe.newsweek.com": "INACTIVE",
-            "stats.farfetch.com": "INACTIVE"
-        },
-        "1576186798": {
-            "stats.macmillanusa.com": "INACTIVE",
-            "stats.mehrnews.com": "INACTIVE",
-            "stats.paypal.com": "INACTIVE",
-            "stats.radiostreamlive.com": "INACTIVE",
-            "stats.redditmedia.com": "INACTIVE",
-            "stats.searchsight.com": "INACTIVE",
-            "stats.sharenet.co.za": "INACTIVE",
-            "stats.slashgear.com": "INACTIVE",
-            "stats.storify.com": "INACTIVE",
-            "stats.suite101.com": "INACTIVE",
-            "stats.tvmaze.com": "INACTIVE",
-            "stats.vc.gg": "INACTIVE",
-            "stats.video.search.yahoo.com": "INACTIVE",
-            "statscol.pond5.com": "INACTIVE"
-        },
-        "1576186799": {
-            "stcollection.moneysupermarket.com": "INACTIVE",
-            "storewidesearch.com": "INACTIVE",
-            "streamstats1.blinkx.com": "INACTIVE"
-        },
-        "1576186800": {
-            "sundayskylb1.com": "INACTIVE",
-            "t.delfi.": "INVALID",
-            "t.my.jobs": "INACTIVE",
-            "t.vimeo.com": "INACTIVE",
-            "tag-stats.huffpost.com": "INACTIVE",
-            "tagcommander.laredoute.": "INVALID",
-            "tags.aljazeera.": "INVALID"
-        },
-        "1576186801": {
-            "tags.transportdirect.info": "INACTIVE",
-            "ted1.metro.co.uk": "INACTIVE",
-            "telemetry.qa.webex.com": "INACTIVE"
-        },
         "1576188869": {
-            "total.shanghaidaily.com": "INACTIVE",
-            "tracer.perezhilton.com": "INACTIVE",
             "track.codepen.io": "INACTIVE",
             "track.collegehumor.com": "INACTIVE",
             "track.ft.com": "INACTIVE"
@@ -10306,6 +10186,124 @@
         },
         "1576455779": {
             "newsletter.mybboard.net": "INACTIVE"
+        },
+        "1576456481": {
+            "pcp001.com": "INACTIVE"
+        },
+        "1576456483": {
+            "pictures.zooplus.com": "INACTIVE",
+            "ping.buto.tv": "INACTIVE",
+            "ping.tvmaze.com": "INACTIVE",
+            "pixel.archive.": "INVALID",
+            "pixel.buzzfeed.com": "INACTIVE",
+            "pixel.klout.com": "INACTIVE",
+            "pixel.redditmedia.com": "INACTIVE"
+        },
+        "1576456484": {
+            "pluto.airbnb.com": "INACTIVE"
+        },
+        "1576456485": {
+            "pong.gannettdigital.com": "INACTIVE",
+            "pound.buzzfeed.com": "INACTIVE"
+        },
+        "1576456486": {
+            "pulsar.ebay.": "INVALID",
+            "pulse-analytics-beacon.reutersmedia.net": "INACTIVE"
+        },
+        "1576456487": {
+            "rainbow-uk.mythings.com": "INACTIVE",
+            "rd.meebo.com": "INACTIVE"
+        },
+        "1576456489": {
+            "refer.evine.com": "INACTIVE",
+            "report.shell.com": "INACTIVE",
+            "reporting.onthebeach.co.uk": "INACTIVE",
+            "reporting.wilkinsonplus.com": "INACTIVE"
+        },
+        "1576456491": {
+            "rover.ebay.": "INVALID",
+            "s.infogr.am": "INACTIVE",
+            "s2.youtube.com": "INACTIVE"
+        },
+        "1576456492": {
+            "s3s-bofm.net": "INACTIVE",
+            "sa.bbc.com": "INACTIVE",
+            "satellite-tv-guides.com": "INACTIVE",
+            "sb.vevo.com": "INACTIVE"
+        },
+        "1576456493": {
+            "search.firstplace.com": "INACTIVE"
+        },
+        "1576456494": {
+            "sense.dailymotion.com": "INACTIVE"
+        },
+        "1576456495": {
+            "singer22-static.com": "INACTIVE",
+            "sixpack.udimg.com": "INACTIVE"
+        },
+        "1576456496": {
+            "skyscanner.*": "INVALID"
+        },
+        "1576456497": {
+            "snowplow-collector.sugarops.com": "INACTIVE",
+            "socialstreamingplayer.crystalmedianetworks.com": "INACTIVE",
+            "sp.centralfloridafuture.com": "INACTIVE"
+        },
+        "1576456498": {
+            "sp.udimg.com": "INACTIVE",
+            "spanids.reference.com": "INACTIVE"
+        },
+        "1576456499": {
+            "spinmediacdn.com": "INACTIVE",
+            "ssl-stats.wordpress.com": "INACTIVE",
+            "startpage.*": "INVALID"
+        },
+        "1576456500": {
+            "stat.torrentbar.com": "INACTIVE",
+            "stats.behance.net": "INACTIVE",
+            "stats.break.com": "INACTIVE",
+            "stats.ebay.com": "INACTIVE",
+            "stats.europe.newsweek.com": "INACTIVE",
+            "stats.farfetch.com": "INACTIVE",
+            "stats.macmillanusa.com": "INACTIVE",
+            "stats.mehrnews.com": "INACTIVE"
+        },
+        "1576456501": {
+            "stats.paypal.com": "INACTIVE",
+            "stats.radiostreamlive.com": "INACTIVE",
+            "stats.redditmedia.com": "INACTIVE",
+            "stats.searchsight.com": "INACTIVE",
+            "stats.sharenet.co.za": "INACTIVE",
+            "stats.slashgear.com": "INACTIVE",
+            "stats.storify.com": "INACTIVE",
+            "stats.suite101.com": "INACTIVE",
+            "stats.tvmaze.com": "INACTIVE",
+            "stats.vc.gg": "INACTIVE",
+            "stats.video.search.yahoo.com": "INACTIVE",
+            "statscol.pond5.com": "INACTIVE"
+        },
+        "1576456502": {
+            "stcollection.moneysupermarket.com": "INACTIVE",
+            "storewidesearch.com": "INACTIVE",
+            "streamstats1.blinkx.com": "INACTIVE"
+        },
+        "1576456503": {
+            "sundayskylb1.com": "INACTIVE",
+            "t.delfi.": "INVALID",
+            "t.my.jobs": "INACTIVE",
+            "t.vimeo.com": "INACTIVE",
+            "tag-stats.huffpost.com": "INACTIVE",
+            "tagcommander.laredoute.": "INVALID",
+            "tags.aljazeera.": "INVALID",
+            "tags.transportdirect.info": "INACTIVE"
+        },
+        "1576456504": {
+            "ted1.metro.co.uk": "INACTIVE",
+            "telemetry.qa.webex.com": "INACTIVE"
+        },
+        "1576456507": {
+            "total.shanghaidaily.com": "INACTIVE",
+            "tracer.perezhilton.com": "INACTIVE"
         }
     }
 }
