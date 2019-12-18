@@ -14797,7 +14797,7 @@
     "mediaforgews.com": {
         "epoch": 1576627200.0,
         "expiration_date": "18-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "mediagauge.com": {
         "epoch": 1606176000.0,
@@ -15265,8 +15265,8 @@
         "state": "future"
     },
     "mkt51.net": {
-        "epoch": 1576627200.0,
-        "expiration_date": "18-dec-2019",
+        "epoch": 1608249600.0,
+        "expiration_date": "18-dec-2020",
         "state": "future"
     },
     "mkt941.com": {
@@ -18195,8 +18195,8 @@
         "state": "future"
     },
     "ping-fast.com": {
-        "epoch": 1576454400.0,
-        "expiration_date": "16-dec-2019",
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
         "state": "future"
     },
     "pingagenow.com": {
@@ -19880,8 +19880,8 @@
         "state": "future"
     },
     "reson8.com": {
-        "epoch": 1576540800.0,
-        "expiration_date": "17-dec-2019",
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
         "state": "future"
     },
     "responsetap.com": {
