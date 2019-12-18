@@ -1665,8 +1665,8 @@
         "state": "future"
     },
     "alkemics.com": {
-        "epoch": 1576627200.0,
-        "expiration_date": "18-dec-2019",
+        "epoch": 1608249600.0,
+        "expiration_date": "18-dec-2020",
         "state": "future"
     },
     "all-top.ru": {
@@ -4300,8 +4300,8 @@
         "state": "future"
     },
     "canalstat.com": {
-        "epoch": 1576454400.0,
-        "expiration_date": "16-dec-2019",
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
         "state": "future"
     },
     "canddi.com": {
@@ -10610,9 +10610,9 @@
         "state": "future"
     },
     "gtop.ro": {
-        "epoch": 1572220800.0,
-        "expiration_date": "28-oct-2019",
-        "state": "past"
+        "epoch": 1603756800.0,
+        "expiration_date": "27-oct-2020",
+        "state": "future"
     },
     "gtopstats.com": {
         "epoch": 1587686400.0,
@@ -20115,8 +20115,8 @@
         "state": "future"
     },
     "rightstats.com": {
-        "epoch": 1576627200.0,
-        "expiration_date": "18-dec-2019",
+        "epoch": 1608249600.0,
+        "expiration_date": "18-dec-2020",
         "state": "future"
     },
     "rightstuf.com": {
@@ -22840,8 +22840,8 @@
         "state": "future"
     },
     "stetic.com": {
-        "epoch": 1576454400.0,
-        "expiration_date": "16-dec-2019",
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
         "state": "future"
     },
     "stgy.ovh": {
