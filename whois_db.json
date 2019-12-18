@@ -24402,7 +24402,7 @@
     "trackinglabs.com": {
         "epoch": 1576627200.0,
         "expiration_date": "18-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "trackingpro.pro": {
         "epoch": 1607904000.0,
@@ -24470,8 +24470,8 @@
         "state": "future"
     },
     "trackword.biz": {
-        "epoch": 1576454400.0,
-        "expiration_date": "16-dec-2019",
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
         "state": "future"
     },
     "trackyourstats.com": {
@@ -24800,8 +24800,8 @@
         "state": "future"
     },
     "trtl.ws": {
-        "epoch": 1576454400.0,
-        "expiration_date": "16-dec-2019",
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
         "state": "future"
     },
     "tru.am": {
