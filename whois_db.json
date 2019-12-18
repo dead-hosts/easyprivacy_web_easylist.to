@@ -5819,6 +5819,11 @@
         "expiration_date": "14-oct-2020",
         "state": "future"
     },
+    "cosmosjackson.com": {
+        "epoch": 1590796800.0,
+        "expiration_date": "30-may-2020",
+        "state": "future"
+    },
     "cost1action.com": {
         "epoch": 1605657600.0,
         "expiration_date": "18-nov-2020",
@@ -6087,6 +6092,11 @@
     "criteo.net": {
         "epoch": 1592352000.0,
         "expiration_date": "17-jun-2020",
+        "state": "future"
+    },
+    "critictruck.com": {
+        "epoch": 1592524800.0,
+        "expiration_date": "19-jun-2020",
         "state": "future"
     },
     "crm-vwg.com": {
@@ -6692,6 +6702,11 @@
     "decideinteractive.com": {
         "epoch": 1614384000.0,
         "expiration_date": "27-feb-2021",
+        "state": "future"
+    },
+    "decisivedrawer.com": {
+        "epoch": 1603584000.0,
+        "expiration_date": "25-oct-2020",
         "state": "future"
     },
     "declaredthoughtfulness.co": {
@@ -8652,6 +8667,11 @@
     "farmville.com": {
         "epoch": 1595462400.0,
         "expiration_date": "23-jul-2020",
+        "state": "future"
+    },
+    "farshake.com": {
+        "epoch": 1599177600.0,
+        "expiration_date": "04-sep-2020",
         "state": "future"
     },
     "farsnews.com": {
@@ -10617,6 +10637,11 @@
     "gubagoo.io": {
         "epoch": 1586476800.0,
         "expiration_date": "10-apr-2020",
+        "state": "future"
+    },
+    "guiltlessbasketball.com": {
+        "epoch": 1588982400.0,
+        "expiration_date": "09-may-2020",
         "state": "future"
     },
     "gulliblecamp.com": {
@@ -16750,8 +16775,8 @@
         "state": "future"
     },
     "nimpool.io": {
-        "epoch": 1576540800.0,
-        "expiration_date": "17-dec-2019",
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
         "state": "future"
     },
     "ninestats.com": {
@@ -16815,9 +16840,9 @@
         "state": "future"
     },
     "notmining.org": {
-        "epoch": 1576368000.0,
-        "expiration_date": "15-dec-2019",
-        "state": "past"
+        "epoch": 1607990400.0,
+        "expiration_date": "15-dec-2020",
+        "state": "future"
     },
     "nouvelobs.com": {
         "epoch": 1579305600.0,
@@ -17777,6 +17802,11 @@
     "parsimoniouspolice.com": {
         "epoch": 1597622400.0,
         "expiration_date": "17-aug-2020",
+        "state": "future"
+    },
+    "partplanes.com": {
+        "epoch": 1602115200.0,
+        "expiration_date": "08-oct-2020",
         "state": "future"
     },
     "partypoker.com": {
@@ -18797,6 +18827,11 @@
     "programmatic.cz": {
         "epoch": 1595462400.0,
         "expiration_date": "23-jul-2020",
+        "state": "future"
+    },
+    "proj2018.xyz": {
+        "epoch": 1586736000.0,
+        "expiration_date": "13-apr-2020",
         "state": "future"
     },
     "project-syndicate.org": {
@@ -21590,8 +21625,8 @@
         "state": "future"
     },
     "siteverification.online": {
-        "epoch": 1569974400,
-        "expiration_date": "02-oct-2019",
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
         "state": "future"
     },
     "sitizy.network": {
@@ -22562,6 +22597,11 @@
     "staticlp.com": {
         "epoch": 1590364800.0,
         "expiration_date": "25-may-2020",
+        "state": "future"
+    },
+    "staticsfs.host": {
+        "epoch": 1650758400.0,
+        "expiration_date": "24-apr-2022",
         "state": "future"
     },
     "staticwhich.co.uk": {
@@ -23900,8 +23940,8 @@
         "state": "future"
     },
     "tidafors.xyz": {
-        "epoch": 1574812800.0,
-        "expiration_date": "27-nov-2019",
+        "epoch": 1606435200.0,
+        "expiration_date": "27-nov-2020",
         "state": "future"
     },
     "tidaltv.com": {
@@ -25232,6 +25272,11 @@
     "unblog.fr": {
         "epoch": 1605744000.0,
         "expiration_date": "19-nov-2020",
+        "state": "future"
+    },
+    "unequalbrake.com": {
+        "epoch": 1602115200.0,
+        "expiration_date": "08-oct-2020",
         "state": "future"
     },
     "unicaondemand.com": {
@@ -27992,6 +28037,11 @@
     "ziyu.net": {
         "epoch": 1622332800.0,
         "expiration_date": "30-may-2021",
+        "state": "future"
+    },
+    "zlp6s.pw": {
+        "epoch": 1586822400.0,
+        "expiration_date": "14-apr-2020",
         "state": "future"
     },
     "zlx.com.br": {
