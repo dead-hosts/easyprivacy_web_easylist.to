@@ -9265,8 +9265,8 @@
         "state": "future"
     },
     "foxadd.com": {
-        "epoch": 1576540800.0,
-        "expiration_date": "17-dec-2019",
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
         "state": "future"
     },
     "foxcontent.com": {
@@ -16477,7 +16477,7 @@
     "netlog.com": {
         "epoch": 1576627200.0,
         "expiration_date": "18-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "netmag.co.uk": {
         "epoch": 1586822400.0,
