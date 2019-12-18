@@ -18249,6 +18249,11 @@
         "expiration_date": "22-mar-2020",
         "state": "future"
     },
+    "pinnacle.com": {
+        "epoch": 1584057600.0,
+        "expiration_date": "13-mar-2020",
+        "state": "future"
+    },
     "pinterest.com": {
         "epoch": 1606348800.0,
         "expiration_date": "26-nov-2020",
