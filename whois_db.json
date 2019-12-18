@@ -1932,7 +1932,7 @@
     "analytics.blue": {
         "epoch": 1576627200.0,
         "expiration_date": "18-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "analyticschecker.com": {
         "epoch": 1597536000.0,
