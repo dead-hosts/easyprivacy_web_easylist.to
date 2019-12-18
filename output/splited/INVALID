@@ -9,6 +9,17 @@ activity.*.miui.com                                                             
 analytics-beacon-*.amazonaws.com                                                                     SYNTAX     XXX        2019-12-18T21:27:47.089002
 bc.geocities.                                                                                        SYNTAX     XXX        2019-12-18T21:27:50.469890
 bin.clearspring.*                                                                                    SYNTAX     XXX        2019-12-18T21:27:50.924685
+cloudfront.net*                                                                                      SYNTAX     XXX        2019-12-18T21:39:21.606348
+cloudfront.net*                                                                                      SYNTAX     XXX        2019-12-18T21:39:21.652734
+cloudfront.net*                                                                                      SYNTAX     XXX        2019-12-18T21:39:21.693021
+cloudfront.net*                                                                                      SYNTAX     XXX        2019-12-18T21:39:21.779638
+collect.*.miui.com                                                                                   SYNTAX     XXX        2019-12-18T21:39:23.836883
+collector-*.elb.amazonaws.com                                                                        SYNTAX     XXX        2019-12-18T21:39:23.918946
+collector-*.tvsquared.com                                                                            SYNTAX     XXX        2019-12-18T21:39:23.959535
+datacollect*.abtasty.com                                                                             SYNTAX     XXX        2019-12-18T21:39:27.358103
+facebook.com*                                                                                        SYNTAX     XXX        2019-12-18T21:39:30.847242
+hits-*.iubenda.com                                                                                   SYNTAX     XXX        2019-12-18T21:39:35.733732
 irs01.                                                                                               SYNTAX     XXX        2019-12-18T21:15:52.266838
+log-*.previewnetworks.com                                                                            SYNTAX     XXX        2019-12-18T21:39:41.060112
 minero-proxy-*.sh                                                                                    SYNTAX     XXX        2019-12-18T21:02:30.029848
 site.flashx.                                                                                         SYNTAX     XXX        2019-12-18T21:02:35.702907
