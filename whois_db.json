@@ -3135,8 +3135,8 @@
         "state": "future"
     },
     "beemray.com": {
-        "epoch": 1576454400.0,
-        "expiration_date": "16-dec-2019",
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
         "state": "future"
     },
     "beemrdwn.com": {
@@ -4710,8 +4710,8 @@
         "state": "future"
     },
     "chartaca.com": {
-        "epoch": 1576540800.0,
-        "expiration_date": "17-dec-2019",
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
         "state": "future"
     },
     "chartbeat.com": {
@@ -5002,6 +5002,11 @@
     "clickfunnels.com": {
         "epoch": 1790899200.0,
         "expiration_date": "02-oct-2026",
+        "state": "future"
+    },
+    "clickguard.com": {
+        "epoch": 1634860800.0,
+        "expiration_date": "22-oct-2021",
         "state": "future"
     },
     "clickguardian.co.uk": {
