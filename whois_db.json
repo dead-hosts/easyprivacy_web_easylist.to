@@ -5804,6 +5804,26 @@
         "expiration_date": "09-apr-2020",
         "state": "future"
     },
+    "corsair.ca": {
+        "epoch": 1584057600.0,
+        "expiration_date": "13-mar-2020",
+        "state": "future"
+    },
+    "corsair.ci": {
+        "epoch": 1583712000.0,
+        "expiration_date": "09-mar-2020",
+        "state": "future"
+    },
+    "corsair.fr": {
+        "epoch": 1600992000.0,
+        "expiration_date": "25-sep-2020",
+        "state": "future"
+    },
+    "corsair.re": {
+        "epoch": 1599436800.0,
+        "expiration_date": "07-sep-2020",
+        "state": "future"
+    },
     "cosmi.io": {
         "epoch": 1599350400.0,
         "expiration_date": "06-sep-2020",
@@ -10675,9 +10695,9 @@
         "state": "future"
     },
     "h-bid.com": {
-        "epoch": 1576454400.0,
-        "expiration_date": "16-dec-2019",
-        "state": "past"
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
+        "state": "future"
     },
     "h2porn.com": {
         "epoch": 1691193600.0,
@@ -27485,8 +27505,8 @@
         "state": "future"
     },
     "xbox.com": {
-        "epoch": 1576540800.0,
-        "expiration_date": "17-dec-2019",
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
         "state": "future"
     },
     "xclaimwords.net": {
@@ -27750,8 +27770,8 @@
         "state": "future"
     },
     "yobt.tv": {
-        "epoch": 1576627200.0,
-        "expiration_date": "18-dec-2019",
+        "epoch": 1608249600.0,
+        "expiration_date": "18-dec-2020",
         "state": "future"
     },
     "yololike.space": {
