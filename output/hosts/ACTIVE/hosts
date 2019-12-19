@@ -50,6 +50,7 @@
 0.0.0.0 2ch.hk
 0.0.0.0 2cnt.net
 0.0.0.0 2giga.download
+0.0.0.0 2giga.link
 0.0.0.0 2ip.ua
 0.0.0.0 2iui01.com
 0.0.0.0 2o7.net
@@ -492,6 +493,7 @@
 0.0.0.0 amplify.outbrain.com
 0.0.0.0 amplifypixel.outbrain.com
 0.0.0.0 amplitude.com
+0.0.0.0 ampproject.org
 0.0.0.0 ampush.io
 0.0.0.0 amung.us
 0.0.0.0 amunx.de
@@ -550,6 +552,8 @@
 0.0.0.0 analytics.codigo.se
 0.0.0.0 analytics.cohesionapps.com
 0.0.0.0 analytics.competitoor.com
+0.0.0.0 analytics.comunio.de
+0.0.0.0 analytics.comunio.net
 0.0.0.0 analytics.conmio.com
 0.0.0.0 analytics.convertlanguage.com
 0.0.0.0 analytics.cynapse.com
@@ -702,10 +706,12 @@
 0.0.0.0 androidtv.news
 0.0.0.0 andyetanotherthing.com
 0.0.0.0 andyhoppe.com
+0.0.0.0 anexia-it.com
 0.0.0.0 angelfire.com
 0.0.0.0 angelfishstats.com
 0.0.0.0 angorch-cdr7.com
 0.0.0.0 angsrvr.com
+0.0.0.0 annoncesbateau.com
 0.0.0.0 announcement.ru
 0.0.0.0 announcements.uk.com
 0.0.0.0 anntaylor.com
@@ -766,6 +772,7 @@
 0.0.0.0 appmifile.com
 0.0.0.0 appn.center
 0.0.0.0 app.opmnstr.com
+0.0.0.0 app.pendo.io
 0.0.0.0 appsha5.space
 0.0.0.0 appsolutions.com
 0.0.0.0 appspot.com
@@ -817,6 +824,7 @@
 0.0.0.0 astrology.com
 0.0.0.0 astro-way.com
 0.0.0.0 asumi.shinobi.jp
+0.0.0.0 async-px.dynamicyield.com
 0.0.0.0 as.yomonda.de
 0.0.0.0 atanx.alicdn.com
 0.0.0.0 atatus.com
@@ -843,6 +851,7 @@
 0.0.0.0 attractivecap.com
 0.0.0.0 attributionapp.com
 0.0.0.0 attributiontrackingga.googlecode.com
+0.0.0.0 at.ua
 0.0.0.0 auctiva.com
 0.0.0.0 audible.com
 0.0.0.0 audience.acpm.fr
@@ -1158,6 +1167,7 @@
 0.0.0.0 blip.tv
 0.0.0.0 blockbreaker.io
 0.0.0.0 blockchain.info
+0.0.0.0 blocket.se
 0.0.0.0 blockmetrics.com
 0.0.0.0 blog104.com
 0.0.0.0 blogblog.com
@@ -1463,6 +1473,7 @@
 0.0.0.0 cf.overblog.com
 0.0.0.0 cfr.org
 0.0.0.0 cftrack.com
+0.0.0.0 c.gazetevatan.com
 0.0.0.0 cgicounter.oneandone.co.uk
 0.0.0.0 cgicounter.onlinehome.de
 0.0.0.0 cgicounter.puretec.de
@@ -1698,8 +1709,8 @@
 0.0.0.0 coin-cube.com
 0.0.0.0 coinerra.com
 0.0.0.0 coin-have.com
-0.0.0.0 coin-hive.com
 0.0.0.0 coinhive.com
+0.0.0.0 coin-hive.com
 0.0.0.0 coinhive-manager.com
 0.0.0.0 coinhiveproxy.com
 0.0.0.0 coinimp.com
@@ -1807,8 +1818,8 @@
 0.0.0.0 contentpass.net
 0.0.0.0 contentsfeed.com
 0.0.0.0 contentspread.net
-0.0.0.0 contentsquare.net
 0.0.0.0 content-square.net
+0.0.0.0 contentsquare.net
 0.0.0.0 contineljs.com
 0.0.0.0 continue.com
 0.0.0.0 control.cityofcairns.com
@@ -1927,6 +1938,7 @@
 0.0.0.0 counter.tovarro.com
 0.0.0.0 countertracker.com
 0.0.0.0 counter-treff.de
+0.0.0.0 counter.ukr.net
 0.0.0.0 counterviews.net
 0.0.0.0 counter.wapstart.ru
 0.0.0.0 counter.webmart.de
@@ -2134,6 +2146,7 @@
 0.0.0.0 d2kdl5wcwrtj90.cloudfront.net
 0.0.0.0 d2nq0f8d9ofdwv.cloudfront.net
 0.0.0.0 d2nxi61n77zqpl.cloudfront.net
+0.0.0.0 d2o5idwacg3gyw.cloudfront.net
 0.0.0.0 d2o67tzzxkqap2.cloudfront.net
 0.0.0.0 d2oh4tlt9mrke9.cloudfront.net
 0.0.0.0 d2ry9vue95px0b.cloudfront.net
@@ -2145,9 +2158,12 @@
 0.0.0.0 d31bfnnwekbny6.cloudfront.net
 0.0.0.0 d32hwlnfiv2gyn.cloudfront.net
 0.0.0.0 d34ko97cxuv4p7.cloudfront.net
+0.0.0.0 d35u1vg1q28b3w.cloudfront.net
 0.0.0.0 d36lvucg9kzous.cloudfront.net
+0.0.0.0 d38nbbai6u794i.cloudfront.net
 0.0.0.0 d3a2okcloueqyx.cloudfront.net
 0.0.0.0 d3cxv97fi8q177.cloudfront.net
+0.0.0.0 d3eokk6ya562p5.cloudfront.net
 0.0.0.0 d3iouejux1os58.cloudfront.net
 0.0.0.0 d3kyk5bao1crtw.cloudfront.net
 0.0.0.0 d3l3lkinz3f56t.cloudfront.net
@@ -2266,6 +2282,7 @@
 0.0.0.0 dejavu.mercadolivre.com.br
 0.0.0.0 dejavu.mlapps.com
 0.0.0.0 dejure.org
+0.0.0.0 dek-d.com
 0.0.0.0 delegatediscussion.com
 0.0.0.0 delfi.lv
 0.0.0.0 delidatax.net
@@ -2316,6 +2333,7 @@
 0.0.0.0 dfs.de
 0.0.0.0 df-srv.de
 0.0.0.0 dgmsearchlab.com
+0.0.0.0 d.haberler.com
 0.0.0.0 dialogtech.com
 0.0.0.0 diamond.transfermarkt.de
 0.0.0.0 dictionary.com
@@ -2737,6 +2755,7 @@
 0.0.0.0 euroads.dk
 0.0.0.0 eurocounter.com
 0.0.0.0 eurogamer-uk.eurogamer.net
+0.0.0.0 euroleague.tv
 0.0.0.0 europagerank.com
 0.0.0.0 euro-pr.eu
 0.0.0.0 europuls.eu
@@ -2866,6 +2885,7 @@
 0.0.0.0 factortg.com
 0.0.0.0 faibl.org
 0.0.0.0 fairfax.com.au
+0.0.0.0 falkenbergtorget.se
 0.0.0.0 fallingfalcon.com
 0.0.0.0 falseframe.com
 0.0.0.0 familiarrod.com
@@ -3133,6 +3153,8 @@
 0.0.0.0 furk.net
 0.0.0.0 fuse-data.com
 0.0.0.0 fusestats.com
+0.0.0.0 fusion.bonniertidskrifter.se
+0.0.0.0 futura-sciences.com
 0.0.0.0 futurecdn.net
 0.0.0.0 future-fie-assets.co.uk
 0.0.0.0 future-price.co.uk
@@ -3393,6 +3415,7 @@
 0.0.0.0 gratis-counter-gratis.de
 0.0.0.0 gravity4.com
 0.0.0.0 gravity.com
+0.0.0.0 grazia.fr
 0.0.0.0 greatviews.de
 0.0.0.0 greengaming.de
 0.0.0.0 green-griffin-860.appspot.com
@@ -3442,9 +3465,11 @@
 0.0.0.0 gvisit.com
 0.0.0.0 gweini.com
 0.0.0.0 gxgydnhz.com
+0.0.0.0 gx.idg.se
 0.0.0.0 g.yccdn.com
 0.0.0.0 h2porn.com
 0.0.0.0 h4k5.com
+0.0.0.0 haberler.com
 0.0.0.0 hallaert.online
 0.0.0.0 halldata.com
 0.0.0.0 halo77.com
@@ -3543,6 +3568,7 @@
 0.0.0.0 hit.interia.pl
 0.0.0.0 hitmaster.de
 0.0.0.0 hitmatic.com
+0.0.0.0 hit.meta.ua
 0.0.0.0 hitmir.ru
 0.0.0.0 hit-parade.com
 0.0.0.0 hit-pool.upscore.io
@@ -4380,6 +4406,7 @@
 0.0.0.0 logrocket.io
 0.0.0.0 logs.51cto.com
 0.0.0.0 logs-api.shoprunner.com
+0.0.0.0 logsbin.dantri.com.vn
 0.0.0.0 logs.dashlane.com
 0.0.0.0 log.seekda.com
 0.0.0.0 logs.gaana.com
@@ -4636,6 +4663,7 @@
 0.0.0.0 metaffiliation.com
 0.0.0.0 metalyzer.com
 0.0.0.0 met-art.com
+0.0.0.0 meta.ua
 0.0.0.0 meteor.com
 0.0.0.0 meteorsolutions.com
 0.0.0.0 metering.pagesuite.com
@@ -5533,6 +5561,8 @@
 0.0.0.0 piano.io
 0.0.0.0 picapp.com
 0.0.0.0 picbucks.com
+0.0.0.0 piccy.info
+0.0.0.0 piccy.org.ua
 0.0.0.0 pichunter.com
 0.0.0.0 pictopia.com
 0.0.0.0 pietexture.com
@@ -5668,6 +5698,7 @@
 0.0.0.0 pm14.com
 0.0.0.0 pmbox.biz
 0.0.0.0 pmetrics.performancing.com
+0.0.0.0 p.milliyet.com.tr
 0.0.0.0 pmo.ee
 0.0.0.0 pnet.co.za
 0.0.0.0 pnn.de
@@ -5749,6 +5780,7 @@
 0.0.0.0 primevideo.com
 0.0.0.0 princetonreview.com
 0.0.0.0 print2webcorp.com
+0.0.0.0 prisjakt.nu
 0.0.0.0 prism.app-us1.com
 0.0.0.0 prism.pandora.tv
 0.0.0.0 privacytool.org
@@ -6265,6 +6297,7 @@
 0.0.0.0 sageanalyst.net
 0.0.0.0 sagepub.com
 0.0.0.0 sagetrc.com
+0.0.0.0 sahibinden.com
 0.0.0.0 sajari.com
 0.0.0.0 salecycle.com
 0.0.0.0 salemove.com
@@ -6949,6 +6982,7 @@
 0.0.0.0 statm.the-adult-company.com
 0.0.0.0 stat.mtv3.fi
 0.0.0.0 stat.novinky.cz
+0.0.0.0 stat.nyheter24.se
 0.0.0.0 stat.ouedkniss.com
 0.0.0.0 statowl.com
 0.0.0.0 statpipe.ru
@@ -7334,8 +7368,10 @@
 0.0.0.0 target.smi2.net
 0.0.0.0 target.smi2.ru
 0.0.0.0 targetspot.com
+0.0.0.0 target.ukr.net
 0.0.0.0 taringa.net
 0.0.0.0 tarot.com
+0.0.0.0 ta.sanook.com
 0.0.0.0 taskanalytics.com
 0.0.0.0 t.beopinion.com
 0.0.0.0 tbe.tom.ru
@@ -7413,6 +7449,7 @@
 0.0.0.0 tgknt.com
 0.0.0.0 tglyr.co
 0.0.0.0 tgw.com
+0.0.0.0 thairath.co.th
 0.0.0.0 theadex.com
 0.0.0.0 theage.com.au
 0.0.0.0 theagency.com
@@ -8467,8 +8504,8 @@
 0.0.0.0 washingtonpost.com
 0.0.0.0 wasm.stream
 0.0.0.0 watchmouse.com
-0.0.0.0 watch-series.to
 0.0.0.0 watchseries.to
+0.0.0.0 watch-series.to
 0.0.0.0 watson.live.com
 0.0.0.0 waudit.cz
 0.0.0.0 wa.ui-portal.de
@@ -8565,8 +8602,8 @@
 0.0.0.0 webstatistika.lv
 0.0.0.0 webstatistik.odav.de
 0.0.0.0 webstat.kuwo.cn
-0.0.0.0 webstat.net
 0.0.0.0 web-stat.net
+0.0.0.0 webstat.net
 0.0.0.0 webstat.no
 0.0.0.0 webstats4u.com
 0.0.0.0 webstats.com

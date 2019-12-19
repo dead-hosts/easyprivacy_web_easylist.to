@@ -8325,14 +8325,6 @@
         "1574803139": {
             "logdev.openload.co": "INACTIVE"
         },
-        "1576458542": {
-            "prod-metro-collector.cloudapp.net": "INACTIVE",
-            "visit.hepsiburada.com": "INACTIVE"
-        },
-        "1576458564": {
-            "analytics.thevideo.me": "INACTIVE",
-            "dv0.info": "INACTIVE"
-        },
         "1576699205": {
             "0tracker.com": "INACTIVE",
             "100im.info": "INACTIVE",
@@ -10231,6 +10223,16 @@
         },
         "1576715303": {
             "beacon.mtgx.tv": "INACTIVE"
+        },
+        "1576715892": {
+            "prod-metro-collector.cloudapp.net": "INACTIVE",
+            "visit.hepsiburada.com": "INACTIVE"
+        },
+        "1576715916": {
+            "dv0.info": "INACTIVE"
+        },
+        "1576715917": {
+            "analytics.thevideo.me": "INACTIVE"
         }
     }
 }
