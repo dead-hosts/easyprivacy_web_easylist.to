@@ -8325,96 +8325,6 @@
         "1574803139": {
             "logdev.openload.co": "INACTIVE"
         },
-        "1576699205": {
-            "0tracker.com": "INACTIVE",
-            "100im.info": "INACTIVE",
-            "149.13.65.144": "INACTIVE",
-            "195.10.245.55": "INACTIVE",
-            "meetrics.netbb-": "INVALID"
-        },
-        "1576699206": {
-            "208.88.226.75": "INACTIVE",
-            "212.227.100.108": "INACTIVE",
-            "216.18.184.18": "INACTIVE"
-        },
-        "1576699207": {
-            "50greyofsha.de": "INACTIVE",
-            "62.160.52.73": "INACTIVE",
-            "72.172.88.25": "INACTIVE"
-        },
-        "1576699208": {
-            "access-traffic.com": "INACTIVE",
-            "accumulatorg.com": "INACTIVE",
-            "acestats.net": "INACTIVE"
-        },
-        "1576699212": {
-            "affiliatetrackingsetup.com": "INACTIVE",
-            "agencytradingdesk.net": "INACTIVE"
-        },
-        "1576699213": {
-            "amctp.net": "INACTIVE"
-        },
-        "1576699214": {
-            "amilliamilli.com": "INACTIVE",
-            "anatid3.com": "INACTIVE"
-        },
-        "1576699215": {
-            "appared.online": "INACTIVE",
-            "arch-nicto.com": "INACTIVE"
-        },
-        "1576699216": {
-            "arpuonline.com": "INACTIVE",
-            "arturtrack.com": "INACTIVE"
-        },
-        "1576699217": {
-            "awmcounter.de": "INACTIVE"
-        },
-        "1576699219": {
-            "belstat.at": "INACTIVE",
-            "belstat.ch": "INACTIVE",
-            "bestweb2013stat.lk": "INACTIVE",
-            "betarget.net": "INACTIVE"
-        },
-        "1576699220": {
-            "blizzardcheck.com": "INACTIVE"
-        },
-        "1576699221": {
-            "bookforest.biz": "INACTIVE"
-        },
-        "1576699222": {
-            "bstk.co": "INACTIVE"
-        },
-        "1576699223": {
-            "c-webstats.de": "INACTIVE",
-            "callingjustified.com": "INACTIVE"
-        },
-        "1576699224": {
-            "castelein.nu": "INACTIVE",
-            "cdn-analytics.pl": "INACTIVE"
-        },
-        "1576699225": {
-            "chardneave.info": "INACTIVE",
-            "checkmypr.net": "INACTIVE",
-            "cheezburger-analytics.com": "INACTIVE",
-            "clarifyingquack.com": "INACTIVE"
-        },
-        "1576699226": {
-            "clearviewstats.com": "INACTIVE",
-            "click-linking.com": "INACTIVE",
-            "click2meter.com": "INACTIVE",
-            "clickcloud.info": "INACTIVE",
-            "clickigniter.io": "INACTIVE"
-        },
-        "1576699228": {
-            "comradepony.com": "INACTIVE"
-        },
-        "1576699229": {
-            "convertmarketing.net": "INACTIVE"
-        },
-        "1576699230": {
-            "cormce.com": "INACTIVE",
-            "countingbiz.info": "INACTIVE"
-        },
         "1576699925": {
             "csi-tracking.com": "INACTIVE"
         },
@@ -10233,6 +10143,98 @@
         },
         "1576715917": {
             "analytics.thevideo.me": "INACTIVE"
+        },
+        "1576958517": {
+            "0tracker.com": "INACTIVE",
+            "100im.info": "INACTIVE",
+            "149.13.65.144": "INACTIVE",
+            "meetrics.netbb-": "INVALID"
+        },
+        "1576958518": {
+            "195.10.245.55": "INACTIVE",
+            "208.88.226.75": "INACTIVE",
+            "212.227.100.108": "INACTIVE",
+            "216.18.184.18": "INACTIVE"
+        },
+        "1576958519": {
+            "50greyofsha.de": "INACTIVE",
+            "62.160.52.73": "INACTIVE",
+            "72.172.88.25": "INACTIVE"
+        },
+        "1576958520": {
+            "access-traffic.com": "INACTIVE",
+            "accumulatorg.com": "INACTIVE",
+            "acestats.net": "INACTIVE"
+        },
+        "1576958524": {
+            "affiliatetrackingsetup.com": "INACTIVE",
+            "agencytradingdesk.net": "INACTIVE"
+        },
+        "1576958525": {
+            "amctp.net": "INACTIVE",
+            "amilliamilli.com": "INACTIVE"
+        },
+        "1576958526": {
+            "anatid3.com": "INACTIVE"
+        },
+        "1576958527": {
+            "appared.online": "INACTIVE",
+            "arch-nicto.com": "INACTIVE",
+            "arpuonline.com": "INACTIVE"
+        },
+        "1576958528": {
+            "arturtrack.com": "INACTIVE"
+        },
+        "1576958529": {
+            "awmcounter.de": "INACTIVE"
+        },
+        "1576958530": {
+            "belstat.at": "INACTIVE",
+            "belstat.ch": "INACTIVE"
+        },
+        "1576958531": {
+            "bestweb2013stat.lk": "INACTIVE",
+            "betarget.net": "INACTIVE"
+        },
+        "1576958532": {
+            "blizzardcheck.com": "INACTIVE"
+        },
+        "1576958533": {
+            "bookforest.biz": "INACTIVE"
+        },
+        "1576958534": {
+            "bstk.co": "INACTIVE",
+            "c-webstats.de": "INACTIVE"
+        },
+        "1576958535": {
+            "callingjustified.com": "INACTIVE"
+        },
+        "1576958536": {
+            "castelein.nu": "INACTIVE",
+            "cdn-analytics.pl": "INACTIVE"
+        },
+        "1576958537": {
+            "chardneave.info": "INACTIVE",
+            "checkmypr.net": "INACTIVE",
+            "cheezburger-analytics.com": "INACTIVE",
+            "clarifyingquack.com": "INACTIVE",
+            "clearviewstats.com": "INACTIVE"
+        },
+        "1576958538": {
+            "click-linking.com": "INACTIVE",
+            "click2meter.com": "INACTIVE",
+            "clickcloud.info": "INACTIVE",
+            "clickigniter.io": "INACTIVE"
+        },
+        "1576958540": {
+            "comradepony.com": "INACTIVE"
+        },
+        "1576958541": {
+            "convertmarketing.net": "INACTIVE"
+        },
+        "1576958542": {
+            "cormce.com": "INACTIVE",
+            "countingbiz.info": "INACTIVE"
         }
     }
 }
