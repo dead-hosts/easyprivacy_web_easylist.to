@@ -6439,6 +6439,11 @@
         "expiration_date": "02-feb-2020",
         "state": "future"
     },
+    "d-bi.fr": {
+        "epoch": 1603065600.0,
+        "expiration_date": "19-oct-2020",
+        "state": "future"
+    },
     "d-markets.net": {
         "epoch": 1586822400.0,
         "expiration_date": "14-apr-2020",
@@ -13062,6 +13067,11 @@
     "kctag.net": {
         "epoch": 1595462400.0,
         "expiration_date": "23-jul-2020",
+        "state": "future"
+    },
+    "kdata.fr": {
+        "epoch": 1589328000.0,
+        "expiration_date": "13-may-2020",
         "state": "future"
     },
     "kdowqlpt.info": {
