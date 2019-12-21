@@ -17,7 +17,7 @@
     "0x1f4b0.com": {
         "epoch": 1576886400.0,
         "expiration_date": "21-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "1-cl0ud.com": {
         "epoch": 1604707200.0,
@@ -23579,6 +23579,11 @@
         "expiration_date": "10-nov-2020",
         "state": "future"
     },
+    "techtarget.com": {
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
+        "state": "future"
+    },
     "techweb.com": {
         "epoch": 1590796800.0,
         "expiration_date": "30-may-2020",
@@ -24490,9 +24495,9 @@
         "state": "future"
     },
     "trackinglabs.com": {
-        "epoch": 1576627200.0,
-        "expiration_date": "18-dec-2019",
-        "state": "past"
+        "epoch": 1608249600.0,
+        "expiration_date": "18-dec-2020",
+        "state": "future"
     },
     "trackingpro.pro": {
         "epoch": 1607904000.0,
