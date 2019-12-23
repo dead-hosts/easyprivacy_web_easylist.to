@@ -8325,97 +8325,7 @@
         "1574803139": {
             "logdev.openload.co": "INACTIVE"
         },
-        "1576707977": {
-            "log.v.iask.com": "INACTIVE",
-            "look.urs.tw": "INACTIVE",
-            "stat.youku.com": "INACTIVE"
-        },
-        "1576707978": {
-            "stats.e-go.gr": "INACTIVE",
-            "stats.mf.cz": "INACTIVE",
-            "traffic.bokecc.com": "INACTIVE"
-        },
-        "1576707979": {
-            "82.196.13.38": "INACTIVE",
-            "91.196.216.64": "INACTIVE",
-            "analytics.digitouch.it": "INACTIVE",
-            "analytics.ettoredelnegro.pro": "INACTIVE",
-            "analytics.linkwelove.com": "INACTIVE",
-            "audienceserver.aws.forebase.com": "INACTIVE",
-            "bstracker.blogspirit.net": "INACTIVE",
-            "contatore-di-visite.campusanuncios.com": "INACTIVE",
-            "eageweb.com": "INACTIVE",
-            "encoderfarmced-stats-ns.servicebus.windows.net": "INACTIVE",
-            "pagerank.g-easy.hu": "INACTIVE"
-        },
-        "1576707980": {
-            "shinystat.lvlar.com": "INACTIVE"
-        },
-        "1576707981": {
-            "199.116.177.156": "INACTIVE",
-            "beacon.itmedia.jp": "INACTIVE",
-            "clickanalyzer.jp": "INACTIVE",
-            "stat.webtool.it": "INACTIVE",
-            "stats2.*.fdnames.com": "INVALID",
-            "top100.mrwebmaster.it": "INACTIVE",
-            "top100.tuttoperinternet.it": "INACTIVE",
-            "tracking.conversionlab.it": "INACTIVE",
-            "ts.blogo.it": "INACTIVE"
-        },
-        "1576707982": {
-            "115.84.165.13": "INACTIVE",
-            "contadorgratis.web-kit.org": "INACTIVE",
-            "log2.adop.cc": "INACTIVE",
-            "tracker.advisable.pl": "INACTIVE",
-            "trck.dlpo.jp": "INACTIVE",
-            "wymiana.org": "INACTIVE"
-        },
-        "1576707983": {
-            "bioraywaterrank.ru": "INACTIVE",
-            "counter.amik.ru": "INACTIVE"
-        },
-        "1576707984": {
-            "medorgs.ru": "INACTIVE"
-        },
-        "1576707985": {
-            "rustopweb.ru": "INACTIVE",
-            "stat-22.medialand.ru": "INACTIVE",
-            "stat-counter.tass-online.ru": "INACTIVE",
-            "stats-*.p2pnow.ru": "INVALID"
-        },
-        "1576707986": {
-            "stats.internet-yadro.com": "INACTIVE",
-            "t.pusk.ru": "INACTIVE",
-            "top.bur-bur.ru": "INACTIVE",
-            "top.sec.uz": "INACTIVE",
-            "track.revolvermarketing.ru": "INACTIVE",
-            "track.rtb-media.ru": "INACTIVE",
-            "tracking.vengovision.ru": "INACTIVE"
-        },
-        "1576709164": {
-            "viewstat.promoblocks.ru": "INACTIVE",
-            "wapson.ru": "INACTIVE"
-        },
-        "1576709165": {
-            "analytic.piri.net": "INACTIVE",
-            "analyticapi.piri.net": "INACTIVE",
-            "maik.ff-bt.net": "INACTIVE",
-            "stats.dominoplaza.com": "INACTIVE",
-            "stats.lnol.com.ar": "INACTIVE",
-            "track.bluecompany.cl": "INACTIVE",
-            "wmtools.ru": "INACTIVE"
-        },
-        "1576709166": {
-            "198.105.253.2": "INACTIVE",
-            "69.25.121.67": "INACTIVE",
-            "a.jango.com": "INACTIVE",
-            "analytics.mecloud.vn": "INACTIVE"
-        },
-        "1576709167": {
-            "adguru.guruji.com": "INACTIVE"
-        },
         "1576709168": {
-            "adwiretracker.fwix.com": "INACTIVE",
             "affiliate.productreview.com.au": "INACTIVE",
             "airbnb.*": "INVALID"
         },
@@ -10227,6 +10137,92 @@
             "dw.cbsi.com.cn": "INACTIVE",
             "etwun.com:8080": "INVALID",
             "idigger.qtmojo.com": "INACTIVE"
+        },
+        "1577135855": {
+            "log.v.iask.com": "INACTIVE",
+            "look.urs.tw": "INACTIVE",
+            "stat.youku.com": "INACTIVE",
+            "traffic.bokecc.com": "INACTIVE"
+        },
+        "1577135856": {
+            "82.196.13.38": "INACTIVE",
+            "pagerank.g-easy.hu": "INACTIVE",
+            "stats.e-go.gr": "INACTIVE",
+            "stats.mf.cz": "INACTIVE"
+        },
+        "1577135857": {
+            "91.196.216.64": "INACTIVE",
+            "analytics.digitouch.it": "INACTIVE",
+            "analytics.ettoredelnegro.pro": "INACTIVE",
+            "analytics.linkwelove.com": "INACTIVE",
+            "audienceserver.aws.forebase.com": "INACTIVE",
+            "bstracker.blogspirit.net": "INACTIVE",
+            "contatore-di-visite.campusanuncios.com": "INACTIVE",
+            "eageweb.com": "INACTIVE",
+            "encoderfarmced-stats-ns.servicebus.windows.net": "INACTIVE"
+        },
+        "1577135858": {
+            "shinystat.lvlar.com": "INACTIVE",
+            "stat.webtool.it": "INACTIVE",
+            "stats2.*.fdnames.com": "INVALID",
+            "top100.tuttoperinternet.it": "INACTIVE"
+        },
+        "1577135859": {
+            "115.84.165.13": "INACTIVE",
+            "199.116.177.156": "INACTIVE",
+            "beacon.itmedia.jp": "INACTIVE",
+            "log2.adop.cc": "INACTIVE",
+            "top100.mrwebmaster.it": "INACTIVE",
+            "tracking.conversionlab.it": "INACTIVE",
+            "trck.dlpo.jp": "INACTIVE",
+            "ts.blogo.it": "INACTIVE"
+        },
+        "1577135860": {
+            "contadorgratis.web-kit.org": "INACTIVE",
+            "tracker.advisable.pl": "INACTIVE"
+        },
+        "1577135861": {
+            "bioraywaterrank.ru": "INACTIVE",
+            "counter.amik.ru": "INACTIVE"
+        },
+        "1577135862": {
+            "medorgs.ru": "INACTIVE"
+        },
+        "1577135863": {
+            "rustopweb.ru": "INACTIVE",
+            "stat-22.medialand.ru": "INACTIVE",
+            "stat-counter.tass-online.ru": "INACTIVE",
+            "stats-*.p2pnow.ru": "INVALID",
+            "stats.internet-yadro.com": "INACTIVE",
+            "t.pusk.ru": "INACTIVE",
+            "top.bur-bur.ru": "INACTIVE",
+            "top.sec.uz": "INACTIVE"
+        },
+        "1577135864": {
+            "maik.ff-bt.net": "INACTIVE",
+            "track.revolvermarketing.ru": "INACTIVE",
+            "track.rtb-media.ru": "INACTIVE",
+            "tracking.vengovision.ru": "INACTIVE",
+            "viewstat.promoblocks.ru": "INACTIVE",
+            "wapson.ru": "INACTIVE",
+            "wmtools.ru": "INACTIVE"
+        },
+        "1577135865": {
+            "198.105.253.2": "INACTIVE",
+            "analytic.piri.net": "INACTIVE",
+            "analyticapi.piri.net": "INACTIVE",
+            "analytics.mecloud.vn": "INACTIVE",
+            "stats.dominoplaza.com": "INACTIVE",
+            "stats.lnol.com.ar": "INACTIVE",
+            "track.bluecompany.cl": "INACTIVE"
+        },
+        "1577135866": {
+            "69.25.121.67": "INACTIVE",
+            "a.jango.com": "INACTIVE"
+        },
+        "1577135867": {
+            "adguru.guruji.com": "INACTIVE",
+            "adwiretracker.fwix.com": "INACTIVE"
         }
     }
 }

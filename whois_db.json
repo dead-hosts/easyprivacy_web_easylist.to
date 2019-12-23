@@ -1635,9 +1635,9 @@
         "state": "future"
     },
     "alice.it": {
-        "epoch": 1575590400.0,
-        "expiration_date": "06-dec-2019",
-        "state": "past"
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
+        "state": "future"
     },
     "aliexpress.com": {
         "epoch": 1618531200.0,
@@ -11845,8 +11845,8 @@
         "state": "future"
     },
     "imgsmail.ru": {
-        "epoch": 1576972800.0,
-        "expiration_date": "22-dec-2019",
+        "epoch": 1608595200.0,
+        "expiration_date": "22-dec-2020",
         "state": "future"
     },
     "imgur.com": {
@@ -27517,6 +27517,11 @@
     "wwwportal.dk": {
         "epoch": 1596153600.0,
         "expiration_date": "31-jul-2020",
+        "state": "future"
+    },
+    "wymiana.org": {
+        "epoch": 1608508800.0,
+        "expiration_date": "21-dec-2020",
         "state": "future"
     },
     "wysistat.com": {
