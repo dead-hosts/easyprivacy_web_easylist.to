@@ -83,6 +83,7 @@
 0.0.0.0 analytics.rtbf.be
 0.0.0.0 analytics.services.distractify.com
 0.0.0.0 analytics-static.unister-gmbh.de
+0.0.0.0 analytics.thevideo.me
 0.0.0.0 analytics.traidnt.net
 0.0.0.0 analytics.truecarbon.org
 0.0.0.0 analytics.unister-gmbh.de
@@ -130,6 +131,7 @@
 0.0.0.0 beacon-1.newrelic.com
 0.0.0.0 beacon.guim.co.uk
 0.0.0.0 beacon.itmedia.jp
+0.0.0.0 beacon.mtgx.tv
 0.0.0.0 beacon.richrelevance.com
 0.0.0.0 beacon.search.yahoo.com
 0.0.0.0 beacons.helium.com
@@ -326,6 +328,7 @@
 0.0.0.0 dubester.site
 0.0.0.0 dugroscaca.com
 0.0.0.0 dummy-domain-do-not-change.com
+0.0.0.0 dv0.info
 0.0.0.0 dw.cbsi.com.cn
 0.0.0.0 dzxxxg6ij9u99.cloudfront.net
 0.0.0.0 ea.clubic.com
@@ -342,6 +345,7 @@
 0.0.0.0 entry-stats.huffpost.com
 0.0.0.0 ermaseuc.ru
 0.0.0.0 eservicesanalytics.com.au
+0.0.0.0 e-spy.petit.lv
 0.0.0.0 etc.grab.com
 0.0.0.0 etherealhakai.com
 0.0.0.0 etnhashpool.tk
@@ -354,6 +358,7 @@
 0.0.0.0 event.previewnetworks.com
 0.0.0.0 events.marquee-cdn.net
 0.0.0.0 events.snacktv.de
+0.0.0.0 events.walla.co.il
 0.0.0.0 eventtracker.elitedaily.com
 0.0.0.0 event.trove.com
 0.0.0.0 evisitcs2.com
@@ -384,6 +389,8 @@
 0.0.0.0 frescoerspica.com
 0.0.0.0 friends.totallynsfw.com
 0.0.0.0 fshka.com
+0.0.0.0 fusion.nettavisen.no
+0.0.0.0 gather.hankyung.com
 0.0.0.0 g.deathandtaxesmag.com
 0.0.0.0 gemtrackers.com
 0.0.0.0 geoiplookup.wikimedia.org
@@ -394,6 +401,7 @@
 0.0.0.0 geo.perezhilton.com
 0.0.0.0 geo.theawesomer.com
 0.0.0.0 getetafun.info
+0.0.0.0 getscreensaver.it
 0.0.0.0 gettate.date
 0.0.0.0 gettate.faith
 0.0.0.0 gettate.racing
@@ -416,6 +424,7 @@
 0.0.0.0 hitcount.heraldm.com
 0.0.0.0 hit.leboncoin.fr
 0.0.0.0 hitmaze-counters.net
+0.0.0.0 hk.ndx.nextmedia.com
 0.0.0.0 hlpidkr.ru
 0.0.0.0 hodlers.party
 0.0.0.0 hodling.faith
@@ -478,8 +487,8 @@
 0.0.0.0 jobs.hrkspjbs.com
 0.0.0.0 join-safe.com
 0.0.0.0 jqcdn.download
-0.0.0.0 jqr-cdn.download
 0.0.0.0 jqrcdn.download
+0.0.0.0 jqr-cdn.download
 0.0.0.0 jquerrycdn.download
 0.0.0.0 jquery-uim.download
 0.0.0.0 jqxrrygqnagn.ru
@@ -538,10 +547,13 @@
 0.0.0.0 loggingservices.tribune.com
 0.0.0.0 log.ideamelt.com
 0.0.0.0 log.liverail.com
+0.0.0.0 log.r7.com
+0.0.0.0 logs.live.tudou.com
 0.0.0.0 logssl.enquisite.com
 0.0.0.0 log.sz-online.de
 0.0.0.0 log.vdn.apps.cntv.cn
 0.0.0.0 log.v.iask.com
+0.0.0.0 log.ynet.com
 0.0.0.0 lolbin.net
 0.0.0.0 longurl.it
 0.0.0.0 look.urs.tw
@@ -620,6 +632,7 @@
 0.0.0.0 nonxt1.c.youtube.com
 0.0.0.0 northclick-statistiken.de
 0.0.0.0 novately.com
+0.0.0.0 nstat.tudou.com
 0.0.0.0 nvc.n1bus-exp.com
 0.0.0.0 odesaconflate.com
 0.0.0.0 od.visiblemeasures.com
@@ -696,6 +709,7 @@
 0.0.0.0 ppctracking.net
 0.0.0.0 presjots.ga
 0.0.0.0 pr-link.eu
+0.0.0.0 prod-metro-collector.cloudapp.net
 0.0.0.0 production-eqbc.lvp.llnw.net
 0.0.0.0 profilertracking3.com
 0.0.0.0 projecthaile.com
@@ -706,6 +720,7 @@
 0.0.0.0 pr-textlink.de
 0.0.0.0 psyma-statistics.com
 0.0.0.0 pulse-analytics-beacon.reutersmedia.net
+0.0.0.0 pv.csdn.net
 0.0.0.0 px.247inc.net
 0.0.0.0 px.reactrmod.com
 0.0.0.0 pzkysq.pink
@@ -715,6 +730,7 @@
 0.0.0.0 radiomanlibya.com
 0.0.0.0 rainbow-uk.mythings.com
 0.0.0.0 ranking-it.de
+0.0.0.0 ranking.ynet.com
 0.0.0.0 rd.meebo.com
 0.0.0.0 realnetwrk.com
 0.0.0.0 realtimeplease.com
@@ -794,7 +810,9 @@
 0.0.0.0 sp.udimg.com
 0.0.0.0 ssl4stats.de
 0.0.0.0 ssl-stats.wordpress.com
+0.0.0.0 sta.ifeng.com
 0.0.0.0 stat-22.medialand.ru
+0.0.0.0 stat.bilibili.tv
 0.0.0.0 statcounters.info
 0.0.0.0 stat-counter.tass-online.ru
 0.0.0.0 stat.easydate.biz
@@ -805,7 +823,10 @@
 0.0.0.0 statistics.m0lxcdn.kukuplay.com
 0.0.0.0 stat.itp-nyc.com
 0.0.0.0 statking.net
+0.0.0.0 stat.ku6.com
+0.0.0.0 stat.lenta.ru
 0.0.0.0 stat.php-d.com
+0.0.0.0 stat.pptv.com
 0.0.0.0 stats2513.com
 0.0.0.0 stats2.lightningcast.net
 0.0.0.0 stats4u.lv
@@ -831,6 +852,7 @@
 0.0.0.0 statsimg.com
 0.0.0.0 stats.indexstats.com
 0.0.0.0 stats.internet-yadro.com
+0.0.0.0 stats.lifenews.ru
 0.0.0.0 stats.lightningcast.net
 0.0.0.0 stats.lnol.com.ar
 0.0.0.0 stats.load.com
@@ -839,6 +861,7 @@
 0.0.0.0 stats.manticoretechnology.com
 0.0.0.0 stats.mehrnews.com
 0.0.0.0 stats.mf.cz
+0.0.0.0 stats.milenio.com
 0.0.0.0 stats.nekapuzer.at
 0.0.0.0 stats.ombx.io
 0.0.0.0 stats.paypal.com
@@ -857,6 +880,7 @@
 0.0.0.0 stats.suite101.com
 0.0.0.0 stats.surfaid.ihost.com
 0.0.0.0 stats.svpply.com
+0.0.0.0 stats.tudou.com
 0.0.0.0 stats.tvmaze.com
 0.0.0.0 stats.vc.gg
 0.0.0.0 stats.video.search.yahoo.com
@@ -868,11 +892,15 @@
 0.0.0.0 stats.yourminis.com
 0.0.0.0 stat.to.cupidplc.com
 0.0.0.0 stat.torrentbar.com
+0.0.0.0 stat.tudou.com
 0.0.0.0 stat.webtool.it
+0.0.0.0 stat.woman-announce.ru
+0.0.0.0 stat.xunlei.com
 0.0.0.0 stat.youku.com
 0.0.0.0 stcollection.moneysupermarket.com
 0.0.0.0 storewidesearch.com
 0.0.0.0 streamstats1.blinkx.com
+0.0.0.0 st.vq.ku6.cn
 0.0.0.0 subloader.cf
 0.0.0.0 sundayskylb1.com
 0.0.0.0 svivqrhrh.ru
@@ -898,6 +926,7 @@
 0.0.0.0 thersprens.com
 0.0.0.0 thinairsoftware.net
 0.0.0.0 tighting.info
+0.0.0.0 tinglog.baidu.com
 0.0.0.0 tmpjmp.com
 0.0.0.0 t.my.jobs
 0.0.0.0 tnsinternet.be
@@ -922,6 +951,7 @@
 0.0.0.0 tracker.everestnutrition.com
 0.0.0.0 tracker.issuu.com
 0.0.0.0 tracker.joost.com
+0.0.0.0 tracker.live.tudou.com
 0.0.0.0 tracker.mgnetwork.com
 0.0.0.0 tracker.mtrax.net
 0.0.0.0 tracker.myseofriend.net
@@ -983,6 +1013,7 @@
 0.0.0.0 traffic.bokecc.com
 0.0.0.0 traffic.brand-wall.net
 0.0.0.0 traffic.tuberip.com
+0.0.0.0 trak-analytics.blic.rs
 0.0.0.0 traktr.news.com.au
 0.0.0.0 tra.pmdstatic.net
 0.0.0.0 trax.dirxion.com
@@ -1029,6 +1060,8 @@
 0.0.0.0 vertical-stats.huffpost.com
 0.0.0.0 v.fwmrm.net
 0.0.0.0 viewstat.promoblocks.ru
+0.0.0.0 visit.geocities.jp
+0.0.0.0 visit.hepsiburada.com
 0.0.0.0 visitlog.net
 0.0.0.0 visualdna-stats.com
 0.0.0.0 vitamine.networldmedia.net
@@ -1045,6 +1078,7 @@
 0.0.0.0 watch.teroti.com
 0.0.0.0 wavescape.mobi
 0.0.0.0 webalytics.pw
+0.0.0.0 webclick.yeshj.com
 0.0.0.0 web-controlling.org
 0.0.0.0 webeffective.keynote.com
 0.0.0.0 weblogger01.data.disney.com

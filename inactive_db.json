@@ -8328,70 +8328,6 @@
         "1576713972": {
             "worker.salon.com": "INACTIVE"
         },
-        "1576715292": {
-            "hk.ndx.nextmedia.com": "INACTIVE"
-        },
-        "1576715293": {
-            "log*.ku6.com": "INVALID",
-            "log.ynet.com": "INACTIVE",
-            "logs.live.tudou.com": "INACTIVE",
-            "nstat.tudou.com": "INACTIVE",
-            "pv.csdn.net": "INACTIVE"
-        },
-        "1576715294": {
-            "ranking.ynet.com": "INACTIVE",
-            "st.vq.ku6.cn": "INACTIVE",
-            "sta.ifeng.com": "INACTIVE",
-            "stat.bilibili.tv": "INACTIVE",
-            "stat.ku6.com": "INACTIVE",
-            "stat.pptv.com": "INACTIVE",
-            "stat.tudou.com": "INACTIVE",
-            "stat.xunlei.com": "INACTIVE",
-            "stats.tudou.com": "INACTIVE"
-        },
-        "1576715295": {
-            "tinglog.baidu.com": "INACTIVE",
-            "tracker.live.tudou.com": "INACTIVE",
-            "webclick.yeshj.com": "INACTIVE"
-        },
-        "1576715296": {
-            "events.walla.co.il": "INACTIVE"
-        },
-        "1576715297": {
-            "getscreensaver.it": "INACTIVE"
-        },
-        "1576715298": {
-            "visit.geocities.jp": "INACTIVE"
-        },
-        "1576715299": {
-            "e-spy.petit.lv": "INACTIVE",
-            "fusion.nettavisen.no": "INACTIVE",
-            "gather.hankyung.com": "INACTIVE",
-            "log.r7.com": "INACTIVE"
-        },
-        "1576715300": {
-            "sapo.*": "INVALID"
-        },
-        "1576715302": {
-            "stat.lenta.ru": "INACTIVE",
-            "stat.woman-announce.ru": "INACTIVE",
-            "stats.lifenews.ru": "INACTIVE",
-            "stats.milenio.com": "INACTIVE",
-            "trak-analytics.blic.rs": "INACTIVE"
-        },
-        "1576715303": {
-            "beacon.mtgx.tv": "INACTIVE"
-        },
-        "1576715892": {
-            "prod-metro-collector.cloudapp.net": "INACTIVE",
-            "visit.hepsiburada.com": "INACTIVE"
-        },
-        "1576715916": {
-            "dv0.info": "INACTIVE"
-        },
-        "1576715917": {
-            "analytics.thevideo.me": "INACTIVE"
-        },
         "1576958517": {
             "0tracker.com": "INACTIVE",
             "100im.info": "INACTIVE",
@@ -10224,6 +10160,66 @@
             "count.qiannao.com": "INACTIVE",
             "cupid.iqiyi.com": "INACTIVE",
             "deliver.ifeng.com": "INACTIVE"
+        },
+        "1577209110": {
+            "hk.ndx.nextmedia.com": "INACTIVE"
+        },
+        "1577209111": {
+            "log*.ku6.com": "INVALID",
+            "log.ynet.com": "INACTIVE",
+            "logs.live.tudou.com": "INACTIVE",
+            "nstat.tudou.com": "INACTIVE",
+            "pv.csdn.net": "INACTIVE"
+        },
+        "1577209112": {
+            "ranking.ynet.com": "INACTIVE",
+            "st.vq.ku6.cn": "INACTIVE",
+            "sta.ifeng.com": "INACTIVE",
+            "stat.bilibili.tv": "INACTIVE",
+            "stat.ku6.com": "INACTIVE",
+            "stat.pptv.com": "INACTIVE",
+            "stat.tudou.com": "INACTIVE",
+            "stat.xunlei.com": "INACTIVE",
+            "stats.tudou.com": "INACTIVE"
+        },
+        "1577209113": {
+            "tinglog.baidu.com": "INACTIVE",
+            "tracker.live.tudou.com": "INACTIVE",
+            "webclick.yeshj.com": "INACTIVE"
+        },
+        "1577209114": {
+            "events.walla.co.il": "INACTIVE"
+        },
+        "1577209115": {
+            "getscreensaver.it": "INACTIVE"
+        },
+        "1577209117": {
+            "e-spy.petit.lv": "INACTIVE",
+            "fusion.nettavisen.no": "INACTIVE",
+            "gather.hankyung.com": "INACTIVE",
+            "visit.geocities.jp": "INACTIVE"
+        },
+        "1577209118": {
+            "log.r7.com": "INACTIVE",
+            "sapo.*": "INVALID"
+        },
+        "1577209120": {
+            "stat.lenta.ru": "INACTIVE",
+            "stat.woman-announce.ru": "INACTIVE",
+            "stats.lifenews.ru": "INACTIVE",
+            "trak-analytics.blic.rs": "INACTIVE"
+        },
+        "1577209121": {
+            "beacon.mtgx.tv": "INACTIVE",
+            "stats.milenio.com": "INACTIVE"
+        },
+        "1577209122": {
+            "prod-metro-collector.cloudapp.net": "INACTIVE",
+            "visit.hepsiburada.com": "INACTIVE"
+        },
+        "1577209139": {
+            "analytics.thevideo.me": "INACTIVE",
+            "dv0.info": "INACTIVE"
         }
     }
 }
