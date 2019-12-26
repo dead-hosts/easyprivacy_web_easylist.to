@@ -8328,92 +8328,8 @@
         "1576713972": {
             "worker.salon.com": "INACTIVE"
         },
-        "1577134626": {
-            "events.snacktv.de": "INACTIVE",
-            "ivw.discover-outdoor.de": "INACTIVE",
-            "ivw.dumontreise.de": "INACTIVE",
-            "ivw.fem.com": "INACTIVE",
-            "kontextr.eu": "INACTIVE"
-        },
-        "1577134627": {
-            "met.vgwort.de": "INACTIVE",
-            "pix.news.at": "INACTIVE",
-            "pixel.holtzbrinckdigital.info": "INACTIVE",
-            "pixel.nbsp.de": "INACTIVE",
-            "sett.i12.de": "INACTIVE",
-            "stats.av.de": "INACTIVE",
-            "stats.ilsemedia.nl": "INACTIVE",
-            "stats.nekapuzer.at": "INACTIVE"
-        },
-        "1577134628": {
-            "179.43.173.134": "INACTIVE",
-            "46.101.168.189": "INACTIVE",
-            "46.101.246.10": "INACTIVE",
-            "analytics.traidnt.net": "INACTIVE",
-            "tap.idg.de": "INACTIVE",
-            "tracker.netdisk.de": "INACTIVE",
-            "tracking-rce.veeseo.com": "INACTIVE",
-            "tracking.ddd.de": "INACTIVE",
-            "tracking.gj-mobile-services.de": "INACTIVE",
-            "tracking.mvsuite.de": "INACTIVE",
-            "tracking.rce.veeseo.com": "INACTIVE",
-            "tracking.sim-technik.de": "INACTIVE",
-            "traffic.brand-wall.net": "INACTIVE",
-            "wrmwb.7val.com": "INACTIVE"
-        },
-        "1577134629": {
-            "lepoint-stat.sdv.fr": "INACTIVE"
-        },
-        "1577134630": {
-            "aff*.kolektiva.net": "INVALID",
-            "nvc.n1bus-exp.com": "INACTIVE",
-            "t.planvip.fr": "INACTIVE"
-        },
-        "1577134631": {
-            "counter.csdn.net": "INACTIVE",
-            "css.aliyun.com": "INACTIVE",
-            "dw.cbsi.com.cn": "INACTIVE",
-            "etwun.com:8080": "INVALID",
-            "idigger.qtmojo.com": "INACTIVE"
-        },
-        "1577135855": {
-            "log.v.iask.com": "INACTIVE",
-            "look.urs.tw": "INACTIVE",
-            "stat.youku.com": "INACTIVE",
-            "traffic.bokecc.com": "INACTIVE"
-        },
-        "1577135856": {
-            "82.196.13.38": "INACTIVE",
-            "pagerank.g-easy.hu": "INACTIVE",
-            "stats.e-go.gr": "INACTIVE",
-            "stats.mf.cz": "INACTIVE"
-        },
-        "1577135857": {
-            "91.196.216.64": "INACTIVE",
-            "analytics.digitouch.it": "INACTIVE",
-            "analytics.ettoredelnegro.pro": "INACTIVE",
-            "analytics.linkwelove.com": "INACTIVE",
-            "audienceserver.aws.forebase.com": "INACTIVE",
-            "bstracker.blogspirit.net": "INACTIVE",
-            "contatore-di-visite.campusanuncios.com": "INACTIVE",
-            "eageweb.com": "INACTIVE",
-            "encoderfarmced-stats-ns.servicebus.windows.net": "INACTIVE"
-        },
-        "1577135858": {
-            "shinystat.lvlar.com": "INACTIVE",
-            "stat.webtool.it": "INACTIVE",
-            "stats2.*.fdnames.com": "INVALID",
-            "top100.tuttoperinternet.it": "INACTIVE"
-        },
         "1577135859": {
-            "115.84.165.13": "INACTIVE",
-            "199.116.177.156": "INACTIVE",
-            "beacon.itmedia.jp": "INACTIVE",
-            "log2.adop.cc": "INACTIVE",
-            "top100.mrwebmaster.it": "INACTIVE",
-            "tracking.conversionlab.it": "INACTIVE",
-            "trck.dlpo.jp": "INACTIVE",
-            "ts.blogo.it": "INACTIVE"
+            "log2.adop.cc": "INACTIVE"
         },
         "1577135860": {
             "contadorgratis.web-kit.org": "INACTIVE",
@@ -10217,6 +10133,92 @@
             "collect.finanzen.net": "INACTIVE",
             "confido.dyndns.org": "INACTIVE",
             "count.snacktv.de": "INACTIVE"
+        },
+        "1577397756": {
+            "events.snacktv.de": "INACTIVE",
+            "ivw.discover-outdoor.de": "INACTIVE",
+            "ivw.dumontreise.de": "INACTIVE",
+            "ivw.fem.com": "INACTIVE",
+            "kontextr.eu": "INACTIVE"
+        },
+        "1577397757": {
+            "met.vgwort.de": "INACTIVE",
+            "pix.news.at": "INACTIVE",
+            "pixel.holtzbrinckdigital.info": "INACTIVE",
+            "pixel.nbsp.de": "INACTIVE",
+            "sett.i12.de": "INACTIVE",
+            "stats.av.de": "INACTIVE",
+            "stats.ilsemedia.nl": "INACTIVE",
+            "stats.nekapuzer.at": "INACTIVE",
+            "tap.idg.de": "INACTIVE"
+        },
+        "1577397758": {
+            "179.43.173.134": "INACTIVE",
+            "46.101.168.189": "INACTIVE",
+            "46.101.246.10": "INACTIVE",
+            "analytics.traidnt.net": "INACTIVE",
+            "tracker.netdisk.de": "INACTIVE",
+            "tracking-rce.veeseo.com": "INACTIVE",
+            "tracking.ddd.de": "INACTIVE",
+            "tracking.gj-mobile-services.de": "INACTIVE",
+            "tracking.mvsuite.de": "INACTIVE",
+            "tracking.rce.veeseo.com": "INACTIVE",
+            "tracking.sim-technik.de": "INACTIVE",
+            "traffic.brand-wall.net": "INACTIVE",
+            "wrmwb.7val.com": "INACTIVE"
+        },
+        "1577397759": {
+            "lepoint-stat.sdv.fr": "INACTIVE"
+        },
+        "1577397760": {
+            "aff*.kolektiva.net": "INVALID",
+            "nvc.n1bus-exp.com": "INACTIVE",
+            "t.planvip.fr": "INACTIVE"
+        },
+        "1577397761": {
+            "counter.csdn.net": "INACTIVE",
+            "css.aliyun.com": "INACTIVE",
+            "dw.cbsi.com.cn": "INACTIVE",
+            "etwun.com:8080": "INVALID",
+            "idigger.qtmojo.com": "INACTIVE"
+        },
+        "1577397762": {
+            "log.v.iask.com": "INACTIVE",
+            "look.urs.tw": "INACTIVE",
+            "stat.youku.com": "INACTIVE",
+            "stats.mf.cz": "INACTIVE",
+            "traffic.bokecc.com": "INACTIVE"
+        },
+        "1577397763": {
+            "82.196.13.38": "INACTIVE",
+            "91.196.216.64": "INACTIVE",
+            "analytics.digitouch.it": "INACTIVE",
+            "analytics.ettoredelnegro.pro": "INACTIVE",
+            "pagerank.g-easy.hu": "INACTIVE",
+            "stats.e-go.gr": "INACTIVE"
+        },
+        "1577397764": {
+            "analytics.linkwelove.com": "INACTIVE",
+            "audienceserver.aws.forebase.com": "INACTIVE",
+            "bstracker.blogspirit.net": "INACTIVE",
+            "contatore-di-visite.campusanuncios.com": "INACTIVE",
+            "eageweb.com": "INACTIVE",
+            "encoderfarmced-stats-ns.servicebus.windows.net": "INACTIVE"
+        },
+        "1577397765": {
+            "shinystat.lvlar.com": "INACTIVE",
+            "stat.webtool.it": "INACTIVE",
+            "stats2.*.fdnames.com": "INVALID",
+            "top100.mrwebmaster.it": "INACTIVE",
+            "top100.tuttoperinternet.it": "INACTIVE",
+            "tracking.conversionlab.it": "INACTIVE"
+        },
+        "1577397766": {
+            "115.84.165.13": "INACTIVE",
+            "199.116.177.156": "INACTIVE",
+            "beacon.itmedia.jp": "INACTIVE",
+            "trck.dlpo.jp": "INACTIVE",
+            "ts.blogo.it": "INACTIVE"
         }
     }
 }
