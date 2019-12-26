@@ -8328,32 +8328,6 @@
         "1576713972": {
             "worker.salon.com": "INACTIVE"
         },
-        "1577209117": {
-            "e-spy.petit.lv": "INACTIVE",
-            "fusion.nettavisen.no": "INACTIVE"
-        },
-        "1577209118": {
-            "log.r7.com": "INACTIVE",
-            "sapo.*": "INVALID"
-        },
-        "1577209120": {
-            "stat.lenta.ru": "INACTIVE",
-            "stat.woman-announce.ru": "INACTIVE",
-            "stats.lifenews.ru": "INACTIVE",
-            "trak-analytics.blic.rs": "INACTIVE"
-        },
-        "1577209121": {
-            "beacon.mtgx.tv": "INACTIVE",
-            "stats.milenio.com": "INACTIVE"
-        },
-        "1577209122": {
-            "prod-metro-collector.cloudapp.net": "INACTIVE",
-            "visit.hepsiburada.com": "INACTIVE"
-        },
-        "1577209139": {
-            "analytics.thevideo.me": "INACTIVE",
-            "dv0.info": "INACTIVE"
-        },
         "1577390642": {
             "0tracker.com": "INACTIVE",
             "100im.info": "INACTIVE",
@@ -10220,6 +10194,30 @@
         "1577401857": {
             "gather.hankyung.com": "INACTIVE",
             "visit.geocities.jp": "INACTIVE"
+        },
+        "1577402355": {
+            "e-spy.petit.lv": "INACTIVE",
+            "fusion.nettavisen.no": "INACTIVE",
+            "log.r7.com": "INACTIVE",
+            "sapo.*": "INVALID"
+        },
+        "1577402357": {
+            "stat.lenta.ru": "INACTIVE",
+            "stat.woman-announce.ru": "INACTIVE",
+            "stats.lifenews.ru": "INACTIVE"
+        },
+        "1577402358": {
+            "stats.milenio.com": "INACTIVE",
+            "trak-analytics.blic.rs": "INACTIVE"
+        },
+        "1577402359": {
+            "beacon.mtgx.tv": "INACTIVE",
+            "prod-metro-collector.cloudapp.net": "INACTIVE",
+            "visit.hepsiburada.com": "INACTIVE"
+        },
+        "1577402373": {
+            "analytics.thevideo.me": "INACTIVE",
+            "dv0.info": "INACTIVE"
         }
     }
 }
