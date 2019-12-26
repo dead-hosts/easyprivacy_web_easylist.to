@@ -305,8 +305,8 @@
         "state": "future"
     },
     "3gl.net": {
-        "epoch": 1576972800.0,
-        "expiration_date": "22-dec-2019",
+        "epoch": 1640131200.0,
+        "expiration_date": "22-dec-2021",
         "state": "future"
     },
     "3qsdn.com": {
@@ -1027,7 +1027,7 @@
     "admetric.io": {
         "epoch": 1577318400.0,
         "expiration_date": "26-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "admile.ru": {
         "epoch": 1578355200.0,
@@ -5590,8 +5590,8 @@
         "state": "future"
     },
     "confirmit.com": {
-        "epoch": 1577059200.0,
-        "expiration_date": "23-dec-2019",
+        "epoch": 1608681600.0,
+        "expiration_date": "23-dec-2020",
         "state": "future"
     },
     "connatix.com": {
