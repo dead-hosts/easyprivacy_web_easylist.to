@@ -4220,8 +4220,8 @@
         "state": "future"
     },
     "caanalytics.com": {
-        "epoch": 1576972800.0,
-        "expiration_date": "22-dec-2019",
+        "epoch": 1608595200.0,
+        "expiration_date": "22-dec-2020",
         "state": "future"
     },
     "cache.am": {
@@ -8574,6 +8574,11 @@
         "expiration_date": "17-jul-2020",
         "state": "future"
     },
+    "f-counter.net": {
+        "epoch": 1600646400.0,
+        "expiration_date": "21-sep-2020",
+        "state": "future"
+    },
     "f-secure.com": {
         "epoch": 1620604800.0,
         "expiration_date": "10-may-2021",
@@ -10425,8 +10430,8 @@
         "state": "future"
     },
     "goprediction.com": {
-        "epoch": 1577232000.0,
-        "expiration_date": "25-dec-2019",
+        "epoch": 1608854400.0,
+        "expiration_date": "25-dec-2020",
         "state": "future"
     },
     "goredirect.party": {
@@ -19549,6 +19554,11 @@
         "expiration_date": "29-aug-2020",
         "state": "future"
     },
+    "rays-counter.com": {
+        "epoch": 1588896000.0,
+        "expiration_date": "08-may-2020",
+        "state": "future"
+    },
     "razor.tv": {
         "epoch": 1582761600.0,
         "expiration_date": "27-feb-2020",
@@ -26575,8 +26585,8 @@
         "state": "future"
     },
     "warlog.ru": {
-        "epoch": 1577232000.0,
-        "expiration_date": "25-dec-2019",
+        "epoch": 1608854400.0,
+        "expiration_date": "25-dec-2020",
         "state": "future"
     },
     "washingtonpost.com": {

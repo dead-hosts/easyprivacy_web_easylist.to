@@ -8328,95 +8328,7 @@
         "1576713972": {
             "worker.salon.com": "INACTIVE"
         },
-        "1576962796": {
-            "megastat.net": "INACTIVE",
-            "prostats.it": "INACTIVE",
-            "statsadvance-01.net": "INACTIVE",
-            "statsview.it": "INACTIVE"
-        },
-        "1576962797": {
-            "bb-analytics.jp": "INACTIVE",
-            "ultrastats.it": "INACTIVE",
-            "webtraffstats.net": "INACTIVE"
-        },
-        "1576962798": {
-            "japanmetrix.jp": "INACTIVE"
-        },
-        "1576962799": {
-            "stats4u.lv": "INACTIVE",
-            "webstatistika.lt": "INACTIVE"
-        },
-        "1576962800": {
-            "melatstat.com": "INACTIVE"
-        },
-        "1576962801": {
-            "popstats.com.br": "INACTIVE"
-        },
-        "1576962802": {
-            "109.169.66.161": "INACTIVE"
-        },
-        "1576962803": {
-            "cntcash.ru": "INACTIVE"
-        },
-        "1576962804": {
-            "countstat.ru": "INACTIVE"
-        },
-        "1576962805": {
-            "jetcounter.ru": "INACTIVE",
-            "k3dqv.ru": "INACTIVE"
-        },
-        "1577045251": {
-            "personage.name": "INACTIVE"
-        },
-        "1577045253": {
-            "blogtraffic.sg": "INACTIVE",
-            "wunderdaten.com": "INACTIVE"
-        },
-        "1577045256": {
-            "121.78.90.104:8383": "INVALID",
-            "123myp.co.uk": "INACTIVE",
-            "195.182.58.105": "INACTIVE",
-            "208.91.157.30": "INACTIVE",
-            "209.15.236.80": "INACTIVE",
-            "213.8.137.51": "INACTIVE",
-            "216.18.176.4": "INACTIVE",
-            "219.232.238.60": "INACTIVE"
-        },
-        "1577045257": {
-            "4theclueless.com": "INACTIVE",
-            "58.68.146.44:8000": "INVALID",
-            "61.129.118.83": "INACTIVE",
-            "62.219.24.238": "INACTIVE",
-            "74.117.176.217": "INACTIVE",
-            "93.93.53.198": "INACTIVE",
-            "a.unanimis.co.uk": "INACTIVE",
-            "a2a.lockerz.com": "INACTIVE",
-            "aaa.aj5.info": "INACTIVE",
-            "activity.*.miui.com": "INVALID"
-        },
-        "1577045258": {
-            "adg.bzgint.com": "INACTIVE",
-            "affiliates.spark.net": "INACTIVE",
-            "affiliates.swappernet.com": "INACTIVE"
-        },
-        "1577045259": {
-            "affl.sucuri.net": "INACTIVE"
-        },
-        "1577045261": {
-            "ams.addflow.ru": "INACTIVE",
-            "analytics-beacon-*.amazonaws.com": "INVALID",
-            "analytics-v2.anvato.com": "INACTIVE",
-            "analytics.adeevo.com": "INACTIVE",
-            "analytics.artirix.com": "INACTIVE"
-        },
         "1577045262": {
-            "analytics.closealert.com": "INACTIVE",
-            "analytics.edgekey.net": "INACTIVE",
-            "analytics.edgesuite.net": "INACTIVE",
-            "analytics.episodic.com": "INACTIVE",
-            "analytics.hosting24.com": "INACTIVE",
-            "analytics.hpprintx.com": "INACTIVE",
-            "analytics.r17.com": "INACTIVE",
             "analytics.revee.com": "INACTIVE",
             "analytics.truecarbon.org": "INACTIVE",
             "analyzer.qmerce.com": "INACTIVE"
@@ -10221,6 +10133,90 @@
         "1577394245": {
             "hotstats.gr": "INACTIVE",
             "mediaindex.ee": "INACTIVE"
+        },
+        "1577394934": {
+            "megastat.net": "INACTIVE",
+            "prostats.it": "INACTIVE",
+            "statsadvance-01.net": "INACTIVE"
+        },
+        "1577394935": {
+            "bb-analytics.jp": "INACTIVE",
+            "statsview.it": "INACTIVE",
+            "ultrastats.it": "INACTIVE",
+            "webtraffstats.net": "INACTIVE"
+        },
+        "1577394936": {
+            "japanmetrix.jp": "INACTIVE"
+        },
+        "1577394937": {
+            "stats4u.lv": "INACTIVE"
+        },
+        "1577394938": {
+            "melatstat.com": "INACTIVE",
+            "webstatistika.lt": "INACTIVE"
+        },
+        "1577394940": {
+            "109.169.66.161": "INACTIVE",
+            "popstats.com.br": "INACTIVE"
+        },
+        "1577394942": {
+            "cntcash.ru": "INACTIVE",
+            "countstat.ru": "INACTIVE"
+        },
+        "1577394943": {
+            "jetcounter.ru": "INACTIVE",
+            "k3dqv.ru": "INACTIVE"
+        },
+        "1577394944": {
+            "personage.name": "INACTIVE"
+        },
+        "1577394946": {
+            "blogtraffic.sg": "INACTIVE",
+            "wunderdaten.com": "INACTIVE"
+        },
+        "1577394949": {
+            "121.78.90.104:8383": "INVALID",
+            "123myp.co.uk": "INACTIVE",
+            "195.182.58.105": "INACTIVE",
+            "208.91.157.30": "INACTIVE",
+            "209.15.236.80": "INACTIVE"
+        },
+        "1577394950": {
+            "213.8.137.51": "INACTIVE",
+            "216.18.176.4": "INACTIVE",
+            "219.232.238.60": "INACTIVE",
+            "4theclueless.com": "INACTIVE",
+            "58.68.146.44:8000": "INVALID",
+            "61.129.118.83": "INACTIVE",
+            "62.219.24.238": "INACTIVE",
+            "74.117.176.217": "INACTIVE",
+            "93.93.53.198": "INACTIVE",
+            "a.unanimis.co.uk": "INACTIVE",
+            "a2a.lockerz.com": "INACTIVE",
+            "aaa.aj5.info": "INACTIVE"
+        },
+        "1577394951": {
+            "activity.*.miui.com": "INVALID",
+            "adg.bzgint.com": "INACTIVE"
+        },
+        "1577394952": {
+            "affiliates.spark.net": "INACTIVE",
+            "affiliates.swappernet.com": "INACTIVE",
+            "affl.sucuri.net": "INACTIVE"
+        },
+        "1577394955": {
+            "ams.addflow.ru": "INACTIVE",
+            "analytics-beacon-*.amazonaws.com": "INVALID",
+            "analytics-v2.anvato.com": "INACTIVE",
+            "analytics.abacast.com": "INACTIVE",
+            "analytics.adeevo.com": "INACTIVE",
+            "analytics.artirix.com": "INACTIVE",
+            "analytics.closealert.com": "INACTIVE",
+            "analytics.edgekey.net": "INACTIVE",
+            "analytics.edgesuite.net": "INACTIVE",
+            "analytics.episodic.com": "INACTIVE",
+            "analytics.hosting24.com": "INACTIVE",
+            "analytics.hpprintx.com": "INACTIVE"
         }
     }
 }
