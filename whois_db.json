@@ -13689,6 +13689,11 @@
         "expiration_date": "22-jul-2021",
         "state": "future"
     },
+    "leiki.com": {
+        "epoch": 1589414400.0,
+        "expiration_date": "14-may-2020",
+        "state": "future"
+    },
     "lela.com": {
         "epoch": 1597536000,
         "expiration_date": "16-aug-2020",
@@ -27800,8 +27805,8 @@
         "state": "future"
     },
     "yigao.com": {
-        "epoch": 1577145600.0,
-        "expiration_date": "24-dec-2019",
+        "epoch": 1608768000.0,
+        "expiration_date": "24-dec-2020",
         "state": "future"
     },
     "yigouw.com": {
