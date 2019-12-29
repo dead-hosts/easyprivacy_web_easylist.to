@@ -8614,6 +8614,11 @@
         "expiration_date": "04-may-2020",
         "state": "future"
     },
+    "fadedsnow.com": {
+        "epoch": 1599177600.0,
+        "expiration_date": "04-sep-2020",
+        "state": "future"
+    },
     "faibl.org": {
         "epoch": 1597449600.0,
         "expiration_date": "15-aug-2020",
@@ -21459,6 +21464,11 @@
         "expiration_date": "10-jul-2027",
         "state": "future"
     },
+    "shyseed.com": {
+        "epoch": 1602115200.0,
+        "expiration_date": "08-oct-2020",
+        "state": "future"
+    },
     "siberiantimes.com": {
         "epoch": 1635552000.0,
         "expiration_date": "30-oct-2021",
@@ -21947,6 +21957,11 @@
     "smartzonessva.com": {
         "epoch": 1580256000.0,
         "expiration_date": "29-jan-2020",
+        "state": "future"
+    },
+    "smashsurprise.com": {
+        "epoch": 1601856000.0,
+        "expiration_date": "05-oct-2020",
         "state": "future"
     },
     "smassets.net": {
@@ -26850,9 +26865,9 @@
         "state": "future"
     },
     "webminerpool.com": {
-        "epoch": 1577318400.0,
-        "expiration_date": "26-dec-2019",
-        "state": "past"
+        "epoch": 1608940800.0,
+        "expiration_date": "26-dec-2020",
+        "state": "future"
     },
     "webmining.co": {
         "epoch": 1604793600.0,
