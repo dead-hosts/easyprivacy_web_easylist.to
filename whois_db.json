@@ -8185,9 +8185,9 @@
         "state": "future"
     },
     "etacontent.com": {
-        "epoch": 1577318400.0,
-        "expiration_date": "26-dec-2019",
-        "state": "past"
+        "epoch": 1608940800.0,
+        "expiration_date": "26-dec-2020",
+        "state": "future"
     },
     "etahub.com": {
         "epoch": 1604966400.0,
@@ -15270,9 +15270,9 @@
         "state": "future"
     },
     "minero.pw": {
-        "epoch": 1577318400.0,
-        "expiration_date": "26-dec-2019",
-        "state": "past"
+        "epoch": 1608940800.0,
+        "expiration_date": "26-dec-2020",
+        "state": "future"
     },
     "minescripts.info": {
         "epoch": 1586908800.0,
