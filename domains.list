@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 201912261859
+! Version: 201912290958
 ! Title: EasyPrivacy
-! Last modified: 26 Dec 2019 18:59 UTC
+! Last modified: 29 Dec 2019 09:58 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1262,6 +1262,7 @@
 /collect.php?data=
 /collect/kf?
 /collect/pageview?
+/collect/stats?
 /collect/tracking.
 /collect?*&cid=
 /collect?*&tid=
@@ -2010,6 +2011,7 @@
 /GoogleAnalytics|
 /googleanalyze1.
 /googleanalyze2.
+/googleEventTracking.
 /googletagmanager.js
 /googletagmanager_backend.js
 /googleTagManagerTrackEvent.
@@ -3960,6 +3962,7 @@
 /track/?site
 /track/a.gif?
 /track/aggregate?
+/track/batch?
 /Track/Capture.aspx?
 /track/component/*
 /track/count*js
@@ -8536,6 +8539,7 @@ _mongo_stats/
 ||diplomahawaii.com^$third-party
 ||ejyymghi.com^$third-party
 ||endurablecrayon.com^third-party
+||fadedsnow.com^$third-party
 ||falseframe.com^$third-party
 ||familiarfloor.com^$third-party
 ||familiarrod.com^$third-party
@@ -8603,7 +8607,9 @@ _mongo_stats/
 ||sharppatch.com^$third-party
 ||shelterstraw.com^$third-party
 ||shermore.info^$third-party
+||shyseed.com^$third-party
 ||sicksmash.com^$third-party
+||smashsurprise.com^$third-party
 ||sombersurprise.com^$third-party
 ||sortsummer.com^$third-party
 ||spiffymachine.com^$third-party
@@ -10120,6 +10126,7 @@ _mongo_stats/
 ||circonus.com/hit?
 ||citygridmedia.com/tracker/
 ||citysearch.com/tracker/
+||cityzen.io/Pixel/
 ||clearspring.com/at/
 ||clearspring.com/t/
 ||click.appinthestore.com^
@@ -12936,6 +12943,7 @@ _mongo_stats/
 ||analytics.localytics.com^
 ||analytics.meaww.com^
 ||analytics.mindjolt.com^
+||analytics.mouthshut.com^
 ||analytics.newsinc.com^
 ||analytics.ngfiles.com^
 ||analytics.omgpop.com/log
@@ -15567,6 +15575,7 @@ _mongo_stats/
 ||tdf1.admyjob.com^
 ||tpa7.iahorro.com^
 ||tsj0.madeindesign.com^
+||upz1.destinia.lt^
 ||uue2.destinia.ir^
 ||vbe.voyage-prive.be^
 ||vch.voyage-prive.ch^
@@ -15582,6 +15591,9 @@ _mongo_stats/
 ||vry9.destinia.com^
 ||vtf2f.banque-casino.fr^
 ||we.wecanimal.pt^
+||wph2.destinia.us^
+||xay5o.toscane-boutique.fr^
+||xfn6.monaco.edu^
 ||xy33.smallable.com^
 ||yoc.younited-credit.com^
 ! Fingerprintjs
