@@ -23592,7 +23592,7 @@
     "tdsrmbl.net": {
         "epoch": 1577577600.0,
         "expiration_date": "29-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "tdstats.com": {
         "epoch": 1582329600.0,
@@ -23752,7 +23752,7 @@
     "tgdaudience.com": {
         "epoch": 1577577600.0,
         "expiration_date": "29-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "tget.me": {
         "epoch": 1605484800.0,
@@ -25240,8 +25240,8 @@
         "state": "future"
     },
     "tz284.com": {
-        "epoch": 1577491200.0,
-        "expiration_date": "28-dec-2019",
+        "epoch": 1609113600.0,
+        "expiration_date": "28-dec-2020",
         "state": "future"
     },
     "u.tv": {
@@ -27110,8 +27110,8 @@
         "state": "future"
     },
     "whackedmedia.com": {
-        "epoch": 1577404800.0,
-        "expiration_date": "27-dec-2019",
+        "epoch": 1609027200.0,
+        "expiration_date": "27-dec-2020",
         "state": "future"
     },
     "whatcar.com": {
