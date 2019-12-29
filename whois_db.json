@@ -4884,6 +4884,11 @@
         "expiration_date": "12-feb-2020",
         "state": "future"
     },
+    "cityzen.io": {
+        "epoch": 1582502400.0,
+        "expiration_date": "24-feb-2020",
+        "state": "future"
+    },
     "civicscience.com": {
         "epoch": 1593648000.0,
         "expiration_date": "02-jul-2020",
