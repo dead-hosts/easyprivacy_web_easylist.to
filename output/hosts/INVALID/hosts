@@ -6,4 +6,12 @@
 0.0.0.0 site.flashx.
 0.0.0.0 121.78.90.104:8383
 0.0.0.0 58.68.146.44:8000
+0.0.0.0 activity.*.miui.com
+0.0.0.0 analytics-beacon-*.amazonaws.com
+0.0.0.0 bc.geocities.
+0.0.0.0 bin.clearspring.*
+0.0.0.0 cloudfront.net*
+0.0.0.0 collect.*.miui.com
+0.0.0.0 collector-*.elb.amazonaws.com
+0.0.0.0 collector-*.tvsquared.com
 0.0.0.0 irs01.
