@@ -3404,6 +3404,11 @@
         "expiration_date": "06-dec-2020",
         "state": "future"
     },
+    "bilibili.com": {
+        "epoch": 1666310400.0,
+        "expiration_date": "21-oct-2022",
+        "state": "future"
+    },
     "bing.com": {
         "epoch": 1580342400.0,
         "expiration_date": "30-jan-2020",
@@ -7337,6 +7342,11 @@
     "doubleverify.com": {
         "epoch": 1723939200.0,
         "expiration_date": "18-aug-2024",
+        "state": "future"
+    },
+    "douyucdn.cn": {
+        "epoch": 1734652800.0,
+        "expiration_date": "20-dec-2024",
         "state": "future"
     },
     "dp.ru": {
@@ -27667,6 +27677,11 @@
     "xhit.com": {
         "epoch": 1587859200.0,
         "expiration_date": "26-apr-2020",
+        "state": "future"
+    },
+    "xiaomi.com": {
+        "epoch": 1595376000.0,
+        "expiration_date": "22-jul-2020",
         "state": "future"
     },
     "xing.com": {
