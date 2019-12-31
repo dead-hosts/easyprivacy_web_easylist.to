@@ -8328,34 +8328,6 @@
         "1576713972": {
             "worker.salon.com": "INACTIVE"
         },
-        "1577631553": {
-            "e-spy.petit.lv": "INACTIVE",
-            "gather.hankyung.com": "INACTIVE",
-            "visit.geocities.jp": "INACTIVE"
-        },
-        "1577631554": {
-            "fusion.nettavisen.no": "INACTIVE",
-            "log.r7.com": "INACTIVE",
-            "sapo.*": "INVALID"
-        },
-        "1577631556": {
-            "stat.lenta.ru": "INACTIVE",
-            "stat.woman-announce.ru": "INACTIVE",
-            "stats.lifenews.ru": "INACTIVE"
-        },
-        "1577631557": {
-            "stats.milenio.com": "INACTIVE",
-            "trak-analytics.blic.rs": "INACTIVE"
-        },
-        "1577631558": {
-            "beacon.mtgx.tv": "INACTIVE",
-            "prod-metro-collector.cloudapp.net": "INACTIVE",
-            "visit.hepsiburada.com": "INACTIVE"
-        },
-        "1577631572": {
-            "analytics.thevideo.me": "INACTIVE",
-            "dv0.info": "INACTIVE"
-        },
         "1577822826": {
             "0tracker.com": "INACTIVE",
             "100im.info": "INACTIVE",
@@ -10212,6 +10184,34 @@
         "1577833495": {
             "events.walla.co.il": "INACTIVE",
             "getscreensaver.it": "INACTIVE"
+        },
+        "1577833824": {
+            "gather.hankyung.com": "INACTIVE",
+            "visit.geocities.jp": "INACTIVE"
+        },
+        "1577833825": {
+            "e-spy.petit.lv": "INACTIVE",
+            "fusion.nettavisen.no": "INACTIVE",
+            "log.r7.com": "INACTIVE",
+            "sapo.*": "INVALID"
+        },
+        "1577833827": {
+            "stat.lenta.ru": "INACTIVE"
+        },
+        "1577833828": {
+            "stat.woman-announce.ru": "INACTIVE",
+            "stats.lifenews.ru": "INACTIVE",
+            "stats.milenio.com": "INACTIVE",
+            "trak-analytics.blic.rs": "INACTIVE"
+        },
+        "1577833829": {
+            "beacon.mtgx.tv": "INACTIVE",
+            "prod-metro-collector.cloudapp.net": "INACTIVE",
+            "visit.hepsiburada.com": "INACTIVE"
+        },
+        "1577833844": {
+            "analytics.thevideo.me": "INACTIVE",
+            "dv0.info": "INACTIVE"
         }
     }
 }
