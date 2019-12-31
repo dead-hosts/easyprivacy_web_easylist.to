@@ -14082,7 +14082,7 @@
     "livewebstats.dk": {
         "epoch": 1577750400.0,
         "expiration_date": "31-dec-2019",
-        "state": "future"
+        "state": "past"
     },
     "lizardslaugh.com": {
         "epoch": 1603584000.0,
@@ -21879,6 +21879,11 @@
         "expiration_date": "06-sep-2020",
         "state": "future"
     },
+    "smart-counter.net": {
+        "epoch": 1609891200.0,
+        "expiration_date": "06-jan-2021",
+        "state": "future"
+    },
     "smart-digital-solutions.com": {
         "epoch": 1597622400.0,
         "expiration_date": "17-aug-2020",
@@ -26025,8 +26030,8 @@
         "state": "future"
     },
     "vidigital.ru": {
-        "epoch": 1577577600.0,
-        "expiration_date": "29-dec-2019",
+        "epoch": 1609200000.0,
+        "expiration_date": "29-dec-2020",
         "state": "future"
     },
     "vidoza.net": {
