@@ -16630,8 +16630,8 @@
         "state": "future"
     },
     "newbie.dk": {
-        "epoch": 1577750400.0,
-        "expiration_date": "31-dec-2019",
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
         "state": "future"
     },
     "newegg.com": {
@@ -18627,6 +18627,11 @@
     "pooltrax.com": {
         "epoch": 1592870400.0,
         "expiration_date": "23-jun-2020",
+        "state": "future"
+    },
+    "poool.fr": {
+        "epoch": 1603152000.0,
+        "expiration_date": "20-oct-2020",
         "state": "future"
     },
     "popcap.com": {
