@@ -27624,6 +27624,11 @@
         "expiration_date": "12-dec-2020",
         "state": "future"
     },
+    "xfast.host": {
+        "epoch": 1640822400.0,
+        "expiration_date": "30-dec-2021",
+        "state": "future"
+    },
     "xfinity.com": {
         "epoch": 1737590400.0,
         "expiration_date": "23-jan-2025",
