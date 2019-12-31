@@ -14850,8 +14850,8 @@
         "state": "future"
     },
     "measuremap.com": {
-        "epoch": 1577664000.0,
-        "expiration_date": "30-dec-2019",
+        "epoch": 1609286400.0,
+        "expiration_date": "30-dec-2020",
         "state": "future"
     },
     "measurementapi.com": {
@@ -19845,9 +19845,9 @@
         "state": "future"
     },
     "referrer.org": {
-        "epoch": 1577577600.0,
-        "expiration_date": "29-dec-2019",
-        "state": "past"
+        "epoch": 1609200000.0,
+        "expiration_date": "29-dec-2020",
+        "state": "future"
     },
     "refersion.com": {
         "epoch": 1704326400.0,
