@@ -8328,75 +8328,7 @@
         "1576713972": {
             "worker.salon.com": "INACTIVE"
         },
-        "1577832795": {
-            "extszm.web.de": "INACTIVE"
-        },
-        "1577832796": {
-            "go.bluewin.ch": "INACTIVE",
-            "krissi-ist-weg.de": "INACTIVE",
-            "log.sz-online.de": "INACTIVE"
-        },
-        "1577833485": {
-            "passul.t-online.de": "INACTIVE",
-            "pix.friendscout24.de": "INACTIVE"
-        },
-        "1577833486": {
-            "rwt.reichelt.de": "INACTIVE",
-            "s.fsphp.t-online.de": "INACTIVE",
-            "stats.daserste.de": "INACTIVE",
-            "tracking.autoscout24.com": "INACTIVE",
-            "tracking.kurier.at": "INACTIVE",
-            "tracking.netbank.de": "INACTIVE",
-            "ts.otto.de": "INACTIVE",
-            "tvcommunity.at": "INACTIVE"
-        },
-        "1577833487": {
-            "accn.allocine.net": "INACTIVE",
-            "analytics.rtbf.be": "INACTIVE",
-            "dm.hugolescargot.com": "INACTIVE",
-            "dm.journaldesfemmes.com": "INACTIVE",
-            "gstat.orange.fr": "INACTIVE",
-            "xara.hse24.de": "INACTIVE"
-        },
-        "1577833488": {
-            "hit.leboncoin.fr": "INACTIVE",
-            "ovni9.com": "INACTIVE"
-        },
-        "1577833489": {
-            "analytics.126.net": "INACTIVE",
-            "analytics.nextmedia.com": "INACTIVE",
-            "atm.youku.com": "INACTIVE",
-            "wawacity.*": "INVALID"
-        },
-        "1577833490": {
-            "collect.yinyuetai.com": "INACTIVE",
-            "count.joy.cn": "INACTIVE",
-            "count.newhua.com": "INACTIVE",
-            "count.qiannao.com": "INACTIVE",
-            "cupid.iqiyi.com": "INACTIVE",
-            "deliver.ifeng.com": "INACTIVE"
-        },
-        "1577833491": {
-            "hk.ndx.nextmedia.com": "INACTIVE",
-            "log*.ku6.com": "INVALID",
-            "log.ynet.com": "INACTIVE",
-            "logs.live.tudou.com": "INACTIVE",
-            "nstat.tudou.com": "INACTIVE"
-        },
-        "1577833492": {
-            "pv.csdn.net": "INACTIVE",
-            "ranking.ynet.com": "INACTIVE",
-            "st.vq.ku6.cn": "INACTIVE",
-            "sta.ifeng.com": "INACTIVE"
-        },
         "1577833493": {
-            "stat.bilibili.tv": "INACTIVE",
-            "stat.ku6.com": "INACTIVE",
-            "stat.pptv.com": "INACTIVE",
-            "stat.tudou.com": "INACTIVE",
-            "stat.xunlei.com": "INACTIVE",
-            "stats.tudou.com": "INACTIVE",
-            "tinglog.baidu.com": "INACTIVE",
             "tracker.live.tudou.com": "INACTIVE",
             "webclick.yeshj.com": "INACTIVE"
         },
@@ -10228,6 +10160,76 @@
         "1578093208": {
             "counter.zeit.de": "INACTIVE",
             "cpix.daserste.de": "INACTIVE"
+        },
+        "1578094230": {
+            "extszm.web.de": "INACTIVE",
+            "go.bluewin.ch": "INACTIVE"
+        },
+        "1578094231": {
+            "krissi-ist-weg.de": "INACTIVE",
+            "log.sz-online.de": "INACTIVE"
+        },
+        "1578094232": {
+            "passul.t-online.de": "INACTIVE",
+            "pix.friendscout24.de": "INACTIVE",
+            "rwt.reichelt.de": "INACTIVE",
+            "s.fsphp.t-online.de": "INACTIVE",
+            "stats.daserste.de": "INACTIVE",
+            "tracking.autoscout24.com": "INACTIVE",
+            "tracking.kurier.at": "INACTIVE"
+        },
+        "1578094233": {
+            "accn.allocine.net": "INACTIVE",
+            "analytics.rtbf.be": "INACTIVE",
+            "tracking.netbank.de": "INACTIVE",
+            "ts.otto.de": "INACTIVE",
+            "tvcommunity.at": "INACTIVE",
+            "xara.hse24.de": "INACTIVE"
+        },
+        "1578094234": {
+            "dm.hugolescargot.com": "INACTIVE",
+            "dm.journaldesfemmes.com": "INACTIVE",
+            "gstat.orange.fr": "INACTIVE",
+            "hit.leboncoin.fr": "INACTIVE"
+        },
+        "1578094235": {
+            "ovni9.com": "INACTIVE",
+            "wawacity.*": "INVALID"
+        },
+        "1578094236": {
+            "analytics.126.net": "INACTIVE",
+            "analytics.nextmedia.com": "INACTIVE",
+            "atm.youku.com": "INACTIVE",
+            "collect.yinyuetai.com": "INACTIVE",
+            "count.joy.cn": "INACTIVE",
+            "count.newhua.com": "INACTIVE",
+            "count.qiannao.com": "INACTIVE",
+            "cupid.iqiyi.com": "INACTIVE"
+        },
+        "1578094237": {
+            "deliver.ifeng.com": "INACTIVE",
+            "hk.ndx.nextmedia.com": "INACTIVE"
+        },
+        "1578094238": {
+            "log*.ku6.com": "INVALID",
+            "log.ynet.com": "INACTIVE",
+            "logs.live.tudou.com": "INACTIVE",
+            "nstat.tudou.com": "INACTIVE",
+            "pv.csdn.net": "INACTIVE",
+            "ranking.ynet.com": "INACTIVE"
+        },
+        "1578094239": {
+            "st.vq.ku6.cn": "INACTIVE",
+            "sta.ifeng.com": "INACTIVE",
+            "stat.bilibili.tv": "INACTIVE",
+            "stat.ku6.com": "INACTIVE",
+            "stat.pptv.com": "INACTIVE",
+            "stat.tudou.com": "INACTIVE",
+            "stat.xunlei.com": "INACTIVE",
+            "stats.tudou.com": "INACTIVE"
+        },
+        "1578094240": {
+            "tinglog.baidu.com": "INACTIVE"
         }
     }
 }
