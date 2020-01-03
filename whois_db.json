@@ -21890,8 +21890,8 @@
         "state": "future"
     },
     "smadex.com": {
-        "epoch": 1578009600.0,
-        "expiration_date": "03-jan-2020",
+        "epoch": 1641168000.0,
+        "expiration_date": "03-jan-2022",
         "state": "future"
     },
     "smallcapnetwork.com": {
@@ -22277,6 +22277,11 @@
     "sovereignbank.com": {
         "epoch": 1579219200.0,
         "expiration_date": "17-jan-2020",
+        "state": "future"
+    },
+    "sp-prod.net": {
+        "epoch": 1601424000.0,
+        "expiration_date": "30-sep-2020",
         "state": "future"
     },
     "spacehits.net": {
@@ -23382,7 +23387,7 @@
     "swfstats.com": {
         "epoch": 1578009600.0,
         "expiration_date": "03-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "swiftmining.win": {
         "epoch": 1588204800.0,
@@ -25685,9 +25690,9 @@
         "state": "future"
     },
     "userneeds.dk": {
-        "epoch": 1577750400.0,
-        "expiration_date": "31-dec-2019",
-        "state": "past"
+        "epoch": 1640908800.0,
+        "expiration_date": "31-dec-2021",
+        "state": "future"
     },
     "userreplay.net": {
         "epoch": 1594857600.0,
@@ -27847,6 +27852,11 @@
     "yelp.com": {
         "epoch": 1639267200.0,
         "expiration_date": "12-dec-2021",
+        "state": "future"
+    },
+    "yext-pixel.com": {
+        "epoch": 1640908800.0,
+        "expiration_date": "31-dec-2021",
         "state": "future"
     },
     "yext.com": {
