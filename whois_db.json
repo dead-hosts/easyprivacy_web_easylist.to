@@ -1839,6 +1839,11 @@
         "expiration_date": "16-nov-2025",
         "state": "future"
     },
+    "americanexpress.com": {
+        "epoch": 1654214400.0,
+        "expiration_date": "03-jun-2022",
+        "state": "future"
+    },
     "amikay.com": {
         "epoch": 1605312000.0,
         "expiration_date": "14-nov-2020",
@@ -1880,8 +1885,8 @@
         "state": "future"
     },
     "amy.gs": {
-        "epoch": 1577923200.0,
-        "expiration_date": "02-jan-2020",
+        "epoch": 1609545600.0,
+        "expiration_date": "02-jan-2021",
         "state": "future"
     },
     "analights.com": {
@@ -7360,8 +7365,8 @@
         "state": "future"
     },
     "dp.ru": {
-        "epoch": 1577836800.0,
-        "expiration_date": "01-jan-2020",
+        "epoch": 1609459200.0,
+        "expiration_date": "01-jan-2021",
         "state": "future"
     },
     "dpbolvw.net": {
@@ -16502,7 +16507,7 @@
     "net-parade.it": {
         "epoch": 1578009600.0,
         "expiration_date": "03-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "netaffiliation.com": {
         "epoch": 1622246400.0,
