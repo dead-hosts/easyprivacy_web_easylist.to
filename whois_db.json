@@ -15999,6 +15999,11 @@
         "expiration_date": "11-jan-2020",
         "state": "future"
     },
+    "myfinance.com": {
+        "epoch": 1694995200.0,
+        "expiration_date": "18-sep-2023",
+        "state": "future"
+    },
     "myfitnesspal.com": {
         "epoch": 1763251200.0,
         "expiration_date": "16-nov-2025",
