@@ -2050,8 +2050,8 @@
         "state": "future"
     },
     "announcement.ru": {
-        "epoch": 1578096000.0,
-        "expiration_date": "04-jan-2020",
+        "epoch": 1609718400.0,
+        "expiration_date": "04-jan-2021",
         "state": "future"
     },
     "anntaylor.com": {
@@ -18372,6 +18372,11 @@
     "pingagenow.com": {
         "epoch": 1598745600.0,
         "expiration_date": "30-aug-2020",
+        "state": "future"
+    },
+    "pingclock.net": {
+        "epoch": 1594598400.0,
+        "expiration_date": "13-jul-2020",
         "state": "future"
     },
     "pingdom.net": {
