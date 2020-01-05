@@ -13,6 +13,14 @@ cloudfront.net*                                                                 
 cloudfront.net*                                                                                      SYNTAX     XXX        2020-01-05T13:19:17.605846
 cloudfront.net*                                                                                      SYNTAX     XXX        2020-01-05T13:19:17.642204
 cloudfront.net*                                                                                      SYNTAX     XXX        2020-01-05T13:19:17.725753
+collect.*.miui.com                                                                                   SYNTAX     XXX        2020-01-05T13:39:16.549036
+collector-*.elb.amazonaws.com                                                                        SYNTAX     XXX        2020-01-05T13:39:16.629361
+collector-*.tvsquared.com                                                                            SYNTAX     XXX        2020-01-05T13:39:16.701768
+datacollect*.abtasty.com                                                                             SYNTAX     XXX        2020-01-05T13:39:19.900178
+facebook.com*                                                                                        SYNTAX     XXX        2020-01-05T13:39:23.362444
+hits-*.iubenda.com                                                                                   SYNTAX     XXX        2020-01-05T13:39:28.062801
 irs01.                                                                                               SYNTAX     XXX        2020-01-05T12:57:16.165214
+log-*.previewnetworks.com                                                                            SYNTAX     XXX        2020-01-05T13:39:33.157652
+metro-trending-*.amazonaws.com                                                                       SYNTAX     XXX        2020-01-05T13:39:35.662998
 minero-proxy-*.sh                                                                                    SYNTAX     XXX        2020-01-05T12:18:13.742274
 site.flashx.                                                                                         SYNTAX     XXX        2020-01-05T12:34:18.920340
