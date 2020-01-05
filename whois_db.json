@@ -25649,6 +25649,11 @@
         "expiration_date": "02-apr-2020",
         "state": "future"
     },
+    "uptime.com": {
+        "epoch": 1685664000.0,
+        "expiration_date": "02-jun-2023",
+        "state": "future"
+    },
     "uptolike.com": {
         "epoch": 1606608000.0,
         "expiration_date": "29-nov-2020",

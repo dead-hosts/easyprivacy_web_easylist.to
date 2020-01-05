@@ -6,6 +6,7 @@ meetrics.netbb-                                                                 
 121.78.90.104:8383                                                                                   SYNTAX     XXX        2020-01-05T13:19:05.553649
 58.68.146.44:8000                                                                                    SYNTAX     XXX        2020-01-05T13:19:06.246745
 activity.*.miui.com                                                                                  SYNTAX     XXX        2020-01-05T13:19:07.001850
+aff*.kolektiva.net                                                                                   SYNTAX     XXX        2020-01-05T14:14:53.908943
 analytics-beacon-*.amazonaws.com                                                                     SYNTAX     XXX        2020-01-05T13:19:10.698638
 bc.geocities.                                                                                        SYNTAX     XXX        2020-01-05T13:19:13.855662
 bin.clearspring.*                                                                                    SYNTAX     XXX        2020-01-05T13:19:14.175341
@@ -17,6 +18,7 @@ collect.*.miui.com                                                              
 collector-*.elb.amazonaws.com                                                                        SYNTAX     XXX        2020-01-05T13:39:16.629361
 collector-*.tvsquared.com                                                                            SYNTAX     XXX        2020-01-05T13:39:16.701768
 datacollect*.abtasty.com                                                                             SYNTAX     XXX        2020-01-05T13:39:19.900178
+etwun.com:8080                                                                                       SYNTAX     XXX        2020-01-05T14:14:54.735534
 facebook.com*                                                                                        SYNTAX     XXX        2020-01-05T13:39:23.362444
 hits-*.iubenda.com                                                                                   SYNTAX     XXX        2020-01-05T13:39:28.062801
 irs01.                                                                                               SYNTAX     XXX        2020-01-05T12:57:16.165214
@@ -27,3 +29,5 @@ site.flashx.                                                                    
 targeting.*.arcpublishing.com                                                                        SYNTAX     XXX        2020-01-05T13:58:42.383416
 tracker.twenga.                                                                                      SYNTAX     XXX        2020-01-05T13:58:45.355017
 tracking.*.miui.com                                                                                  SYNTAX     XXX        2020-01-05T13:58:45.532181
+vtnlog-*.elb.amazonaws.com                                                                           SYNTAX     XXX        2020-01-05T14:14:45.116294
+yandex.*                                                                                             SYNTAX     XXX        2020-01-05T14:14:47.399718
