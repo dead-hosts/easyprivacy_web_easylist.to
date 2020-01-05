@@ -5034,6 +5034,11 @@
         "expiration_date": "06-aug-2021",
         "state": "future"
     },
+    "clickferret.com": {
+        "epoch": 1603843200.0,
+        "expiration_date": "28-oct-2020",
+        "state": "future"
+    },
     "clickforensics.com": {
         "epoch": 1581465600.0,
         "expiration_date": "12-feb-2020",
@@ -5265,8 +5270,8 @@
         "state": "future"
     },
     "cmcore.com": {
-        "epoch": 1578182400.0,
-        "expiration_date": "05-jan-2020",
+        "epoch": 1609804800.0,
+        "expiration_date": "05-jan-2021",
         "state": "future"
     },
     "cmmeglobal.com": {
@@ -5622,6 +5627,11 @@
     "connatix.com": {
         "epoch": 1604620800.0,
         "expiration_date": "06-nov-2020",
+        "state": "future"
+    },
+    "connectif.cloud": {
+        "epoch": 1586476800.0,
+        "expiration_date": "10-apr-2020",
         "state": "future"
     },
     "consciouschairs.com": {
