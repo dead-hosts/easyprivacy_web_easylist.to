@@ -11062,7 +11062,7 @@
     "hgcdn.net": {
         "epoch": 1578355200.0,
         "expiration_date": "07-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "hh.ru": {
         "epoch": 1588377600.0,
@@ -13880,8 +13880,8 @@
         "state": "future"
     },
     "letv.com": {
-        "epoch": 1578355200.0,
-        "expiration_date": "07-jan-2020",
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
         "state": "future"
     },
     "levelbehavior.com": {
@@ -17735,8 +17735,8 @@
         "state": "future"
     },
     "orb.ee": {
-        "epoch": 1578355200.0,
-        "expiration_date": "07-jan-2020",
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
         "state": "future"
     },
     "orcapia.com": {
