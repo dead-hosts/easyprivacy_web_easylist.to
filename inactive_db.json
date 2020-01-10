@@ -8882,7 +8882,6 @@
         },
         "1578434046": {
             "data.fotorama.io": "INACTIVE",
-            "datacollect*.abtasty.com": "INVALID",
             "datam8.co.nz": "INACTIVE",
             "dfdbz2tdq3k01.cloudfront.net": "INACTIVE"
         },
@@ -8907,8 +8906,7 @@
             "event.previewnetworks.com": "INACTIVE",
             "event.trove.com": "INACTIVE",
             "eventlog.inspsearch.com": "INACTIVE",
-            "events.marquee-cdn.net": "INACTIVE",
-            "facebook.com*": "INVALID"
+            "events.marquee-cdn.net": "INACTIVE"
         },
         "1578434050": {
             "fastcounter.bcentral.com": "INACTIVE",
@@ -8928,7 +8926,6 @@
             "goals.ar.gy": "INACTIVE"
         },
         "1578434054": {
-            "hits-*.iubenda.com": "INVALID",
             "i-stats.ieurop.net": "INACTIVE"
         },
         "1578434055": {
@@ -8953,7 +8950,6 @@
             "link.tym.cool": "INACTIVE"
         },
         "1578434059": {
-            "log-*.previewnetworks.com": "INVALID",
             "log.aliyuncs.com": "INACTIVE",
             "log.ideamelt.com": "INACTIVE",
             "log.liverail.com": "INACTIVE",
@@ -8965,62 +8961,6 @@
             "logssl.enquisite.com": "INACTIVE",
             "longurl.it": "INACTIVE",
             "lp.vadio.com": "INACTIVE"
-        },
-        "1578434061": {
-            "marketinghub.hp.com": "INACTIVE",
-            "mc.webvisor.ru": "INACTIVE"
-        },
-        "1578434062": {
-            "mediapartner.bigpoint.net": "INACTIVE",
-            "metrics.chmedia.com": "INACTIVE",
-            "metrics.loomia.com": "INACTIVE",
-            "metro-trending-*.amazonaws.com": "INVALID",
-            "mint.good.is": "INACTIVE",
-            "mitel.marketbright.com": "INACTIVE",
-            "mmpstats.mirror-image.com": "INACTIVE",
-            "mp.pianomedia.eu": "INACTIVE"
-        },
-        "1578434063": {
-            "mtrcs.samba.tv": "INACTIVE"
-        },
-        "1578434064": {
-            "newsletters.infoworld.com": "INACTIVE",
-            "nonxt1.c.youtube.com": "INACTIVE",
-            "offermatica.intuit.com": "INACTIVE",
-            "offers.keynote.com": "INACTIVE",
-            "om.1and1.co.uk": "INACTIVE"
-        },
-        "1578434065": {
-            "optimera.elasticbeanstalk.com": "INACTIVE",
-            "p.dsero.net": "INACTIVE",
-            "pageview.goroost.com": "INACTIVE",
-            "partners.thefilter.com": "INACTIVE"
-        },
-        "1578434066": {
-            "peermapcontent.affino.com": "INACTIVE",
-            "pf.aclst.com": "INACTIVE",
-            "pg.buzzfeed.com": "INACTIVE",
-            "piano-media.com": "INACTIVE"
-        },
-        "1578434067": {
-            "pianomedia.biz": "INACTIVE",
-            "ping.aclst.com": "INACTIVE",
-            "ping.rasset.ie": "INACTIVE",
-            "pings.reembed.com": "INACTIVE",
-            "pixel-xpanama.netdna-ssl.com": "INACTIVE",
-            "pixel.colorupmedia.com": "INACTIVE",
-            "pixel.newsdata.com.au": "INACTIVE",
-            "pixel.usrsync.com": "INACTIVE",
-            "pixels.youknowbest.com": "INACTIVE",
-            "pong.production.gannettdigital.com": "INACTIVE"
-        },
-        "1578434772": {
-            "production-eqbc.lvp.llnw.net": "INACTIVE"
-        },
-        "1578434773": {
-            "px.247inc.net": "INACTIVE",
-            "px.reactrmod.com": "INACTIVE",
-            "qos.video.yimg.com": "INACTIVE"
         },
         "1578434775": {
             "report.downloastar.com": "INACTIVE",
@@ -10273,6 +10213,77 @@
             "collect.*.miui.com": "INVALID",
             "collector-*.elb.amazonaws.com": "INVALID",
             "collector-*.tvsquared.com": "INVALID"
+        },
+        "1578692560": {
+            "datacollect*.abtasty.com": "INVALID"
+        },
+        "1578692563": {
+            "facebook.com*": "INVALID"
+        },
+        "1578692567": {
+            "hits-*.iubenda.com": "INVALID"
+        },
+        "1578692572": {
+            "log-*.previewnetworks.com": "INVALID"
+        },
+        "1578692573": {
+            "marketinghub.hp.com": "INACTIVE"
+        },
+        "1578692574": {
+            "mc.webvisor.ru": "INACTIVE",
+            "mediapartner.bigpoint.net": "INACTIVE",
+            "metrics.chmedia.com": "INACTIVE",
+            "metrics.loomia.com": "INACTIVE",
+            "metro-trending-*.amazonaws.com": "INVALID"
+        },
+        "1578692575": {
+            "mint.good.is": "INACTIVE",
+            "mitel.marketbright.com": "INACTIVE",
+            "mmpstats.mirror-image.com": "INACTIVE",
+            "mp.pianomedia.eu": "INACTIVE",
+            "mtrcs.samba.tv": "INACTIVE"
+        },
+        "1578692576": {
+            "newsletters.infoworld.com": "INACTIVE"
+        },
+        "1578692577": {
+            "nonxt1.c.youtube.com": "INACTIVE",
+            "offermatica.intuit.com": "INACTIVE",
+            "offers.keynote.com": "INACTIVE",
+            "om.1and1.co.uk": "INACTIVE"
+        },
+        "1578692578": {
+            "optimera.elasticbeanstalk.com": "INACTIVE",
+            "p.dsero.net": "INACTIVE",
+            "pageview.goroost.com": "INACTIVE",
+            "partners.thefilter.com": "INACTIVE"
+        },
+        "1578692579": {
+            "peermapcontent.affino.com": "INACTIVE",
+            "pf.aclst.com": "INACTIVE",
+            "pg.buzzfeed.com": "INACTIVE",
+            "piano-media.com": "INACTIVE",
+            "pianomedia.biz": "INACTIVE",
+            "ping.aclst.com": "INACTIVE",
+            "ping.rasset.ie": "INACTIVE",
+            "pings.reembed.com": "INACTIVE"
+        },
+        "1578692580": {
+            "pixel-xpanama.netdna-ssl.com": "INACTIVE",
+            "pixel.colorupmedia.com": "INACTIVE",
+            "pixel.newsdata.com.au": "INACTIVE",
+            "pixel.usrsync.com": "INACTIVE",
+            "pixel.vmm-satellite2.com": "INACTIVE",
+            "pixels.youknowbest.com": "INACTIVE",
+            "pong.production.gannettdigital.com": "INACTIVE"
+        },
+        "1578692581": {
+            "production-eqbc.lvp.llnw.net": "INACTIVE",
+            "px.247inc.net": "INACTIVE",
+            "px.reactrmod.com": "INACTIVE"
+        },
+        "1578692582": {
+            "qos.video.yimg.com": "INACTIVE"
         }
     }
 }
