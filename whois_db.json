@@ -1860,8 +1860,8 @@
         "state": "future"
     },
     "amplitude.com": {
-        "epoch": 1578614400.0,
-        "expiration_date": "10-jan-2020",
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
         "state": "future"
     },
     "ampproject.org": {
@@ -1947,6 +1947,11 @@
     "analyticsip.net": {
         "epoch": 1604707200.0,
         "expiration_date": "07-nov-2020",
+        "state": "future"
+    },
+    "analyticson.com": {
+        "epoch": 1607990400.0,
+        "expiration_date": "15-dec-2020",
         "state": "future"
     },
     "analyticswizard.com": {
@@ -4550,8 +4555,8 @@
         "state": "future"
     },
     "cbtrk.net": {
-        "epoch": 1578441600.0,
-        "expiration_date": "08-jan-2020",
+        "epoch": 1610064000.0,
+        "expiration_date": "08-jan-2021",
         "state": "future"
     },
     "cccpmo.com": {
@@ -4567,6 +4572,11 @@
     "ccrtvi.com": {
         "epoch": 1603584000.0,
         "expiration_date": "25-oct-2020",
+        "state": "future"
+    },
+    "ccscserver.com": {
+        "epoch": 1596326400.0,
+        "expiration_date": "02-aug-2020",
         "state": "future"
     },
     "cctv.com": {
@@ -4645,9 +4655,9 @@
         "state": "future"
     },
     "cedexis.net": {
-        "epoch": 1578355200.0,
-        "expiration_date": "07-jan-2020",
-        "state": "past"
+        "epoch": 1641513600.0,
+        "expiration_date": "07-jan-2022",
+        "state": "future"
     },
     "celebros-analytics.com": {
         "epoch": 1605484800.0,
@@ -4705,8 +4715,8 @@
         "state": "future"
     },
     "cetrk.com": {
-        "epoch": 1578441600.0,
-        "expiration_date": "08-jan-2020",
+        "epoch": 1641600000.0,
+        "expiration_date": "08-jan-2022",
         "state": "future"
     },
     "cfcdist.gdn": {
@@ -5332,7 +5342,7 @@
     "cnt1.net": {
         "epoch": 1578614400.0,
         "expiration_date": "10-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "cnxweb.com": {
         "epoch": 1596844800.0,
@@ -5570,8 +5580,8 @@
         "state": "future"
     },
     "compteur.cc": {
-        "epoch": 1578441600.0,
-        "expiration_date": "08-jan-2020",
+        "epoch": 1610064000.0,
+        "expiration_date": "08-jan-2021",
         "state": "future"
     },
     "compteur.com": {
@@ -6460,9 +6470,9 @@
         "state": "future"
     },
     "cxt.ms": {
-        "epoch": 1575590400.0,
-        "expiration_date": "06-dec-2019",
-        "state": "past"
+        "epoch": 1610064000.0,
+        "expiration_date": "08-jan-2021",
+        "state": "future"
     },
     "cya1t.net": {
         "epoch": 1581638400.0,

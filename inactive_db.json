@@ -8329,23 +8329,13 @@
             "worker.salon.com": "INACTIVE"
         },
         "1578428306": {
-            "0tracker.com": "INACTIVE",
-            "meetrics.netbb-": "INVALID"
+            "0tracker.com": "INACTIVE"
         },
         "1578428307": {
-            "100im.info": "INACTIVE",
-            "149.13.65.144": "INACTIVE",
-            "195.10.245.55": "INACTIVE",
-            "208.88.226.75": "INACTIVE",
-            "212.227.100.108": "INACTIVE",
-            "216.18.184.18": "INACTIVE"
+            "100im.info": "INACTIVE"
         },
         "1578428308": {
-            "50greyofsha.de": "INACTIVE",
-            "62.160.52.73": "INACTIVE"
-        },
-        "1578428309": {
-            "72.172.88.25": "INACTIVE"
+            "50greyofsha.de": "INACTIVE"
         },
         "1578428310": {
             "access-traffic.com": "INACTIVE",
@@ -10231,6 +10221,20 @@
         "1578440553": {
             "analytics.thevideo.me": "INACTIVE",
             "dv0.info": "INACTIVE"
+        },
+        "1578687323": {
+            "149.13.65.144": "INACTIVE",
+            "195.10.245.55": "INACTIVE",
+            "meetrics.netbb-": "INVALID"
+        },
+        "1578687324": {
+            "208.88.226.75": "INACTIVE",
+            "212.227.100.108": "INACTIVE",
+            "216.18.184.18": "INACTIVE"
+        },
+        "1578687325": {
+            "62.160.52.73": "INACTIVE",
+            "72.172.88.25": "INACTIVE"
         }
     }
 }
