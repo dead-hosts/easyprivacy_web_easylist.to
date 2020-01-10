@@ -5490,8 +5490,13 @@
         "state": "future"
     },
     "coinwebmining.com": {
-        "epoch": 1578528000.0,
-        "expiration_date": "09-jan-2020",
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
+        "state": "future"
+    },
+    "coinzillatag.com": {
+        "epoch": 1593475200.0,
+        "expiration_date": "30-jun-2020",
         "state": "future"
     },
     "coll1onf.com": {
@@ -23752,7 +23757,7 @@
     "tapfiliate.com": {
         "epoch": 1578614400.0,
         "expiration_date": "10-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "taplytics.com": {
         "epoch": 1600646400.0,
@@ -24720,8 +24725,8 @@
         "state": "future"
     },
     "track-server-100.com": {
-        "epoch": 1578441600.0,
-        "expiration_date": "08-jan-2020",
+        "epoch": 1610064000.0,
+        "expiration_date": "08-jan-2021",
         "state": "future"
     },
     "track-web.net": {
@@ -26564,6 +26569,11 @@
         "expiration_date": "13-nov-2022",
         "state": "future"
     },
+    "visx.net": {
+        "epoch": 1603756800.0,
+        "expiration_date": "27-oct-2020",
+        "state": "future"
+    },
     "vitacost.com": {
         "epoch": 1620259200.0,
         "expiration_date": "06-may-2021",
@@ -26865,8 +26875,8 @@
         "state": "future"
     },
     "waplog.net": {
-        "epoch": 1578528000.0,
-        "expiration_date": "09-jan-2020",
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
         "state": "future"
     },
     "warlog.ru": {
@@ -27565,8 +27575,8 @@
         "state": "future"
     },
     "wishloop.com": {
-        "epoch": 1578441600.0,
-        "expiration_date": "08-jan-2020",
+        "epoch": 1610064000.0,
+        "expiration_date": "08-jan-2021",
         "state": "future"
     },
     "withcubed.com": {
@@ -28532,6 +28542,11 @@
     "zqtk.net": {
         "epoch": 1592956800.0,
         "expiration_date": "24-jun-2020",
+        "state": "future"
+    },
+    "zroitracker.com": {
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
         "state": "future"
     },
     "zt-dst.com": {
