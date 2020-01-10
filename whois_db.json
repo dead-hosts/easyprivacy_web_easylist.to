@@ -16075,8 +16075,8 @@
         "state": "future"
     },
     "mybloglog.com": {
-        "epoch": 1578528000.0,
-        "expiration_date": "09-jan-2020",
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
         "state": "future"
     },
     "myblueday.com": {
@@ -17144,6 +17144,11 @@
         "expiration_date": "21-apr-2021",
         "state": "future"
     },
+    "ns8ds.com": {
+        "epoch": 1580688000.0,
+        "expiration_date": "03-feb-2020",
+        "state": "future"
+    },
     "nsaudience.pl": {
         "epoch": 1584576000.0,
         "expiration_date": "19-mar-2020",
@@ -17787,6 +17792,11 @@
     "oscars.org": {
         "epoch": 1606521600.0,
         "expiration_date": "28-nov-2020",
+        "state": "future"
+    },
+    "osdata.solutions": {
+        "epoch": 1582848000.0,
+        "expiration_date": "28-feb-2020",
         "state": "future"
     },
     "ositracker.com": {
@@ -19400,8 +19410,8 @@
         "state": "future"
     },
     "qbaka.net": {
-        "epoch": 1578614400.0,
-        "expiration_date": "10-jan-2020",
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
         "state": "future"
     },
     "qbn.com": {
@@ -20405,8 +20415,8 @@
         "state": "future"
     },
     "rightmoveanalytics.co.uk": {
-        "epoch": 1578528000.0,
-        "expiration_date": "09-jan-2020",
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
         "state": "future"
     },
     "rightstats.com": {
@@ -20950,8 +20960,8 @@
         "state": "future"
     },
     "sbdtds.com": {
-        "epoch": 1578528000.0,
-        "expiration_date": "09-jan-2020",
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
         "state": "future"
     },
     "sc-static.net": {
@@ -21120,8 +21130,8 @@
         "state": "future"
     },
     "searchplow.com": {
-        "epoch": 1578528000.0,
-        "expiration_date": "09-jan-2020",
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
         "state": "future"
     },
     "searchyc-naity.ru": {
@@ -21240,8 +21250,8 @@
         "state": "future"
     },
     "selaris.com": {
-        "epoch": 1578441600.0,
-        "expiration_date": "08-jan-2020",
+        "epoch": 1610064000.0,
+        "expiration_date": "08-jan-2021",
         "state": "future"
     },
     "selectivesummer.com": {
