@@ -3,6 +3,19 @@
 
 Subject                                                                                              Source     HTTP Code  Analyze Date        
 meetrics.netbb-                                                                                      SYNTAX     XXX        2020-01-10T20:15:23.454715
+121.78.90.104:8383                                                                                   SYNTAX     XXX        2020-01-10T21:31:00.974475
+58.68.146.44:8000                                                                                    SYNTAX     XXX        2020-01-10T21:31:01.605529
+activity.*.miui.com                                                                                  SYNTAX     XXX        2020-01-10T21:31:02.274356
+analytics-beacon-*.amazonaws.com                                                                     SYNTAX     XXX        2020-01-10T21:31:05.959089
+bc.geocities.                                                                                        SYNTAX     XXX        2020-01-10T21:31:08.600769
+bin.clearspring.*                                                                                    SYNTAX     XXX        2020-01-10T21:31:08.824752
+cloudfront.net*                                                                                      SYNTAX     XXX        2020-01-10T21:31:11.823269
+cloudfront.net*                                                                                      SYNTAX     XXX        2020-01-10T21:31:11.861286
+cloudfront.net*                                                                                      SYNTAX     XXX        2020-01-10T21:31:11.899186
+cloudfront.net*                                                                                      SYNTAX     XXX        2020-01-10T21:31:11.937363
+collect.*.miui.com                                                                                   SYNTAX     XXX        2020-01-10T21:31:14.038948
+collector-*.elb.amazonaws.com                                                                        SYNTAX     XXX        2020-01-10T21:31:14.086085
+collector-*.tvsquared.com                                                                            SYNTAX     XXX        2020-01-10T21:31:14.127282
 irs01.                                                                                               SYNTAX     XXX        2020-01-10T21:19:12.262990
 minero-proxy-*.sh                                                                                    SYNTAX     XXX        2020-01-10T21:07:16.256811
 site.flashx.                                                                                         SYNTAX     XXX        2020-01-10T21:07:22.015740
