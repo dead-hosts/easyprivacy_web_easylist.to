@@ -9180,18 +9180,13 @@
         },
         "1578439986": {
             "accn.allocine.net": "INACTIVE",
-            "analytics.rtbf.be": "INACTIVE",
-            "xara.hse24.de": "INACTIVE"
+            "analytics.rtbf.be": "INACTIVE"
         },
         "1578439987": {
             "dm.hugolescargot.com": "INACTIVE",
             "dm.journaldesfemmes.com": "INACTIVE",
             "gstat.orange.fr": "INACTIVE",
             "hit.leboncoin.fr": "INACTIVE"
-        },
-        "1578439988": {
-            "ovni9.com": "INACTIVE",
-            "wawacity.*": "INVALID"
         },
         "1578439989": {
             "analytics.126.net": "INACTIVE",
@@ -9208,27 +9203,8 @@
             "hk.ndx.nextmedia.com": "INACTIVE"
         },
         "1578439991": {
-            "log*.ku6.com": "INVALID",
             "log.ynet.com": "INACTIVE",
-            "logs.live.tudou.com": "INACTIVE",
-            "nstat.tudou.com": "INACTIVE",
-            "pv.csdn.net": "INACTIVE",
-            "ranking.ynet.com": "INACTIVE"
-        },
-        "1578440528": {
-            "st.vq.ku6.cn": "INACTIVE",
-            "sta.ifeng.com": "INACTIVE",
-            "stat.bilibili.tv": "INACTIVE",
-            "stat.ku6.com": "INACTIVE",
-            "stat.pptv.com": "INACTIVE",
-            "stat.tudou.com": "INACTIVE",
-            "stat.xunlei.com": "INACTIVE",
-            "stats.tudou.com": "INACTIVE"
-        },
-        "1578440529": {
-            "tinglog.baidu.com": "INACTIVE",
-            "tracker.live.tudou.com": "INACTIVE",
-            "webclick.yeshj.com": "INACTIVE"
+            "logs.live.tudou.com": "INACTIVE"
         },
         "1578440530": {
             "events.walla.co.il": "INACTIVE"
@@ -9238,22 +9214,14 @@
         },
         "1578440533": {
             "e-spy.petit.lv": "INACTIVE",
-            "gather.hankyung.com": "INACTIVE",
-            "visit.geocities.jp": "INACTIVE"
+            "gather.hankyung.com": "INACTIVE"
         },
         "1578440534": {
             "fusion.nettavisen.no": "INACTIVE",
-            "log.r7.com": "INACTIVE",
-            "sapo.*": "INVALID"
-        },
-        "1578440536": {
-            "stat.lenta.ru": "INACTIVE",
-            "stat.woman-announce.ru": "INACTIVE",
-            "stats.lifenews.ru": "INACTIVE"
+            "log.r7.com": "INACTIVE"
         },
         "1578440537": {
-            "stats.milenio.com": "INACTIVE",
-            "trak-analytics.blic.rs": "INACTIVE"
+            "stats.milenio.com": "INACTIVE"
         },
         "1578440538": {
             "beacon.mtgx.tv": "INACTIVE",
@@ -10329,6 +10297,50 @@
             "tracking.netbank.de": "INACTIVE",
             "ts.otto.de": "INACTIVE",
             "tvcommunity.at": "INACTIVE"
+        },
+        "1578697711": {
+            "xara.hse24.de": "INACTIVE"
+        },
+        "1578697712": {
+            "ovni9.com": "INACTIVE"
+        },
+        "1578697713": {
+            "wawacity.*": "INVALID"
+        },
+        "1578697715": {
+            "log*.ku6.com": "INVALID",
+            "nstat.tudou.com": "INACTIVE"
+        },
+        "1578697716": {
+            "pv.csdn.net": "INACTIVE",
+            "ranking.ynet.com": "INACTIVE",
+            "st.vq.ku6.cn": "INACTIVE",
+            "sta.ifeng.com": "INACTIVE",
+            "stat.bilibili.tv": "INACTIVE",
+            "stat.ku6.com": "INACTIVE",
+            "stat.pptv.com": "INACTIVE",
+            "stat.tudou.com": "INACTIVE"
+        },
+        "1578697717": {
+            "stat.xunlei.com": "INACTIVE",
+            "stats.tudou.com": "INACTIVE",
+            "tinglog.baidu.com": "INACTIVE",
+            "tracker.live.tudou.com": "INACTIVE",
+            "webclick.yeshj.com": "INACTIVE"
+        },
+        "1578697721": {
+            "visit.geocities.jp": "INACTIVE"
+        },
+        "1578697722": {
+            "sapo.*": "INVALID"
+        },
+        "1578697724": {
+            "stat.lenta.ru": "INACTIVE",
+            "stat.woman-announce.ru": "INACTIVE",
+            "stats.lifenews.ru": "INACTIVE"
+        },
+        "1578697725": {
+            "trak-analytics.blic.rs": "INACTIVE"
         }
     }
 }
