@@ -8888,11 +8888,9 @@
             "tracker.neon-lab.com": "INACTIVE",
             "tracker.seoboost.net": "INACTIVE",
             "tracker.streamroot.io": "INACTIVE",
-            "tracker.twenga.": "INVALID",
             "tracker.u-link.me": "INACTIVE",
             "tracker.vreveal.com": "INACTIVE",
-            "tracker2.apollo-mail.net": "INACTIVE",
-            "tracking.*.miui.com": "INVALID"
+            "tracker2.apollo-mail.net": "INACTIVE"
         },
         "1578693307": {
             "tracking.allposters.com": "INACTIVE",
@@ -8927,7 +8925,6 @@
             "vrt.outbrain.com": "INACTIVE"
         },
         "1578694003": {
-            "vtnlog-*.elb.amazonaws.com": "INVALID",
             "watch.teroti.com": "INACTIVE",
             "webeffective.keynote.com": "INACTIVE",
             "webstats.seoinc.com": "INACTIVE",
@@ -8938,16 +8935,10 @@
             "wsb.aracert.com": "INACTIVE",
             "wunderloop.aol.co.uk": "INACTIVE",
             "wvnetworkmedia.org": "INACTIVE",
-            "yandex.*": "INVALID",
             "yapi.awe.sm": "INACTIVE",
             "ys.ddns.me": "INACTIVE"
         },
         "1578694007": {
-            "kontextr.eu": "INACTIVE",
-            "met.vgwort.de": "INACTIVE",
-            "pix.news.at": "INACTIVE",
-            "pixel.holtzbrinckdigital.info": "INACTIVE",
-            "pixel.nbsp.de": "INACTIVE",
             "sett.i12.de": "INACTIVE"
         },
         "1578694008": {
@@ -8965,17 +8956,10 @@
             "traffic.brand-wall.net": "INACTIVE"
         },
         "1578694009": {
-            "179.43.173.134": "INACTIVE",
-            "46.101.168.189": "INACTIVE",
-            "46.101.246.10": "INACTIVE",
             "wrmwb.7val.com": "INACTIVE"
         },
         "1578694010": {
-            "nvc.n1bus-exp.com": "INACTIVE",
             "t.planvip.fr": "INACTIVE"
-        },
-        "1578694011": {
-            "aff*.kolektiva.net": "INVALID"
         },
         "1578694012": {
             "etwun.com:8080": "INVALID",
@@ -10108,6 +10092,36 @@
         },
         "1578952618": {
             "targeting.*.arcpublishing.com": "INVALID"
+        },
+        "1578953691": {
+            "tracker.twenga.": "INVALID",
+            "tracking.*.miui.com": "INVALID"
+        },
+        "1578953695": {
+            "vtnlog-*.elb.amazonaws.com": "INVALID"
+        },
+        "1578953697": {
+            "yandex.*": "INVALID"
+        },
+        "1578953699": {
+            "kontextr.eu": "INACTIVE",
+            "met.vgwort.de": "INACTIVE"
+        },
+        "1578953700": {
+            "pix.news.at": "INACTIVE",
+            "pixel.holtzbrinckdigital.info": "INACTIVE",
+            "pixel.nbsp.de": "INACTIVE"
+        },
+        "1578953701": {
+            "179.43.173.134": "INACTIVE",
+            "46.101.168.189": "INACTIVE",
+            "46.101.246.10": "INACTIVE"
+        },
+        "1578953702": {
+            "nvc.n1bus-exp.com": "INACTIVE"
+        },
+        "1578953703": {
+            "aff*.kolektiva.net": "INVALID"
         }
     }
 }

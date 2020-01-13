@@ -6,6 +6,7 @@ meetrics.netbb-                                                                 
 121.78.90.104:8383                                                                                   SYNTAX     XXX        2020-01-13T21:25:53.730765
 58.68.146.44:8000                                                                                    SYNTAX     XXX        2020-01-13T21:25:54.369518
 activity.*.miui.com                                                                                  SYNTAX     XXX        2020-01-13T21:43:41.771797
+aff*.kolektiva.net                                                                                   SYNTAX     XXX        2020-01-13T22:15:03.288028
 analytics-beacon-*.amazonaws.com                                                                     SYNTAX     XXX        2020-01-13T21:43:45.420889
 bc.geocities.                                                                                        SYNTAX     XXX        2020-01-13T21:43:48.105268
 bin.clearspring.*                                                                                    SYNTAX     XXX        2020-01-13T21:43:48.315100
@@ -25,3 +26,7 @@ metro-trending-*.amazonaws.com                                                  
 minero-proxy-*.sh                                                                                    SYNTAX     XXX        2020-01-13T21:09:58.771647
 site.flashx.                                                                                         SYNTAX     XXX        2020-01-13T21:10:02.221141
 targeting.*.arcpublishing.com                                                                        SYNTAX     XXX        2020-01-13T21:56:58.209891
+tracker.twenga.                                                                                      SYNTAX     XXX        2020-01-13T22:14:51.738746
+tracking.*.miui.com                                                                                  SYNTAX     XXX        2020-01-13T22:14:51.796896
+vtnlog-*.elb.amazonaws.com                                                                           SYNTAX     XXX        2020-01-13T22:14:55.875040
+yandex.*                                                                                             SYNTAX     XXX        2020-01-13T22:14:57.914919

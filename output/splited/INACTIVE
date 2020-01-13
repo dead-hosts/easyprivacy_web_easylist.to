@@ -5,6 +5,7 @@ Subject                                                                         
 149.13.65.144                                                                                        Unknown                             INACTIVE    DNSLOOKUP  XXX        2020-01-13T20:17:01.225867
 195.10.245.55                                                                                        Unknown                             INACTIVE    DNSLOOKUP  XXX        2020-01-13T20:17:01.407857
 109.169.66.161                                                                                       Unknown                             INACTIVE    DNSLOOKUP  XXX        2020-01-13T21:25:45.138444
+179.43.173.134                                                                                       Unknown                             INACTIVE    DNSLOOKUP  XXX        2020-01-13T22:15:01.161832
 185.165.169.108                                                                                      Unknown                             INACTIVE    DNSLOOKUP  XXX        2020-01-13T20:56:57.965655
 193.197.158.209                                                                                      Unknown                             INACTIVE    DNSLOOKUP  XXX        2020-01-13T21:10:11.943186
 195.182.58.105                                                                                       Unknown                             INACTIVE    DNSLOOKUP  XXX        2020-01-13T21:25:53.816603
@@ -17,6 +18,8 @@ Subject                                                                         
 216.18.176.4                                                                                         Unknown                             INACTIVE    DNSLOOKUP  XXX        2020-01-13T21:25:53.949097
 216.18.184.18                                                                                        Unknown                             INACTIVE    DNSLOOKUP  XXX        2020-01-13T20:17:01.760635
 219.232.238.60                                                                                       Unknown                             INACTIVE    DNSLOOKUP  XXX        2020-01-13T21:25:54.029269
+46.101.168.189                                                                                       Unknown                             INACTIVE    DNSLOOKUP  XXX        2020-01-13T22:15:01.241875
+46.101.246.10                                                                                        Unknown                             INACTIVE    DNSLOOKUP  XXX        2020-01-13T22:15:01.201760
 61.129.118.83                                                                                        Unknown                             INACTIVE    DNSLOOKUP  XXX        2020-01-13T21:25:54.407668
 62.160.52.73                                                                                         Unknown                             INACTIVE    DNSLOOKUP  XXX        2020-01-13T20:17:02.782003
 62.219.24.238                                                                                        Unknown                             INACTIVE    DNSLOOKUP  XXX        2020-01-13T21:25:54.543948
@@ -26,6 +29,7 @@ Subject                                                                         
 analytics.edgekey.net                                                                                whois.verisign-grs.com              INACTIVE    DNSLOOKUP  XXX        2020-01-13T21:43:45.548700
 analytics.edgesuite.net                                                                              whois.verisign-grs.com              INACTIVE    DNSLOOKUP  XXX        2020-01-13T21:43:45.585918
 analytics.r17.com                                                                                    whois.verisign-grs.com              INACTIVE    DNSLOOKUP  XXX        2020-01-13T21:43:45.706869
+kontextr.eu                                                                                          whois.eu                            INACTIVE    DNSLOOKUP  XXX        2020-01-13T22:14:59.910960
 marketinghub.hp.com                                                                                  whois.verisign-grs.com              INACTIVE    DNSLOOKUP  XXX        2020-01-13T21:56:43.329926
 mc.webvisor.ru                                                                                       whois.tcinet.ru                     INACTIVE    DNSLOOKUP  XXX        2020-01-13T21:56:43.776609
 mediaindex.ee                                                                                        whois.tld.ee                        INACTIVE    DNSLOOKUP  XXX        2020-01-13T21:25:36.330855
@@ -34,6 +38,7 @@ megastat.net                                                                    
 melatstat.com                                                                                        whois.verisign-grs.com              INACTIVE    DNSLOOKUP  XXX        2020-01-13T21:25:42.483452
 metrics.chmedia.com                                                                                  whois.verisign-grs.com              INACTIVE    DNSLOOKUP  XXX        2020-01-13T21:56:44.397249
 metrics.loomia.com                                                                                   whois.verisign-grs.com              INACTIVE    DNSLOOKUP  XXX        2020-01-13T21:56:44.447754
+met.vgwort.de                                                                                        whois.denic.de                      INACTIVE    DNSLOOKUP  XXX        2020-01-13T22:15:00.005169
 mint.good.is                                                                                         whois.isnic.is                      INACTIVE    DNSLOOKUP  XXX        2020-01-13T21:56:44.553437
 mitel.marketbright.com                                                                               whois.verisign-grs.com              INACTIVE    DNSLOOKUP  XXX        2020-01-13T21:56:44.591857
 mmpstats.mirror-image.com                                                                            whois.verisign-grs.com              INACTIVE    DNSLOOKUP  XXX        2020-01-13T21:56:44.798563
@@ -42,6 +47,7 @@ mtrcs.samba.tv                                                                  
 ncdnprorogeraie.lol                                                                                  whois.uniregistry.net               INACTIVE    DNSLOOKUP  XXX        2020-01-13T21:10:19.844560
 newsletters.infoworld.com                                                                            whois.verisign-grs.com              INACTIVE    DNSLOOKUP  XXX        2020-01-13T21:56:46.455638
 nonxt1.c.youtube.com                                                                                 whois.verisign-grs.com              INACTIVE    DNSLOOKUP  XXX        2020-01-13T21:56:46.704561
+nvc.n1bus-exp.com                                                                                    whois.verisign-grs.com              INACTIVE    DNSLOOKUP  XXX        2020-01-13T22:15:02.395397
 offermatica.intuit.com                                                                               whois.verisign-grs.com              INACTIVE    DNSLOOKUP  XXX        2020-01-13T21:56:47.035864
 offers.keynote.com                                                                                   whois.verisign-grs.com              INACTIVE    DNSLOOKUP  XXX        2020-01-13T21:56:47.075652
 om.1and1.co.uk                                                                                       whois.nic.uk                        INACTIVE    DNSLOOKUP  XXX        2020-01-13T21:56:47.167197
@@ -62,10 +68,13 @@ ping.aclst.com                                                                  
 ping.rasset.ie                                                                                       whois.iedr.ie                       INACTIVE    DNSLOOKUP  XXX        2020-01-13T21:56:49.450257
 pings.reembed.com                                                                                    whois.verisign-grs.com              INACTIVE    DNSLOOKUP  XXX        2020-01-13T21:56:49.496472
 pixel.colorupmedia.com                                                                               whois.verisign-grs.com              INACTIVE    DNSLOOKUP  XXX        2020-01-13T21:56:49.605938
+pixel.holtzbrinckdigital.info                                                                        whois.afilias.net                   INACTIVE    DNSLOOKUP  XXX        2020-01-13T22:15:00.250544
+pixel.nbsp.de                                                                                        whois.denic.de                      INACTIVE    DNSLOOKUP  XXX        2020-01-13T22:15:00.334687
 pixel.newsdata.com.au                                                                                whois.auda.org.au                   INACTIVE    DNSLOOKUP  XXX        2020-01-13T21:56:49.664369
 pixels.youknowbest.com                                                                               whois.verisign-grs.com              INACTIVE    DNSLOOKUP  XXX        2020-01-13T21:56:49.855892
 pixel.usrsync.com                                                                                    whois.verisign-grs.com              INACTIVE    DNSLOOKUP  XXX        2020-01-13T21:56:49.725487
 pixel-xpanama.netdna-ssl.com                                                                         whois.verisign-grs.com              INACTIVE    DNSLOOKUP  XXX        2020-01-13T21:56:49.559119
+pix.news.at                                                                                          whois.nic.at                        INACTIVE    DNSLOOKUP  XXX        2020-01-13T22:15:00.290555
 pong.production.gannettdigital.com                                                                   whois.verisign-grs.com              INACTIVE    DNSLOOKUP  XXX        2020-01-13T21:56:50.132982
 popstats.com.br                                                                                      whois.registro.br                   INACTIVE    DNSLOOKUP  XXX        2020-01-13T21:25:44.417100
 production-eqbc.lvp.llnw.net                                                                         whois.verisign-grs.com              INACTIVE    DNSLOOKUP  XXX        2020-01-13T21:56:50.642406
