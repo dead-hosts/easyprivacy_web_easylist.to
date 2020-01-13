@@ -16039,9 +16039,19 @@
         "expiration_date": "17-oct-2020",
         "state": "future"
     },
+    "mutinycdn.com": {
+        "epoch": 1582156800.0,
+        "expiration_date": "20-feb-2020",
+        "state": "future"
+    },
     "mutinyhq.com": {
         "epoch": 1586131200.0,
         "expiration_date": "06-apr-2020",
+        "state": "future"
+    },
+    "mutinyhq.io": {
+        "epoch": 1604275200.0,
+        "expiration_date": "02-nov-2020",
         "state": "future"
     },
     "mvilivestats.com": {
@@ -16102,7 +16112,7 @@
     "myaffiliateprogram.com": {
         "epoch": 1578873600.0,
         "expiration_date": "13-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "myanimelist.net": {
         "epoch": 1585699200.0,
@@ -16145,8 +16155,8 @@
         "state": "future"
     },
     "myfastcounter.com": {
-        "epoch": 1578700800.0,
-        "expiration_date": "11-jan-2020",
+        "epoch": 1610323200.0,
+        "expiration_date": "11-jan-2021",
         "state": "future"
     },
     "myfinance.com": {
@@ -17730,8 +17740,8 @@
         "state": "future"
     },
     "optimizely.com": {
-        "epoch": 1578700800.0,
-        "expiration_date": "11-jan-2020",
+        "epoch": 1610323200.0,
+        "expiration_date": "11-jan-2021",
         "state": "future"
     },
     "optimost.com": {
@@ -20132,6 +20142,11 @@
     "relead.com": {
         "epoch": 1601942400.0,
         "expiration_date": "06-oct-2020",
+        "state": "future"
+    },
+    "relevant-digital.com": {
+        "epoch": 1591574400.0,
+        "expiration_date": "08-jun-2020",
         "state": "future"
     },
     "reliablecounter.com": {
@@ -22742,6 +22757,11 @@
     "springmetrics.com": {
         "epoch": 1597622400.0,
         "expiration_date": "17-aug-2020",
+        "state": "future"
+    },
+    "sprinklecontent.com": {
+        "epoch": 1590019200.0,
+        "expiration_date": "21-may-2020",
         "state": "future"
     },
     "sptag.com": {
