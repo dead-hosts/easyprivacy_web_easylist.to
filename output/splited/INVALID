@@ -28,12 +28,15 @@ collector-*.tvsquared.com                                                       
 compare.easyvoyage.                                                                                  SYNTAX     XXX        2020-01-13T22:47:15.101251
 creativefactory.zalando.                                                                             SYNTAX     XXX        2020-01-13T22:47:16.109096
 datacollect*.abtasty.com                                                                             SYNTAX     XXX        2020-01-13T21:43:55.311460
+ea.laredoute.                                                                                        SYNTAX     XXX        2020-01-13T23:11:20.149215
+ea.pixmania.                                                                                         SYNTAX     XXX        2020-01-13T23:11:20.239519
 encrypted.google.*                                                                                   SYNTAX     XXX        2020-01-13T22:47:20.516122
 etwun.com:8080                                                                                       SYNTAX     XXX        2020-01-13T22:35:25.195324
 expedia.*                                                                                            SYNTAX     XXX        2020-01-13T22:47:21.591306
 expedia.*                                                                                            SYNTAX     XXX        2020-01-13T22:47:21.637676
 expedia.*                                                                                            SYNTAX     XXX        2020-01-13T22:47:21.678579
 facebook.com*                                                                                        SYNTAX     XXX        2020-01-13T21:43:57.995280
+flashx.*                                                                                             SYNTAX     XXX        2020-01-13T23:11:21.339131
 fls-*.amazon.*%                                                                                      SYNTAX     XXX        2020-01-13T22:47:24.137984
 fls-*.amazon.*&                                                                                      SYNTAX     XXX        2020-01-13T22:47:24.232195
 gateway.reddit.com|                                                                                  SYNTAX     XXX        2020-01-13T22:47:26.599745
@@ -83,5 +86,11 @@ tracker.twenga.                                                                 
 tracking.*.miui.com                                                                                  SYNTAX     XXX        2020-01-13T22:14:51.796896
 tracking.olx.                                                                                        SYNTAX     XXX        2020-01-13T22:59:32.866785
 track.zalando.                                                                                       SYNTAX     XXX        2020-01-13T22:59:32.641340
+tripadvisor.*                                                                                        SYNTAX     XXX        2020-01-13T23:11:06.013615
+ts.delfi.                                                                                            SYNTAX     XXX        2020-01-13T23:11:06.499588
+vice.com*                                                                                            SYNTAX     XXX        2020-01-13T23:11:09.188282
+vice.com*                                                                                            SYNTAX     XXX        2020-01-13T23:11:09.290032
 vtnlog-*.elb.amazonaws.com                                                                           SYNTAX     XXX        2020-01-13T22:14:55.875040
+www.google.*                                                                                         SYNTAX     XXX        2020-01-13T23:11:13.636800
+www.imdb.*                                                                                           SYNTAX     XXX        2020-01-13T23:11:13.677340
 yandex.*                                                                                             SYNTAX     XXX        2020-01-13T22:14:57.914919

@@ -9093,9 +9093,7 @@
         },
         "1578696167": {
             "trax.tvguide.com": "INACTIVE",
-            "trck.sixt.com": "INACTIVE",
-            "tripadvisor.*": "INVALID",
-            "ts.delfi.": "INVALID"
+            "trck.sixt.com": "INACTIVE"
         },
         "1578696168": {
             "tv-links.eu": "INACTIVE"
@@ -9110,11 +9108,9 @@
         "1578696985": {
             "ut.ratepoint.com": "INACTIVE",
             "uts-rss.crystalmedianetworks.com": "INACTIVE",
-            "v.fwmrm.net": "INACTIVE",
             "vertical-stats.huffingtonpost.com": "INACTIVE"
         },
         "1578696986": {
-            "vice.com*": "INVALID",
             "vitamine.networldmedia.net": "INACTIVE"
         },
         "1578696987": {
@@ -9130,9 +9126,7 @@
         },
         "1578696990": {
             "worksheetsengine.com": "INACTIVE",
-            "wusstrack.wunderground.com": "INACTIVE",
-            "www.google.*": "INVALID",
-            "www.imdb.*": "INVALID"
+            "wusstrack.wunderground.com": "INACTIVE"
         },
         "1578696991": {
             "wzus.askkids.com": "INACTIVE",
@@ -9140,18 +9134,7 @@
             "wzus1.reference.com": "INACTIVE",
             "wzus1.thesaurus.com": "INACTIVE"
         },
-        "1578696997": {
-            "ea.laredoute.": "INVALID",
-            "ea.pixmania.": "INVALID"
-        },
-        "1578696998": {
-            "flashx.*": "INVALID",
-            "play.estream.to": "INACTIVE"
-        },
         "1578697003": {
-            "passul.t-online.de": "INACTIVE",
-            "pix.friendscout24.de": "INACTIVE",
-            "rwt.reichelt.de": "INACTIVE",
             "s.fsphp.t-online.de": "INACTIVE",
             "stats.daserste.de": "INACTIVE"
         },
@@ -9164,9 +9147,6 @@
         },
         "1578697711": {
             "xara.hse24.de": "INACTIVE"
-        },
-        "1578697712": {
-            "ovni9.com": "INACTIVE"
         },
         "1578697713": {
             "wawacity.*": "INVALID"
@@ -10134,6 +10114,40 @@
         "1578956372": {
             "track.zalando.": "INVALID",
             "tracking.olx.": "INVALID"
+        },
+        "1578957065": {
+            "tripadvisor.*": "INVALID"
+        },
+        "1578957066": {
+            "ts.delfi.": "INVALID"
+        },
+        "1578957068": {
+            "v.fwmrm.net": "INACTIVE"
+        },
+        "1578957069": {
+            "vice.com*": "INVALID"
+        },
+        "1578957073": {
+            "www.google.*": "INVALID",
+            "www.imdb.*": "INVALID"
+        },
+        "1578957080": {
+            "ea.laredoute.": "INVALID",
+            "ea.pixmania.": "INVALID"
+        },
+        "1578957081": {
+            "flashx.*": "INVALID",
+            "play.estream.to": "INACTIVE"
+        },
+        "1578957085": {
+            "passul.t-online.de": "INACTIVE",
+            "pix.friendscout24.de": "INACTIVE"
+        },
+        "1578957086": {
+            "rwt.reichelt.de": "INACTIVE"
+        },
+        "1578957088": {
+            "ovni9.com": "INACTIVE"
         }
     }
 }
