@@ -8962,44 +8962,30 @@
             "t.planvip.fr": "INACTIVE"
         },
         "1578694012": {
-            "etwun.com:8080": "INVALID",
             "stat.youku.com": "INACTIVE"
         },
         "1578694013": {
-            "82.196.13.38": "INACTIVE",
-            "pagerank.g-easy.hu": "INACTIVE",
             "stats.e-go.gr": "INACTIVE",
             "stats.mf.cz": "INACTIVE",
             "traffic.bokecc.com": "INACTIVE"
         },
-        "1578694014": {
-            "91.196.216.64": "INACTIVE"
-        },
         "1578694015": {
             "shinystat.lvlar.com": "INACTIVE",
             "stat.webtool.it": "INACTIVE",
-            "stats2.*.fdnames.com": "INVALID",
             "top100.mrwebmaster.it": "INACTIVE",
             "top100.tuttoperinternet.it": "INACTIVE",
             "tracking.conversionlab.it": "INACTIVE"
         },
         "1578694708": {
-            "115.84.165.13": "INACTIVE",
-            "199.116.177.156": "INACTIVE",
             "trck.dlpo.jp": "INACTIVE",
             "ts.blogo.it": "INACTIVE"
         },
         "1578694709": {
             "tracker.advisable.pl": "INACTIVE"
         },
-        "1578694711": {
-            "medorgs.ru": "INACTIVE"
-        },
         "1578694712": {
-            "rustopweb.ru": "INACTIVE",
             "stat-22.medialand.ru": "INACTIVE",
             "stat-counter.tass-online.ru": "INACTIVE",
-            "stats-*.p2pnow.ru": "INVALID",
             "stats.internet-yadro.com": "INACTIVE",
             "t.pusk.ru": "INACTIVE",
             "top.bur-bur.ru": "INACTIVE",
@@ -9011,19 +8997,10 @@
             "wapson.ru": "INACTIVE"
         },
         "1578694713": {
-            "maik.ff-bt.net": "INACTIVE",
             "stats.dominoplaza.com": "INACTIVE",
             "stats.lnol.com.ar": "INACTIVE",
             "track.bluecompany.cl": "INACTIVE",
             "wmtools.ru": "INACTIVE"
-        },
-        "1578694714": {
-            "198.105.253.2": "INACTIVE",
-            "69.25.121.67": "INACTIVE"
-        },
-        "1578694716": {
-            "airbnb.*": "INVALID",
-            "amazon.*": "INVALID"
         },
         "1578694719": {
             "attachmate.com*": "INVALID"
@@ -10122,6 +10099,39 @@
         },
         "1578953703": {
             "aff*.kolektiva.net": "INVALID"
+        },
+        "1578954925": {
+            "etwun.com:8080": "INVALID"
+        },
+        "1578954926": {
+            "82.196.13.38": "INACTIVE",
+            "91.196.216.64": "INACTIVE",
+            "pagerank.g-easy.hu": "INACTIVE"
+        },
+        "1578954928": {
+            "115.84.165.13": "INACTIVE",
+            "199.116.177.156": "INACTIVE",
+            "stats2.*.fdnames.com": "INVALID"
+        },
+        "1578954931": {
+            "medorgs.ru": "INACTIVE"
+        },
+        "1578954932": {
+            "rustopweb.ru": "INACTIVE",
+            "stats-*.p2pnow.ru": "INVALID"
+        },
+        "1578954933": {
+            "198.105.253.2": "INACTIVE",
+            "maik.ff-bt.net": "INACTIVE"
+        },
+        "1578954934": {
+            "69.25.121.67": "INACTIVE"
+        },
+        "1578954935": {
+            "airbnb.*": "INVALID"
+        },
+        "1578954936": {
+            "amazon.*": "INVALID"
         }
     }
 }
