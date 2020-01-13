@@ -6055,8 +6055,8 @@
         "state": "future"
     },
     "countus.fr": {
-        "epoch": 1578873600.0,
-        "expiration_date": "13-jan-2020",
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
         "state": "future"
     },
     "countz.com": {
@@ -27350,9 +27350,9 @@
         "state": "future"
     },
     "webtrekk.net": {
-        "epoch": 1578614400.0,
-        "expiration_date": "10-jan-2020",
-        "state": "past"
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
+        "state": "future"
     },
     "webtrends-optimize.com": {
         "epoch": 1593129600.0,

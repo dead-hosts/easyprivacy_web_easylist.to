@@ -8615,7 +8615,6 @@
         },
         "1578690436": {
             "minercry.pt": "INACTIVE",
-            "minero-proxy-*.sh": "INVALID",
             "minexmr.stream": "INACTIVE",
             "mm.zubovskaya-banya.ru": "INACTIVE",
             "mmc.center": "INACTIVE",
@@ -8676,8 +8675,7 @@
             "salamaleyum.com": "INACTIVE",
             "sbhmn-miner.com": "INACTIVE",
             "secumine.net": "INACTIVE",
-            "sentemanactri.com": "INACTIVE",
-            "site.flashx.": "INVALID"
+            "sentemanactri.com": "INACTIVE"
         },
         "1578690442": {
             "siteverification.site": "INACTIVE",
@@ -8737,8 +8735,6 @@
             "shelterstraw.com": "INACTIVE"
         },
         "1578690453": {
-            "193.197.158.209": "INACTIVE",
-            "212.95.32.75": "INACTIVE",
             "truthfulturn.com": "INACTIVE"
         },
         "1578690456": {
@@ -8768,9 +8764,6 @@
         "1578691146": {
             "web-controlling.org": "INACTIVE",
             "xa-counter.com": "INACTIVE"
-        },
-        "1578691149": {
-            "ncdnprorogeraie.lol": "INACTIVE"
         },
         "1578691150": {
             "tnsinternet.be": "INACTIVE",
@@ -10094,6 +10087,19 @@
         },
         "1578949017": {
             "185.165.169.108": "INACTIVE"
+        },
+        "1578949798": {
+            "minero-proxy-*.sh": "INVALID"
+        },
+        "1578949802": {
+            "site.flashx.": "INVALID"
+        },
+        "1578949811": {
+            "193.197.158.209": "INACTIVE",
+            "212.95.32.75": "INACTIVE"
+        },
+        "1578949819": {
+            "ncdnprorogeraie.lol": "INACTIVE"
         }
     }
 }
