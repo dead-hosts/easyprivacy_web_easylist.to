@@ -8792,34 +8792,6 @@
         "1578691857": {
             "wunderdaten.com": "INACTIVE"
         },
-        "1578691862": {
-            "activity.*.miui.com": "INVALID"
-        },
-        "1578691865": {
-            "analytics-beacon-*.amazonaws.com": "INVALID"
-        },
-        "1578691866": {
-            "analytics.edgekey.net": "INACTIVE",
-            "analytics.edgesuite.net": "INACTIVE"
-        },
-        "1578691868": {
-            "bc.geocities.": "INVALID",
-            "bin.clearspring.*": "INVALID"
-        },
-        "1578691871": {
-            "cloudfront.net*": "INVALID"
-        },
-        "1578691874": {
-            "collect.*.miui.com": "INVALID",
-            "collector-*.elb.amazonaws.com": "INVALID",
-            "collector-*.tvsquared.com": "INVALID"
-        },
-        "1578692560": {
-            "datacollect*.abtasty.com": "INVALID"
-        },
-        "1578692563": {
-            "facebook.com*": "INVALID"
-        },
         "1578692567": {
             "hits-*.iubenda.com": "INVALID"
         },
@@ -10106,6 +10078,33 @@
             "62.219.24.238": "INACTIVE",
             "74.117.176.217": "INACTIVE",
             "93.93.53.198": "INACTIVE"
+        },
+        "1578951821": {
+            "activity.*.miui.com": "INVALID"
+        },
+        "1578951825": {
+            "analytics-beacon-*.amazonaws.com": "INVALID",
+            "analytics.edgekey.net": "INACTIVE",
+            "analytics.edgesuite.net": "INACTIVE",
+            "analytics.r17.com": "INACTIVE"
+        },
+        "1578951828": {
+            "bc.geocities.": "INVALID",
+            "bin.clearspring.*": "INVALID"
+        },
+        "1578951831": {
+            "cloudfront.net*": "INVALID"
+        },
+        "1578951833": {
+            "collect.*.miui.com": "INVALID",
+            "collector-*.elb.amazonaws.com": "INVALID",
+            "collector-*.tvsquared.com": "INVALID"
+        },
+        "1578951835": {
+            "datacollect*.abtasty.com": "INVALID"
+        },
+        "1578951837": {
+            "facebook.com*": "INVALID"
         }
     }
 }
