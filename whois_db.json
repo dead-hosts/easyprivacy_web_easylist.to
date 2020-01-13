@@ -18275,8 +18275,8 @@
         "state": "future"
     },
     "pepsi.com": {
-        "epoch": 1578873600.0,
-        "expiration_date": "13-jan-2020",
+        "epoch": 1642032000.0,
+        "expiration_date": "13-jan-2022",
         "state": "future"
     },
     "perceivequarter.com": {
@@ -18720,8 +18720,8 @@
         "state": "future"
     },
     "playstation.com": {
-        "epoch": 1578873600.0,
-        "expiration_date": "13-jan-2020",
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
         "state": "future"
     },
     "playstation.net": {
@@ -23390,9 +23390,9 @@
         "state": "future"
     },
     "stribe.com": {
-        "epoch": 1578614400.0,
-        "expiration_date": "10-jan-2020",
-        "state": "past"
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
+        "state": "future"
     },
     "stripe.com": {
         "epoch": 1757548800.0,
