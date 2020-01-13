@@ -61,6 +61,7 @@ kayak.*                                                                         
 lcs.naver.                                                                                           SYNTAX     XXX        2020-01-13T22:47:36.458489
 linguee.com*                                                                                         SYNTAX     XXX        2020-01-13T22:47:36.912685
 logger-*.dailymotion.com                                                                             SYNTAX     XXX        2020-01-13T22:47:37.682307
+log*.ku6.com                                                                                         SYNTAX     XXX        2020-01-13T23:22:22.501051
 log-*.previewnetworks.com                                                                            SYNTAX     XXX        2020-01-13T21:56:42.213253
 massdrop.com*                                                                                        SYNTAX     XXX        2020-01-13T22:59:04.618359
 metric*.rediff.com                                                                                   SYNTAX     XXX        2020-01-13T22:59:05.487329
@@ -69,6 +70,7 @@ minero-proxy-*.sh                                                               
 pixel.archive.                                                                                       SYNTAX     XXX        2020-01-13T22:59:15.643177
 pulsar.ebay.                                                                                         SYNTAX     XXX        2020-01-13T22:59:17.925262
 rover.ebay.                                                                                          SYNTAX     XXX        2020-01-13T22:59:21.746016
+sapo.*                                                                                               SYNTAX     XXX        2020-01-13T23:22:29.088270
 site.flashx.                                                                                         SYNTAX     XXX        2020-01-13T21:10:02.221141
 skyscanner.*                                                                                         SYNTAX     XXX        2020-01-13T22:59:25.213337
 skyscanner.*                                                                                         SYNTAX     XXX        2020-01-13T22:59:25.253110
@@ -91,6 +93,7 @@ ts.delfi.                                                                       
 vice.com*                                                                                            SYNTAX     XXX        2020-01-13T23:11:09.188282
 vice.com*                                                                                            SYNTAX     XXX        2020-01-13T23:11:09.290032
 vtnlog-*.elb.amazonaws.com                                                                           SYNTAX     XXX        2020-01-13T22:14:55.875040
+wawacity.*                                                                                           SYNTAX     XXX        2020-01-13T23:22:20.339177
 www.google.*                                                                                         SYNTAX     XXX        2020-01-13T23:11:13.636800
 www.imdb.*                                                                                           SYNTAX     XXX        2020-01-13T23:11:13.677340
 yandex.*                                                                                             SYNTAX     XXX        2020-01-13T22:14:57.914919
