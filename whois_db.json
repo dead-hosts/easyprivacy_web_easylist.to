@@ -150,8 +150,8 @@
         "state": "future"
     },
     "24businessnews.com": {
-        "epoch": 1578787200.0,
-        "expiration_date": "12-jan-2020",
+        "epoch": 1610409600.0,
+        "expiration_date": "12-jan-2021",
         "state": "future"
     },
     "24counter.com": {
@@ -2304,6 +2304,11 @@
         "expiration_date": "14-jul-2020",
         "state": "future"
     },
+    "apsislead.com": {
+        "epoch": 1582416000.0,
+        "expiration_date": "23-feb-2020",
+        "state": "future"
+    },
     "apture.com": {
         "epoch": 1588550400.0,
         "expiration_date": "04-may-2020",
@@ -2584,6 +2589,11 @@
         "expiration_date": "04-dec-2020",
         "state": "future"
     },
+    "audience.systems": {
+        "epoch": 1610841600.0,
+        "expiration_date": "17-jan-2021",
+        "state": "future"
+    },
     "audienceamplify.com": {
         "epoch": 1588809600.0,
         "expiration_date": "07-may-2020",
@@ -2705,8 +2715,8 @@
         "state": "future"
     },
     "autoline-top.com": {
-        "epoch": 1578787200.0,
-        "expiration_date": "12-jan-2020",
+        "epoch": 1610409600.0,
+        "expiration_date": "12-jan-2021",
         "state": "future"
     },
     "automaticside.com": {
@@ -4225,8 +4235,8 @@
         "state": "future"
     },
     "c1exchange.com": {
-        "epoch": 1578873600.0,
-        "expiration_date": "13-jan-2020",
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
         "state": "future"
     },
     "c212.net": {
@@ -5345,9 +5355,9 @@
         "state": "future"
     },
     "cnt1.net": {
-        "epoch": 1578614400.0,
-        "expiration_date": "10-jan-2020",
-        "state": "past"
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
+        "state": "future"
     },
     "cnxweb.com": {
         "epoch": 1596844800.0,
@@ -6010,13 +6020,13 @@
         "state": "future"
     },
     "counterservis.com": {
-        "epoch": 1578873600.0,
-        "expiration_date": "13-jan-2020",
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
         "state": "future"
     },
     "countersforlife.com": {
-        "epoch": 1578700800.0,
-        "expiration_date": "11-jan-2020",
+        "epoch": 1610323200.0,
+        "expiration_date": "11-jan-2021",
         "state": "future"
     },
     "countertracker.com": {

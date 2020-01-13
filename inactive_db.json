@@ -8417,20 +8417,6 @@
         "1578440534": {
             "log.r7.com": "INACTIVE"
         },
-        "1578687323": {
-            "149.13.65.144": "INACTIVE",
-            "195.10.245.55": "INACTIVE",
-            "meetrics.netbb-": "INVALID"
-        },
-        "1578687324": {
-            "208.88.226.75": "INACTIVE",
-            "212.227.100.108": "INACTIVE",
-            "216.18.184.18": "INACTIVE"
-        },
-        "1578687325": {
-            "62.160.52.73": "INACTIVE",
-            "72.172.88.25": "INACTIVE"
-        },
         "1578688984": {
             "market015.com": "INACTIVE",
             "martianstats.com": "INACTIVE",
@@ -10094,6 +10080,20 @@
             "count.joy.cn": "INACTIVE",
             "d1rnw04e6mc22h.cloudfront.net": "INACTIVE",
             "fusion.nettavisen.no": "INACTIVE"
+        },
+        "1578946620": {
+            "meetrics.netbb-": "INVALID"
+        },
+        "1578946621": {
+            "149.13.65.144": "INACTIVE",
+            "195.10.245.55": "INACTIVE",
+            "208.88.226.75": "INACTIVE",
+            "212.227.100.108": "INACTIVE",
+            "216.18.184.18": "INACTIVE"
+        },
+        "1578946622": {
+            "62.160.52.73": "INACTIVE",
+            "72.172.88.25": "INACTIVE"
         }
     }
 }
