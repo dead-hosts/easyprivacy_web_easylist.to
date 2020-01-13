@@ -9600,8 +9600,8 @@
         "state": "future"
     },
     "freecounterstat.com": {
-        "epoch": 1578700800.0,
-        "expiration_date": "11-jan-2020",
+        "epoch": 1610323200.0,
+        "expiration_date": "11-jan-2021",
         "state": "future"
     },
     "freecurrencyrates.com": {
@@ -10215,8 +10215,8 @@
         "state": "future"
     },
     "getsmartlook.com": {
-        "epoch": 1578787200.0,
-        "expiration_date": "12-jan-2020",
+        "epoch": 1610409600.0,
+        "expiration_date": "12-jan-2021",
         "state": "future"
     },
     "getstatistics.se": {
@@ -11050,9 +11050,9 @@
         "state": "future"
     },
     "hellosherpa.com": {
-        "epoch": 1578614400.0,
-        "expiration_date": "10-jan-2020",
-        "state": "past"
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
+        "state": "future"
     },
     "hemnes.win": {
         "epoch": 1579910400.0,
