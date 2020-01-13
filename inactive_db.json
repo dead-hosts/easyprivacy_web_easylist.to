@@ -9002,58 +9002,6 @@
             "track.bluecompany.cl": "INACTIVE",
             "wmtools.ru": "INACTIVE"
         },
-        "1578694719": {
-            "attachmate.com*": "INVALID"
-        },
-        "1578694725": {
-            "classic.comunio.*": "INVALID",
-            "climatedesk.org*": "INVALID"
-        },
-        "1578695413": {
-            "compare.easyvoyage.": "INVALID"
-        },
-        "1578695414": {
-            "creativefactory.zalando.": "INVALID"
-        },
-        "1578695418": {
-            "encrypted.google.*": "INVALID"
-        },
-        "1578695419": {
-            "expedia.*": "INVALID"
-        },
-        "1578695422": {
-            "fls-*.amazon.*%": "INVALID",
-            "fls-*.amazon.*&": "INVALID"
-        },
-        "1578695424": {
-            "gateway.reddit.com|": "INVALID"
-        },
-        "1578695425": {
-            "gismeteo.*": "INVALID",
-            "google.*": "INVALID"
-        },
-        "1578695426": {
-            "groupon.*": "INVALID"
-        },
-        "1578695428": {
-            "huffingtonpost.*": "INVALID"
-        },
-        "1578695429": {
-            "id.google.*": "INVALID"
-        },
-        "1578695432": {
-            "ixquick.*": "INVALID"
-        },
-        "1578695433": {
-            "kayak.*": "INVALID"
-        },
-        "1578695434": {
-            "lcs.naver.": "INVALID",
-            "linguee.com*": "INVALID"
-        },
-        "1578695435": {
-            "logger-*.dailymotion.com": "INVALID"
-        },
         "1578695436": {
             "maps.nokia.com": "INACTIVE",
             "massdrop.com*": "INVALID"
@@ -10132,6 +10080,58 @@
         },
         "1578954936": {
             "amazon.*": "INVALID"
+        },
+        "1578955627": {
+            "attachmate.com*": "INVALID"
+        },
+        "1578955634": {
+            "classic.comunio.*": "INVALID",
+            "climatedesk.org*": "INVALID"
+        },
+        "1578955635": {
+            "compare.easyvoyage.": "INVALID"
+        },
+        "1578955636": {
+            "creativefactory.zalando.": "INVALID"
+        },
+        "1578955640": {
+            "encrypted.google.*": "INVALID"
+        },
+        "1578955641": {
+            "expedia.*": "INVALID"
+        },
+        "1578955644": {
+            "fls-*.amazon.*%": "INVALID",
+            "fls-*.amazon.*&": "INVALID"
+        },
+        "1578955646": {
+            "gateway.reddit.com|": "INVALID"
+        },
+        "1578955647": {
+            "gismeteo.*": "INVALID",
+            "google.*": "INVALID"
+        },
+        "1578955648": {
+            "groupon.*": "INVALID"
+        },
+        "1578955650": {
+            "huffingtonpost.*": "INVALID"
+        },
+        "1578955651": {
+            "id.google.*": "INVALID"
+        },
+        "1578955654": {
+            "ixquick.*": "INVALID"
+        },
+        "1578955655": {
+            "kayak.*": "INVALID"
+        },
+        "1578955656": {
+            "lcs.naver.": "INVALID",
+            "linguee.com*": "INVALID"
+        },
+        "1578955657": {
+            "logger-*.dailymotion.com": "INVALID"
         }
     }
 }
