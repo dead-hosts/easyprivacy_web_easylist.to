@@ -18,6 +18,10 @@ collector-*.elb.amazonaws.com                                                   
 collector-*.tvsquared.com                                                                            SYNTAX     XXX        2020-01-13T21:43:53.715996
 datacollect*.abtasty.com                                                                             SYNTAX     XXX        2020-01-13T21:43:55.311460
 facebook.com*                                                                                        SYNTAX     XXX        2020-01-13T21:43:57.995280
+hits-*.iubenda.com                                                                                   SYNTAX     XXX        2020-01-13T21:56:37.376305
 irs01.                                                                                               SYNTAX     XXX        2020-01-13T21:25:32.798606
+log-*.previewnetworks.com                                                                            SYNTAX     XXX        2020-01-13T21:56:42.213253
+metro-trending-*.amazonaws.com                                                                       SYNTAX     XXX        2020-01-13T21:56:44.509981
 minero-proxy-*.sh                                                                                    SYNTAX     XXX        2020-01-13T21:09:58.771647
 site.flashx.                                                                                         SYNTAX     XXX        2020-01-13T21:10:02.221141
+targeting.*.arcpublishing.com                                                                        SYNTAX     XXX        2020-01-13T21:56:58.209891
