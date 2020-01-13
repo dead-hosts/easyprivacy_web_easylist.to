@@ -7089,6 +7089,11 @@
         "expiration_date": "16-jun-2021",
         "state": "future"
     },
+    "digitaladvisor.dk": {
+        "epoch": 1585612800.0,
+        "expiration_date": "31-mar-2020",
+        "state": "future"
+    },
     "digitaloptout.com": {
         "epoch": 1591228800.0,
         "expiration_date": "04-jun-2020",
@@ -13127,6 +13132,11 @@
     "jtv.com": {
         "epoch": 1587600000.0,
         "expiration_date": "23-apr-2020",
+        "state": "future"
+    },
+    "jubiitag.dk": {
+        "epoch": 1582934400.0,
+        "expiration_date": "29-feb-2020",
         "state": "future"
     },
     "jump-time.net": {
@@ -27927,6 +27937,11 @@
     "wzrkt.com": {
         "epoch": 1598659200.0,
         "expiration_date": "29-aug-2020",
+        "state": "future"
+    },
+    "x-link.pl": {
+        "epoch": 1588896000.0,
+        "expiration_date": "08-may-2020",
         "state": "future"
     },
     "x-traceur.com": {
