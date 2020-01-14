@@ -9180,20 +9180,6 @@
         "1578697962": {
             "visit.hepsiburada.com": "INACTIVE"
         },
-        "1578946620": {
-            "meetrics.netbb-": "INVALID"
-        },
-        "1578946621": {
-            "149.13.65.144": "INACTIVE",
-            "195.10.245.55": "INACTIVE",
-            "208.88.226.75": "INACTIVE",
-            "212.227.100.108": "INACTIVE",
-            "216.18.184.18": "INACTIVE"
-        },
-        "1578946622": {
-            "62.160.52.73": "INACTIVE",
-            "72.172.88.25": "INACTIVE"
-        },
         "1578949017": {
             "185.165.169.108": "INACTIVE"
         },
@@ -10150,6 +10136,20 @@
         "1578958685": {
             "collector.apester.com": "INACTIVE",
             "countingbiz.info": "INACTIVE"
+        },
+        "1579043704": {
+            "meetrics.netbb-": "INVALID"
+        },
+        "1579043705": {
+            "149.13.65.144": "INACTIVE",
+            "195.10.245.55": "INACTIVE",
+            "208.88.226.75": "INACTIVE",
+            "212.227.100.108": "INACTIVE",
+            "216.18.184.18": "INACTIVE"
+        },
+        "1579043706": {
+            "62.160.52.73": "INACTIVE",
+            "72.172.88.25": "INACTIVE"
         }
     }
 }

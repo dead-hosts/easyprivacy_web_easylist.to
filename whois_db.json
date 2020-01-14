@@ -5529,6 +5529,11 @@
         "expiration_date": "03-sep-2021",
         "state": "future"
     },
+    "collecting.click": {
+        "epoch": 1607904000.0,
+        "expiration_date": "14-dec-2020",
+        "state": "future"
+    },
     "collegehumor.com": {
         "epoch": 1607212800.0,
         "expiration_date": "06-dec-2020",
