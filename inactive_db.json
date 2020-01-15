@@ -9180,38 +9180,6 @@
         "1578697962": {
             "visit.hepsiburada.com": "INACTIVE"
         },
-        "1578956372": {
-            "track.zalando.": "INVALID",
-            "tracking.olx.": "INVALID"
-        },
-        "1578957065": {
-            "tripadvisor.*": "INVALID"
-        },
-        "1578957066": {
-            "ts.delfi.": "INVALID"
-        },
-        "1578957068": {
-            "v.fwmrm.net": "INACTIVE"
-        },
-        "1578957069": {
-            "vice.com*": "INVALID"
-        },
-        "1578957073": {
-            "www.google.*": "INVALID",
-            "www.imdb.*": "INVALID"
-        },
-        "1578957080": {
-            "ea.laredoute.": "INVALID",
-            "ea.pixmania.": "INVALID"
-        },
-        "1578957081": {
-            "flashx.*": "INVALID",
-            "play.estream.to": "INACTIVE"
-        },
-        "1578957085": {
-            "passul.t-online.de": "INACTIVE",
-            "pix.friendscout24.de": "INACTIVE"
-        },
         "1578957086": {
             "rwt.reichelt.de": "INACTIVE"
         },
@@ -10157,6 +10125,36 @@
             "t.delfi.": "INVALID",
             "tagcommander.laredoute.": "INVALID",
             "tags.aljazeera.": "INVALID"
+        },
+        "1579073392": {
+            "track.zalando.": "INVALID",
+            "tracking.olx.": "INVALID"
+        },
+        "1579073393": {
+            "tripadvisor.*": "INVALID",
+            "ts.delfi.": "INVALID"
+        },
+        "1579073395": {
+            "v.fwmrm.net": "INACTIVE"
+        },
+        "1579073396": {
+            "vice.com*": "INVALID"
+        },
+        "1579073400": {
+            "www.google.*": "INVALID",
+            "www.imdb.*": "INVALID"
+        },
+        "1579073407": {
+            "ea.laredoute.": "INVALID",
+            "ea.pixmania.": "INVALID"
+        },
+        "1579073408": {
+            "flashx.*": "INVALID",
+            "play.estream.to": "INACTIVE"
+        },
+        "1579073412": {
+            "passul.t-online.de": "INACTIVE",
+            "pix.friendscout24.de": "INACTIVE"
         }
     }
 }

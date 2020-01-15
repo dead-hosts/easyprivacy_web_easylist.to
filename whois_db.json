@@ -9464,6 +9464,11 @@
         "expiration_date": "13-nov-2020",
         "state": "future"
     },
+    "foxnews.com": {
+        "epoch": 1592611200.0,
+        "expiration_date": "20-jun-2020",
+        "state": "future"
+    },
     "fpctraffic2.com": {
         "epoch": 1645574400.0,
         "expiration_date": "23-feb-2022",
