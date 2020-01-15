@@ -9180,57 +9180,6 @@
         "1578697962": {
             "visit.hepsiburada.com": "INACTIVE"
         },
-        "1578956349": {
-            "navlog.channel4.com": "INACTIVE"
-        },
-        "1578956350": {
-            "newsletter.mybboard.net": "INACTIVE"
-        },
-        "1578956354": {
-            "pcp001.com": "INACTIVE"
-        },
-        "1578956355": {
-            "pictures.zooplus.com": "INACTIVE",
-            "ping.buto.tv": "INACTIVE",
-            "ping.tvmaze.com": "INACTIVE",
-            "pixel.archive.": "INVALID",
-            "pixel.buzzfeed.com": "INACTIVE",
-            "pixel.klout.com": "INACTIVE",
-            "pixel.redditmedia.com": "INACTIVE"
-        },
-        "1578956356": {
-            "pluto.airbnb.com": "INACTIVE",
-            "pong.gannettdigital.com": "INACTIVE",
-            "pound.buzzfeed.com": "INACTIVE"
-        },
-        "1578956357": {
-            "pulsar.ebay.": "INVALID",
-            "pulse-analytics-beacon.reutersmedia.net": "INACTIVE"
-        },
-        "1578956358": {
-            "rainbow-uk.mythings.com": "INACTIVE",
-            "rd.meebo.com": "INACTIVE"
-        },
-        "1578956360": {
-            "refer.evine.com": "INACTIVE",
-            "report.shell.com": "INACTIVE",
-            "reporting.onthebeach.co.uk": "INACTIVE",
-            "reporting.wilkinsonplus.com": "INACTIVE"
-        },
-        "1578956361": {
-            "rover.ebay.": "INVALID"
-        },
-        "1578956365": {
-            "skyscanner.*": "INVALID"
-        },
-        "1578956367": {
-            "startpage.*": "INVALID"
-        },
-        "1578956369": {
-            "t.delfi.": "INVALID",
-            "tagcommander.laredoute.": "INVALID",
-            "tags.aljazeera.": "INVALID"
-        },
         "1578956372": {
             "track.zalando.": "INVALID",
             "tracking.olx.": "INVALID"
@@ -10157,6 +10106,57 @@
         "1579069885": {
             "mp.twitch.tv": "INACTIVE",
             "mtoza.vzaar.com": "INACTIVE"
+        },
+        "1579071471": {
+            "navlog.channel4.com": "INACTIVE"
+        },
+        "1579071472": {
+            "newsletter.mybboard.net": "INACTIVE"
+        },
+        "1579071475": {
+            "pcp001.com": "INACTIVE"
+        },
+        "1579071477": {
+            "pictures.zooplus.com": "INACTIVE",
+            "ping.buto.tv": "INACTIVE",
+            "ping.tvmaze.com": "INACTIVE",
+            "pixel.archive.": "INVALID",
+            "pixel.buzzfeed.com": "INACTIVE",
+            "pixel.klout.com": "INACTIVE",
+            "pixel.redditmedia.com": "INACTIVE"
+        },
+        "1579071478": {
+            "pluto.airbnb.com": "INACTIVE",
+            "pong.gannettdigital.com": "INACTIVE",
+            "pound.buzzfeed.com": "INACTIVE"
+        },
+        "1579071479": {
+            "pulsar.ebay.": "INVALID",
+            "pulse-analytics-beacon.reutersmedia.net": "INACTIVE"
+        },
+        "1579071480": {
+            "rainbow-uk.mythings.com": "INACTIVE",
+            "rd.meebo.com": "INACTIVE"
+        },
+        "1579071482": {
+            "refer.evine.com": "INACTIVE",
+            "report.shell.com": "INACTIVE",
+            "reporting.onthebeach.co.uk": "INACTIVE",
+            "reporting.wilkinsonplus.com": "INACTIVE"
+        },
+        "1579071483": {
+            "rover.ebay.": "INVALID"
+        },
+        "1579071487": {
+            "skyscanner.*": "INVALID"
+        },
+        "1579071489": {
+            "startpage.*": "INVALID"
+        },
+        "1579071491": {
+            "t.delfi.": "INVALID",
+            "tagcommander.laredoute.": "INVALID",
+            "tags.aljazeera.": "INVALID"
         }
     }
 }

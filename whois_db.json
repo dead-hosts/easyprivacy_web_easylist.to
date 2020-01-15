@@ -21125,8 +21125,8 @@
         "state": "future"
     },
     "scotts.com": {
-        "epoch": 1578960000.0,
-        "expiration_date": "14-jan-2020",
+        "epoch": 1610582400.0,
+        "expiration_date": "14-jan-2021",
         "state": "future"
     },
     "scoutanalytics.net": {
@@ -23907,6 +23907,11 @@
     "taskanalytics.com": {
         "epoch": 1594684800.0,
         "expiration_date": "14-jul-2020",
+        "state": "future"
+    },
+    "taskulu.com": {
+        "epoch": 1618790400.0,
+        "expiration_date": "19-apr-2021",
         "state": "future"
     },
     "tbex.ru": {
