@@ -7619,6 +7619,11 @@
         "expiration_date": "09-oct-2022",
         "state": "future"
     },
+    "dynameex.com": {
+        "epoch": 1586649600.0,
+        "expiration_date": "12-apr-2020",
+        "state": "future"
+    },
     "dynamicyield.com": {
         "epoch": 1603152000.0,
         "expiration_date": "20-oct-2020",
@@ -8300,8 +8305,8 @@
         "state": "future"
     },
     "estat.com": {
-        "epoch": 1578960000.0,
-        "expiration_date": "14-jan-2020",
+        "epoch": 1610582400.0,
+        "expiration_date": "14-jan-2021",
         "state": "future"
     },
     "estrack.net": {
@@ -12287,7 +12292,7 @@
     "innovateads.com": {
         "epoch": 1578960000.0,
         "expiration_date": "14-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "ino.com": {
         "epoch": 1584835200.0,
