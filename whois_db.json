@@ -5437,7 +5437,7 @@
     "coin-service.com": {
         "epoch": 1579046400.0,
         "expiration_date": "15-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "coinbase.com": {
         "epoch": 1719878400.0,
@@ -14567,6 +14567,11 @@
     "luminate.com": {
         "epoch": 1702512000.0,
         "expiration_date": "14-dec-2023",
+        "state": "future"
+    },
+    "lumitos.com": {
+        "epoch": 1605484800.0,
+        "expiration_date": "16-nov-2020",
         "state": "future"
     },
     "luobo.tv": {

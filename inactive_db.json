@@ -9180,16 +9180,6 @@
         "1578697962": {
             "visit.hepsiburada.com": "INACTIVE"
         },
-        "1578949798": {
-            "minero-proxy-*.sh": "INVALID"
-        },
-        "1578949802": {
-            "site.flashx.": "INVALID"
-        },
-        "1578949811": {
-            "193.197.158.209": "INACTIVE",
-            "212.95.32.75": "INACTIVE"
-        },
         "1578949819": {
             "ncdnprorogeraie.lol": "INACTIVE"
         },
@@ -10153,6 +10143,18 @@
         },
         "1579053586": {
             "185.165.169.108": "INACTIVE"
+        },
+        "1579055981": {
+            "minero-proxy-*.sh": "INVALID"
+        },
+        "1579055985": {
+            "site.flashx.": "INVALID"
+        },
+        "1579055994": {
+            "193.197.158.209": "INACTIVE"
+        },
+        "1579055995": {
+            "212.95.32.75": "INACTIVE"
         }
     }
 }
