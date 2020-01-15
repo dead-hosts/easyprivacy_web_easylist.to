@@ -9180,73 +9180,6 @@
         "1578697962": {
             "visit.hepsiburada.com": "INACTIVE"
         },
-        "1578955634": {
-            "classic.comunio.*": "INVALID",
-            "climatedesk.org*": "INVALID"
-        },
-        "1578955635": {
-            "compare.easyvoyage.": "INVALID"
-        },
-        "1578955636": {
-            "creativefactory.zalando.": "INVALID"
-        },
-        "1578955640": {
-            "encrypted.google.*": "INVALID"
-        },
-        "1578955641": {
-            "expedia.*": "INVALID"
-        },
-        "1578955644": {
-            "fls-*.amazon.*%": "INVALID",
-            "fls-*.amazon.*&": "INVALID"
-        },
-        "1578955646": {
-            "gateway.reddit.com|": "INVALID"
-        },
-        "1578955647": {
-            "gismeteo.*": "INVALID",
-            "google.*": "INVALID"
-        },
-        "1578955648": {
-            "groupon.*": "INVALID"
-        },
-        "1578955650": {
-            "huffingtonpost.*": "INVALID"
-        },
-        "1578955651": {
-            "id.google.*": "INVALID"
-        },
-        "1578955654": {
-            "ixquick.*": "INVALID"
-        },
-        "1578955655": {
-            "kayak.*": "INVALID"
-        },
-        "1578955656": {
-            "lcs.naver.": "INVALID",
-            "linguee.com*": "INVALID"
-        },
-        "1578955657": {
-            "logger-*.dailymotion.com": "INVALID"
-        },
-        "1578956344": {
-            "maps.nokia.com": "INACTIVE",
-            "massdrop.com*": "INVALID",
-            "measure.office.com": "INACTIVE"
-        },
-        "1578956345": {
-            "metric*.rediff.com": "INVALID",
-            "metric.gstatic.com": "INACTIVE",
-            "metrics.aws.sitepoint.com": "INACTIVE",
-            "metrics.dailymotion.com": "INACTIVE"
-        },
-        "1578956346": {
-            "mint.boingboing.net": "INACTIVE"
-        },
-        "1578956347": {
-            "mp.twitch.tv": "INACTIVE",
-            "mtoza.vzaar.com": "INACTIVE"
-        },
         "1578956349": {
             "navlog.channel4.com": "INACTIVE"
         },
@@ -10157,6 +10090,73 @@
         },
         "1579067979": {
             "attachmate.com*": "INVALID"
+        },
+        "1579069858": {
+            "classic.comunio.*": "INVALID",
+            "climatedesk.org*": "INVALID"
+        },
+        "1579069859": {
+            "compare.easyvoyage.": "INVALID"
+        },
+        "1579069860": {
+            "creativefactory.zalando.": "INVALID"
+        },
+        "1579069864": {
+            "encrypted.google.*": "INVALID"
+        },
+        "1579069865": {
+            "expedia.*": "INVALID"
+        },
+        "1579069868": {
+            "fls-*.amazon.*%": "INVALID",
+            "fls-*.amazon.*&": "INVALID"
+        },
+        "1579069870": {
+            "gateway.reddit.com|": "INVALID"
+        },
+        "1579069871": {
+            "gismeteo.*": "INVALID",
+            "google.*": "INVALID"
+        },
+        "1579069872": {
+            "groupon.*": "INVALID"
+        },
+        "1579069874": {
+            "huffingtonpost.*": "INVALID"
+        },
+        "1579069875": {
+            "id.google.*": "INVALID"
+        },
+        "1579069878": {
+            "ixquick.*": "INVALID"
+        },
+        "1579069879": {
+            "kayak.*": "INVALID"
+        },
+        "1579069880": {
+            "lcs.naver.": "INVALID",
+            "linguee.com*": "INVALID"
+        },
+        "1579069881": {
+            "logger-*.dailymotion.com": "INVALID"
+        },
+        "1579069882": {
+            "maps.nokia.com": "INACTIVE",
+            "massdrop.com*": "INVALID",
+            "measure.office.com": "INACTIVE"
+        },
+        "1579069883": {
+            "metric*.rediff.com": "INVALID",
+            "metric.gstatic.com": "INACTIVE",
+            "metrics.aws.sitepoint.com": "INACTIVE",
+            "metrics.dailymotion.com": "INACTIVE"
+        },
+        "1579069884": {
+            "mint.boingboing.net": "INACTIVE"
+        },
+        "1579069885": {
+            "mp.twitch.tv": "INACTIVE",
+            "mtoza.vzaar.com": "INACTIVE"
         }
     }
 }
