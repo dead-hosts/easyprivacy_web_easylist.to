@@ -9180,47 +9180,6 @@
         "1578697962": {
             "visit.hepsiburada.com": "INACTIVE"
         },
-        "1578951831": {
-            "cloudfront.net*": "INVALID"
-        },
-        "1578951833": {
-            "collect.*.miui.com": "INVALID",
-            "collector-*.elb.amazonaws.com": "INVALID",
-            "collector-*.tvsquared.com": "INVALID"
-        },
-        "1578951835": {
-            "datacollect*.abtasty.com": "INVALID"
-        },
-        "1578951837": {
-            "facebook.com*": "INVALID"
-        },
-        "1578952597": {
-            "hits-*.iubenda.com": "INVALID"
-        },
-        "1578952602": {
-            "log-*.previewnetworks.com": "INVALID"
-        },
-        "1578952603": {
-            "marketinghub.hp.com": "INACTIVE",
-            "mc.webvisor.ru": "INACTIVE"
-        },
-        "1578952604": {
-            "mediapartner.bigpoint.net": "INACTIVE",
-            "metrics.chmedia.com": "INACTIVE",
-            "metrics.loomia.com": "INACTIVE",
-            "metro-trending-*.amazonaws.com": "INVALID",
-            "mint.good.is": "INACTIVE",
-            "mitel.marketbright.com": "INACTIVE",
-            "mmpstats.mirror-image.com": "INACTIVE",
-            "mp.pianomedia.eu": "INACTIVE"
-        },
-        "1578952605": {
-            "mtrcs.samba.tv": "INACTIVE"
-        },
-        "1578952606": {
-            "newsletters.infoworld.com": "INACTIVE",
-            "nonxt1.c.youtube.com": "INACTIVE"
-        },
         "1578952607": {
             "offermatica.intuit.com": "INACTIVE",
             "offers.keynote.com": "INACTIVE",
@@ -10158,6 +10117,47 @@
         "1579060310": {
             "bc.geocities.": "INVALID",
             "bin.clearspring.*": "INVALID"
+        },
+        "1579062285": {
+            "cloudfront.net*": "INVALID"
+        },
+        "1579062287": {
+            "collect.*.miui.com": "INVALID",
+            "collector-*.elb.amazonaws.com": "INVALID",
+            "collector-*.tvsquared.com": "INVALID"
+        },
+        "1579062288": {
+            "datacollect*.abtasty.com": "INVALID"
+        },
+        "1579062291": {
+            "facebook.com*": "INVALID"
+        },
+        "1579062295": {
+            "hits-*.iubenda.com": "INVALID"
+        },
+        "1579062300": {
+            "log-*.previewnetworks.com": "INVALID"
+        },
+        "1579062301": {
+            "marketinghub.hp.com": "INACTIVE",
+            "mc.webvisor.ru": "INACTIVE"
+        },
+        "1579062302": {
+            "mediapartner.bigpoint.net": "INACTIVE",
+            "metrics.chmedia.com": "INACTIVE",
+            "metrics.loomia.com": "INACTIVE",
+            "metro-trending-*.amazonaws.com": "INVALID",
+            "mint.good.is": "INACTIVE",
+            "mitel.marketbright.com": "INACTIVE",
+            "mmpstats.mirror-image.com": "INACTIVE"
+        },
+        "1579062303": {
+            "mp.pianomedia.eu": "INACTIVE",
+            "mtrcs.samba.tv": "INACTIVE"
+        },
+        "1579062304": {
+            "newsletters.infoworld.com": "INACTIVE",
+            "nonxt1.c.youtube.com": "INACTIVE"
         }
     }
 }
