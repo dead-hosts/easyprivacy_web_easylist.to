@@ -9180,34 +9180,6 @@
         "1578697962": {
             "visit.hepsiburada.com": "INACTIVE"
         },
-        "1578954928": {
-            "115.84.165.13": "INACTIVE",
-            "199.116.177.156": "INACTIVE",
-            "stats2.*.fdnames.com": "INVALID"
-        },
-        "1578954931": {
-            "medorgs.ru": "INACTIVE"
-        },
-        "1578954932": {
-            "rustopweb.ru": "INACTIVE",
-            "stats-*.p2pnow.ru": "INVALID"
-        },
-        "1578954933": {
-            "198.105.253.2": "INACTIVE",
-            "maik.ff-bt.net": "INACTIVE"
-        },
-        "1578954934": {
-            "69.25.121.67": "INACTIVE"
-        },
-        "1578954935": {
-            "airbnb.*": "INVALID"
-        },
-        "1578954936": {
-            "amazon.*": "INVALID"
-        },
-        "1578955627": {
-            "attachmate.com*": "INVALID"
-        },
         "1578955634": {
             "classic.comunio.*": "INVALID",
             "climatedesk.org*": "INVALID"
@@ -10156,6 +10128,35 @@
             "82.196.13.38": "INACTIVE",
             "91.196.216.64": "INACTIVE",
             "pagerank.g-easy.hu": "INACTIVE"
+        },
+        "1579067969": {
+            "115.84.165.13": "INACTIVE",
+            "199.116.177.156": "INACTIVE",
+            "clickanalyzer.jp": "INACTIVE",
+            "stats2.*.fdnames.com": "INVALID"
+        },
+        "1579067972": {
+            "medorgs.ru": "INACTIVE"
+        },
+        "1579067973": {
+            "rustopweb.ru": "INACTIVE",
+            "stats-*.p2pnow.ru": "INVALID"
+        },
+        "1579067974": {
+            "198.105.253.2": "INACTIVE",
+            "maik.ff-bt.net": "INACTIVE"
+        },
+        "1579067975": {
+            "69.25.121.67": "INACTIVE"
+        },
+        "1579067976": {
+            "airbnb.*": "INVALID"
+        },
+        "1579067977": {
+            "amazon.*": "INVALID"
+        },
+        "1579067979": {
+            "attachmate.com*": "INVALID"
         }
     }
 }
