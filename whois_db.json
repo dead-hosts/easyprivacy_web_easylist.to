@@ -14295,9 +14295,9 @@
         "state": "future"
     },
     "livewebstats.dk": {
-        "epoch": 1577750400.0,
-        "expiration_date": "31-dec-2019",
-        "state": "past"
+        "epoch": 1609372800.0,
+        "expiration_date": "31-dec-2020",
+        "state": "future"
     },
     "lizardslaugh.com": {
         "epoch": 1603584000.0,
@@ -23102,7 +23102,7 @@
     "statistik-gallup.net": {
         "epoch": 1578960000.0,
         "expiration_date": "14-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "statistiq.com": {
         "epoch": 1594425600.0,
