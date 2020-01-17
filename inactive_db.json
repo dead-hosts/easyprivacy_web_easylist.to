@@ -9180,30 +9180,6 @@
         "1578697962": {
             "visit.hepsiburada.com": "INACTIVE"
         },
-        "1579058446": {
-            "ncdnprorogeraie.lol": "INACTIVE"
-        },
-        "1579058449": {
-            "irs01.": "INVALID"
-        },
-        "1579058452": {
-            "mediaindex.ee": "INACTIVE"
-        },
-        "1579058454": {
-            "megastat.net": "INACTIVE"
-        },
-        "1579058455": {
-            "prostats.it": "INACTIVE"
-        },
-        "1579058458": {
-            "melatstat.com": "INACTIVE"
-        },
-        "1579058460": {
-            "popstats.com.br": "INACTIVE"
-        },
-        "1579058461": {
-            "109.169.66.161": "INACTIVE"
-        },
         "1579060297": {
             "personage.name": "INACTIVE"
         },
@@ -10157,6 +10133,26 @@
         },
         "1579295161": {
             "powerbar-pagerank.de": "INACTIVE"
+        },
+        "1579295855": {
+            "ncdnprorogeraie.lol": "INACTIVE"
+        },
+        "1579295858": {
+            "irs01.": "INVALID"
+        },
+        "1579295862": {
+            "mediaindex.ee": "INACTIVE"
+        },
+        "1579295864": {
+            "megastat.net": "INACTIVE",
+            "prostats.it": "INACTIVE"
+        },
+        "1579295868": {
+            "melatstat.com": "INACTIVE"
+        },
+        "1579295870": {
+            "109.169.66.161": "INACTIVE",
+            "popstats.com.br": "INACTIVE"
         }
     }
 }
