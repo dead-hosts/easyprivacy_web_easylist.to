@@ -9180,50 +9180,6 @@
         "1578697962": {
             "visit.hepsiburada.com": "INACTIVE"
         },
-        "1579064249": {
-            "piano-media.com": "INACTIVE",
-            "pianomedia.biz": "INACTIVE",
-            "ping.aclst.com": "INACTIVE",
-            "ping.rasset.ie": "INACTIVE",
-            "pings.reembed.com": "INACTIVE"
-        },
-        "1579064250": {
-            "pixel-xpanama.netdna-ssl.com": "INACTIVE",
-            "pixel.colorupmedia.com": "INACTIVE",
-            "pixel.newsdata.com.au": "INACTIVE",
-            "pixel.usrsync.com": "INACTIVE",
-            "pixels.youknowbest.com": "INACTIVE",
-            "pong.production.gannettdigital.com": "INACTIVE"
-        },
-        "1579064251": {
-            "production-eqbc.lvp.llnw.net": "INACTIVE",
-            "projecthaile.com": "INACTIVE",
-            "px.247inc.net": "INACTIVE",
-            "px.reactrmod.com": "INACTIVE",
-            "qos.video.yimg.com": "INACTIVE"
-        },
-        "1579064253": {
-            "report.downloastar.com": "INACTIVE",
-            "reporting.reactlite.com": "INACTIVE",
-            "reportinglogger.my.rightster.com": "INACTIVE",
-            "reports.maxperview.com": "INACTIVE"
-        },
-        "1579064254": {
-            "roitrack.addlvr.com": "INACTIVE"
-        },
-        "1579064257": {
-            "stat.itp-nyc.com": "INACTIVE"
-        },
-        "1579064258": {
-            "targeting.*.arcpublishing.com": "INVALID"
-        },
-        "1579064260": {
-            "tracker.twenga.": "INVALID",
-            "tracking.*.miui.com": "INVALID"
-        },
-        "1579066242": {
-            "vtnlog-*.elb.amazonaws.com": "INVALID"
-        },
         "1579066244": {
             "yandex.*": "INVALID"
         },
@@ -10157,6 +10113,49 @@
             "peermapcontent.affino.com": "INACTIVE",
             "pf.aclst.com": "INACTIVE",
             "pg.buzzfeed.com": "INACTIVE"
+        },
+        "1579298006": {
+            "piano-media.com": "INACTIVE",
+            "pianomedia.biz": "INACTIVE",
+            "ping.aclst.com": "INACTIVE",
+            "ping.rasset.ie": "INACTIVE",
+            "pings.reembed.com": "INACTIVE",
+            "pixel-xpanama.netdna-ssl.com": "INACTIVE",
+            "pixel.colorupmedia.com": "INACTIVE",
+            "pixel.newsdata.com.au": "INACTIVE",
+            "pixel.usrsync.com": "INACTIVE",
+            "pixel.vmm-satellite2.com": "INACTIVE",
+            "pixels.youknowbest.com": "INACTIVE",
+            "pong.production.gannettdigital.com": "INACTIVE"
+        },
+        "1579298007": {
+            "production-eqbc.lvp.llnw.net": "INACTIVE",
+            "projecthaile.com": "INACTIVE"
+        },
+        "1579298008": {
+            "px.247inc.net": "INACTIVE",
+            "px.reactrmod.com": "INACTIVE",
+            "qos.video.yimg.com": "INACTIVE"
+        },
+        "1579298010": {
+            "report.downloastar.com": "INACTIVE",
+            "reporting.reactlite.com": "INACTIVE",
+            "reportinglogger.my.rightster.com": "INACTIVE",
+            "reports.maxperview.com": "INACTIVE",
+            "roitrack.addlvr.com": "INACTIVE"
+        },
+        "1579298013": {
+            "stat.itp-nyc.com": "INACTIVE"
+        },
+        "1579298015": {
+            "targeting.*.arcpublishing.com": "INVALID"
+        },
+        "1579298016": {
+            "tracker.twenga.": "INVALID",
+            "tracking.*.miui.com": "INVALID"
+        },
+        "1579298020": {
+            "vtnlog-*.elb.amazonaws.com": "INVALID"
         }
     }
 }
