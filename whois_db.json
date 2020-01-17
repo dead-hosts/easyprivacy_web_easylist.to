@@ -3109,6 +3109,11 @@
         "expiration_date": "02-apr-2024",
         "state": "future"
     },
+    "bbthat.com": {
+        "epoch": 1600732800.0,
+        "expiration_date": "22-sep-2020",
+        "state": "future"
+    },
     "bbtrack.net": {
         "epoch": 1599696000.0,
         "expiration_date": "10-sep-2020",
@@ -4435,8 +4440,8 @@
         "state": "future"
     },
     "captora.com": {
-        "epoch": 1579219200.0,
-        "expiration_date": "17-jan-2020",
+        "epoch": 1610841600.0,
+        "expiration_date": "17-jan-2021",
         "state": "future"
     },
     "capturemedia.network": {
