@@ -9180,47 +9180,6 @@
         "1578697962": {
             "visit.hepsiburada.com": "INACTIVE"
         },
-        "1579060297": {
-            "personage.name": "INACTIVE"
-        },
-        "1579060299": {
-            "www.rt-ns.ru": "INACTIVE"
-        },
-        "1579060302": {
-            "121.78.90.104:8383": "INVALID",
-            "195.182.58.105": "INACTIVE",
-            "208.91.157.30": "INACTIVE",
-            "209.15.236.80": "INACTIVE",
-            "213.8.137.51": "INACTIVE",
-            "216.18.176.4": "INACTIVE",
-            "219.232.238.60": "INACTIVE",
-            "58.68.146.44:8000": "INVALID"
-        },
-        "1579060303": {
-            "61.129.118.83": "INACTIVE",
-            "62.219.24.238": "INACTIVE",
-            "74.117.176.217": "INACTIVE",
-            "93.93.53.198": "INACTIVE",
-            "activity.*.miui.com": "INVALID"
-        },
-        "1579060307": {
-            "analytics-beacon-*.amazonaws.com": "INVALID",
-            "analytics.edgekey.net": "INACTIVE",
-            "analytics.edgesuite.net": "INACTIVE",
-            "analytics.r17.com": "INACTIVE"
-        },
-        "1579060310": {
-            "bc.geocities.": "INVALID",
-            "bin.clearspring.*": "INVALID"
-        },
-        "1579062285": {
-            "cloudfront.net*": "INVALID"
-        },
-        "1579062287": {
-            "collect.*.miui.com": "INVALID",
-            "collector-*.elb.amazonaws.com": "INVALID",
-            "collector-*.tvsquared.com": "INVALID"
-        },
         "1579062288": {
             "datacollect*.abtasty.com": "INVALID"
         },
@@ -10153,6 +10112,49 @@
         "1579295870": {
             "109.169.66.161": "INACTIVE",
             "popstats.com.br": "INACTIVE"
+        },
+        "1579296570": {
+            "personage.name": "INACTIVE"
+        },
+        "1579296572": {
+            "www.rt-ns.ru": "INACTIVE"
+        },
+        "1579296575": {
+            "121.78.90.104:8383": "INVALID",
+            "195.182.58.105": "INACTIVE",
+            "208.91.157.30": "INACTIVE",
+            "209.15.236.80": "INACTIVE",
+            "213.8.137.51": "INACTIVE",
+            "216.18.176.4": "INACTIVE",
+            "219.232.238.60": "INACTIVE",
+            "58.68.146.44:8000": "INVALID",
+            "61.129.118.83": "INACTIVE",
+            "74.117.176.217": "INACTIVE"
+        },
+        "1579296576": {
+            "62.219.24.238": "INACTIVE",
+            "93.93.53.198": "INACTIVE",
+            "activity.*.miui.com": "INVALID"
+        },
+        "1579296580": {
+            "analytics-beacon-*.amazonaws.com": "INVALID",
+            "analytics.edgekey.net": "INACTIVE",
+            "analytics.edgesuite.net": "INACTIVE",
+            "analytics.r17.com": "INACTIVE"
+        },
+        "1579296582": {
+            "bc.geocities.": "INVALID"
+        },
+        "1579296583": {
+            "bin.clearspring.*": "INVALID"
+        },
+        "1579296586": {
+            "cloudfront.net*": "INVALID"
+        },
+        "1579296588": {
+            "collect.*.miui.com": "INVALID",
+            "collector-*.elb.amazonaws.com": "INVALID",
+            "collector-*.tvsquared.com": "INVALID"
         }
     }
 }
