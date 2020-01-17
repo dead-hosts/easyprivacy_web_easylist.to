@@ -14,4 +14,9 @@
 0.0.0.0 collect.*.miui.com
 0.0.0.0 collector-*.elb.amazonaws.com
 0.0.0.0 collector-*.tvsquared.com
+0.0.0.0 datacollect*.abtasty.com
+0.0.0.0 facebook.com*
+0.0.0.0 hits-*.iubenda.com
 0.0.0.0 irs01.
+0.0.0.0 log-*.previewnetworks.com
+0.0.0.0 metro-trending-*.amazonaws.com
