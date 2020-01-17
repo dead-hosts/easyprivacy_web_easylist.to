@@ -9180,40 +9180,8 @@
         "1578697962": {
             "visit.hepsiburada.com": "INACTIVE"
         },
-        "1579066244": {
-            "yandex.*": "INVALID"
-        },
-        "1579066245": {
-            "kontextr.eu": "INACTIVE",
-            "met.vgwort.de": "INACTIVE"
-        },
-        "1579066246": {
-            "pix.news.at": "INACTIVE",
-            "pixel.holtzbrinckdigital.info": "INACTIVE",
-            "pixel.nbsp.de": "INACTIVE"
-        },
-        "1579066247": {
-            "179.43.173.134": "INACTIVE",
-            "46.101.168.189": "INACTIVE",
-            "46.101.246.10": "INACTIVE"
-        },
-        "1579066248": {
-            "nvc.n1bus-exp.com": "INACTIVE"
-        },
-        "1579066249": {
-            "aff*.kolektiva.net": "INVALID",
-            "etwun.com:8080": "INVALID"
-        },
-        "1579066251": {
-            "82.196.13.38": "INACTIVE",
-            "91.196.216.64": "INACTIVE",
-            "pagerank.g-easy.hu": "INACTIVE"
-        },
         "1579067969": {
-            "115.84.165.13": "INACTIVE",
-            "199.116.177.156": "INACTIVE",
-            "clickanalyzer.jp": "INACTIVE",
-            "stats2.*.fdnames.com": "INVALID"
+            "115.84.165.13": "INACTIVE"
         },
         "1579067972": {
             "medorgs.ru": "INACTIVE"
@@ -10156,6 +10124,39 @@
         },
         "1579298020": {
             "vtnlog-*.elb.amazonaws.com": "INVALID"
+        },
+        "1579298712": {
+            "yandex.*": "INVALID"
+        },
+        "1579298714": {
+            "kontextr.eu": "INACTIVE",
+            "met.vgwort.de": "INACTIVE"
+        },
+        "1579298715": {
+            "pix.news.at": "INACTIVE",
+            "pixel.holtzbrinckdigital.info": "INACTIVE",
+            "pixel.nbsp.de": "INACTIVE"
+        },
+        "1579298716": {
+            "179.43.173.134": "INACTIVE",
+            "46.101.168.189": "INACTIVE",
+            "46.101.246.10": "INACTIVE"
+        },
+        "1579298717": {
+            "nvc.n1bus-exp.com": "INACTIVE"
+        },
+        "1579298718": {
+            "aff*.kolektiva.net": "INVALID",
+            "etwun.com:8080": "INVALID"
+        },
+        "1579298720": {
+            "82.196.13.38": "INACTIVE",
+            "91.196.216.64": "INACTIVE",
+            "pagerank.g-easy.hu": "INACTIVE"
+        },
+        "1579298722": {
+            "199.116.177.156": "INACTIVE",
+            "stats2.*.fdnames.com": "INVALID"
         }
     }
 }
