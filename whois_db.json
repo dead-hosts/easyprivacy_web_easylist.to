@@ -15935,9 +15935,9 @@
         "state": "future"
     },
     "mpianalytics.com": {
-        "epoch": 1579046400.0,
-        "expiration_date": "15-jan-2020",
-        "state": "past"
+        "epoch": 1610668800.0,
+        "expiration_date": "15-jan-2021",
+        "state": "future"
     },
     "mplxtms.com": {
         "epoch": 1593734400.0,
@@ -19310,8 +19310,8 @@
         "state": "future"
     },
     "pt-trx.com": {
-        "epoch": 1579132800.0,
-        "expiration_date": "16-jan-2020",
+        "epoch": 1610755200.0,
+        "expiration_date": "16-jan-2021",
         "state": "future"
     },
     "ptengine.cn": {
@@ -21285,8 +21285,8 @@
         "state": "future"
     },
     "securitytrfx.com": {
-        "epoch": 1579132800.0,
-        "expiration_date": "16-jan-2020",
+        "epoch": 1736985600.0,
+        "expiration_date": "16-jan-2025",
         "state": "future"
     },
     "sedotracker.com": {
@@ -21377,6 +21377,11 @@
     "sellebrity.com": {
         "epoch": 1603670400.0,
         "expiration_date": "26-oct-2020",
+        "state": "future"
+    },
+    "sellpoint.net": {
+        "epoch": 1586563200.0,
+        "expiration_date": "11-apr-2020",
         "state": "future"
     },
     "sellpoints.com": {
