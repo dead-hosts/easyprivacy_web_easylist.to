@@ -9180,39 +9180,6 @@
         "1578697962": {
             "visit.hepsiburada.com": "INACTIVE"
         },
-        "1579067969": {
-            "115.84.165.13": "INACTIVE"
-        },
-        "1579067972": {
-            "medorgs.ru": "INACTIVE"
-        },
-        "1579067973": {
-            "rustopweb.ru": "INACTIVE",
-            "stats-*.p2pnow.ru": "INVALID"
-        },
-        "1579067974": {
-            "198.105.253.2": "INACTIVE",
-            "maik.ff-bt.net": "INACTIVE"
-        },
-        "1579067975": {
-            "69.25.121.67": "INACTIVE"
-        },
-        "1579067976": {
-            "airbnb.*": "INVALID"
-        },
-        "1579067977": {
-            "amazon.*": "INVALID"
-        },
-        "1579067979": {
-            "attachmate.com*": "INVALID"
-        },
-        "1579069858": {
-            "classic.comunio.*": "INVALID",
-            "climatedesk.org*": "INVALID"
-        },
-        "1579069859": {
-            "compare.easyvoyage.": "INVALID"
-        },
         "1579069860": {
             "creativefactory.zalando.": "INVALID"
         },
@@ -10157,6 +10124,37 @@
         "1579298722": {
             "199.116.177.156": "INACTIVE",
             "stats2.*.fdnames.com": "INVALID"
+        },
+        "1579302551": {
+            "115.84.165.13": "INACTIVE"
+        },
+        "1579302553": {
+            "medorgs.ru": "INACTIVE"
+        },
+        "1579302554": {
+            "rustopweb.ru": "INACTIVE",
+            "stats-*.p2pnow.ru": "INVALID"
+        },
+        "1579302555": {
+            "maik.ff-bt.net": "INACTIVE"
+        },
+        "1579302556": {
+            "198.105.253.2": "INACTIVE",
+            "69.25.121.67": "INACTIVE"
+        },
+        "1579302558": {
+            "airbnb.*": "INVALID",
+            "amazon.*": "INVALID"
+        },
+        "1579302561": {
+            "attachmate.com*": "INVALID"
+        },
+        "1579302567": {
+            "classic.comunio.*": "INVALID",
+            "climatedesk.org*": "INVALID"
+        },
+        "1579302568": {
+            "compare.easyvoyage.": "INVALID"
         }
     }
 }
