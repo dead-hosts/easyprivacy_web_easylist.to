@@ -9180,65 +9180,6 @@
         "1578697962": {
             "visit.hepsiburada.com": "INACTIVE"
         },
-        "1579071475": {
-            "pcp001.com": "INACTIVE"
-        },
-        "1579071477": {
-            "pictures.zooplus.com": "INACTIVE",
-            "ping.buto.tv": "INACTIVE",
-            "ping.tvmaze.com": "INACTIVE",
-            "pixel.archive.": "INVALID",
-            "pixel.buzzfeed.com": "INACTIVE",
-            "pixel.klout.com": "INACTIVE",
-            "pixel.redditmedia.com": "INACTIVE"
-        },
-        "1579071478": {
-            "pluto.airbnb.com": "INACTIVE",
-            "pong.gannettdigital.com": "INACTIVE",
-            "pound.buzzfeed.com": "INACTIVE"
-        },
-        "1579071479": {
-            "pulsar.ebay.": "INVALID",
-            "pulse-analytics-beacon.reutersmedia.net": "INACTIVE"
-        },
-        "1579071480": {
-            "rainbow-uk.mythings.com": "INACTIVE",
-            "rd.meebo.com": "INACTIVE"
-        },
-        "1579071482": {
-            "refer.evine.com": "INACTIVE",
-            "report.shell.com": "INACTIVE",
-            "reporting.onthebeach.co.uk": "INACTIVE",
-            "reporting.wilkinsonplus.com": "INACTIVE"
-        },
-        "1579071483": {
-            "rover.ebay.": "INVALID"
-        },
-        "1579071487": {
-            "skyscanner.*": "INVALID"
-        },
-        "1579071489": {
-            "startpage.*": "INVALID"
-        },
-        "1579071491": {
-            "t.delfi.": "INVALID",
-            "tagcommander.laredoute.": "INVALID",
-            "tags.aljazeera.": "INVALID"
-        },
-        "1579073392": {
-            "track.zalando.": "INVALID",
-            "tracking.olx.": "INVALID"
-        },
-        "1579073393": {
-            "tripadvisor.*": "INVALID",
-            "ts.delfi.": "INVALID"
-        },
-        "1579073395": {
-            "v.fwmrm.net": "INACTIVE"
-        },
-        "1579073396": {
-            "vice.com*": "INVALID"
-        },
         "1579073400": {
             "www.google.*": "INVALID",
             "www.imdb.*": "INVALID"
@@ -10155,6 +10096,69 @@
         },
         "1579306098": {
             "newsletter.mybboard.net": "INACTIVE"
+        },
+        "1579309568": {
+            "pcp001.com": "INACTIVE"
+        },
+        "1579309569": {
+            "pictures.zooplus.com": "INACTIVE",
+            "ping.buto.tv": "INACTIVE",
+            "ping.tvmaze.com": "INACTIVE"
+        },
+        "1579309570": {
+            "pixel.archive.": "INVALID",
+            "pixel.buzzfeed.com": "INACTIVE",
+            "pixel.klout.com": "INACTIVE",
+            "pixel.redditmedia.com": "INACTIVE",
+            "pluto.airbnb.com": "INACTIVE"
+        },
+        "1579309571": {
+            "pong.gannettdigital.com": "INACTIVE",
+            "pound.buzzfeed.com": "INACTIVE"
+        },
+        "1579309572": {
+            "pulsar.ebay.": "INVALID",
+            "pulse-analytics-beacon.reutersmedia.net": "INACTIVE"
+        },
+        "1579309573": {
+            "rainbow-uk.mythings.com": "INACTIVE",
+            "rd.meebo.com": "INACTIVE"
+        },
+        "1579309574": {
+            "refer.evine.com": "INACTIVE"
+        },
+        "1579309575": {
+            "report.shell.com": "INACTIVE",
+            "reporting.onthebeach.co.uk": "INACTIVE",
+            "reporting.wilkinsonplus.com": "INACTIVE"
+        },
+        "1579309576": {
+            "rover.ebay.": "INVALID"
+        },
+        "1579309579": {
+            "skyscanner.*": "INVALID"
+        },
+        "1579309582": {
+            "startpage.*": "INVALID"
+        },
+        "1579309584": {
+            "t.delfi.": "INVALID",
+            "tagcommander.laredoute.": "INVALID",
+            "tags.aljazeera.": "INVALID"
+        },
+        "1579309587": {
+            "track.zalando.": "INVALID",
+            "tracking.olx.": "INVALID"
+        },
+        "1579309588": {
+            "tripadvisor.*": "INVALID",
+            "ts.delfi.": "INVALID"
+        },
+        "1579309590": {
+            "v.fwmrm.net": "INACTIVE"
+        },
+        "1579309591": {
+            "vice.com*": "INVALID"
         }
     }
 }
