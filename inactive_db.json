@@ -9180,72 +9180,6 @@
         "1578697962": {
             "visit.hepsiburada.com": "INACTIVE"
         },
-        "1579069860": {
-            "creativefactory.zalando.": "INVALID"
-        },
-        "1579069864": {
-            "encrypted.google.*": "INVALID"
-        },
-        "1579069865": {
-            "expedia.*": "INVALID"
-        },
-        "1579069868": {
-            "fls-*.amazon.*%": "INVALID",
-            "fls-*.amazon.*&": "INVALID"
-        },
-        "1579069870": {
-            "gateway.reddit.com|": "INVALID"
-        },
-        "1579069871": {
-            "gismeteo.*": "INVALID",
-            "google.*": "INVALID"
-        },
-        "1579069872": {
-            "groupon.*": "INVALID"
-        },
-        "1579069874": {
-            "huffingtonpost.*": "INVALID"
-        },
-        "1579069875": {
-            "id.google.*": "INVALID"
-        },
-        "1579069878": {
-            "ixquick.*": "INVALID"
-        },
-        "1579069879": {
-            "kayak.*": "INVALID"
-        },
-        "1579069880": {
-            "lcs.naver.": "INVALID",
-            "linguee.com*": "INVALID"
-        },
-        "1579069881": {
-            "logger-*.dailymotion.com": "INVALID"
-        },
-        "1579069882": {
-            "maps.nokia.com": "INACTIVE",
-            "massdrop.com*": "INVALID",
-            "measure.office.com": "INACTIVE"
-        },
-        "1579069883": {
-            "metric*.rediff.com": "INVALID",
-            "metric.gstatic.com": "INACTIVE",
-            "metrics.aws.sitepoint.com": "INACTIVE",
-            "metrics.dailymotion.com": "INACTIVE"
-        },
-        "1579069884": {
-            "mint.boingboing.net": "INACTIVE"
-        },
-        "1579069885": {
-            "mp.twitch.tv": "INACTIVE",
-            "mtoza.vzaar.com": "INACTIVE"
-        },
-        "1579071471": {
-            "navlog.channel4.com": "INACTIVE"
-        },
-        "1579071472": {
-            "newsletter.mybboard.net": "INACTIVE"
-        },
         "1579071475": {
             "pcp001.com": "INACTIVE"
         },
@@ -10155,6 +10089,72 @@
         },
         "1579302568": {
             "compare.easyvoyage.": "INVALID"
+        },
+        "1579306069": {
+            "creativefactory.zalando.": "INVALID"
+        },
+        "1579306074": {
+            "encrypted.google.*": "INVALID"
+        },
+        "1579306075": {
+            "expedia.*": "INVALID"
+        },
+        "1579306077": {
+            "fls-*.amazon.*%": "INVALID",
+            "fls-*.amazon.*&": "INVALID"
+        },
+        "1579306080": {
+            "gateway.reddit.com|": "INVALID",
+            "gismeteo.*": "INVALID"
+        },
+        "1579306081": {
+            "google.*": "INVALID",
+            "groupon.*": "INVALID"
+        },
+        "1579306083": {
+            "huffingtonpost.*": "INVALID"
+        },
+        "1579306085": {
+            "id.google.*": "INVALID"
+        },
+        "1579306087": {
+            "ixquick.*": "INVALID"
+        },
+        "1579306088": {
+            "kayak.*": "INVALID"
+        },
+        "1579306089": {
+            "lcs.naver.": "INVALID"
+        },
+        "1579306090": {
+            "linguee.com*": "INVALID"
+        },
+        "1579306091": {
+            "logger-*.dailymotion.com": "INVALID",
+            "maps.nokia.com": "INACTIVE"
+        },
+        "1579306092": {
+            "massdrop.com*": "INVALID",
+            "measure.office.com": "INACTIVE",
+            "metric*.rediff.com": "INVALID"
+        },
+        "1579306093": {
+            "metric.gstatic.com": "INACTIVE",
+            "metrics.aws.sitepoint.com": "INACTIVE",
+            "metrics.dailymotion.com": "INACTIVE"
+        },
+        "1579306094": {
+            "mint.boingboing.net": "INACTIVE"
+        },
+        "1579306095": {
+            "mp.twitch.tv": "INACTIVE",
+            "mtoza.vzaar.com": "INACTIVE"
+        },
+        "1579306096": {
+            "navlog.channel4.com": "INACTIVE"
+        },
+        "1579306098": {
+            "newsletter.mybboard.net": "INACTIVE"
         }
     }
 }
