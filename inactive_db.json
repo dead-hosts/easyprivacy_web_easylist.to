@@ -9183,16 +9183,6 @@
         "1579294423": {
             "startstat.ru": "INACTIVE"
         },
-        "1579295144": {
-            "minero-proxy-*.sh": "INVALID"
-        },
-        "1579295148": {
-            "site.flashx.": "INVALID"
-        },
-        "1579295157": {
-            "193.197.158.209": "INACTIVE",
-            "212.95.32.75": "INACTIVE"
-        },
         "1579295161": {
             "powerbar-pagerank.de": "INACTIVE"
         },
@@ -10153,6 +10143,17 @@
         },
         "1579555291": {
             "185.165.169.108": "INACTIVE"
+        },
+        "1579556363": {
+            "mercy.ga": "INACTIVE",
+            "minero-proxy-*.sh": "INVALID"
+        },
+        "1579556366": {
+            "site.flashx.": "INVALID"
+        },
+        "1579556376": {
+            "193.197.158.209": "INACTIVE",
+            "212.95.32.75": "INACTIVE"
         }
     }
 }
