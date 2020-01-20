@@ -9189,9 +9189,6 @@
         "1579295855": {
             "ncdnprorogeraie.lol": "INACTIVE"
         },
-        "1579295858": {
-            "irs01.": "INVALID"
-        },
         "1579295862": {
             "mediaindex.ee": "INACTIVE"
         },
@@ -9203,7 +9200,6 @@
             "melatstat.com": "INACTIVE"
         },
         "1579295870": {
-            "109.169.66.161": "INACTIVE",
             "popstats.com.br": "INACTIVE"
         },
         "1579296570": {
@@ -10154,6 +10150,12 @@
         "1579556376": {
             "193.197.158.209": "INACTIVE",
             "212.95.32.75": "INACTIVE"
+        },
+        "1579557211": {
+            "irs01.": "INVALID"
+        },
+        "1579557223": {
+            "109.169.66.161": "INACTIVE"
         }
     }
 }

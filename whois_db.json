@@ -13775,8 +13775,8 @@
         "state": "future"
     },
     "lead-analytics.biz": {
-        "epoch": 1579392000.0,
-        "expiration_date": "19-jan-2020",
+        "epoch": 1611014400.0,
+        "expiration_date": "19-jan-2021",
         "state": "future"
     },
     "lead-converter.com": {
@@ -22715,9 +22715,9 @@
         "state": "future"
     },
     "spider-mich.com": {
-        "epoch": 1579219200.0,
-        "expiration_date": "17-jan-2020",
-        "state": "past"
+        "epoch": 1610841600.0,
+        "expiration_date": "17-jan-2021",
+        "state": "future"
     },
     "spiffymachine.com": {
         "epoch": 1597622400.0,
