@@ -9288,39 +9288,17 @@
         "1579298717": {
             "nvc.n1bus-exp.com": "INACTIVE"
         },
-        "1579298718": {
-            "aff*.kolektiva.net": "INVALID",
-            "etwun.com:8080": "INVALID"
-        },
         "1579298720": {
-            "82.196.13.38": "INACTIVE",
-            "91.196.216.64": "INACTIVE",
             "pagerank.g-easy.hu": "INACTIVE"
-        },
-        "1579298722": {
-            "199.116.177.156": "INACTIVE",
-            "stats2.*.fdnames.com": "INVALID"
-        },
-        "1579302551": {
-            "115.84.165.13": "INACTIVE"
         },
         "1579302553": {
             "medorgs.ru": "INACTIVE"
         },
         "1579302554": {
-            "rustopweb.ru": "INACTIVE",
-            "stats-*.p2pnow.ru": "INVALID"
+            "rustopweb.ru": "INACTIVE"
         },
         "1579302555": {
             "maik.ff-bt.net": "INACTIVE"
-        },
-        "1579302556": {
-            "198.105.253.2": "INACTIVE",
-            "69.25.121.67": "INACTIVE"
-        },
-        "1579302558": {
-            "airbnb.*": "INVALID",
-            "amazon.*": "INVALID"
         },
         "1579302561": {
             "attachmate.com*": "INVALID"
@@ -10162,6 +10140,42 @@
             "179.43.173.134": "INACTIVE",
             "46.101.168.189": "INACTIVE",
             "46.101.246.10": "INACTIVE"
+        },
+        "1579560822": {
+            "aff*.kolektiva.net": "INVALID"
+        },
+        "1579560823": {
+            "etwun.com:8080": "INVALID"
+        },
+        "1579560825": {
+            "82.196.13.38": "INACTIVE",
+            "91.196.216.64": "INACTIVE"
+        },
+        "1579560826": {
+            "stats2.*.fdnames.com": "INVALID"
+        },
+        "1579560827": {
+            "115.84.165.13": "INACTIVE",
+            "199.116.177.156": "INACTIVE",
+            "clickanalyzer.jp": "INACTIVE"
+        },
+        "1579560828": {
+            "top.skyzone.ro": "INACTIVE"
+        },
+        "1579560830": {
+            "stats-*.p2pnow.ru": "INVALID"
+        },
+        "1579560831": {
+            "198.105.253.2": "INACTIVE"
+        },
+        "1579560832": {
+            "69.25.121.67": "INACTIVE"
+        },
+        "1579560833": {
+            "airbnb.*": "INVALID"
+        },
+        "1579560834": {
+            "amazon.*": "INVALID"
         }
     }
 }
