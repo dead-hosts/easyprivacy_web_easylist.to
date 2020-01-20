@@ -9277,32 +9277,13 @@
         "1579298013": {
             "stat.itp-nyc.com": "INACTIVE"
         },
-        "1579298015": {
-            "targeting.*.arcpublishing.com": "INVALID"
-        },
-        "1579298016": {
-            "tracker.twenga.": "INVALID",
-            "tracking.*.miui.com": "INVALID"
-        },
-        "1579298020": {
-            "vtnlog-*.elb.amazonaws.com": "INVALID"
-        },
-        "1579298712": {
-            "yandex.*": "INVALID"
-        },
         "1579298714": {
-            "kontextr.eu": "INACTIVE",
-            "met.vgwort.de": "INACTIVE"
+            "kontextr.eu": "INACTIVE"
         },
         "1579298715": {
             "pix.news.at": "INACTIVE",
             "pixel.holtzbrinckdigital.info": "INACTIVE",
             "pixel.nbsp.de": "INACTIVE"
-        },
-        "1579298716": {
-            "179.43.173.134": "INACTIVE",
-            "46.101.168.189": "INACTIVE",
-            "46.101.246.10": "INACTIVE"
         },
         "1579298717": {
             "nvc.n1bus-exp.com": "INACTIVE"
@@ -10160,6 +10141,27 @@
         },
         "1579559069": {
             "metro-trending-*.amazonaws.com": "INVALID"
+        },
+        "1579559900": {
+            "targeting.*.arcpublishing.com": "INVALID"
+        },
+        "1579559902": {
+            "tracker.twenga.": "INVALID",
+            "tracking.*.miui.com": "INVALID"
+        },
+        "1579559906": {
+            "vtnlog-*.elb.amazonaws.com": "INVALID"
+        },
+        "1579559908": {
+            "yandex.*": "INVALID"
+        },
+        "1579559910": {
+            "met.vgwort.de": "INACTIVE"
+        },
+        "1579559911": {
+            "179.43.173.134": "INACTIVE",
+            "46.101.168.189": "INACTIVE",
+            "46.101.246.10": "INACTIVE"
         }
     }
 }
