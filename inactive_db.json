@@ -9208,18 +9208,6 @@
         "1579296572": {
             "www.rt-ns.ru": "INACTIVE"
         },
-        "1579297275": {
-            "datacollect*.abtasty.com": "INVALID"
-        },
-        "1579297278": {
-            "facebook.com*": "INVALID"
-        },
-        "1579297283": {
-            "hits-*.iubenda.com": "INVALID"
-        },
-        "1579297288": {
-            "log-*.previewnetworks.com": "INVALID"
-        },
         "1579297289": {
             "marketinghub.hp.com": "INACTIVE"
         },
@@ -9227,8 +9215,7 @@
             "mc.webvisor.ru": "INACTIVE",
             "mediapartner.bigpoint.net": "INACTIVE",
             "metrics.chmedia.com": "INACTIVE",
-            "metrics.loomia.com": "INACTIVE",
-            "metro-trending-*.amazonaws.com": "INVALID"
+            "metrics.loomia.com": "INACTIVE"
         },
         "1579297291": {
             "mint.good.is": "INACTIVE",
@@ -10155,6 +10142,24 @@
         },
         "1579558294": {
             "collector-*.tvsquared.com": "INVALID"
+        },
+        "1579559054": {
+            "datacollect*.abtasty.com": "INVALID"
+        },
+        "1579559056": {
+            "dzmxze7hxwn6b.cloudfront.net": "INACTIVE"
+        },
+        "1579559057": {
+            "facebook.com*": "INVALID"
+        },
+        "1579559062": {
+            "hits-*.iubenda.com": "INVALID"
+        },
+        "1579559067": {
+            "log-*.previewnetworks.com": "INVALID"
+        },
+        "1579559069": {
+            "metro-trending-*.amazonaws.com": "INVALID"
         }
     }
 }
