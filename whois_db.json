@@ -7420,8 +7420,8 @@
         "state": "future"
     },
     "dominocounter.net": {
-        "epoch": 1579305600.0,
-        "expiration_date": "18-jan-2020",
+        "epoch": 1610928000.0,
+        "expiration_date": "18-jan-2021",
         "state": "future"
     },
     "dominos.co.uk": {
@@ -8189,6 +8189,11 @@
         "expiration_date": "27-feb-2020",
         "state": "future"
     },
+    "eolcdn.com": {
+        "epoch": 1613088000.0,
+        "expiration_date": "12-feb-2021",
+        "state": "future"
+    },
     "ep4p.com": {
         "epoch": 1587686400.0,
         "expiration_date": "24-apr-2020",
@@ -8290,8 +8295,8 @@
         "state": "future"
     },
     "esomniture.com": {
-        "epoch": 1579392000.0,
-        "expiration_date": "19-jan-2020",
+        "epoch": 1611014400.0,
+        "expiration_date": "19-jan-2021",
         "state": "future"
     },
     "espncdn.com": {
@@ -12599,6 +12604,11 @@
         "expiration_date": "20-jan-2021",
         "state": "future"
     },
+    "io1g.net": {
+        "epoch": 1582156800.0,
+        "expiration_date": "20-feb-2020",
+        "state": "future"
+    },
     "iocnt.net": {
         "epoch": 1588636800.0,
         "expiration_date": "05-may-2020",
@@ -12795,8 +12805,8 @@
         "state": "future"
     },
     "ironbeast.io": {
-        "epoch": 1579305600.0,
-        "expiration_date": "18-jan-2020",
+        "epoch": 1610928000.0,
+        "expiration_date": "18-jan-2021",
         "state": "future"
     },
     "irs09.com": {
@@ -13792,6 +13802,11 @@
     "leaddyno.com": {
         "epoch": 1604793600.0,
         "expiration_date": "08-nov-2020",
+        "state": "future"
+    },
+    "leadelephant.com": {
+        "epoch": 1583971200.0,
+        "expiration_date": "12-mar-2020",
         "state": "future"
     },
     "leadfeeder.com": {
