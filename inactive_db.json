@@ -9982,20 +9982,6 @@
             "goals.ar.gy": "INACTIVE",
             "hodling.science": "INACTIVE"
         },
-        "1579551724": {
-            "149.13.65.144": "INACTIVE",
-            "195.10.245.55": "INACTIVE",
-            "meetrics.netbb-": "INVALID"
-        },
-        "1579551725": {
-            "208.88.226.75": "INACTIVE",
-            "212.227.100.108": "INACTIVE",
-            "216.18.184.18": "INACTIVE"
-        },
-        "1579551726": {
-            "62.160.52.73": "INACTIVE",
-            "72.172.88.25": "INACTIVE"
-        },
         "1579555291": {
             "185.165.169.108": "INACTIVE"
         },
@@ -10176,6 +10162,20 @@
         },
         "1579561930": {
             "logger-*.dailymotion.com": "INVALID"
+        },
+        "1579640441": {
+            "meetrics.netbb-": "INVALID"
+        },
+        "1579640442": {
+            "149.13.65.144": "INACTIVE",
+            "195.10.245.55": "INACTIVE",
+            "208.88.226.75": "INACTIVE",
+            "212.227.100.108": "INACTIVE",
+            "216.18.184.18": "INACTIVE"
+        },
+        "1579640443": {
+            "62.160.52.73": "INACTIVE",
+            "72.172.88.25": "INACTIVE"
         }
     }
 }
