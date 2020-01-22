@@ -1300,8 +1300,8 @@
         "state": "future"
     },
     "adxcel-ec2.com": {
-        "epoch": 1579651200.0,
-        "expiration_date": "22-jan-2020",
+        "epoch": 1611273600.0,
+        "expiration_date": "22-jan-2021",
         "state": "future"
     },
     "adxvip.com": {
@@ -4197,7 +4197,7 @@
     "buzzdeck.com": {
         "epoch": 1579651200.0,
         "expiration_date": "22-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "buzzfed.com": {
         "epoch": 1593388800.0,
