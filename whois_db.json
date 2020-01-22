@@ -6634,6 +6634,11 @@
         "expiration_date": "16-nov-2024",
         "state": "future"
     },
+    "data-dynamic.net": {
+        "epoch": 1635465600.0,
+        "expiration_date": "29-oct-2021",
+        "state": "future"
+    },
     "databrain.com": {
         "epoch": 1583539200.0,
         "expiration_date": "07-mar-2020",

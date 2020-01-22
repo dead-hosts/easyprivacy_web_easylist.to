@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202001220538
+! Version: 202001220640
 ! Title: EasyPrivacy
-! Last modified: 22 Jan 2020 05:38 UTC
+! Last modified: 22 Jan 2020 06:40 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5869,6 +5869,7 @@ _mongo_stats/
 ||dapxl.com^$third-party
 ||dashboard.io^$third-party
 ||data-analytics.jp^$third-party
+||data-dynamic.net^$third-party
 ||databrain.com^$third-party
 ||datacaciques.com^$third-party
 ||datacoral.com^$third-party
@@ -7867,6 +7868,7 @@ _mongo_stats/
 ||bewaslac.com^$third-party
 ||biberukalap.com^$third-party
 ||binarybusiness.de^
+||binarybusiness.de^$third-party
 ||bitclub.network^$third-party
 ||bitclubnetwork.com^$third-party
 ||bitcoin-pay.eu^$third-party
@@ -7886,6 +7888,8 @@ _mongo_stats/
 ||chmproxy.bid^$third-party
 ||clgserv.pro^$third-party
 ||clod.pw^$third-party
+||cloud-miner.de^$third-party
+||cloud-miner.eu^$third-party
 ||cloudcdn.gdn^$third-party
 ||cloudcoins.co^$third-party
 ||cloudflane.com^$third-party
@@ -7939,6 +7943,7 @@ _mongo_stats/
 ||dubester.space
 ||duckdns.org^$third-party,websocket
 ||dzizsih.ru^$third-party
+||easyhash.de^$third-party
 ||easyhash.io^$third-party
 ||encoding.ovh^
 ||etacontent.com^
@@ -14721,7 +14726,6 @@ _mongo_stats/
 ||eulerian.sarenza.com^
 ||eulerian.splendia.com^
 ||eultech.fnac.com^
-||eur2.otcdn.com^
 ||eur3.mvjcdn.com^
 ||exd4.destinia.com.au^
 ||f7ds.liberation.fr^
@@ -14744,6 +14748,8 @@ _mongo_stats/
 ||po.ponant.com^
 ||ski1.skiset.com^
 ||sls2.loisirsencheres.com^
+||ssrlot.lotoquebec.com^
+||sykc.madeindesign.ch^
 ||t.locasun.de^
 ||t.locasun.es^
 ||t.locasun.fr^
