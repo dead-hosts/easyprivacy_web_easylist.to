@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202001220438
+! Version: 202001220538
 ! Title: EasyPrivacy
-! Last modified: 22 Jan 2020 04:38 UTC
+! Last modified: 22 Jan 2020 05:38 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5062,6 +5062,7 @@ cgi-bin/counter
 /^https?:\/\/ea\..*\/[a-z0-9]{2,12}\.js/$script,~third-party
 /^https?:\/\/eulerian..*\/[a-z0-9]{2,12}\.js/$script
 /eulerian.js
+/simpleEulerian.
 =eulerian&
 ?euidlls=$script,~third-party
 @@||ea.greaterwrong.com/script.js$script,~third-party
@@ -5934,6 +5935,7 @@ _mongo_stats/
 ||dojomojo.ninja^$third-party
 ||dominocounter.net^$third-party
 ||domodomain.com^$third-party
+||dotaki.com^$third-party
 ||dotomi.com^$third-party
 ||doubleclick.net/activity$third-party
 ||doubleclick.net/imp%$third-party
@@ -14742,7 +14744,20 @@ _mongo_stats/
 ||po.ponant.com^
 ||ski1.skiset.com^
 ||sls2.loisirsencheres.com^
+||t.locasun.de^
+||t.locasun.es^
+||t.locasun.fr^
+||t.locasun.it^
+||t.locasun.nl^
 ||tdf1.admyjob.com^
+||tdf1.easyviaggio.com^
+||tdf1.easyviajar.com^
+||tdf1.easyvols.fr^
+||tdf1.easyvoyage.co.uk^
+||tdf1.easyvoyage.com^
+||tdf1.easyvoyage.de^
+||tdf1.laredoute.fr^
+||tdf1.vente-unique.pt^
 ||tlp5.mimale.com^
 ||tpa7.iahorro.com^
 ||tracking.3ds.com^
@@ -15290,6 +15305,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||pagesjaunes.fr/crmmetrix/
 ||pam.nextinpact.com^
 ||pwa.telephoneannuaire.fr^
+||rdtdlv.laredoute.fr^
 ||rtbf.be/log
 ||rtl.be^*/trkfblk.js
 ||rtl.fr/stats/
@@ -15306,6 +15322,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||tag.boulanger.fr^
 ||tc.hometogo.net^
 ||tdep.vacansoleil.fr^
+||tesla.oscaro.com^
 ||track.24heures.ch^
 ||tracker-id.cdiscount.com^
 ||tracker.cds-tracking.com^
