@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202001241138
+! Version: 202001241219
 ! Title: EasyPrivacy
-! Last modified: 24 Jan 2020 11:38 UTC
+! Last modified: 24 Jan 2020 12:19 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1480,6 +1480,7 @@
 /data_collect.js
 /datacapture/track
 /datacollectcode?
+/datadome/*
 /dbdm-events.
 /dbdm-events/*
 /dc-storm-track.
@@ -14698,7 +14699,11 @@ _mongo_stats/
 ||913nd.dieti-natura.es^
 ||a8ht.hipp.fr^
 ||ar.i-run.fr^
+||azg1.emalu-store.com^
+||bhu9.bankia.es^
+||c4dv.copinesdevoyage.com^
 ||ch0p.darty.com^
+||cls7.theushuaiaexperience.com^
 ||cse3.chausport.com^
 ||di8n.bfmtv.com^
 ||dt.nrjmobile.fr^
@@ -14735,6 +14740,7 @@ _mongo_stats/
 ||ea.warnerbros.fr^
 ||ef.futuroscope.com^
 ||ek8.voyage-prive.com^
+||era.easyvoyage.com^
 ||et.unclejeans.com^
 ||eulerian.brandalley.fr^
 ||eulerian.madeindesign.com^
