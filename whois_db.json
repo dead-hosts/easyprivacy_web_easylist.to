@@ -3099,6 +3099,11 @@
         "expiration_date": "20-apr-2020",
         "state": "future"
     },
+    "baztrack.com": {
+        "epoch": 1674172800.0,
+        "expiration_date": "20-jan-2023",
+        "state": "future"
+    },
     "bbc.co.uk": {
         "epoch": 1765584000.0,
         "expiration_date": "13-dec-2025",
@@ -4755,8 +4760,8 @@
         "state": "future"
     },
     "cformanalytics.com": {
-        "epoch": 1579824000.0,
-        "expiration_date": "24-jan-2020",
+        "epoch": 1611446400.0,
+        "expiration_date": "24-jan-2021",
         "state": "future"
     },
     "cfr.org": {
@@ -5102,7 +5107,7 @@
     "clickguardian.co.uk": {
         "epoch": 1579824000.0,
         "expiration_date": "24-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "clicki.cn": {
         "epoch": 1587168000.0,
