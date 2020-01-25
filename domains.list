@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202001250018
+! Version: 202001250150
 ! Title: EasyPrivacy
-! Last modified: 25 Jan 2020 00:18 UTC
+! Last modified: 25 Jan 2020 01:50 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6805,6 +6805,7 @@ _mongo_stats/
 ||offermatica.com^$third-party
 ||offerpoint.net^$third-party
 ||offerstrategy.com^$third-party
+||og4.me^$third-party
 ||ogt.jp^$third-party
 ||ohmystats.com^$third-party
 ||oidah.com^$third-party
@@ -7020,6 +7021,7 @@ _mongo_stats/
 ||rapidstats.net^$third-party
 ||rapidtrk.net^$third-party
 ||rating.in^$third-party
+||reach5.net^$third-party
 ||reachforce.com^$third-party
 ||reachsocket.com^$third-party
 ||reactful.com^$third-party
@@ -7052,6 +7054,7 @@ _mongo_stats/
 ||relevant-digital.com^$third-party
 ||reliablecounter.com^$third-party
 ||relmaxtop.com^$third-party
+||remailtarget.com^$third-party
 ||remarketingpixel.com^$third-party
 ||remarketstats.com^$third-party
 ||remind.me^$third-party
@@ -8707,12 +8710,14 @@ _mongo_stats/
 ||stats.fr^$third-party
 ||sync.tv^$third-party
 ||tget.me^$third-party
+||tinyclues.com^$third-party
 ||titag.com^$third-party
 ||toc.io^$third-party
 ||tracking.wlscripts.net^
 ||trafiz.net^$third-party
 ||uzerly.net^$third-party
 ||webcompteur.com^$third-party
+||winitout.com^$third-party
 ||wysistat.com^$third-party
 ||x-traceur.com^$third-party
 ||ywywjrlbsuv.com^$third-party
@@ -15364,6 +15369,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||tracker-id.cdiscount.com^
 ||tracker.cds-tracking.com^
 ||tracker.mspy.com^
+||tracking.bd4travel.com^
 ||tracking.ha.rueducommerce.fr^
 ||unblog.fr/cu.js
 ||wawacity.*/bypass
