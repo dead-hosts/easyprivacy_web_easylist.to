@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202001250150
+! Version: 202001250239
 ! Title: EasyPrivacy
-! Last modified: 25 Jan 2020 01:50 UTC
+! Last modified: 25 Jan 2020 02:39 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2458,6 +2458,7 @@
 /linktracker/*
 /linktracking.
 /listener.php?userRef=
+/live/analytics/*
 /livestats.js
 /livestats.php?
 /livezilla/server.php?request=track&
@@ -5414,6 +5415,7 @@ _mongo_stats/
 ||adtelligence.de^$third-party
 ||adultblogtoplist.com^$third-party
 ||adunity.com^$third-party
+||advalo.com^$third-party
 ||advanced-web-analytics.com^$third-party
 ||advconversion.com^$third-party
 ||advertising.com^$third-party
@@ -8652,6 +8654,7 @@ _mongo_stats/
 ||affilizr.com^$third-party
 ||air360tracker.net^$third-party
 ||alkemics.com^$third-party
+||allo-media.net^$third-party
 ||analytics-cdiscount.com^$third-party
 ||antvoice.com^$third-party
 ||atraxio.com^$third-party
@@ -11605,6 +11608,7 @@ _mongo_stats/
 ||service-webmaster.fr/cpt-visites/$third-party
 ||stat.prsmedia.fr^
 ||stats-dc1.frz.io^
+||stats-factory.digitregroup.io^
 ||stats.buzzea.com^
 ||stats.ipmgroup.be^
 ||stats.tipser.com^
@@ -14724,14 +14728,17 @@ _mongo_stats/
 ||dt.nrjmobile.fr^
 ||dv59b.montecarlomeeting.com^
 ||dvo.assurandme.fr^
+||dxe2.heip.fr^
 ||ea.auchantelecom.fr^
 ||ea.aujourdhui.com^
+||ea.bouquetnantais.com^
 ||ea.celio.com^
 ||ea.ciblo.net^
 ||ea.deguisetoi.fr^
 ||ea.diamant-unique.com^
 ||ea.fleurancenature.fr^
 ||ea.greenweez.com^
+||ea.habitat.de^
 ||ea.habitat.fr^
 ||ea.histoiredor.com^
 ||ea.hofmann.es^
@@ -14739,23 +14746,41 @@ _mongo_stats/
 ||ea.homair.com^
 ||ea.jeuxvideopc.com^
 ||ea.kauf-unique.at^
+||ea.kauf-unique.de^
 ||ea.lafrancedunordausud.fr^
 ||ea.laredoute.
+||ea.leskidunordausud.fr^
+||ea.lespagnedunordausud.fr^
 ||ea.lexpress.fr^
+||ea.megustaleer.com.pe^
+||ea.megustaleer.com^
 ||ea.melijoe.com^
 ||ea.millet-mountain.com^
 ||ea.millet.fr^
 ||ea.monsieurmanuel.com^
 ||ea.natiloo.com^
-||ea.pixmania.
+||ea.odalys-vacances.com^
+||ea.odalys-vacation-rental.com^
+||ea.officedepot.fr^
+||ea.pixmania.de^
+||ea.pixmania.dk^
+||ea.pixmania.fi^
+||ea.pixmania.ie^
+||ea.pixmania.it^
+||ea.pixmania.nl^
+||ea.pixmania.pl^
+||ea.pixmania.se^
+||ea.placedestendances.com^
 ||ea.rentacar.fr^
 ||ea.rueducommerce.fr^
 ||ea.venta-unica.com^
 ||ea.vente-unique.be^
 ||ea.vente-unique.ch^
 ||ea.vente-unique.com^
+||ea.vente-unique.lu^
 ||ea.warnerbros.fr^
 ||ef.futuroscope.com^
+||ef.futuroscope.mobi^
 ||ek8.voyage-prive.com^
 ||era.easyvoyage.com^
 ||et.unclejeans.com^
@@ -14788,6 +14813,7 @@ _mongo_stats/
 ||po.ponant.com^
 ||ski1.skiset.com^
 ||sls2.loisirsencheres.com^
+||snr4.canalplus.com^
 ||ssrlot.lotoquebec.com^
 ||sykc.madeindesign.ch^
 ||t.locasun.de^

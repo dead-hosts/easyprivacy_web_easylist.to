@@ -1259,6 +1259,11 @@
         "expiration_date": "03-feb-2020",
         "state": "future"
     },
+    "advalo.com": {
+        "epoch": 1590796800.0,
+        "expiration_date": "30-may-2020",
+        "state": "future"
+    },
     "advanced-web-analytics.com": {
         "epoch": 1605744000.0,
         "expiration_date": "19-nov-2020",
