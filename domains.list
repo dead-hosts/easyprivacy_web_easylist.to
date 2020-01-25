@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202001242205
+! Version: 202001250018
 ! Title: EasyPrivacy
-! Last modified: 24 Jan 2020 22:05 UTC
+! Last modified: 25 Jan 2020 00:18 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -696,6 +696,7 @@
 /analytics/metric/*
 /analytics/mouse_
 /analytics/newrelic_
+/analytics/onLoad/*
 /analytics/p.gif?
 /analytics/page/*
 /analytics/page_view.
@@ -8710,6 +8711,7 @@ _mongo_stats/
 ||toc.io^$third-party
 ||tracking.wlscripts.net^
 ||trafiz.net^$third-party
+||uzerly.net^$third-party
 ||webcompteur.com^$third-party
 ||wysistat.com^$third-party
 ||x-traceur.com^$third-party
@@ -14658,6 +14660,7 @@ _mongo_stats/
 ||zillow.com/HYx10rg3/
 ! Consent/GDPR tracking
 ||bucksfreepress-gb.bucksfreepress.co.uk^
+||cdn-alliancegravity.s3.amazonaws.com^
 ||cmp.arnnet.com.au^
 ||cmp.cio.com.au^
 ||cmp.cmo.com.au^
@@ -14707,9 +14710,15 @@ _mongo_stats/
 ||c4dv.copinesdevoyage.com^
 ||ch0p.darty.com^
 ||cls7.theushuaiaexperience.com^
+||cpgo.avatacar.com^
 ||cse3.chausport.com^
+||ct5m.citadium.com^
 ||di8n.bfmtv.com^
+||dko.vente-unique.nl^
+||doa1.immobilier-neuf.com^
 ||dt.nrjmobile.fr^
+||dv59b.montecarlomeeting.com^
+||dvo.assurandme.fr^
 ||ea.auchantelecom.fr^
 ||ea.aujourdhui.com^
 ||ea.celio.com^
