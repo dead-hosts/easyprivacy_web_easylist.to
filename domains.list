@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202001252127
+! Version: 202001260016
 ! Title: EasyPrivacy
-! Last modified: 25 Jan 2020 21:27 UTC
+! Last modified: 26 Jan 2020 00:16 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6197,6 +6197,7 @@ _mongo_stats/
 ||geolid.com^$third-party
 ||geoplugin.net^$third-party
 ||georiot.com^$third-party
+||geotargetly-1a441.appspot.com^$third-party
 ||getbackstory.com^$third-party
 ||getblueshift.com^$third-party
 ||getclicky.com^$third-party
@@ -16620,7 +16621,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||criteo.net/js/ld/publishertag.js$domain=novayagazeta.ru
 @@||dict.rambler.ru/fcgi-bin/$xmlhttprequest,domain=rambler.ru
 @@||google-analytics.com/analytics.js$domain=nabortu.ru|poiskstroek.ru|rzd.ru
-@@||googletagmanager.com/gtm.js?$domain=sportmaster.ru
+@@||googletagmanager.com/gtm.js$domain=besplatka.ua|sportmaster.ru
 @@||itv.1tv.ru/stat.php?
 @@||k12-company.ru^*/statistics.js$script
 @@||komus.ru/_ui/shared/js/ga/googleTagManager.js$script,~third-party
