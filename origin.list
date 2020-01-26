@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202001261820
+! Version: 202001261928
 ! Title: EasyPrivacy
-! Last modified: 26 Jan 2020 18:20 UTC
+! Last modified: 26 Jan 2020 19:28 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1252,6 +1252,7 @@
 /cm?tid=
 /cmarketing.countus.js
 /cmd_track?
+/cmp-event-ioltrack.
 /cms-gg.js
 /cms.gif?
 /cms/stats/*
@@ -8906,6 +8907,7 @@ _mongo_stats/
 ||freestats.tv^$third-party
 ||freestats.ws^$third-party
 ||geocontatore.com^$third-party
+||gm-it.consulting^$third-party
 ||hiperstat.com^$third-party
 ||hitcountersonline.com^$third-party
 ||imetrix.it^$third-party
@@ -11000,6 +11002,7 @@ _mongo_stats/
 ||t.clic2buy.com^
 ||t.dgm-au.com^$third-party
 ||t.flux.com^
+||t.kelkoogroup.net^
 ||t.mail.sony-europe.com/r/?
 ||t.menepe.com^
 ||t.powerreviews.com^$third-party
@@ -15700,9 +15703,11 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||ma.register.it^
 ||mediaset.it/cgi-bin/getcod.cgi?
 ||mtv.it/flux/trackingcodes/
+||paginebianche.it/cgi-bin/jbimpres.cgi?
 ||paginebianche.it/ip?dv=
 ||paginegialle.it/cgi-bin/getcod.cgi?
 ||paginegialle.it/cgi-bin/jimpres.cgi?
+||paginegialle.it/engagement.js
 ||pornolupo.org/track.js
 ||sa.sky.it^
 ||seat.it/cgi-bin/getcod.cgi?
