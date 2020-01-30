@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202001301719
+! Version: 202001301822
 ! Title: EasyPrivacy
-! Last modified: 30 Jan 2020 17:19 UTC
+! Last modified: 30 Jan 2020 18:22 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5644,7 +5644,6 @@ _mongo_stats/
 ||brat-online.ro^$third-party
 ||brcdn.com^$third-party
 ||bridgevine.com^$third-party
-||brightedge.com^$third-party
 ||brightfunnel.com^$third-party
 ||brilig.com^$third-party
 ||bronto.com^$third-party
