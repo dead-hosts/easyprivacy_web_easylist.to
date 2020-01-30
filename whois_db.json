@@ -3134,6 +3134,11 @@
         "expiration_date": "24-oct-2020",
         "state": "future"
     },
+    "bc0a.com": {
+        "epoch": 1588291200.0,
+        "expiration_date": "01-may-2020",
+        "state": "future"
+    },
     "bcs-computersysteme.com": {
         "epoch": 1590019200.0,
         "expiration_date": "21-may-2020",
