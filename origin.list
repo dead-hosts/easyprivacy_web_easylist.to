@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202001310628
+! Version: 202001310835
 ! Title: EasyPrivacy
-! Last modified: 31 Jan 2020 06:28 UTC
+! Last modified: 31 Jan 2020 08:35 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -51,6 +51,7 @@
 -baynote.
 -bluekai.
 -boomerang_
+-click-tracker.
 -ClickTale.
 -comscore.
 -conversion-tracking-
@@ -8809,6 +8810,7 @@ _mongo_stats/
 ||vm5apis.com^$third-party
 ||webdissector.com^$third-party
 ||xtgreat.com^$third-party
+||yhjinm.cn^$third-party
 ||yigao.com^$third-party
 ||youle55.com^$third-party
 ||zampda.net^$third-party
@@ -11697,6 +11699,7 @@ _mongo_stats/
 ||haostat.qihoo.com^
 ||hudong.com/flux.js
 ||hyrankhit.meldingcloud.com^
+||ia.51.la^
 ||ifengimg.com/sta_collection.*.js
 ||imp.ad-plus.cn^
 ||imp.go.sohu.com^
@@ -11706,6 +11709,7 @@ _mongo_stats/
 ||js.static.m1905.cn/pingd.js
 ||log.hiiir.com^
 ||log.tagtic.cn^
+||m.lolvsdota.cn^
 ||mlt01.com/cmp.htm$third-party
 ||msg.71.am^
 ||n.yunshipei.com^
@@ -11725,6 +11729,7 @@ _mongo_stats/
 ||sitemaji.com/nownews.php?
 ||sobeycloud.com/Services/Stat.
 ||sohu.com/pvpb.gif?
+||soso.mymederback.com^
 ||stargame.com/g.js
 ||stat.ws.126.net^
 ||sugs.m.sm.cn^
@@ -12015,6 +12020,7 @@ _mongo_stats/
 ||counter.tovarro.com^
 ||counter.wapstart.ru^
 ||crm-analytics.imweb.ru^
+||dbex-tracker-v2.driveback.ru^
 ||dp.ru/counter.gif?
 ||emoment.net/cnt/
 ||error.videonow.ru^
@@ -15754,6 +15760,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||analytics.cocolog-nifty.com^
 ||analyzer.fc2.com^
 ||analyzer2.fc2.com^
+||astat.nikkei.com^
 ||barks.jp/v1/stats
 ||bookoffonline.co.jp/files/inc_js/ac/
 ||bookoffonline.co.jp/files/tracking/
