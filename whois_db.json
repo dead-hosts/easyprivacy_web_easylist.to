@@ -3667,7 +3667,7 @@
     "blogmeetsbrand.com": {
         "epoch": 1580515200.0,
         "expiration_date": "01-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "blogoutils.com": {
         "epoch": 1610409600.0,
@@ -3742,7 +3742,7 @@
     "bluecava.com": {
         "epoch": 1580515200.0,
         "expiration_date": "01-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "blueconic.net": {
         "epoch": 1611705600.0,
