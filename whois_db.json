@@ -985,8 +985,8 @@
         "state": "future"
     },
     "adhslx.com": {
-        "epoch": 1580601600.0,
-        "expiration_date": "02-feb-2020",
+        "epoch": 1612224000.0,
+        "expiration_date": "02-feb-2021",
         "state": "future"
     },
     "adidas.com": {
@@ -3665,9 +3665,9 @@
         "state": "future"
     },
     "blogmeetsbrand.com": {
-        "epoch": 1580515200.0,
-        "expiration_date": "01-feb-2020",
-        "state": "past"
+        "epoch": 1612137600.0,
+        "expiration_date": "01-feb-2021",
+        "state": "future"
     },
     "blogoutils.com": {
         "epoch": 1610409600.0,
@@ -3740,9 +3740,9 @@
         "state": "future"
     },
     "bluecava.com": {
-        "epoch": 1580515200.0,
-        "expiration_date": "01-feb-2020",
-        "state": "past"
+        "epoch": 1612137600.0,
+        "expiration_date": "01-feb-2021",
+        "state": "future"
     },
     "blueconic.net": {
         "epoch": 1611705600.0,
@@ -6557,7 +6557,7 @@
     "d-1.co": {
         "epoch": 1580601600.0,
         "expiration_date": "02-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "d-bi.fr": {
         "epoch": 1603065600.0,
@@ -8417,7 +8417,7 @@
     "eu-survey.com": {
         "epoch": 1580601600.0,
         "expiration_date": "02-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "eucsoft.com": {
         "epoch": 1581292800.0,
