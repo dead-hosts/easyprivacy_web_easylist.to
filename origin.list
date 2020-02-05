@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202002051024
+! Version: 202002051130
 ! Title: EasyPrivacy
-! Last modified: 05 Feb 2020 10:24 UTC
+! Last modified: 05 Feb 2020 11:30 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -9203,8 +9203,10 @@ _mongo_stats/
 ||rnet.plus^$third-party
 ||ru.net^$third-party
 ||rutarget.ru^$third-party
+||sarimsol.com^$third-party
 ||sarov.ws^$third-party
 ||sas.com^$third-party
+||sblftg.com^$third-party
 ||semantiqo.com^$third-party
 ||sensor.org.ua^$third-party
 ||seo-master.net^$third-party
@@ -10180,6 +10182,7 @@ _mongo_stats/
 ||filament-stats.herokuapp.com^
 ||files-hawk.co.uk/hl/hawklinks.js
 ||filesonic.com/referral/$third-party
+||firecrux.com/track/$xmlhttprequest
 ||fitanalytics.com/metrics/
 ||flashstats.libsyn.com^
 ||flex.msn.com/mstag/
