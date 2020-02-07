@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202002070102
+! Version: 202002070216
 ! Title: EasyPrivacy
-! Last modified: 07 Feb 2020 01:02 UTC
+! Last modified: 07 Feb 2020 02:16 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -8232,9 +8232,12 @@ _mongo_stats/
 ! Admiral
 ||6ldu6qa.com^$third-party
 ||absorbingband.com^$third-party
+||absorbingprison.com^$third-party
+||abstractedamount.com^$third-party
 ||absurdapple.com^$third-party
 ||acidpigs.com^$third-party
 ||acridtwist.com^$third-party
+||agreeabletouch.com^$third-party
 ||aheadday.com^$third-party
 ||alleyarm.com^$third-party
 ||allowmailbox.com^$third-party
@@ -8252,11 +8255,14 @@ _mongo_stats/
 ||butterburst.com^$third-party
 ||calculatorstatement.com^$third-party
 ||cannontwin.com^$third-party
+||capriciouscorn.com^$third-party
 ||capsquirrel.com^$third-party
 ||caringzinc.com^$third-party
 ||carscannon.com^$third-party
+||cautiouscredit.com^$third-party
 ||cloisteredcord.com^$third-party
 ||colorfulafterthought.com^$third-party
+||complextoad.com^$third-party
 ||conditioncrush.com^$third-party
 ||consciouschairs.com^$third-party
 ||coordinatedcub.com^$third-party
@@ -8296,7 +8302,9 @@ _mongo_stats/
 ||historicalbeam.com^$third-party
 ||homelycrown.com^$third-party
 ||horsenectar.com^$third-party
+||immensehoney.com^$third-party
 ||importedincrease.com^$third-party
+||innocentinvention.com^$third-party
 ||inquisitiveinvention.com^$third-party
 ||intelligentscissors.com^$third-party
 ||jadeitite.com^$third-party
@@ -8306,6 +8314,7 @@ _mongo_stats/
 ||leaplunchroom.com^$third-party
 ||levelbehavior.com^$third-party
 ||lizardslaugh.com^$third-party
+||loudlunch.com^$third-party
 ||lumberamount.com^$third-party
 ||magnetairport.com^$third-party
 ||meatydime.com^$third-party
@@ -8326,11 +8335,14 @@ _mongo_stats/
 ||profusesupport.com^$third-party
 ||puffyloss.com^$third-party
 ||puffypull.com^$third-party
+||puffypurpose.com^$third-party
 ||quaintcan.com^$third-party
 ||quietknowledge.com^$third-party
+||raintwig.com^$third-party
 ||raresummer.com^$third-party
 ||realizerecess.com^$third-party
 ||realizevacation.com^$third-party
+||resonantbrush.com^$third-party
 ||richstring.com^$third-party
 ||ringplayground.com^$third-party
 ||ritzykey.com^$third-party
@@ -8364,6 +8376,7 @@ _mongo_stats/
 ||sweetslope.com^$third-party
 ||tawdryson.com^$third-party
 ||tendertest.com^$third-party
+||thirdrespect.com^$third-party
 ||ticklesign.com^$third-party
 ||typicalairplane.com^$third-party
 ||typicalteeth.com^$third-party
