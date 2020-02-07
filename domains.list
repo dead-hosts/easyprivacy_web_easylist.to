@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202002070304
+! Version: 202002070321
 ! Title: EasyPrivacy
-! Last modified: 07 Feb 2020 03:04 UTC
+! Last modified: 07 Feb 2020 03:21 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -8238,11 +8238,13 @@ _mongo_stats/
 ||absurdapple.com^$third-party
 ||acidpigs.com^$third-party
 ||acridtwist.com^$third-party
+||afraidlanguage.com^$third-party
 ||agreeabletouch.com^$third-party
 ||aheadday.com^$third-party
 ||alikeaddition.com^$third-party
 ||alleyarm.com^$third-party
 ||allowmailbox.com^$third-party
+||amazingairplane.com^$third-party
 ||anxiousapples.com^$third-party
 ||attractivecap.com^$third-party
 ||automaticside.com^$third-party
@@ -8375,6 +8377,7 @@ _mongo_stats/
 ||sortsummer.com^$third-party
 ||spiffymachine.com^$third-party
 ||spottednoise.com^$third-party
+||spuriousbase.com^$third-party
 ||spurioussteam.com^$third-party
 ||squeakzinc.com^$third-party
 ||squirrelhands.com^$third-party
@@ -8392,7 +8395,9 @@ _mongo_stats/
 ||tawdryson.com^$third-party
 ||tendertest.com^$third-party
 ||thirdrespect.com^$third-party
+||thirstytwig.com^$third-party
 ||ticklesign.com^$third-party
+||tranquilside.com^$third-party
 ||typicalairplane.com^$third-party
 ||typicalteeth.com^$third-party
 ||ubiquitousyard.com^$third-party
