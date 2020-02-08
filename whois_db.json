@@ -10514,6 +10514,11 @@
         "expiration_date": "08-jan-2021",
         "state": "future"
     },
+    "go2link.net": {
+        "epoch": 1602720000.0,
+        "expiration_date": "15-oct-2020",
+        "state": "future"
+    },
     "goadservices.com": {
         "epoch": 1583971200.0,
         "expiration_date": "12-mar-2020",
@@ -10697,6 +10702,11 @@
     "gotmojo.com": {
         "epoch": 1590278400.0,
         "expiration_date": "24-may-2020",
+        "state": "future"
+    },
+    "gotrk.net": {
+        "epoch": 1602720000.0,
+        "expiration_date": "15-oct-2020",
         "state": "future"
     },
     "goutee.top": {
