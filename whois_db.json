@@ -195,9 +195,9 @@
         "state": "future"
     },
     "2cnt.net": {
-        "epoch": 1581033600.0,
-        "expiration_date": "07-feb-2020",
-        "state": "past"
+        "epoch": 1612656000.0,
+        "expiration_date": "07-feb-2021",
+        "state": "future"
     },
     "2giga.download": {
         "epoch": 1579651200.0,
@@ -7695,9 +7695,9 @@
         "state": "future"
     },
     "e-contenta.com": {
-        "epoch": 1581033600.0,
-        "expiration_date": "07-feb-2020",
-        "state": "past"
+        "epoch": 1612656000.0,
+        "expiration_date": "07-feb-2021",
+        "state": "future"
     },
     "e-goi.com": {
         "epoch": 1597708800.0,
