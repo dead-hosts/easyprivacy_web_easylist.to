@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202002100941
+! Version: 202002101054
 ! Title: EasyPrivacy
-! Last modified: 10 Feb 2020 09:41 UTC
+! Last modified: 10 Feb 2020 10:54 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -825,6 +825,7 @@
 /appier-track-
 /AppMeasurement.js
 /AppMeasurement2.js
+/AppMeasurementCustom.
 /apTracker.
 /aptrk.js
 /apw.js
@@ -4443,6 +4444,8 @@
 /trovit-analytics.js
 /trpic.asp?
 /truehits.php?
+/trueTag-
+/truetag_landing_
 /trx?id=
 /tse/tracking.
 /tsrHitCounter.
@@ -14245,6 +14248,7 @@ _mongo_stats/
 ||t3.com/js/trackers.js
 ||tab.co.nz/track?
 ||tagcommander.laredoute.
+||taglocker.target.com^
 ||tags.aljazeera.
 ||tags.msnbc.com^
 ||tags.news.com.au^$script
