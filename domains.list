@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202002150453
+! Version: 202002150635
 ! Title: EasyPrivacy
-! Last modified: 15 Feb 2020 04:53 UTC
+! Last modified: 15 Feb 2020 06:35 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1383,6 +1383,7 @@
 /coreWatchingEvents.
 /CorporatePageTracking.
 /count.cfm?
+/count.do?
 /count.exe?
 /count.fcg?
 /count.fcgi?
@@ -15697,15 +15698,18 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||sogou.com/cl?
 ||sogou.com/pv?
 ||sohu.com.cn/hdpb.gif?
+||sohu.com/clk.gif?
 ||sohu.com/count/
 ||sohu.com/ctr.gif?
 ||sohu.com/pv.js
 ||sohu.com/pv?
+||sohu.com/qfpc.gif?
 ||sohu.com/wrating
 ||soufun.com/click/
 ||soufun.com/stats/
 ||ssp.hinet.net^
 ||stadig.ifeng.com^
+||stat.*.v-56.com^
 ||stat.1688.com^
 ||stat.55bbs.com^
 ||stat.caijing.com.cn^
