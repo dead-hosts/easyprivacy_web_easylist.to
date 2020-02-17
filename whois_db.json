@@ -1234,6 +1234,11 @@
         "expiration_date": "17-aug-2020",
         "state": "future"
     },
+    "adtrackers.net": {
+        "epoch": 1600473600.0,
+        "expiration_date": "19-sep-2020",
+        "state": "future"
+    },
     "adtraction.com": {
         "epoch": 1733702400.0,
         "expiration_date": "09-dec-2024",
