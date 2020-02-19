@@ -834,6 +834,11 @@
         "expiration_date": "01-aug-2027",
         "state": "future"
     },
+    "ad-srv-track.com": {
+        "epoch": 1598572800.0,
+        "expiration_date": "28-aug-2020",
+        "state": "future"
+    },
     "ad2links.com": {
         "epoch": 1605744000.0,
         "expiration_date": "19-nov-2020",
