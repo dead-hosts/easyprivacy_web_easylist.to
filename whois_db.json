@@ -4165,9 +4165,9 @@
         "state": "future"
     },
     "burstbeacon.com": {
-        "epoch": 1582502400.0,
-        "expiration_date": "24-feb-2020",
-        "state": "past"
+        "epoch": 1614124800.0,
+        "expiration_date": "24-feb-2021",
+        "state": "future"
     },
     "burt.io": {
         "epoch": 1587859200.0,
