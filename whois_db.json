@@ -482,7 +482,7 @@
     "99counters.com": {
         "epoch": 1582675200.0,
         "expiration_date": "26-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "99stats.com": {
         "epoch": 1592092800.0,
@@ -3572,7 +3572,7 @@
     "bkvtrack.com": {
         "epoch": 1582675200.0,
         "expiration_date": "26-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "blackplanet.com": {
         "epoch": 1607299200.0,
