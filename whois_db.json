@@ -980,8 +980,8 @@
         "state": "future"
     },
     "adgjl13.com": {
-        "epoch": 1582848000.0,
-        "expiration_date": "28-feb-2020",
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
         "state": "future"
     },
     "adgreed.com": {
@@ -4470,8 +4470,8 @@
         "state": "future"
     },
     "capturemedia.network": {
-        "epoch": 1582848000.0,
-        "expiration_date": "28-feb-2020",
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
         "state": "future"
     },
     "capturly.com": {
@@ -4902,7 +4902,7 @@
     "chrumedia.com": {
         "epoch": 1582848000.0,
         "expiration_date": "28-feb-2020",
-        "state": "future"
+        "state": "past"
     },
     "chtah.com": {
         "epoch": 1874880000.0,
@@ -8360,8 +8360,8 @@
         "state": "future"
     },
     "estrack.net": {
-        "epoch": 1582848000.0,
-        "expiration_date": "28-feb-2020",
+        "epoch": 1646006400.0,
+        "expiration_date": "28-feb-2022",
         "state": "future"
     },
     "etacontent.com": {
