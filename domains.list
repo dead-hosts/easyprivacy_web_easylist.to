@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202002281905
+! Version: 202002281938
 ! Title: EasyPrivacy
-! Last modified: 28 Feb 2020 19:05 UTC
+! Last modified: 28 Feb 2020 19:38 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2302,6 +2302,7 @@
 /inpl.measure.
 /insales_counter.
 /insert_impressions.
+/insight-tracker.
 /insight_web.
 /insights-collector.
 /insights-emitter.
@@ -2799,6 +2800,7 @@
 /mstr?phpsessid=
 /mstrack/*
 /mt.gif?
+/mtc.js
 /mtiFontTrackingCode.
 /mtp.*.gif?ref=
 /mtrack.nl/js/*
@@ -2984,6 +2986,7 @@
 /ordertrack/*
 /osGoogleAnalytics.
 /ositTracker.
+/ossleads_analytics.js
 /ot_e404.gif?
 /other-analitycs/*
 /ouibounce.min.js
