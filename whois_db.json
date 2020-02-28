@@ -5434,6 +5434,11 @@
         "expiration_date": "08-jul-2020",
         "state": "future"
     },
+    "cognativex.com": {
+        "epoch": 1614211200.0,
+        "expiration_date": "25-feb-2021",
+        "state": "future"
+    },
     "cognitivematch.com": {
         "epoch": 1613347200.0,
         "expiration_date": "15-feb-2021",
