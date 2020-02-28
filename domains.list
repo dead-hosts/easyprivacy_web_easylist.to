@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202002282049
+! Version: 202002282205
 ! Title: EasyPrivacy
-! Last modified: 28 Feb 2020 20:49 UTC
+! Last modified: 28 Feb 2020 22:05 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3476,6 +3476,7 @@
 /rubics_trk
 /rubicsimp/c.gif?
 /rum-dytrc.
+/rum-telemetry/*
 /rum-track?
 /rum.gif?
 /rum.js/*
@@ -10074,6 +10075,7 @@ _mongo_stats/
 ||d1uanozc5el74n.cloudfront.net^
 ||d1xfq2052q7thw.cloudfront.net^
 ||d1z2jf7jlzjs58.cloudfront.net^$third-party
+||d20kffh39acpue.cloudfront.net^
 ||d21o24qxwf7uku.cloudfront.net^
 ||d22v2nmahyeg2a.cloudfront.net^
 ||d23p9gffjvre9v.cloudfront.net^
