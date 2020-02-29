@@ -10163,9 +10163,6 @@
         "1579561930": {
             "logger-*.dailymotion.com": "INVALID"
         },
-        "1582895945": {
-            "best-top.de": "INACTIVE"
-        },
         "1582898794": {
             "149.13.65.144": "INACTIVE",
             "meetrics.netbb-": "INVALID"
@@ -10182,6 +10179,9 @@
         },
         "1582968454": {
             "digdeepdigital.com.au": "INACTIVE"
+        },
+        "1582984095": {
+            "best-top.de": "INACTIVE"
         }
     }
 }
