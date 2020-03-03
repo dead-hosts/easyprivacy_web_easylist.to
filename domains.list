@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202003031812
+! Version: 202003032120
 ! Title: EasyPrivacy
-! Last modified: 03 Mar 2020 18:12 UTC
+! Last modified: 03 Mar 2020 21:20 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5641,6 +5641,7 @@ _mongo_stats/
 ||baynote.net^$third-party
 ||baztrack.com^$third-party
 ||bbthat.com^$script,third-party
+||bc0a.com^$third-party
 ||bdash-cloud.com^$third-party
 ||beacon.kmi-us.com^$third-party
 ||beaconstreetservices.com^$third-party
@@ -8436,6 +8437,7 @@ _mongo_stats/
 ||ringplayground.com^$third-party
 ||ritzykey.com^$third-party
 ||roofrelation.com^$third-party
+||savoryorange.com^$third-party
 ||scintillatingspace.com^$third-party
 ||scrubswim.com^$third-party
 ||selectivesummer.com^$third-party
@@ -11207,7 +11209,6 @@ _mongo_stats/
 ||thron.com/shared/plugins/tracking/
 ||thron.com^*/trackingLibrary.swf
 ||timeinc.net^*/peopleas2artracker_v1.swf
-||tinypass.com/checkout/offer/trackShow
 ||tinypass.com^*/track?
 ||tinyurl.com/pixel.gif/
 ||tk.storetail.io^
