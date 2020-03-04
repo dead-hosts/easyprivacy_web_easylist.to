@@ -3567,7 +3567,7 @@
     "bkrtx.com": {
         "epoch": 1583280000.0,
         "expiration_date": "04-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "bkvtrack.com": {
         "epoch": 1614297600.0,
@@ -9390,8 +9390,8 @@
         "state": "future"
     },
     "followercounter.com": {
-        "epoch": 1583280000.0,
-        "expiration_date": "04-mar-2020",
+        "epoch": 1614816000.0,
+        "expiration_date": "04-mar-2021",
         "state": "future"
     },
     "followistic.com": {
@@ -9402,7 +9402,7 @@
     "fonderredd.info": {
         "epoch": 1583280000.0,
         "expiration_date": "04-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "foodcouture.net": {
         "epoch": 1580688000.0,
