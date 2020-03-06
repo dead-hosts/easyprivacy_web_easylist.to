@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202003060254
+! Version: 202003060354
 ! Title: EasyPrivacy
-! Last modified: 06 Mar 2020 02:54 UTC
+! Last modified: 06 Mar 2020 03:54 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -800,6 +800,7 @@
 /api-analytics.
 /api/0/stats
 /api/analytics/*
+/api/analytics|
 /api/log?
 /api/lt/ref?
 /api/metrics$other
@@ -2238,6 +2239,7 @@
 /img/gut.gif?
 /img/tracking-$image
 /img?eid=
+/img_stat2.
 /imgcount.cgi?
 /imgcount.php?
 /imgtracker.
@@ -2319,6 +2321,7 @@
 /intellitracker.js
 /intercept.js
 /intervigil.
+/intextlinks-tracking/*
 /intstatcheck.
 /iotechnologies.js
 /IPbeacon.
@@ -6937,6 +6940,7 @@ _mongo_stats/
 ||optimahub.com^$third-party
 ||optimix.asia^$third-party
 ||optimizely.com^$third-party
+||optimizelydata.com^$third-party
 ||optimost.com^$third-party
 ||optin-machine.com^$third-party
 ||optorb.com^$third-party
@@ -13450,6 +13454,7 @@ _mongo_stats/
 ||logs.dashlane.com^
 ||logs.gaana.com^
 ||logs.hotstar.com^
+||logx.optimizely.com^
 ||lolwot.com/B5xaqzSGvMTM.js
 ||lovefilm.com/api/ioko/log/
 ||lovefilm.com/lovefilm/images/dot.gif
@@ -15303,6 +15308,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||chip.de^*/tracking.js
 ||chip.de^*_tracking/
 ||citybeat.de/include/cbtracker.
+||cmp.channelpartner.de^
 ||comdirect.de/ccf/img/ecrm2.gif?
 ||commerzbank.de/companion/cnt.php?
 ||comparis.ch^*/Tracking/
