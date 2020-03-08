@@ -6670,9 +6670,9 @@
         "state": "future"
     },
     "databrain.com": {
-        "epoch": 1583539200.0,
-        "expiration_date": "07-mar-2020",
-        "state": "past"
+        "epoch": 1615075200.0,
+        "expiration_date": "07-mar-2021",
+        "state": "future"
     },
     "datacaciques.com": {
         "epoch": 1632441600.0,
@@ -9897,7 +9897,7 @@
     "ftbpro.com": {
         "epoch": 1583625600.0,
         "expiration_date": "08-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "ftchinese.com": {
         "epoch": 1580083200.0,
