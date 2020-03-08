@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202003080014
+! Version: 202003080128
 ! Title: EasyPrivacy
-! Last modified: 08 Mar 2020 00:14 UTC
+! Last modified: 08 Mar 2020 01:28 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -696,6 +696,7 @@
 /analytics/hmac-
 /analytics/idg_
 /analytics/init.
+/analytics/initSession
 /analytics/js$script
 /analytics/klaviyo_
 /analytics/liferay-
@@ -734,6 +735,7 @@
 /analytics/track_
 /analytics/tracker.
 /analytics/trackers?
+/analytics/trackevent
 /Analytics/Tracking.
 /analytics/tracking/*
 /analytics/track|
@@ -4528,6 +4530,7 @@
 /URLSplitTrack?
 /us.gif?
 /user-agent-analyzer.
+/user-context?referrer=
 /userdata_n?*&uid=
 /userfly.js
 /users/track?
@@ -9898,6 +9901,7 @@ _mongo_stats/
 ||chanalytics.merchantadvantage.com^
 ||chartaca.com.s3.amazonaws.com^
 ||checkout.com/logger/
+||chicoryapp.com/widget_v2/
 ||choicestream.com^*/pixel/
 ||chtah.com/a/*/spacer-0.gif$third-party
 ||chtah.com^*/1x1.gif
