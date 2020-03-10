@@ -10163,9 +10163,6 @@
         "1579561930": {
             "logger-*.dailymotion.com": "INVALID"
         },
-        "1583753505": {
-            "digdeepdigital.com.au": "INACTIVE"
-        },
         "1583785546": {
             "62.160.52.73": "INACTIVE",
             "72.172.88.25": "INACTIVE"
@@ -10182,6 +10179,9 @@
         "1583789848": {
             "208.88.226.75": "INACTIVE",
             "216.18.184.18": "INACTIVE"
+        },
+        "1583844269": {
+            "digdeepdigital.com.au": "INACTIVE"
         }
     }
 }
