@@ -74,7 +74,7 @@ http_codes:
     not_found_default: XXX
 iana_whois_server: whois.iana.org
 idna_conversion: true
-inactive_database: true
+inactive_database: false
 less: false
 links:
     api_date_format: https://pyfunceble.funilrys.com/api/date-format
