@@ -1737,7 +1737,7 @@
     "alltracked.com": {
         "epoch": 1583884800.0,
         "expiration_date": "11-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "allvoices.com": {
         "epoch": 1588723200.0,
@@ -2377,7 +2377,7 @@
     "arianelab.com": {
         "epoch": 1583884800.0,
         "expiration_date": "11-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "arkayne.com": {
         "epoch": 1591747200.0,
@@ -2572,7 +2572,7 @@
     "atticwicket.com": {
         "epoch": 1583884800.0,
         "expiration_date": "11-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "attracta.com": {
         "epoch": 1585526400.0,
@@ -8160,8 +8160,8 @@
         "state": "future"
     },
     "enecto.com": {
-        "epoch": 1583884800.0,
-        "expiration_date": "11-mar-2020",
+        "epoch": 1615420800.0,
+        "expiration_date": "11-mar-2021",
         "state": "future"
     },
     "enetres.net": {
