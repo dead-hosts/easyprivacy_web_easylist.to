@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202003120811
+! Version: 202003120919
 ! Title: EasyPrivacy
-! Last modified: 12 Mar 2020 08:11 UTC
+! Last modified: 12 Mar 2020 09:19 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -604,6 +604,7 @@
 /analysis/gtm_
 /analysis?t=
 /analytic-client.
+/analytic/context?
 /analytic/count.
 /analytic/pageview
 /analytic?publisher
@@ -864,6 +865,7 @@
 /assets/tracking-
 /assets/uts/*
 /assign.gif?
+/assignments/impressions
 /AssyncCSStats.aspx
 /astrack.js
 /astracker.
@@ -9776,6 +9778,7 @@ _mongo_stats/
 ||b8cdn.com^*/analytics.js
 ||bab.frb.io^
 ||backstage.funnelenvy.com^
+||bacon.section.io^
 ||baidu.com/pixel?
 ||bamgrid.com/dust
 ||bamgrid.com/telemetry
@@ -10611,6 +10614,7 @@ _mongo_stats/
 ||loggingapi.spingo.com^
 ||loglady.skypicker.com^
 ||logs-api.shoprunner.com^
+||logs.datadoghq.com^
 ||logs.spilgames.com^
 ||logs.thebloggernetwork.com^
 ||logs.vmixcore.com^
@@ -11531,6 +11535,7 @@ _mongo_stats/
 ||yimg.com/ss/vops.js
 ||yimg.com/wi/ytc.js
 ||yimg.com^*/l?ig=$image
+||yottaa.com/rapid.min.js
 ||ypcdn.com/*/webyp?
 ||z.opmnstr.com^$xmlhttprequest
 ||zapcdn.space/zapret.js
@@ -11574,6 +11579,11 @@ _mongo_stats/
 ||fastly.net/i?
 ||fastly.net/plw.js
 ||fastly.net/sp.js
+! Unnecessary third-party scripts
+||nsg.symantec.com^$third-party
+||sealserver.trustwave.com^$third-party
+||websecurity.norton.com^$third-party
+||widgets.trustedshops.com^$third-party
 ! Suspect trackers (from privacy badger)
 ||connatix.com^$third-party
 ||jsrdn.com/s/cs.js
@@ -12781,6 +12791,7 @@ _mongo_stats/
 ||collector*.xhamster.
 ||collector-cdn.github.com^
 ||collector-medium.lightstep.com^
+||collector-px0py5pczn.octopart.com^
 ||collector.fiverr.com^
 ||collector.githubapp.com^
 ||collector.ksax.com^
@@ -12890,6 +12901,7 @@ _mongo_stats/
 ||domaintools.com/buffer.pgif?
 ||domaintools.com/tracker.php
 ||dominos.co.uk^*/universal.html?
+||dp.shoprunner.com^
 ||dragonstatic.com/parking/js/track.js
 ||dropbox.com/alternate_
 ||dropbox.com/el/?b=open:
@@ -13237,6 +13249,7 @@ _mongo_stats/
 ||hothardware.com/stats/
 ||hotmovs.com/get_country.php
 ||hotnews.ro/pageCount.htm?
+||hotpads.com/node/api/comscore
 ||hotstar.com^*/identify
 ||hotstar.com^*/track
 ||houzz.com/js/log?
@@ -14341,6 +14354,7 @@ _mongo_stats/
 ||t.freelancer.com^
 ||t.hulu.com/beacon/
 ||t.indeed.com^
+||t.jossandmain.com^
 ||t.kck.st^
 ||t.paypal.com^
 ||t.perigold.com^
@@ -14857,15 +14871,20 @@ _mongo_stats/
 ||auctionzip.com/eKtvxkQ2/
 ||bloomberg.com/8FCGYgk4/
 ||booktopia.com.au/px_section_fetch/
+||carbon38.com/7G7BfRT2/
+||carolina.com/2gSJHc90/
 ||carolsdaughter.com/IZ/
 ||cookpad.com^*/init.js
 ||couchsurfing.com/bEcn7fQX/
 ||creativemarket.com/OfRh1WNK/
 ||crunchbase.com/rw7M6iAV/
 ||drupal.org/VnPBBfwe/
+||foodora.ca/lJuB4eTB/
 ||foodora.se/lJuB4eTB/
 ||foodpanda.bg/lJuB4eTB/
 ||foodpanda.ph/lJuB4eTB/
+||foodpanda.pk/lJuB4eTB/
+||foodpanda.sg/lJuB4eTB/
 ||foursquare.com/0UqK4c76/
 ||giphy.com/h52DW03a/
 ||hotelhunter.com/QUkd4lO9/
@@ -14880,7 +14899,10 @@ _mongo_stats/
 ||laroche-posay.us/IZ/
 ||magiquiz.com/YeuWA5s0/
 ||nyxcosmetics.com/IZ/
+||octopart.com/px/client/PX0Py5pczN/
+||onlinepizza.se/lJuB4eTB/
 ||pier1.com/cqAfo9Jx/
+||ralphlauren.co.uk/IZ/
 ||ralphlauren.de/IZ/
 ||ralphlauren.fr/IZ/
 ||seatgeek.com/aG6ZzoXU/
