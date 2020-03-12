@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202003120948
+! Version: 202003121218
 ! Title: EasyPrivacy
-! Last modified: 12 Mar 2020 09:48 UTC
+! Last modified: 12 Mar 2020 12:18 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -9670,6 +9670,7 @@ _mongo_stats/
 ||analytics.matchbin.com^
 ||analytics.midwesternmac.com^
 ||analytics.mlstatic.com^
+||analytics.myfidevs.io^
 ||analytics.myfinance.com^
 ||analytics.newscred.com^
 ||analytics.onlyonlinemarketing.com^
@@ -11354,6 +11355,7 @@ _mongo_stats/
 ||trackingapi.cloudapp.net^
 ||trackjs.com/agent/$script,third-party
 ||trackjs.com/usage.gif?
+||trackjs.com^*/tracker.js
 ||trackla.stackla.com^
 ||traffic.acwebconnecting.com^
 ||traffic.prod.cobaltgroup.com^
@@ -14889,6 +14891,7 @@ _mongo_stats/
 ||crunchbase.com/rw7M6iAV/
 ||drupal.org/VnPBBfwe/
 ||foodora.ca/lJuB4eTB/
+||foodora.fi/lJuB4eTB/
 ||foodora.se/lJuB4eTB/
 ||foodpanda.bg/lJuB4eTB/
 ||foodpanda.ph/lJuB4eTB/
