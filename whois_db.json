@@ -7312,7 +7312,7 @@
     "districtm.io": {
         "epoch": 1584144000.0,
         "expiration_date": "14-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "divolution.com": {
         "epoch": 1608940800.0,
@@ -7765,8 +7765,8 @@
         "state": "future"
     },
     "e-zeeinternet.com": {
-        "epoch": 1584144000.0,
-        "expiration_date": "14-mar-2020",
+        "epoch": 1615680000.0,
+        "expiration_date": "14-mar-2021",
         "state": "future"
     },
     "eacla.com": {
