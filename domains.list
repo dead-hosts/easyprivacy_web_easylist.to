@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202003150404
+! Version: 202003150458
 ! Title: EasyPrivacy
-! Last modified: 15 Mar 2020 04:04 UTC
+! Last modified: 15 Mar 2020 04:58 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -8461,13 +8461,16 @@ _mongo_stats/
 ||readymoon.com^$third-party
 ||realizerecess.com^$third-party
 ||realizevacation.com^$third-party
+||repeatsweater.com^$third-party
 ||resonantbrush.com^$third-party
+||rhetoricalloss.com^$third-party
 ||richstring.com^$third-party
 ||ringplayground.com^$third-party
 ||ritzykey.com^$third-party
 ||roofrelation.com^$third-party
 ||rusticprice.com^$third-party
 ||savoryorange.com^$third-party
+||scientificshirt.com^$third-party
 ||scintillatingspace.com^$third-party
 ||scrubswim.com^$third-party
 ||selectivesummer.com^$third-party
@@ -8481,14 +8484,17 @@ _mongo_stats/
 ||shyseed.com^$third-party
 ||sicksmash.com^$third-party
 ||smashsurprise.com^$third-party
+||somberscarecrow.com^$third-party
 ||sombersurprise.com^$third-party
 ||sortsummer.com^$third-party
+||spellsalsa.com^$third-party
 ||spiffymachine.com^$third-party
 ||spottednoise.com^$third-party
 ||spuriousbase.com^$third-party
 ||spurioussteam.com^$third-party
 ||squeakzinc.com^$third-party
 ||squirrelhands.com^$third-party
+||staleshow.com^$third-party
 ||steadfastsound.com^$third-party
 ||steepsquirrel.com^$third-party
 ||stiffstem.com^$third-party
