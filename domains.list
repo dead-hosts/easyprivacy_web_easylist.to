@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202003150044
+! Version: 202003150404
 ! Title: EasyPrivacy
-! Last modified: 15 Mar 2020 00:44 UTC
+! Last modified: 15 Mar 2020 04:04 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -8351,6 +8351,7 @@ _mongo_stats/
 ||bagbeam.com^$third-party
 ||balancebreath.com^$third-party
 ||bandborder.com^$third-party
+||basketballbelieve.com^$third-party
 ||baskettexture.com^$third-party
 ||breakfastboat.com^$third-party
 ||broadcastbed.com^$third-party
@@ -8465,6 +8466,7 @@ _mongo_stats/
 ||ringplayground.com^$third-party
 ||ritzykey.com^$third-party
 ||roofrelation.com^$third-party
+||rusticprice.com^$third-party
 ||savoryorange.com^$third-party
 ||scintillatingspace.com^$third-party
 ||scrubswim.com^$third-party
@@ -14038,6 +14040,7 @@ _mongo_stats/
 ||sb-cd.com^*.d-aeon.js
 ||sc.cc.com^
 ||scdn.co/build/js/tracking-
+||scdn.co/cdn/js/gtag.$script,domain=spotify.com
 ||sciencedaily.com/blank.htm
 ||sciencedaily.com/cache.php?
 ||scluster3.cliphunter.com^
