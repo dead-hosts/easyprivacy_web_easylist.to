@@ -4999,6 +4999,11 @@
         "expiration_date": "20-feb-2021",
         "state": "future"
     },
+    "clarity.ms": {
+        "epoch": 1617408000.0,
+        "expiration_date": "03-apr-2021",
+        "state": "future"
+    },
     "claritytag.com": {
         "epoch": 1611100800.0,
         "expiration_date": "20-jan-2021",
@@ -9180,9 +9185,9 @@
         "state": "future"
     },
     "fitanalytics.com": {
-        "epoch": 1584230400.0,
-        "expiration_date": "15-mar-2020",
-        "state": "past"
+        "epoch": 1615766400.0,
+        "expiration_date": "15-mar-2021",
+        "state": "future"
     },
     "fixcounter.com": {
         "epoch": 1592438400.0,
