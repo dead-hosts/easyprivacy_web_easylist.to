@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202003170416
+! Version: 202003170652
 ! Title: EasyPrivacy
-! Last modified: 17 Mar 2020 04:16 UTC
+! Last modified: 17 Mar 2020 06:52 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2819,6 +2819,7 @@
 /mtracking.
 /mttag/*
 /mtvi_reporting.js
+/mv_Visit2.
 /mvTracker.
 /mwTag.js
 /mwtag_flash.js
@@ -7933,6 +7934,7 @@ _mongo_stats/
 ||zqtk.net^$third-party
 ||zroitracker.com^$third-party
 ||ztsrv.com^$third-party
+||zuzab.com^$third-party
 ! Mining
 .1.1.1.l80.js^$third-party
 .n.2.1.js^$third-party
@@ -10647,6 +10649,7 @@ _mongo_stats/
 ||lsimg.net^*/vs.js
 ||lt.tritondigital.com^
 ||ltassrv.com/track/
+||lucid.mjhassoc.com^
 ||luminate.com/track/
 ||lunametrics.wpengine.netdna-cdn.com^
 ||lycos.com/hb.js
@@ -11167,6 +11170,7 @@ _mongo_stats/
 ||survey.interquest.com^
 ||survey.io/log?
 ||surveywall-api.survata.com^$third-party
+||svc.dynamics.com^
 ||swiftypecdn.com/cc.js$third-party
 ||swiftypecdn.com/te.js$third-party
 ||synapsys.us^*.gif?
@@ -12670,6 +12674,7 @@ _mongo_stats/
 ||bing.com/partner/primedns
 ||bing.com/widget/metrics.js
 ||bing.com^*/GLinkPing.aspx
+||biomedcentral.com/track/
 ||biosphoto.com^*/stats/
 ||birthvillage.com/watcher/
 ||bit.ehow.com^
