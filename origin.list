@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202003201015
+! Version: 202003201129
 ! Title: EasyPrivacy
-! Last modified: 20 Mar 2020 10:15 UTC
+! Last modified: 20 Mar 2020 11:29 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2015,6 +2015,7 @@
 /getclicky_
 /getcookie.php?
 /getcount?ids=
+/getIbleStats?
 /getPixels?*&referer=
 /getPixelSso
 /getRemoteDomainCookies?
@@ -14982,6 +14983,7 @@ _mongo_stats/
 ||cmp.greenbot.com^
 ||cmp.macworld.co.uk^
 ||cmp.macworld.com^
+||cmp.osano.com^
 ||cmp.pcworld.co.nz^
 ||cmp.pcworld.com^
 ||cmp.pcworld.idg.com.au^
@@ -15688,6 +15690,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||logs-qos.tf1.fr^
 ||ma-petite-recette.fr/visites
 ||neko-san.fr/stats
+||nextinpact.com/bundles/mtm
 ||nouvelobs.com/scripts/stats.php?
 ||nouvelobs.com/tools/csrum.php
 ||nouvelobs.com/trafiz-
