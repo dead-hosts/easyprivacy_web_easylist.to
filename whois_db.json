@@ -2630,8 +2630,8 @@
         "state": "future"
     },
     "audiencerate.com": {
-        "epoch": 1584835200.0,
-        "expiration_date": "22-mar-2020",
+        "epoch": 1616371200.0,
+        "expiration_date": "22-mar-2021",
         "state": "future"
     },
     "audiencesquare.com": {
@@ -4012,7 +4012,7 @@
     "bridgevine.com": {
         "epoch": 1584835200.0,
         "expiration_date": "22-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "brightcove.com": {
         "epoch": 1707004800.0,
@@ -7590,8 +7590,8 @@
         "state": "future"
     },
     "dsply.com": {
-        "epoch": 1584835200.0,
-        "expiration_date": "22-mar-2020",
+        "epoch": 1616371200.0,
+        "expiration_date": "22-mar-2021",
         "state": "future"
     },
     "dstrack2.info": {
