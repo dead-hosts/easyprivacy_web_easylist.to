@@ -6802,7 +6802,7 @@
     "dc-storm.com": {
         "epoch": 1585008000.0,
         "expiration_date": "24-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "dcmn.com": {
         "epoch": 1605398400.0,
@@ -9605,8 +9605,8 @@
         "state": "future"
     },
     "free-counters.co.uk": {
-        "epoch": 1585008000.0,
-        "expiration_date": "24-mar-2020",
+        "epoch": 1648080000.0,
+        "expiration_date": "24-mar-2022",
         "state": "future"
     },
     "free-counters.net": {
