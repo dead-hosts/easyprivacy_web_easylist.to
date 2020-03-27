@@ -5012,7 +5012,7 @@
     "clarivoy.com": {
         "epoch": 1585267200.0,
         "expiration_date": "27-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "cleananalytics.com": {
         "epoch": 1585699200.0,
@@ -6825,8 +6825,8 @@
         "state": "future"
     },
     "ddm.io": {
-        "epoch": 1585267200.0,
-        "expiration_date": "27-mar-2020",
+        "epoch": 1616803200.0,
+        "expiration_date": "27-mar-2021",
         "state": "future"
     },
     "de-mi-nis-ner.info": {
