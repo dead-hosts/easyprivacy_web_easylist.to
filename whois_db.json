@@ -2492,7 +2492,7 @@
     "assoctrac.com": {
         "epoch": 1585353600.0,
         "expiration_date": "28-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "asterpix.com": {
         "epoch": 1601856000.0,
@@ -4865,8 +4865,8 @@
         "state": "future"
     },
     "chickensaladandads.com": {
-        "epoch": 1585353600.0,
-        "expiration_date": "28-mar-2020",
+        "epoch": 1616889600.0,
+        "expiration_date": "28-mar-2021",
         "state": "future"
     },
     "china.com": {
@@ -7890,8 +7890,8 @@
         "state": "future"
     },
     "eclampsialemontree.net": {
-        "epoch": 1585353600.0,
-        "expiration_date": "28-mar-2020",
+        "epoch": 1616889600.0,
+        "expiration_date": "28-mar-2021",
         "state": "future"
     },
     "ecn5.com": {
@@ -8525,8 +8525,8 @@
         "state": "future"
     },
     "everesttech.net": {
-        "epoch": 1585353600.0,
-        "expiration_date": "28-mar-2020",
+        "epoch": 1616889600.0,
+        "expiration_date": "28-mar-2021",
         "state": "future"
     },
     "evergage.com": {
