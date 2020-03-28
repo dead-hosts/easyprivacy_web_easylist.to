@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202003280848
+! Version: 202003281007
 ! Title: EasyPrivacy
-! Last modified: 28 Mar 2020 08:48 UTC
+! Last modified: 28 Mar 2020 10:07 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -270,6 +270,7 @@
 .org/?js|
 .org/js/ga-
 .org/js/ga.js
+.org/o.gif?
 .ovh/presbyters.js
 .PageHitServlet?
 .pageVisitCounter_
@@ -2700,6 +2701,7 @@
 /MCookieCheck.aspx
 /MCookieReturn.aspx
 /mcount.cgi?
+/mcounter/*
 /md.js?country=
 /mdwtc/click_thru/*
 /measure/spring.
@@ -3183,6 +3185,7 @@
 /pixel/conv/*
 /pixel/cv?
 /pixel/cv_
+/pixel/email/*$image
 /pixel/ga-
 /pixel/gtm-
 /pixel/img/*
@@ -4470,6 +4473,7 @@
 /trans/logger.js
 /trans_pixel.asp
 /transparent1x1.
+/transpix.gif
 /travel-pixel-
 /travelAdsBeacon/*
 /trax.gif?
@@ -6777,6 +6781,7 @@ _mongo_stats/
 ||mixpanel.com^$third-party
 ||mkt3261.com^$third-party
 ||mkt51.net^$third-party
+||mkt6333.com^$third-party
 ||mkt941.com^$third-party
 ||mktoresp.com^$third-party
 ||ml-attr.com^$third-party
@@ -7197,6 +7202,7 @@ _mongo_stats/
 ||retargettracker.com^$third-party
 ||retentionscience.com^$third-party
 ||rettica.com^$third-party
+||returnpath.net^$third-party
 ||reussissonsensemble.fr^$third-party
 ||revdn.net^$third-party
 ||revenuepilot.com^$third-party
@@ -7813,6 +7819,7 @@ _mongo_stats/
 ||waust.at^$third-party
 ||wbdx.fr^$third-party
 ||wbtrk.net^$third-party
+||wc4.net^$image,third-party
 ||wdfl.co^$third-party
 ||we-stats.com^$third-party
 ||web-boosting.net^$third-party
@@ -9633,6 +9640,7 @@ _mongo_stats/
 ||amazonaws.com/ki.js/
 ||amazonaws.com/logs$xmlhttprequest,domain=wat.tv
 ||amazonaws.com/new.cetrk.com/
+||amazonaws.com/prod/main?ref=$image,third-party
 ||amazonaws.com/searchdiscovery-satellite-production/
 ||amazonaws.com/statics.reedge.com/
 ||amazonaws.com/wgntrk/
@@ -10005,6 +10013,7 @@ _mongo_stats/
 ||cloudfunctions.net/ingest?
 ||clustrmaps.com/counter/$third-party
 ||cm.g.doubleclick.net^
+||cmail19.com/t/$image,third-party
 ||cmmeglobal.com/evt?
 ||cmmeglobal.com^*/page-view?
 ||cnetcontent.com/jsc/h.js
@@ -10033,6 +10042,7 @@ _mongo_stats/
 ||collector.sspinc.io^
 ||comet.ibsrv.net^
 ||comic-rocket.com/metrics.js
+||comms.thewhiskyexchange.com^$image
 ||communicatorcorp.com^*/conversiontracking.js
 ||compendiumblog.com/sp.js
 ||competitoor.com/analytics/
@@ -10613,6 +10623,7 @@ _mongo_stats/
 ||link.cosmopolitan.com^$image
 ||link.indiegogo.com/img/
 ||link.informer.com^
+||link.myjewishpage.com^$image
 ||linkbucks.com/visitScript/
 ||linkdeli.com/widget.js
 ||linkedin.com/countserv/count/$third-party
@@ -10696,6 +10707,7 @@ _mongo_stats/
 ||marketo.com/rtp-api/
 ||mas.nth.ch^
 ||mashery.com/analytics/
+||materiel.net/r/$image
 ||maxmind.com/app/$third-party
 ||maxmind.com/geoip/$third-party
 ||maxmind.com/js/country.js
@@ -10807,6 +10819,7 @@ _mongo_stats/
 ||o.addthis.com^
 ||o.aolcdn.com/js/mg1.js
 ||observer.ip-label.net^
+||ocmail1.in/rtw/$image
 ||ocp.cnettv.com^*/Request.jsp?
 ||octopart-analytics.com^$third-party
 ||oda.markitondemand.com^
@@ -12335,6 +12348,7 @@ _mongo_stats/
 ||stat.tvigle.ru^
 ||stats-*.p2pnow.ru^
 ||stats.seedr.com^
+||subscribe.ru/1.gif/$image
 ||target.mirtesen.ru^
 ||target.smi2.net^
 ||target.smi2.ru^
