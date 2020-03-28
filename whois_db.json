@@ -6929,6 +6929,11 @@
         "expiration_date": "27-feb-2023",
         "state": "future"
     },
+    "defacto-analytics.net": {
+        "epoch": 1605052800.0,
+        "expiration_date": "11-nov-2020",
+        "state": "future"
+    },
     "dejure.org": {
         "epoch": 1639612800.0,
         "expiration_date": "16-dec-2021",

@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202003281007
+! Version: 202003281127
 ! Title: EasyPrivacy
-! Last modified: 28 Mar 2020 10:07 UTC
+! Last modified: 28 Mar 2020 11:27 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1669,6 +1669,7 @@
 /elqtracking.
 /elt.gif?
 /eluminate?
+/email/track/*$image
 /email/tracking?
 /EmailOpenTrackLog.aspx?$image
 /embed-log.js
@@ -2260,6 +2261,7 @@
 /imp/www.
 /imp2.js?
 /imp?*&impId=
+/imp?*&li=
 /imp?*&sz=
 /imp?*&u=
 /imp?imgid=
@@ -2989,6 +2991,7 @@
 /openxtargeting.js
 /opinionlab.js
 /OpinionLab_Tag.
+/optiextension.dll?
 /optimization-perf.js
 /optimizely.$domain=~optimizely.com
 /optimizely/*$script
@@ -4383,6 +4386,7 @@
 /tracking_pixel
 /tracking_s.
 /tracking_super_hot.js
+/tracking_unitary/*
 /trackingab?
 /trackingapi.
 /TrackingBreadcrumbs.
@@ -6013,6 +6017,7 @@ _mongo_stats/
 ||deep.bi^$third-party
 ||deepattention.com^$third-party
 ||deepchannel.com^$third-party
+||defacto-analytics.net^$third-party
 ||dejavu.mlapps.com^$third-party
 ||demandbase.com^$third-party
 ||demdex.net^$third-party
@@ -6943,6 +6948,7 @@ _mongo_stats/
 ||omkt.co^$third-party
 ||omniconvert.com^$third-party
 ||omtrdc.net^$third-party
+||omtvxcle.com^$third-party
 ||onaudience.com^$third-party
 ||ondu.ru^$third-party
 ||onecount.net^$third-party
@@ -9609,6 +9615,7 @@ _mongo_stats/
 ||akanoo.com/tracker/
 ||akatracking.esearchvision.com^
 ||aklamio.com/ovlbtntrk?
+||aktion.esprit-club.com^$image
 ||alenty.com/trk/
 ||alex.leonard.ie/misc-images/transparent.png
 ||alexa.com/minisiteinfo/$third-party
@@ -10623,7 +10630,9 @@ _mongo_stats/
 ||link.cosmopolitan.com^$image
 ||link.indiegogo.com/img/
 ||link.informer.com^
+||link.messaging.usnews.com^$image
 ||link.myjewishpage.com^$image
+||link.realself.com^$image
 ||linkbucks.com/visitScript/
 ||linkdeli.com/widget.js
 ||linkedin.com/countserv/count/$third-party
@@ -10672,6 +10681,7 @@ _mongo_stats/
 ||logs.vmixcore.com^
 ||longtailvideo.com^*/yourlytics-
 ||loomia.com^*/setcookie.html
+||lore.circulate.com^
 ||loxodo-analytics.ext.nile.works^
 ||lsimg.net^*/vs.js
 ||lt.tritondigital.com^
@@ -12909,10 +12919,12 @@ _mongo_stats/
 ||creditcards.com/actions/page_view.php?
 ||creditcards.com/sb.php?
 ||crowdignite.com/img/l.gif
+||crsend.com/stats/
 ||crunchsports.com/tracking_fetchinfo.aspx?
 ||ct.cnet.com/opens?
 ||ctscdn.com/content/tracking-
 ||current.com/tracking.htm?
+||customeriomail.codecademy.com^$image
 ||customerservicejobs.com/common/track/
 ||cyberlink.com/analytics/
 ||d1.abtshield.com^
@@ -12991,6 +13003,7 @@ _mongo_stats/
 ||dwh-tracking.it.auth0.com^
 ||dx.com/?utm_rid=
 ||dyo.gs/track/
+||e2ma.net/track/
 ||eafyfsuh.net/track/
 ||easy2.com^*/logging/
 ||ebay-us.com/fp/
@@ -13506,6 +13519,7 @@ _mongo_stats/
 ||likes.com/api/track_pv
 ||lilb2.shutterstock.com^
 ||linguee.com*/white_pixel.gif?
+||link2.strawberrynet.com^$image
 ||linkbucks.com/clean.aspx?task=record$image
 ||linkbucks.com/track/
 ||linkedin.com/analytics/
@@ -13569,6 +13583,7 @@ _mongo_stats/
 ||mail.ru/counter?
 ||mail.yahoo.com/d/log
 ||mail.yahoo.com/dc/rs?log=
+||mailing.enews.extremetech.com^$image
 ||mailings.gmx.net/action/view/$image
 ||malibubright.com/krtrk/
 ||mansion.com/collect.js?
@@ -14358,6 +14373,7 @@ _mongo_stats/
 ||stats.clear-media.com^
 ||stats.digg.com^
 ||stats.dnaindia.com^
+||stats.extremetech.com^
 ||stats.eyeviewdigital.com^
 ||stats.fs.com^
 ||stats.harpercollins.com^
