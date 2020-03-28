@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202003282041
+! Version: 202003282230
 ! Title: EasyPrivacy
-! Last modified: 28 Mar 2020 20:41 UTC
+! Last modified: 28 Mar 2020 22:30 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5175,6 +5175,7 @@ cgi-bin/counter
 /cmp-hello.
 /cmp/messaging.js
 /sourcepoint.js
+/SourcePoint_JS_Files/*
 ! Eulerian
 &pagegroup=*&url=$script
 /ajax/eulerian/*
@@ -14796,6 +14797,7 @@ _mongo_stats/
 ||wblt.oui.sncf^
 ||wcnc.com/g/g/button/
 ||weather.com/pagelet/metrics/
+||weather.com^*/dprSdkScript.js
 ||weather.com^*/makeRequest-
 ||web-18.com/common/w18a26062012143253_min.js
 ||web-t.9gag.com^
