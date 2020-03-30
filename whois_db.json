@@ -9559,6 +9559,11 @@
         "expiration_date": "23-feb-2022",
         "state": "future"
     },
+    "fpjs.io": {
+        "epoch": 1615161600.0,
+        "expiration_date": "08-mar-2021",
+        "state": "future"
+    },
     "fprnt.com": {
         "epoch": 1597536000.0,
         "expiration_date": "16-aug-2020",
