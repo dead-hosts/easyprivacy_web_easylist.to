@@ -764,6 +764,11 @@
         "expiration_date": "10-sep-2020",
         "state": "future"
     },
+    "acsbap.com": {
+        "epoch": 1618012800.0,
+        "expiration_date": "10-apr-2021",
+        "state": "future"
+    },
     "actionallocator.com": {
         "epoch": 1603584000.0,
         "expiration_date": "25-oct-2020",
@@ -2580,9 +2585,9 @@
         "state": "future"
     },
     "attracta.com": {
-        "epoch": 1585526400.0,
-        "expiration_date": "30-mar-2020",
-        "state": "past"
+        "epoch": 1617062400.0,
+        "expiration_date": "30-mar-2021",
+        "state": "future"
     },
     "attractivecap.com": {
         "epoch": 1609977600.0,
