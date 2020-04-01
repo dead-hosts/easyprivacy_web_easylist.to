@@ -327,7 +327,7 @@
     "40nuggets.com": {
         "epoch": 1585699200.0,
         "expiration_date": "01-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "44-trk-srv.com": {
         "epoch": 1615766400.0,
@@ -1782,7 +1782,7 @@
     "altabold1.com": {
         "epoch": 1585699200.0,
         "expiration_date": "01-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "altastat.com": {
         "epoch": 1614038400.0,
@@ -5022,7 +5022,7 @@
     "cleananalytics.com": {
         "epoch": 1585699200.0,
         "expiration_date": "01-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "clearsale.com.br": {
         "epoch": 1724630400.0,
@@ -7005,8 +7005,8 @@
         "state": "future"
     },
     "departapp.com": {
-        "epoch": 1585699200.0,
-        "expiration_date": "01-apr-2020",
+        "epoch": 1617235200.0,
+        "expiration_date": "01-apr-2021",
         "state": "future"
     },
     "depositfiles.com": {
@@ -7610,8 +7610,8 @@
         "state": "future"
     },
     "dtc-v6t.com": {
-        "epoch": 1585699200.0,
-        "expiration_date": "01-apr-2020",
+        "epoch": 1617235200.0,
+        "expiration_date": "01-apr-2021",
         "state": "future"
     },
     "dti-ranker.com": {
