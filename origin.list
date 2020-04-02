@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202004021130
+! Version: 202004021156
 ! Title: EasyPrivacy
-! Last modified: 02 Apr 2020 11:30 UTC
+! Last modified: 02 Apr 2020 11:56 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3421,6 +3421,7 @@
 /RefinedAdsTracker.swf
 /refresh_uid?$script
 /refstats.asp?
+/reftracker.
 /reg_stat.php?
 /register_pageview?
 /register_stats.php?
@@ -15082,6 +15083,7 @@ _mongo_stats/
 ||ttauri.livescience.com^
 ||ttauri.tomsguide.com^
 ||ttauri.tomshardware.com^
+||ttauri.whathifi.com^
 ||vg247.com/wp-content/themes/vg247/scripts/mvg247-fsm.js
 ||weather.com/weather/*.sourcepoint
 ||wiltshiretimes-gb.wiltshiretimes.co.uk^
