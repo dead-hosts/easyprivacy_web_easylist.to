@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202004030639
+! Version: 202004030715
 ! Title: EasyPrivacy
-! Last modified: 03 Apr 2020 06:39 UTC
+! Last modified: 03 Apr 2020 07:15 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6696,6 +6696,7 @@ _mongo_stats/
 ||logger.pw^$third-party
 ||loggly.com^$third-party
 ||loginfra.com^$third-party
+||loginhood.io^$third-party
 ||logmatic.io^$third-party
 ||lognormal.net^$third-party
 ||logrocket.com^$third-party
@@ -8502,6 +8503,7 @@ _mongo_stats/
 ||rusticprice.com^$third-party
 ||savoryorange.com^$third-party
 ||scientificshirt.com^$third-party
+||scintillatingscissors.com^$third-party
 ||scintillatingspace.com^$third-party
 ||scrubswim.com^$third-party
 ||secretturtle.com^$third-party
@@ -8544,6 +8546,7 @@ _mongo_stats/
 ||thirstytwig.com^$third-party
 ||ticklesign.com^$third-party
 ||tranquilside.com^$third-party
+||troubledtail.com^$third-party
 ||typicalairplane.com^$third-party
 ||typicalteeth.com^$third-party
 ||ubiquitousyard.com^$third-party
