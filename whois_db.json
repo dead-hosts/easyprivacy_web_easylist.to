@@ -3594,6 +3594,11 @@
         "expiration_date": "31-oct-2020",
         "state": "future"
     },
+    "blaick.com": {
+        "epoch": 1616112000.0,
+        "expiration_date": "19-mar-2021",
+        "state": "future"
+    },
     "blankfire.com": {
         "epoch": 1595980800.0,
         "expiration_date": "29-jul-2020",
