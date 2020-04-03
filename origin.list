@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202004030337
+! Version: 202004030414
 ! Title: EasyPrivacy
-! Last modified: 03 Apr 2020 03:37 UTC
+! Last modified: 03 Apr 2020 04:14 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -15062,6 +15062,7 @@ _mongo_stats/
 ||ep00.epimg.net^
 ||eurogamer-uk.eurogamer.net^
 ||fuse.forbes.com^
+||gamesradar-gb.gamesradar.com^
 ||gazette-news-gb.gazette-news.co.uk^
 ||glasgowtimes-gb.glasgowtimes.co.uk^
 ||greenocktelegraph-gb.greenocktelegraph.co.uk^
@@ -15256,8 +15257,8 @@ _mongo_stats/
 ||zsi7.destinia.do^
 ||zyq2.destinia.sk^
 ! Fingerprintjs
-/^https?:\/\/.*www\.bhphotovideo\.com\/[a-z0-9]{19,23}\.js/$script,xmlhttprequest
-/^https?:\/\/.*www\.corsair\.(fr|ci|ca|gp|mq|re)\/[a-z0-9]{19,23}\.js/$script,xmlhttprequest
+/^https?:\/\/.*www\.bhphotovideo\.com\/[a-z0-9]{19,}\.js/$script,xmlhttprequest
+/^https?:\/\/.*www\.corsair\.(fr|ci|ca|gp|mq|re)\/[a-z0-9]{19,}\.js/$script,xmlhttprequest
 ||aerlingus.com/ahktqsewxjhguuxe.js
 ||aerlingus.com/ahktqsewxjhguuxexhr.js
 ||greenmangaming.com/omnopfddrdlevbbh.js
