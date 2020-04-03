@@ -4314,6 +4314,11 @@
         "expiration_date": "10-sep-2020",
         "state": "future"
     },
+    "cactusglobal.io": {
+        "epoch": 1592697600.0,
+        "expiration_date": "21-jun-2020",
+        "state": "future"
+    },
     "cadreon.com": {
         "epoch": 1616457600.0,
         "expiration_date": "23-mar-2021",
