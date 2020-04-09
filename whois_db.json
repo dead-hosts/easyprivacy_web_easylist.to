@@ -1032,7 +1032,7 @@
     "admantx.com": {
         "epoch": 1586390400.0,
         "expiration_date": "09-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "admaster.com.cn": {
         "epoch": 1609891200.0,
@@ -2795,8 +2795,8 @@
         "state": "future"
     },
     "avastats.com": {
-        "epoch": 1586390400.0,
-        "expiration_date": "09-apr-2020",
+        "epoch": 1617926400.0,
+        "expiration_date": "09-apr-2021",
         "state": "future"
     },
     "avazudsp.net": {
@@ -3250,8 +3250,8 @@
         "state": "future"
     },
     "belstat.fr": {
-        "epoch": 1586390400.0,
-        "expiration_date": "09-apr-2020",
+        "epoch": 1616025600.0,
+        "expiration_date": "18-mar-2021",
         "state": "future"
     },
     "benchit.com": {
@@ -3910,8 +3910,8 @@
         "state": "future"
     },
     "botsvisit.com": {
-        "epoch": 1586390400.0,
-        "expiration_date": "09-apr-2020",
+        "epoch": 1617926400.0,
+        "expiration_date": "09-apr-2021",
         "state": "future"
     },
     "bounceexchange.com": {
@@ -5960,8 +5960,8 @@
         "state": "future"
     },
     "coremotives.com": {
-        "epoch": 1586390400.0,
-        "expiration_date": "09-apr-2020",
+        "epoch": 1617926400.0,
+        "expiration_date": "09-apr-2021",
         "state": "future"
     },
     "corsair.ca": {
