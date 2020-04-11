@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202004110216
+! Version: 202004110320
 ! Title: EasyPrivacy
-! Last modified: 11 Apr 2020 02:16 UTC
+! Last modified: 11 Apr 2020 03:20 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -856,6 +856,7 @@
 /article_hit.php?
 /ArticleCounterLogger.
 /ArticleLog.aspx?
+/articleOmnitureTracking.
 /ArticleViewTracking/*
 /asdf/tracking-
 /asknet_tracking.
@@ -1370,6 +1371,7 @@
 /contador.gif?
 /containerTag.js
 /containertag?
+/content-targeting-
 /content-targeting-staging.js
 /contentanalytics/*
 /contentiq.js
@@ -2526,6 +2528,7 @@
 /livestats.php?
 /livezilla/server.php?request=track&
 /llbmetrics.
+/llntrack.
 /load.gif?
 /load.js.gz?
 /load_analytics.
@@ -11708,7 +11711,7 @@ _mongo_stats/
 ||fastly.net/plw.js
 ||fastly.net/sp.js
 ! Unnecessary third-party scripts
-||js.trendmd.com/trendmd.min.js$third-party
+||js.trendmd.com/trendmd.min.js
 ||nsg.symantec.com^$third-party
 ||seal.godaddy.com^$third-party
 ||sealserver.trustwave.com^$third-party
