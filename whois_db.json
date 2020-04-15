@@ -10249,6 +10249,11 @@
         "expiration_date": "03-aug-2022",
         "state": "future"
     },
+    "geo-targetly.com": {
+        "epoch": 1645401600.0,
+        "expiration_date": "21-feb-2022",
+        "state": "future"
+    },
     "geobytes.com": {
         "epoch": 1595116800.0,
         "expiration_date": "19-jul-2020",
@@ -10297,6 +10302,11 @@
     "getaim.info": {
         "epoch": 1598659200.0,
         "expiration_date": "29-aug-2020",
+        "state": "future"
+    },
+    "getambassador.com": {
+        "epoch": 1694995200.0,
+        "expiration_date": "18-sep-2023",
         "state": "future"
     },
     "getbackstory.com": {
