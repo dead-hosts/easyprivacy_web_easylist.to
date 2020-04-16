@@ -9382,7 +9382,7 @@
     "flx1.com": {
         "epoch": 1586995200.0,
         "expiration_date": "16-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "flxpxl.com": {
         "epoch": 1616284800.0,
@@ -9767,7 +9767,7 @@
     "freehitscounter.org": {
         "epoch": 1586995200.0,
         "expiration_date": "16-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "freehostedscripts.net": {
         "epoch": 1598227200.0,
