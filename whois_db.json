@@ -255,8 +255,8 @@
         "state": "future"
     },
     "360i.com": {
-        "epoch": 1587340800.0,
-        "expiration_date": "20-apr-2020",
+        "epoch": 1618876800.0,
+        "expiration_date": "20-apr-2021",
         "state": "future"
     },
     "360tag.com": {
@@ -425,8 +425,8 @@
         "state": "future"
     },
     "720-trail.co.uk": {
-        "epoch": 1587772800.0,
-        "expiration_date": "25-apr-2020",
+        "epoch": 1650844800.0,
+        "expiration_date": "25-apr-2022",
         "state": "future"
     },
     "77tracking.com": {
@@ -1404,6 +1404,11 @@
         "expiration_date": "27-jul-2020",
         "state": "future"
     },
+    "afftrack.pro": {
+        "epoch": 1593820800.0,
+        "expiration_date": "04-jul-2020",
+        "state": "future"
+    },
     "afminer.com": {
         "epoch": 1582588800.0,
         "expiration_date": "25-feb-2020",
@@ -2220,8 +2225,8 @@
         "state": "future"
     },
     "apicit.net": {
-        "epoch": 1587340800.0,
-        "expiration_date": "20-apr-2020",
+        "epoch": 1618876800.0,
+        "expiration_date": "20-apr-2021",
         "state": "future"
     },
     "apkonline.ru": {
@@ -2297,6 +2302,11 @@
     "appn.center": {
         "epoch": 1601251200.0,
         "expiration_date": "28-sep-2020",
+        "state": "future"
+    },
+    "appsflyer.com": {
+        "epoch": 1715212800.0,
+        "expiration_date": "09-may-2024",
         "state": "future"
     },
     "appsha5.space": {
@@ -2497,6 +2507,11 @@
     "assoctrac.com": {
         "epoch": 1616889600.0,
         "expiration_date": "28-mar-2021",
+        "state": "future"
+    },
+    "asteriresearch.com": {
+        "epoch": 1617062400.0,
+        "expiration_date": "30-mar-2021",
         "state": "future"
     },
     "asterpix.com": {
@@ -3180,8 +3195,8 @@
         "state": "future"
     },
     "beanstalkdata.com": {
-        "epoch": 1587859200.0,
-        "expiration_date": "26-apr-2020",
+        "epoch": 1619395200.0,
+        "expiration_date": "26-apr-2021",
         "state": "future"
     },
     "beanstock.com": {
@@ -4185,8 +4200,8 @@
         "state": "future"
     },
     "burt.io": {
-        "epoch": 1587859200.0,
-        "expiration_date": "26-apr-2020",
+        "epoch": 1619395200.0,
+        "expiration_date": "26-apr-2021",
         "state": "future"
     },
     "business.com": {
@@ -5225,8 +5240,8 @@
         "state": "future"
     },
     "clicktrack1.com": {
-        "epoch": 1587340800.0,
-        "expiration_date": "20-apr-2020",
+        "epoch": 1618876800.0,
+        "expiration_date": "20-apr-2021",
         "state": "future"
     },
     "clicktracks.com": {
@@ -7879,6 +7894,11 @@
         "expiration_date": "21-mar-2021",
         "state": "future"
     },
+    "eb4us.com": {
+        "epoch": 1611532800.0,
+        "expiration_date": "25-jan-2021",
+        "state": "future"
+    },
     "ebay-us.com": {
         "epoch": 1580083200.0,
         "expiration_date": "27-jan-2020",
@@ -8135,8 +8155,8 @@
         "state": "future"
     },
     "embeddedanalytics.com": {
-        "epoch": 1587427200.0,
-        "expiration_date": "21-apr-2020",
+        "epoch": 1618963200.0,
+        "expiration_date": "21-apr-2021",
         "state": "future"
     },
     "embedly.com": {
@@ -8280,13 +8300,13 @@
         "state": "future"
     },
     "ep4p.com": {
-        "epoch": 1587686400.0,
-        "expiration_date": "24-apr-2020",
+        "epoch": 1650758400.0,
+        "expiration_date": "24-apr-2022",
         "state": "future"
     },
     "eperfectdata.com": {
-        "epoch": 1587513600.0,
-        "expiration_date": "22-apr-2020",
+        "epoch": 1650585600.0,
+        "expiration_date": "22-apr-2022",
         "state": "future"
     },
     "epilot.com": {
@@ -8545,8 +8565,8 @@
         "state": "future"
     },
     "everestjs.net": {
-        "epoch": 1587686400.0,
-        "expiration_date": "24-apr-2020",
+        "epoch": 1619222400.0,
+        "expiration_date": "24-apr-2021",
         "state": "future"
     },
     "everesttech.net": {
@@ -8580,8 +8600,8 @@
         "state": "future"
     },
     "evisitanalyst.com": {
-        "epoch": 1587600000.0,
-        "expiration_date": "23-apr-2020",
+        "epoch": 1619136000.0,
+        "expiration_date": "23-apr-2021",
         "state": "future"
     },
     "evolvemediametrics.com": {
@@ -8792,6 +8812,11 @@
     "ezinearticles.com": {
         "epoch": 1605744000.0,
         "expiration_date": "19-nov-2020",
+        "state": "future"
+    },
+    "ezodn.com": {
+        "epoch": 1745280000.0,
+        "expiration_date": "22-apr-2025",
         "state": "future"
     },
     "ezytrack.com": {
@@ -9920,8 +9945,8 @@
         "state": "future"
     },
     "fsd2.digital": {
-        "epoch": 1587772800.0,
-        "expiration_date": "25-apr-2020",
+        "epoch": 1650844800.0,
+        "expiration_date": "25-apr-2022",
         "state": "future"
     },
     "fstrk.net": {
@@ -10070,8 +10095,8 @@
         "state": "future"
     },
     "fyreball.com": {
-        "epoch": 1587340800.0,
-        "expiration_date": "20-apr-2020",
+        "epoch": 1618876800.0,
+        "expiration_date": "20-apr-2021",
         "state": "future"
     },
     "g-content.bid": {
@@ -10272,6 +10297,11 @@
     "geoip-db.com": {
         "epoch": 1617580800.0,
         "expiration_date": "05-apr-2021",
+        "state": "future"
+    },
+    "geoip-js.com": {
+        "epoch": 1616544000.0,
+        "expiration_date": "24-mar-2021",
         "state": "future"
     },
     "geojs.io": {
@@ -10705,8 +10735,8 @@
         "state": "future"
     },
     "gopjn.com": {
-        "epoch": 1587081600.0,
-        "expiration_date": "17-apr-2020",
+        "epoch": 1650153600.0,
+        "expiration_date": "17-apr-2022",
         "state": "future"
     },
     "goprediction.com": {
@@ -10950,8 +10980,8 @@
         "state": "future"
     },
     "gtopstats.com": {
-        "epoch": 1587686400.0,
-        "expiration_date": "24-apr-2020",
+        "epoch": 1619222400.0,
+        "expiration_date": "24-apr-2021",
         "state": "future"
     },
     "guanoo.net": {
@@ -11000,8 +11030,8 @@
         "state": "future"
     },
     "gweini.com": {
-        "epoch": 1587340800.0,
-        "expiration_date": "20-apr-2020",
+        "epoch": 1618876800.0,
+        "expiration_date": "20-apr-2021",
         "state": "future"
     },
     "gxgydnhz.com": {
@@ -11110,8 +11140,8 @@
         "state": "future"
     },
     "haveamint.com": {
-        "epoch": 1587859200.0,
-        "expiration_date": "26-apr-2020",
+        "epoch": 1650931200.0,
+        "expiration_date": "26-apr-2022",
         "state": "future"
     },
     "haymarket.com": {
@@ -11130,8 +11160,8 @@
         "state": "future"
     },
     "hdmtools.com": {
-        "epoch": 1587772800.0,
-        "expiration_date": "25-apr-2020",
+        "epoch": 1619308800.0,
+        "expiration_date": "25-apr-2021",
         "state": "future"
     },
     "hdslb.com": {
@@ -11185,8 +11215,8 @@
         "state": "future"
     },
     "heatmap.services": {
-        "epoch": 1587340800.0,
-        "expiration_date": "20-apr-2020",
+        "epoch": 1618876800.0,
+        "expiration_date": "20-apr-2021",
         "state": "future"
     },
     "heg-cp.com": {
@@ -11280,8 +11310,8 @@
         "state": "future"
     },
     "higherengine.com": {
-        "epoch": 1585785600.0,
-        "expiration_date": "02-apr-2020",
+        "epoch": 1617321600.0,
+        "expiration_date": "02-apr-2021",
         "state": "future"
     },
     "highmetrics.com": {
