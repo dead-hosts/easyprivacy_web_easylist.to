@@ -8607,7 +8607,7 @@
     "evolvemediametrics.com": {
         "epoch": 1588204800.0,
         "expiration_date": "30-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "evri.com": {
         "epoch": 1635811200.0,
@@ -9385,8 +9385,8 @@
         "state": "future"
     },
     "fluencymedia.com": {
-        "epoch": 1588204800.0,
-        "expiration_date": "30-apr-2020",
+        "epoch": 1872201600.0,
+        "expiration_date": "30-apr-2029",
         "state": "future"
     },
     "fluidsurveys.com": {
