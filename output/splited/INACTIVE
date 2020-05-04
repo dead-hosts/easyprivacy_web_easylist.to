@@ -4,6 +4,7 @@
 Subject                                                                                              WHOIS Server                        Status      Source     HTTP Code  Analyze Date        
 149.13.65.144                                                                                        Unknown                             INACTIVE    DNSLOOKUP  XXX        2020-05-04T21:12:55.117975
 109.169.66.161                                                                                       Unknown                             INACTIVE    DNSLOOKUP  XXX        2020-05-04T22:07:34.939100
+179.43.173.134                                                                                       Unknown                             INACTIVE    DNSLOOKUP  XXX        2020-05-04T22:32:48.401463
 185.165.169.108                                                                                      Unknown                             INACTIVE    DNSLOOKUP  XXX        2020-05-04T21:49:12.896840
 193.197.158.209                                                                                      Unknown                             INACTIVE    DNSLOOKUP  XXX        2020-05-04T21:49:39.401594
 195.10.245.55                                                                                        Unknown                             INACTIVE    DNSLOOKUP  XXX        2020-05-04T21:12:55.270831
@@ -17,6 +18,8 @@ Subject                                                                         
 216.18.176.4                                                                                         Unknown                             INACTIVE    DNSLOOKUP  XXX        2020-05-04T22:07:43.599188
 216.18.184.18                                                                                        Unknown                             INACTIVE    DNSLOOKUP  XXX        2020-05-04T21:12:55.496258
 219.232.238.60                                                                                       Unknown                             INACTIVE    DNSLOOKUP  XXX        2020-05-04T22:07:43.607779
+46.101.168.189                                                                                       Unknown                             INACTIVE    DNSLOOKUP  XXX        2020-05-04T22:32:48.406139
+46.101.246.10                                                                                        Unknown                             INACTIVE    DNSLOOKUP  XXX        2020-05-04T22:32:48.410755
 61.129.118.83                                                                                        Unknown                             INACTIVE    DNSLOOKUP  XXX        2020-05-04T22:07:43.918609
 62.160.52.73                                                                                         Unknown                             INACTIVE    DNSLOOKUP  XXX        2020-05-04T21:12:56.659465
 62.219.24.238                                                                                        Unknown                             INACTIVE    DNSLOOKUP  XXX        2020-05-04T22:07:43.973969
@@ -28,12 +31,14 @@ analytics.conmio.com                                                            
 analytics.edgekey.net                                                                                whois.verisign-grs.com              INACTIVE    DNSLOOKUP  XXX        2020-05-04T22:19:41.740864
 analytics.edgesuite.net                                                                              whois.verisign-grs.com              INACTIVE    DNSLOOKUP  XXX        2020-05-04T22:19:41.744197
 analytics.fairfax.com.au                                                                             whois.auda.org.au                   INACTIVE    DNSLOOKUP  XXX        2020-05-04T22:19:41.747403
+analytics.grupogodo.com                                                                              whois.verisign-grs.com              INACTIVE    DNSLOOKUP  XXX        2020-05-04T22:32:48.435973
 analytics.r17.com                                                                                    whois.verisign-grs.com              INACTIVE    DNSLOOKUP  XXX        2020-05-04T22:19:41.845004
 analytics.suggestv.io                                                                                whois.nic.io                        INACTIVE    DNSLOOKUP  XXX        2020-05-04T22:19:41.897219
 appsha5.space                                                                                        whois.nic.space                     INACTIVE    DNSLOOKUP  XXX        2020-05-04T21:49:13.852866
 aqqgli3vle.bid                                                                                       whois.nic.bid                       INACTIVE    DNSLOOKUP  XXX        2020-05-04T21:49:13.855505
 autologica.ga                                                                                        whois.my.ga                         INACTIVE    DNSLOOKUP  XXX        2020-05-04T21:49:14.064255
 bmcm.ml                                                                                              whois.dot.ml                        INACTIVE    DNSLOOKUP  XXX        2020-05-04T21:49:14.905322
+captcha-ad.com                                                                                       whois.verisign-grs.com              INACTIVE    DNSLOOKUP  XXX        2020-05-04T22:32:46.827297
 capture.bi.movideo.com                                                                               whois.verisign-grs.com              INACTIVE    DNSLOOKUP  XXX        2020-05-04T22:19:46.349805
 clk.onet.pl                                                                                          whois.dns.pl                        INACTIVE    DNSLOOKUP  XXX        2020-05-04T22:19:47.778635
 clod.pw                                                                                              whois.nic.pw                        INACTIVE    DNSLOOKUP  XXX        2020-05-04T21:49:15.524719
@@ -55,9 +60,11 @@ insdrbot.com                                                                    
 ionmvdpifz.com                                                                                       whois.verisign-grs.com              INACTIVE    DNSLOOKUP  XXX        2020-05-04T21:36:06.698871
 js.vidoza.net                                                                                        whois.verisign-grs.com              INACTIVE    DNSLOOKUP  XXX        2020-05-04T21:49:21.081754
 jurtym.cf                                                                                            whois.dot.cf                        INACTIVE    DNSLOOKUP  XXX        2020-05-04T21:49:21.237553
+live-medias.net                                                                                      whois.verisign-grs.com              INACTIVE    DNSLOOKUP  XXX        2020-05-04T22:32:49.459501
 logger.su                                                                                            whois.tcinet.ru                     INACTIVE    DNSLOOKUP  XXX        2020-05-04T22:07:37.447442
 metric.ipv6test.net                                                                                  whois.verisign-grs.com              INACTIVE    DNSLOOKUP  XXX        2020-05-04T22:20:07.030315
 metrics.feedroom.com                                                                                 whois.verisign-grs.com              INACTIVE    DNSLOOKUP  XXX        2020-05-04T22:20:07.057216
+met.vgwort.de                                                                                        whois.denic.de                      INACTIVE    DNSLOOKUP  XXX        2020-05-04T22:32:47.355588
 mining.best                                                                                          whois.nic.best                      INACTIVE    DNSLOOKUP  XXX        2020-05-04T21:49:22.635312
 moneromining.online                                                                                  whois.nic.online                    INACTIVE    DNSLOOKUP  XXX        2020-05-04T21:49:22.949898
 mtrcs.samba.tv                                                                                       tvwhois.verisign-grs.com            INACTIVE    DNSLOOKUP  XXX        2020-05-04T22:20:07.765724
@@ -69,5 +76,14 @@ pool.etn.spacepools.org                                                         
 publish.pizzazzemail.com                                                                             whois.verisign-grs.com              INACTIVE    DNSLOOKUP  XXX        2020-05-04T22:20:12.634501
 ra.ripple6.com                                                                                       whois.verisign-grs.com              INACTIVE    DNSLOOKUP  XXX        2020-05-04T22:20:13.629522
 redir.widdit.com                                                                                     whois.verisign-grs.com              INACTIVE    DNSLOOKUP  XXX        2020-05-04T22:20:14.581315
+searchmaestros.com                                                                                   whois.verisign-grs.com              INACTIVE    DNSLOOKUP  XXX        2020-05-04T22:32:32.478470
+stats.cdn.pfn.bz                                                                                     whois.afilias-grs.net               INACTIVE    DNSLOOKUP  XXX        2020-05-04T22:32:34.765863
+tower.moviepilot.com                                                                                 whois.verisign-grs.com              INACTIVE    DNSLOOKUP  XXX        2020-05-04T22:32:37.755373
+track.did-it.com                                                                                     whois.verisign-grs.com              INACTIVE    DNSLOOKUP  XXX        2020-05-04T22:32:37.827942
+txn.grabnetworks.com                                                                                 whois.verisign-grs.com              INACTIVE    DNSLOOKUP  XXX        2020-05-04T22:32:39.687926
+uhit.eu                                                                                              whois.eu                            INACTIVE    DNSLOOKUP  XXX        2020-05-04T22:32:39.805134
 vmtrk.com                                                                                            whois.verisign-grs.com              INACTIVE    DNSLOOKUP  XXX        2020-05-04T21:49:05.822949
+voss.collegehumor.com                                                                                whois.verisign-grs.com              INACTIVE    DNSLOOKUP  XXX        2020-05-04T22:32:42.091782
 webkatalog.li                                                                                        whois.nic.li                        INACTIVE    DNSLOOKUP  XXX        2020-05-04T22:07:16.171549
+wibiya-actions.conduit-data.com                                                                      whois.verisign-grs.com              INACTIVE    DNSLOOKUP  XXX        2020-05-04T22:32:43.148592
+wibiya-june-new-log.conduit-data.com                                                                 whois.verisign-grs.com              INACTIVE    DNSLOOKUP  XXX        2020-05-04T22:32:43.206818
