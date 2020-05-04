@@ -12374,6 +12374,11 @@
         "expiration_date": "19-jul-2021",
         "state": "future"
     },
+    "idiva.com": {
+        "epoch": 1605484800.0,
+        "expiration_date": "16-nov-2020",
+        "state": "future"
+    },
     "idntfy.ru": {
         "epoch": 1618272000.0,
         "expiration_date": "13-apr-2021",
@@ -16585,8 +16590,8 @@
         "state": "future"
     },
     "movieclips.com": {
-        "epoch": 1588550400.0,
-        "expiration_date": "04-may-2020",
+        "epoch": 1651622400.0,
+        "expiration_date": "04-may-2022",
         "state": "future"
     },
     "mowfruit.com": {
@@ -26635,8 +26640,8 @@
         "state": "future"
     },
     "tunein.com": {
-        "epoch": 1588377600.0,
-        "expiration_date": "02-may-2020",
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
         "state": "future"
     },
     "tunnl.com": {
