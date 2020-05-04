@@ -3420,8 +3420,8 @@
         "state": "future"
     },
     "besti.ga": {
-        "epoch": 1587772800.0,
-        "expiration_date": "25-apr-2020",
+        "epoch": 1619308800.0,
+        "expiration_date": "25-apr-2021",
         "state": "future"
     },
     "bestofmedia.com": {
@@ -6385,9 +6385,9 @@
         "state": "future"
     },
     "cpufan.club": {
-        "epoch": 1582502400.0,
-        "expiration_date": "24-feb-2020",
-        "state": "past"
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
+        "state": "future"
     },
     "cqcounter.com": {
         "epoch": 1615680000.0,
@@ -6610,9 +6610,9 @@
         "state": "future"
     },
     "cryptobara.com": {
-        "epoch": 1588291200.0,
-        "expiration_date": "01-may-2020",
-        "state": "past"
+        "epoch": 1619827200.0,
+        "expiration_date": "01-may-2021",
+        "state": "future"
     },
     "cryptoloot.pro": {
         "epoch": 1596067200.0,
@@ -6882,6 +6882,11 @@
     "damdoor.com": {
         "epoch": 1602115200.0,
         "expiration_date": "08-oct-2020",
+        "state": "future"
+    },
+    "dampdock.com": {
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
         "state": "future"
     },
     "dapxl.com": {
@@ -16035,8 +16040,8 @@
         "state": "future"
     },
     "mi-de-ner-nis3.info": {
-        "epoch": 1588464000.0,
-        "expiration_date": "03-may-2020",
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
         "state": "future"
     },
     "miadates.com": {
@@ -16642,7 +16647,7 @@
     "mrycrypto.com": {
         "epoch": 1588550400.0,
         "expiration_date": "04-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "msecnd.net": {
         "epoch": 1601337600.0,
@@ -16867,7 +16872,7 @@
     "mycryrpto.com": {
         "epoch": 1588550400.0,
         "expiration_date": "04-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "mydirtyhobby.com": {
         "epoch": 1619568000.0,
@@ -16957,7 +16962,7 @@
     "myrcrypto.com": {
         "epoch": 1588550400.0,
         "expiration_date": "04-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "myrealty.su": {
         "epoch": 1614729600.0,
@@ -26220,8 +26225,8 @@
         "state": "future"
     },
     "trakzor.com": {
-        "epoch": 1588464000.0,
-        "expiration_date": "03-may-2020",
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
         "state": "future"
     },
     "tranquilside.com": {
@@ -26285,9 +26290,9 @@
         "state": "future"
     },
     "trekmedia.net": {
-        "epoch": 1588291200.0,
-        "expiration_date": "01-may-2020",
-        "state": "past"
+        "epoch": 1619827200.0,
+        "expiration_date": "01-may-2021",
+        "state": "future"
     },
     "tremorhub.com": {
         "epoch": 1589068800.0,
@@ -26845,8 +26850,8 @@
         "state": "future"
     },
     "ugdturner.com": {
-        "epoch": 1588464000.0,
-        "expiration_date": "03-may-2020",
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
         "state": "future"
     },
     "uhygtf1.com": {
@@ -27000,8 +27005,8 @@
         "state": "future"
     },
     "upapi.net": {
-        "epoch": 1588550400.0,
-        "expiration_date": "04-may-2020",
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
         "state": "future"
     },
     "upi.com": {
@@ -27835,8 +27840,8 @@
         "state": "future"
     },
     "visualdna.com": {
-        "epoch": 1588550400.0,
-        "expiration_date": "04-may-2020",
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
         "state": "future"
     },
     "visualrevenue.com": {
@@ -28075,8 +28080,8 @@
         "state": "past"
     },
     "vtracker.net": {
-        "epoch": 1588377600.0,
-        "expiration_date": "02-may-2020",
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
         "state": "future"
     },
     "vuryua.ru": {
@@ -28510,8 +28515,8 @@
         "state": "past"
     },
     "websiteperform.com": {
-        "epoch": 1588377600.0,
-        "expiration_date": "02-may-2020",
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
         "state": "future"
     },
     "websitesampling.com": {
@@ -29340,8 +29345,8 @@
         "state": "future"
     },
     "y-track.com": {
-        "epoch": 1588377600.0,
-        "expiration_date": "02-may-2020",
+        "epoch": 1651449600.0,
+        "expiration_date": "02-may-2022",
         "state": "future"
     },
     "ya-counter.ru": {
