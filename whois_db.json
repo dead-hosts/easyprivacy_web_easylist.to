@@ -515,8 +515,8 @@
         "state": "future"
     },
     "a-counter.com.ua": {
-        "epoch": 1588377600.0,
-        "expiration_date": "02-may-2020",
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
         "state": "future"
     },
     "a-counter.kiev.ua": {
@@ -5755,8 +5755,8 @@
         "state": "future"
     },
     "coll1onf.com": {
-        "epoch": 1588377600.0,
-        "expiration_date": "02-may-2020",
+        "epoch": 1619913600.0,
+        "expiration_date": "02-may-2021",
         "state": "future"
     },
     "collarity.com": {
@@ -10607,6 +10607,11 @@
     "georiot.com": {
         "epoch": 1612396800.0,
         "expiration_date": "04-feb-2021",
+        "state": "future"
+    },
+    "geovisite.ovh": {
+        "epoch": 1601596800.0,
+        "expiration_date": "02-oct-2020",
         "state": "future"
     },
     "geovisites.com": {
@@ -15867,6 +15872,11 @@
     "mega-stats.com": {
         "epoch": 1628380800.0,
         "expiration_date": "08-aug-2021",
+        "state": "future"
+    },
+    "megavisites.com": {
+        "epoch": 1602460800.0,
+        "expiration_date": "12-oct-2020",
         "state": "future"
     },
     "memecounter.com": {
@@ -22794,6 +22804,11 @@
         "expiration_date": "08-oct-2020",
         "state": "future"
     },
+    "sibautomation.com": {
+        "epoch": 1611100800.0,
+        "expiration_date": "20-jan-2021",
+        "state": "future"
+    },
     "siberiantimes.com": {
         "epoch": 1635552000.0,
         "expiration_date": "30-oct-2021",
@@ -25895,8 +25910,8 @@
         "state": "future"
     },
     "tpm.pw": {
-        "epoch": 1585094400.0,
-        "expiration_date": "25-mar-2020",
+        "epoch": 1616630400.0,
+        "expiration_date": "25-mar-2021",
         "state": "future"
     },
     "tqn.com": {
@@ -27355,9 +27370,9 @@
         "state": "future"
     },
     "vdoing.com": {
-        "epoch": 1588291200.0,
-        "expiration_date": "01-may-2020",
-        "state": "past"
+        "epoch": 1619827200.0,
+        "expiration_date": "01-may-2021",
+        "state": "future"
     },
     "vectorstock.com": {
         "epoch": 1877990400.0,
