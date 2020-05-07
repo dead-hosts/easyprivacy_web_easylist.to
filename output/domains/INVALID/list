@@ -28,8 +28,8 @@ etwun.com:8080
 expedia.*
 facebook.com*
 flashx.*
-fls-*.amazon.*%
 fls-*.amazon.*&
+fls-*.amazon.*%
 gateway.reddit.com|
 gismeteo.*
 google.*
@@ -54,11 +54,13 @@ minero-proxy-*.sh
 pixel.archive.
 pulsar.ebay.
 rover.ebay.
+sapo.*
 site.flashx.
 skyscanner.*
 startpage.*
 stats2.*.fdnames.com
 stats-*.p2pnow.ru
+stat.*.v-56.com
 tagcommander.laredoute.
 tags.aljazeera.
 targeting.*.arcpublishing.com

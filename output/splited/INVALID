@@ -72,6 +72,7 @@ minero-proxy-*.sh                                                               
 pixel.archive.                                                                                       SYNTAX     XXX        2020-05-07T23:06:05.022456
 pulsar.ebay.                                                                                         SYNTAX     XXX        2020-05-07T23:06:07.209894
 rover.ebay.                                                                                          SYNTAX     XXX        2020-05-07T23:06:10.990966
+sapo.*                                                                                               SYNTAX     XXX        2020-05-07T23:27:18.553411
 site.flashx.                                                                                         SYNTAX     XXX        2020-05-07T21:55:37.345466
 skyscanner.*                                                                                         SYNTAX     XXX        2020-05-07T23:06:14.734159
 skyscanner.*                                                                                         SYNTAX     XXX        2020-05-07T23:06:14.795310
@@ -81,6 +82,7 @@ startpage.*                                                                     
 startpage.*                                                                                          SYNTAX     XXX        2020-05-07T23:06:17.527716
 stats2.*.fdnames.com                                                                                 SYNTAX     XXX        2020-05-07T22:45:20.843947
 stats-*.p2pnow.ru                                                                                    SYNTAX     XXX        2020-05-07T22:45:24.943958
+stat.*.v-56.com                                                                                      SYNTAX     XXX        2020-05-07T23:27:13.062062
 tagcommander.laredoute.                                                                              SYNTAX     XXX        2020-05-07T23:06:19.511554
 tags.aljazeera.                                                                                      SYNTAX     XXX        2020-05-07T23:06:19.538820
 targeting.*.arcpublishing.com                                                                        SYNTAX     XXX        2020-05-07T22:33:13.019890
