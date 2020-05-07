@@ -13130,8 +13130,8 @@
         "state": "future"
     },
     "iocnt.net": {
-        "epoch": 1588636800.0,
-        "expiration_date": "05-may-2020",
+        "epoch": 1620172800.0,
+        "expiration_date": "05-may-2021",
         "state": "future"
     },
     "iogous.com": {
@@ -14605,8 +14605,8 @@
         "state": "future"
     },
     "lfov.net": {
-        "epoch": 1588636800.0,
-        "expiration_date": "05-may-2020",
+        "epoch": 1620172800.0,
+        "expiration_date": "05-may-2021",
         "state": "future"
     },
     "liadm.com": {
@@ -17675,8 +17675,8 @@
         "state": "future"
     },
     "nexeps.com": {
-        "epoch": 1588636800.0,
-        "expiration_date": "05-may-2020",
+        "epoch": 1613347200.0,
+        "expiration_date": "15-feb-2021",
         "state": "future"
     },
     "nexioniect.com": {
@@ -19910,8 +19910,8 @@
         "state": "future"
     },
     "prfct.co": {
-        "epoch": 1588636800.0,
-        "expiration_date": "05-may-2020",
+        "epoch": 1620172800.0,
+        "expiration_date": "05-may-2021",
         "state": "future"
     },
     "pricegrabber.com": {
@@ -20057,6 +20057,11 @@
     "proofpositivemedia.com": {
         "epoch": 1633305600.0,
         "expiration_date": "04-oct-2021",
+        "state": "future"
+    },
+    "propeller-tracking.com": {
+        "epoch": 1618358400.0,
+        "expiration_date": "14-apr-2021",
         "state": "future"
     },
     "propelplus.com": {
@@ -20310,8 +20315,8 @@
         "state": "future"
     },
     "pxchk.net": {
-        "epoch": 1588723200.0,
-        "expiration_date": "06-may-2020",
+        "epoch": 1620259200.0,
+        "expiration_date": "06-may-2021",
         "state": "future"
     },
     "pxf.io": {
@@ -20845,8 +20850,8 @@
         "state": "future"
     },
     "realtracker.com": {
-        "epoch": 1588723200.0,
-        "expiration_date": "06-may-2020",
+        "epoch": 1620259200.0,
+        "expiration_date": "06-may-2021",
         "state": "future"
     },
     "realtracking.ninja": {
@@ -21010,8 +21015,8 @@
         "state": "future"
     },
     "referer.org": {
-        "epoch": 1588723200.0,
-        "expiration_date": "06-may-2020",
+        "epoch": 1620259200.0,
+        "expiration_date": "06-may-2021",
         "state": "future"
     },
     "referforex.com": {
@@ -21505,8 +21510,8 @@
         "state": "future"
     },
     "rktch.com": {
-        "epoch": 1588809600.0,
-        "expiration_date": "07-may-2020",
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
         "state": "future"
     },
     "rktu.com": {
@@ -23375,8 +23380,8 @@
         "state": "future"
     },
     "snapdeal.biz": {
-        "epoch": 1588723200.0,
-        "expiration_date": "06-may-2020",
+        "epoch": 1620259200.0,
+        "expiration_date": "06-may-2021",
         "state": "future"
     },
     "snapkit.com": {
@@ -24465,8 +24470,8 @@
         "state": "future"
     },
     "streamsend.com": {
-        "epoch": 1588809600.0,
-        "expiration_date": "07-may-2020",
+        "epoch": 1651881600.0,
+        "expiration_date": "07-may-2022",
         "state": "future"
     },
     "streetdirectory.com": {
@@ -25992,7 +25997,7 @@
     "track2.me": {
         "epoch": 1588809600.0,
         "expiration_date": "07-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "trackalyzer.com": {
         "epoch": 1617321600.0,
