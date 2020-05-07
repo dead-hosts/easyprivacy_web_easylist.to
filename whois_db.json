@@ -1380,8 +1380,8 @@
         "state": "future"
     },
     "affilae.com": {
-        "epoch": 1588809600.0,
-        "expiration_date": "07-may-2020",
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
         "state": "future"
     },
     "affilbox.cz": {
@@ -1485,8 +1485,8 @@
         "state": "future"
     },
     "agentinteractive.com": {
-        "epoch": 1588636800.0,
-        "expiration_date": "05-may-2020",
+        "epoch": 1620172800.0,
+        "expiration_date": "05-may-2021",
         "state": "future"
     },
     "agilecrm.com": {
@@ -2700,8 +2700,8 @@
         "state": "future"
     },
     "audienceamplify.com": {
-        "epoch": 1588809600.0,
-        "expiration_date": "07-may-2020",
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
         "state": "future"
     },
     "audienceinsights.net": {
@@ -9435,8 +9435,8 @@
         "state": "future"
     },
     "finalid.com": {
-        "epoch": 1588636800.0,
-        "expiration_date": "05-may-2020",
+        "epoch": 1620172800.0,
+        "expiration_date": "05-may-2021",
         "state": "future"
     },
     "financeglobe.com": {
@@ -10599,6 +10599,11 @@
         "expiration_date": "03-may-2021",
         "state": "future"
     },
+    "geolocation-db.com": {
+        "epoch": 1603411200.0,
+        "expiration_date": "23-oct-2020",
+        "state": "future"
+    },
     "geoplugin.net": {
         "epoch": 1636156800.0,
         "expiration_date": "06-nov-2021",
@@ -10815,8 +10820,8 @@
         "state": "future"
     },
     "glanceguide.com": {
-        "epoch": 1588809600.0,
-        "expiration_date": "07-may-2020",
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
         "state": "future"
     },
     "glbtracker.com": {
