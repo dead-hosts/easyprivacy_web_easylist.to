@@ -4504,6 +4504,11 @@
         "expiration_date": "14-jul-2020",
         "state": "future"
     },
+    "callousbrake.com": {
+        "epoch": 1597622400.0,
+        "expiration_date": "17-aug-2020",
+        "state": "future"
+    },
     "callrail.com": {
         "epoch": 1676678400.0,
         "expiration_date": "18-feb-2023",
@@ -5740,8 +5745,8 @@
         "state": "future"
     },
     "coinpot.co": {
-        "epoch": 1588636800.0,
-        "expiration_date": "05-may-2020",
+        "epoch": 1620172800.0,
+        "expiration_date": "05-may-2021",
         "state": "future"
     },
     "coinwebmining.com": {
@@ -8612,7 +8617,7 @@
     "erotikcounter.org": {
         "epoch": 1588809600.0,
         "expiration_date": "07-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "escalated.io": {
         "epoch": 1607472000.0,
@@ -10832,6 +10837,11 @@
     "gleam.io": {
         "epoch": 1615680000.0,
         "expiration_date": "14-mar-2021",
+        "state": "future"
+    },
+    "glisteningguide.com": {
+        "epoch": 1616025600.0,
+        "expiration_date": "18-mar-2021",
         "state": "future"
     },
     "global.canon": {
@@ -16665,9 +16675,9 @@
         "state": "future"
     },
     "mrycrypto.com": {
-        "epoch": 1588550400.0,
-        "expiration_date": "04-may-2020",
-        "state": "past"
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
+        "state": "future"
     },
     "msecnd.net": {
         "epoch": 1601337600.0,
@@ -16890,9 +16900,9 @@
         "state": "future"
     },
     "mycryrpto.com": {
-        "epoch": 1588550400.0,
-        "expiration_date": "04-may-2020",
-        "state": "past"
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
+        "state": "future"
     },
     "mydirtyhobby.com": {
         "epoch": 1619568000.0,
@@ -16980,9 +16990,9 @@
         "state": "future"
     },
     "myrcrypto.com": {
-        "epoch": 1588550400.0,
-        "expiration_date": "04-may-2020",
-        "state": "past"
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
+        "state": "future"
     },
     "myrealty.su": {
         "epoch": 1614729600.0,
@@ -23315,8 +23325,8 @@
         "state": "future"
     },
     "smartoffer.site": {
-        "epoch": 1583625600.0,
-        "expiration_date": "08-mar-2020",
+        "epoch": 1615161600.0,
+        "expiration_date": "08-mar-2021",
         "state": "future"
     },
     "smartology.co": {
@@ -26112,7 +26122,7 @@
     "trackonomics.net": {
         "epoch": 1588809600.0,
         "expiration_date": "07-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "trackset.com": {
         "epoch": 1595289600.0,
@@ -26762,7 +26772,7 @@
     "twopointo.io": {
         "epoch": 1588809600.0,
         "expiration_date": "07-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "txmblr.com": {
         "epoch": 1599696000.0,
@@ -28457,7 +28467,7 @@
     "weblytics.io": {
         "epoch": 1588809600.0,
         "expiration_date": "07-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "webmasterplan.com": {
         "epoch": 1600214400.0,
@@ -29370,8 +29380,8 @@
         "state": "future"
     },
     "xyztraffic.com": {
-        "epoch": 1588809600.0,
-        "expiration_date": "07-may-2020",
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
         "state": "future"
     },
     "y-track.com": {
