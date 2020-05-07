@@ -21,11 +21,13 @@
 0.0.0.0 compare.easyvoyage.
 0.0.0.0 creativefactory.zalando.
 0.0.0.0 datacollect*.abtasty.com
+0.0.0.0 ea.laredoute.
 0.0.0.0 encrypted.google.*
 0.0.0.0 equirodi.*
 0.0.0.0 etwun.com:8080
 0.0.0.0 expedia.*
 0.0.0.0 facebook.com*
+0.0.0.0 flashx.*
 0.0.0.0 fls-*.amazon.*%
 0.0.0.0 fls-*.amazon.*&
 0.0.0.0 gateway.reddit.com|
@@ -41,6 +43,7 @@
 0.0.0.0 lcs.naver.
 0.0.0.0 linguee.com*
 0.0.0.0 logger-*.dailymotion.com
+0.0.0.0 log*.ku6.com
 0.0.0.0 log-*.previewnetworks.com
 0.0.0.0 massdrop.com*
 0.0.0.0 mcdp-*.outbrain.com
@@ -68,4 +71,7 @@
 0.0.0.0 ts.delfi.
 0.0.0.0 vice.com*
 0.0.0.0 vtnlog-*.elb.amazonaws.com
+0.0.0.0 wawacity.*
+0.0.0.0 www.google.*
+0.0.0.0 www.imdb.*
 0.0.0.0 yandex.*
