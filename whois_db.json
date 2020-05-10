@@ -3840,9 +3840,9 @@
         "state": "future"
     },
     "blogrankings.com": {
-        "epoch": 1588809600.0,
-        "expiration_date": "07-may-2020",
-        "state": "past"
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
+        "state": "future"
     },
     "blogreaderproject.com": {
         "epoch": 1614038400.0,
@@ -26337,7 +26337,7 @@
     "tremorhub.com": {
         "epoch": 1589068800.0,
         "expiration_date": "10-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "trendcounter.com": {
         "epoch": 1593388800.0,
@@ -27335,9 +27335,9 @@
         "state": "future"
     },
     "vapedia.com": {
-        "epoch": 1588809600.0,
-        "expiration_date": "07-may-2020",
-        "state": "past"
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
+        "state": "future"
     },
     "variti.net": {
         "epoch": 1645833600.0,
