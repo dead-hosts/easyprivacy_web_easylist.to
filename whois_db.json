@@ -13445,8 +13445,8 @@
         "state": "future"
     },
     "itracmediav4.com": {
-        "epoch": 1588896000.0,
-        "expiration_date": "08-may-2020",
+        "epoch": 1746662400.0,
+        "expiration_date": "08-may-2025",
         "state": "future"
     },
     "itv.com": {
@@ -13810,8 +13810,8 @@
         "state": "future"
     },
     "jwmstats.com": {
-        "epoch": 1589068800.0,
-        "expiration_date": "10-may-2020",
+        "epoch": 1620604800.0,
+        "expiration_date": "10-may-2021",
         "state": "future"
     },
     "jyhfuqoh.info": {
@@ -18195,8 +18195,8 @@
         "state": "future"
     },
     "offerstrategy.com": {
-        "epoch": 1588896000.0,
-        "expiration_date": "08-may-2020",
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
         "state": "future"
     },
     "officedepot.com": {
@@ -18570,8 +18570,8 @@
         "state": "future"
     },
     "optimizelydata.com": {
-        "epoch": 1588982400.0,
-        "expiration_date": "09-may-2020",
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
         "state": "future"
     },
     "optimost.com": {
@@ -20110,8 +20110,8 @@
         "state": "future"
     },
     "prtracker.com": {
-        "epoch": 1589068800.0,
-        "expiration_date": "10-may-2020",
+        "epoch": 1652140800.0,
+        "expiration_date": "10-may-2022",
         "state": "future"
     },
     "prudential.com": {
@@ -21030,8 +21030,8 @@
         "state": "future"
     },
     "referforex.com": {
-        "epoch": 1588896000.0,
-        "expiration_date": "08-may-2020",
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
         "state": "future"
     },
     "refericon.pl": {
@@ -21960,8 +21960,8 @@
         "state": "future"
     },
     "sapha.com": {
-        "epoch": 1588896000.0,
-        "expiration_date": "08-may-2020",
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
         "state": "future"
     },
     "sare25.com": {
@@ -23022,7 +23022,7 @@
     "sitecompass.com": {
         "epoch": 1589068800.0,
         "expiration_date": "10-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "sitefinity.com": {
         "epoch": 1616889600.0,
@@ -26005,9 +26005,9 @@
         "state": "future"
     },
     "track2.me": {
-        "epoch": 1588809600.0,
-        "expiration_date": "07-may-2020",
-        "state": "past"
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
+        "state": "future"
     },
     "trackalyzer.com": {
         "epoch": 1617321600.0,
@@ -26120,9 +26120,9 @@
         "state": "future"
     },
     "trackonomics.net": {
-        "epoch": 1588809600.0,
-        "expiration_date": "07-may-2020",
-        "state": "past"
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
+        "state": "future"
     },
     "trackset.com": {
         "epoch": 1595289600.0,
