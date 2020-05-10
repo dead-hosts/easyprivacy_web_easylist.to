@@ -832,7 +832,7 @@
     "actnx.com": {
         "epoch": 1588896000.0,
         "expiration_date": "08-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "actonservice.com": {
         "epoch": 1596499200.0,
@@ -4257,7 +4257,7 @@
     "btstatic.com": {
         "epoch": 1589068800.0,
         "expiration_date": "10-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "btttag.com": {
         "epoch": 1609200000.0,
@@ -8600,8 +8600,8 @@
         "state": "future"
     },
     "ereportz.com": {
-        "epoch": 1588896000.0,
-        "expiration_date": "08-may-2020",
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
         "state": "future"
     },
     "eresmas.net": {
@@ -8710,8 +8710,8 @@
         "state": "future"
     },
     "etrafficcounter.com": {
-        "epoch": 1588982400.0,
-        "expiration_date": "09-may-2020",
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
         "state": "future"
     },
     "etrigue.com": {
@@ -9175,8 +9175,8 @@
         "state": "future"
     },
     "fanplayr.com": {
-        "epoch": 1588982400.0,
-        "expiration_date": "09-may-2020",
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
         "state": "future"
     },
     "fansshare.com": {
@@ -9235,8 +9235,8 @@
         "state": "future"
     },
     "fastanalytic.com": {
-        "epoch": 1588896000.0,
-        "expiration_date": "08-may-2020",
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
         "state": "future"
     },
     "fastexercise.com": {
