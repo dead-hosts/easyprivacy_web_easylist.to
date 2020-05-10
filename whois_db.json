@@ -17645,8 +17645,8 @@
         "state": "future"
     },
     "newscorpaustralia.com": {
-        "epoch": 1589068800.0,
-        "expiration_date": "10-may-2020",
+        "epoch": 1620604800.0,
+        "expiration_date": "10-may-2021",
         "state": "future"
     },
     "newscurve.com": {
@@ -19295,8 +19295,8 @@
         "state": "future"
     },
     "photobucket.com": {
-        "epoch": 1588896000.0,
-        "expiration_date": "08-may-2020",
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
         "state": "future"
     },
     "photographpan.com": {
@@ -19970,8 +19970,8 @@
         "state": "future"
     },
     "prnewswire.com": {
-        "epoch": 1589068800.0,
-        "expiration_date": "10-may-2020",
+        "epoch": 1620604800.0,
+        "expiration_date": "10-may-2021",
         "state": "future"
     },
     "prnx.net": {
@@ -20207,6 +20207,11 @@
     "publish-int.se": {
         "epoch": 1607990400.0,
         "expiration_date": "15-dec-2020",
+        "state": "future"
+    },
+    "publish0x.com": {
+        "epoch": 1603497600.0,
+        "expiration_date": "24-oct-2020",
         "state": "future"
     },
     "publishflow.com": {
@@ -25350,8 +25355,8 @@
         "state": "future"
     },
     "thegameslist.com": {
-        "epoch": 1589068800.0,
-        "expiration_date": "10-may-2020",
+        "epoch": 1620604800.0,
+        "expiration_date": "10-may-2021",
         "state": "future"
     },
     "thegumtree.com": {
