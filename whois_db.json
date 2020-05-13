@@ -24697,7 +24697,7 @@
     "superfunblog.com": {
         "epoch": 1589328000.0,
         "expiration_date": "13-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "superjob.ru": {
         "epoch": 1617235200.0,
@@ -29487,7 +29487,7 @@
     "yellowpages.co.in": {
         "epoch": 1589328000.0,
         "expiration_date": "13-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "yellowpages.com": {
         "epoch": 1659312000.0,

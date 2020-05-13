@@ -28,6 +28,7 @@ collector*.xhamster.                                                            
 compare.easyvoyage.                                                                                  SYNTAX     XXX        2020-05-13T22:43:01.135561
 creativefactory.zalando.                                                                             SYNTAX     XXX        2020-05-13T22:43:02.122055
 datacollect*.abtasty.com                                                                             SYNTAX     XXX        2020-05-13T22:18:07.439861
+ea.laredoute.                                                                                        SYNTAX     XXX        2020-05-13T23:07:47.116044
 encrypted.google.*                                                                                   SYNTAX     XXX        2020-05-13T22:43:06.690893
 equirodi.*                                                                                           SYNTAX     XXX        2020-05-13T22:43:07.069246
 etwun.com:8080                                                                                       SYNTAX     XXX        2020-05-13T22:30:48.313533
@@ -35,6 +36,7 @@ expedia.*                                                                       
 expedia.*                                                                                            SYNTAX     XXX        2020-05-13T22:43:07.816808
 expedia.*                                                                                            SYNTAX     XXX        2020-05-13T22:43:07.821725
 facebook.com*                                                                                        SYNTAX     XXX        2020-05-13T22:18:10.403530
+flashx.*                                                                                             SYNTAX     XXX        2020-05-13T23:07:48.476905
 fls-*.amazon.*%                                                                                      SYNTAX     XXX        2020-05-13T22:43:10.297064
 fls-*.amazon.*&                                                                                      SYNTAX     XXX        2020-05-13T22:43:10.302363
 gateway.reddit.com|                                                                                  SYNTAX     XXX        2020-05-13T22:43:12.665761
@@ -59,6 +61,7 @@ kayak.*                                                                         
 lcs.naver.                                                                                           SYNTAX     XXX        2020-05-13T22:55:13.542896
 linguee.com*                                                                                         SYNTAX     XXX        2020-05-13T22:55:14.033778
 logger-*.dailymotion.com                                                                             SYNTAX     XXX        2020-05-13T22:55:14.842226
+log*.ku6.com                                                                                         SYNTAX     XXX        2020-05-13T23:07:58.697608
 log-*.previewnetworks.com                                                                            SYNTAX     XXX        2020-05-13T22:18:20.475424
 massdrop.com*                                                                                        SYNTAX     XXX        2020-05-13T22:55:15.679982
 mcdp-*.outbrain.com                                                                                  SYNTAX     XXX        2020-05-13T22:18:22.030395
@@ -78,6 +81,7 @@ startpage.*                                                                     
 startpage.*                                                                                          SYNTAX     XXX        2020-05-13T22:55:38.590421
 stats2.*.fdnames.com                                                                                 SYNTAX     XXX        2020-05-13T22:42:43.728088
 stats-*.p2pnow.ru                                                                                    SYNTAX     XXX        2020-05-13T22:42:47.903149
+stat.*.v-56.com                                                                                      SYNTAX     XXX        2020-05-13T23:07:59.823108
 tagcommander.laredoute.                                                                              SYNTAX     XXX        2020-05-13T22:55:40.444579
 tags.aljazeera.                                                                                      SYNTAX     XXX        2020-05-13T22:55:40.469349
 targeting.*.arcpublishing.com                                                                        SYNTAX     XXX        2020-05-13T22:30:33.028098
@@ -91,4 +95,7 @@ ts.delfi.                                                                       
 vice.com*                                                                                            SYNTAX     XXX        2020-05-13T22:55:47.507418
 vice.com*                                                                                            SYNTAX     XXX        2020-05-13T22:55:47.513813
 vtnlog-*.elb.amazonaws.com                                                                           SYNTAX     XXX        2020-05-13T22:30:39.203044
+wawacity.*                                                                                           SYNTAX     XXX        2020-05-13T23:07:56.296077
+www.google.*                                                                                         SYNTAX     XXX        2020-05-13T23:07:39.461209
+www.imdb.*                                                                                           SYNTAX     XXX        2020-05-13T23:07:39.520523
 yandex.*                                                                                             SYNTAX     XXX        2020-05-13T22:30:41.323405
