@@ -24475,8 +24475,8 @@
         "state": "future"
     },
     "streamads.com": {
-        "epoch": 1589241600.0,
-        "expiration_date": "12-may-2020",
+        "epoch": 1620777600.0,
+        "expiration_date": "12-may-2021",
         "state": "future"
     },
     "streamango.com": {
@@ -26345,9 +26345,9 @@
         "state": "future"
     },
     "tremorhub.com": {
-        "epoch": 1589068800.0,
-        "expiration_date": "10-may-2020",
-        "state": "past"
+        "epoch": 1652140800.0,
+        "expiration_date": "10-may-2022",
+        "state": "future"
     },
     "trendcounter.com": {
         "epoch": 1593388800.0,
