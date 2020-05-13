@@ -120,8 +120,8 @@
         "state": "future"
     },
     "1q2w3.website": {
-        "epoch": 1582243200.0,
-        "expiration_date": "21-feb-2020",
+        "epoch": 1613865600.0,
+        "expiration_date": "21-feb-2021",
         "state": "future"
     },
     "200summit.com": {
@@ -2562,7 +2562,7 @@
     "assetscdn.stream": {
         "epoch": 1589241600.0,
         "expiration_date": "12-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "associatedcontent.com": {
         "epoch": 1618272000.0,
@@ -2895,8 +2895,8 @@
         "state": "future"
     },
     "avero.xyz": {
-        "epoch": 1588550400.0,
-        "expiration_date": "04-may-2020",
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
         "state": "future"
     },
     "averoconnector.com": {
@@ -3940,8 +3940,8 @@
         "state": "future"
     },
     "bmcm.pw": {
-        "epoch": 1582156800.0,
-        "expiration_date": "20-feb-2020",
+        "epoch": 1613779200.0,
+        "expiration_date": "20-feb-2021",
         "state": "future"
     },
     "bmlmedia.com": {
@@ -5457,7 +5457,7 @@
     "clod.pw": {
         "epoch": 1583798400.0,
         "expiration_date": "10-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "cloisteredcord.com": {
         "epoch": 1593561600.0,
@@ -6657,7 +6657,7 @@
     "csgocpu.com": {
         "epoch": 1589328000.0,
         "expiration_date": "13-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "csmonitor.com": {
         "epoch": 1611619200.0,
@@ -6890,6 +6890,11 @@
         "state": "future"
     },
     "dampdock.com": {
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
+        "state": "future"
+    },
+    "dapperdiscussion.com": {
         "epoch": 1610236800.0,
         "expiration_date": "10-jan-2021",
         "state": "future"
@@ -10152,7 +10157,7 @@
     "freetracker.biz": {
         "epoch": 1589155200.0,
         "expiration_date": "11-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "freetrafficsystem.com": {
         "epoch": 1611273600.0,
@@ -11380,8 +11385,8 @@
         "state": "future"
     },
     "hallaert.online": {
-        "epoch": 1586995200.0,
-        "expiration_date": "16-apr-2020",
+        "epoch": 1618531200.0,
+        "expiration_date": "16-apr-2021",
         "state": "future"
     },
     "halldata.com": {
@@ -16225,8 +16230,8 @@
         "state": "future"
     },
     "mining.best": {
-        "epoch": 1580169600.0,
-        "expiration_date": "28-jan-2020",
+        "epoch": 1617667200.0,
+        "expiration_date": "06-apr-2021",
         "state": "future"
     },
     "mininghub.club": {
@@ -16245,8 +16250,8 @@
         "state": "future"
     },
     "minr.pw": {
-        "epoch": 1586995200.0,
-        "expiration_date": "16-apr-2020",
+        "epoch": 1618531200.0,
+        "expiration_date": "16-apr-2021",
         "state": "future"
     },
     "minsk-in.net": {
@@ -19905,8 +19910,8 @@
         "state": "future"
     },
     "premiumstats.xyz": {
-        "epoch": 1584316800.0,
-        "expiration_date": "16-mar-2020",
+        "epoch": 1615852800.0,
+        "expiration_date": "16-mar-2021",
         "state": "future"
     },
     "prepareplanes.com": {
@@ -20025,8 +20030,8 @@
         "state": "future"
     },
     "proj2018.xyz": {
-        "epoch": 1586736000.0,
-        "expiration_date": "13-apr-2020",
+        "epoch": 1618272000.0,
+        "expiration_date": "13-apr-2021",
         "state": "future"
     },
     "project-syndicate.org": {
@@ -26145,8 +26150,8 @@
         "state": "future"
     },
     "tracktrk.net": {
-        "epoch": 1589155200.0,
-        "expiration_date": "11-may-2020",
+        "epoch": 1620691200.0,
+        "expiration_date": "11-may-2021",
         "state": "future"
     },
     "trackvoluum.com": {
@@ -26190,8 +26195,8 @@
         "state": "future"
     },
     "trafficby.net": {
-        "epoch": 1589241600.0,
-        "expiration_date": "12-may-2020",
+        "epoch": 1620777600.0,
+        "expiration_date": "12-may-2021",
         "state": "future"
     },
     "trafficengine.net": {
@@ -27145,8 +27150,8 @@
         "state": "future"
     },
     "urlself.com": {
-        "epoch": 1589241600.0,
-        "expiration_date": "12-may-2020",
+        "epoch": 1620777600.0,
+        "expiration_date": "12-may-2021",
         "state": "future"
     },
     "usa.cc": {
@@ -29890,8 +29895,8 @@
         "state": "future"
     },
     "zlp6s.pw": {
-        "epoch": 1586822400.0,
-        "expiration_date": "14-apr-2020",
+        "epoch": 1618358400.0,
+        "expiration_date": "14-apr-2021",
         "state": "future"
     },
     "zlx.com.br": {
