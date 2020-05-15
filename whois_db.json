@@ -17405,8 +17405,8 @@
         "state": "future"
     },
     "neko-san.fr": {
-        "epoch": 1589414400.0,
-        "expiration_date": "14-may-2020",
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
         "state": "future"
     },
     "neon-lab.com": {
@@ -24695,9 +24695,9 @@
         "state": "future"
     },
     "superfunblog.com": {
-        "epoch": 1589328000.0,
-        "expiration_date": "13-may-2020",
-        "state": "past"
+        "epoch": 1620864000.0,
+        "expiration_date": "13-may-2021",
+        "state": "future"
     },
     "superjob.ru": {
         "epoch": 1617235200.0,
