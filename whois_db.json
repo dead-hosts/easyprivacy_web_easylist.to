@@ -19747,7 +19747,7 @@
     "popt.in": {
         "epoch": 1589414400.0,
         "expiration_date": "14-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "populr.me": {
         "epoch": 1601251200.0,
@@ -20010,9 +20010,9 @@
         "state": "future"
     },
     "profilesnitch.com": {
-        "epoch": 1589328000.0,
-        "expiration_date": "13-may-2020",
-        "state": "past"
+        "epoch": 1620864000.0,
+        "expiration_date": "13-may-2021",
+        "state": "future"
     },
     "profitshare.ro": {
         "epoch": 1626825600.0,
@@ -21390,8 +21390,8 @@
         "state": "future"
     },
     "rfihub.com": {
-        "epoch": 1589414400.0,
-        "expiration_date": "14-may-2020",
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
         "state": "future"
     },
     "rfksrv.com": {
@@ -22572,7 +22572,7 @@
     "servestats.com": {
         "epoch": 1589500800.0,
         "expiration_date": "15-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "service-webmaster.fr": {
         "epoch": 1620000000.0,
@@ -24320,8 +24320,8 @@
         "state": "future"
     },
     "statswebtown.com": {
-        "epoch": 1589500800.0,
-        "expiration_date": "15-may-2020",
+        "epoch": 1621036800.0,
+        "expiration_date": "15-may-2021",
         "state": "future"
     },
     "statsy.net": {
