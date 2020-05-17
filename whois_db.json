@@ -9355,8 +9355,8 @@
         "state": "future"
     },
     "feedblitz.com": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
         "state": "future"
     },
     "feedburner.com": {
@@ -9610,8 +9610,8 @@
         "state": "future"
     },
     "flixcdn.com": {
-        "epoch": 1589673600.0,
-        "expiration_date": "17-may-2020",
+        "epoch": 1652745600.0,
+        "expiration_date": "17-may-2022",
         "state": "future"
     },
     "flixfacts.co.uk": {
@@ -13515,8 +13515,8 @@
         "state": "future"
     },
     "iyisayfa.net": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
         "state": "future"
     },
     "izea.com": {
@@ -16325,8 +16325,8 @@
         "state": "future"
     },
     "ml.com": {
-        "epoch": 1589673600.0,
-        "expiration_date": "17-may-2020",
+        "epoch": 1621209600.0,
+        "expiration_date": "17-may-2021",
         "state": "future"
     },
     "ml314.com": {
@@ -22032,7 +22032,7 @@
     "sawpf.com": {
         "epoch": 1589673600.0,
         "expiration_date": "17-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "saymedia.com": {
         "epoch": 1610323200.0,
