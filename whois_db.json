@@ -17215,8 +17215,8 @@
         "state": "future"
     },
     "natero.com": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
         "state": "future"
     },
     "nathetsof.com": {
@@ -17805,8 +17805,8 @@
         "state": "future"
     },
     "nik.io": {
-        "epoch": 1589673600.0,
-        "expiration_date": "17-may-2020",
+        "epoch": 1873670400.0,
+        "expiration_date": "17-may-2029",
         "state": "future"
     },
     "nike.com": {
@@ -18370,8 +18370,8 @@
         "state": "future"
     },
     "oneimpress.io": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
         "state": "future"
     },
     "onelink-translations.com": {
@@ -19550,8 +19550,8 @@
         "state": "future"
     },
     "platformpanda.com": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
         "state": "future"
     },
     "play.com": {
@@ -19750,9 +19750,9 @@
         "state": "future"
     },
     "popt.in": {
-        "epoch": 1589414400.0,
-        "expiration_date": "14-may-2020",
-        "state": "past"
+        "epoch": 1620950400.0,
+        "expiration_date": "14-may-2021",
+        "state": "future"
     },
     "populr.me": {
         "epoch": 1601251200.0,
@@ -22575,9 +22575,9 @@
         "state": "future"
     },
     "servestats.com": {
-        "epoch": 1589500800.0,
-        "expiration_date": "15-may-2020",
-        "state": "past"
+        "epoch": 1621036800.0,
+        "expiration_date": "15-may-2021",
+        "state": "future"
     },
     "service-webmaster.fr": {
         "epoch": 1620000000.0,
@@ -25997,7 +25997,7 @@
     "tracelytics.com": {
         "epoch": 1589673600.0,
         "expiration_date": "17-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "tracemyip.org": {
         "epoch": 1670284800.0,
