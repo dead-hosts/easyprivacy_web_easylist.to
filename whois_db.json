@@ -5054,6 +5054,11 @@
         "expiration_date": "11-sep-2021",
         "state": "future"
     },
+    "cheqzone.com": {
+        "epoch": 1598140800.0,
+        "expiration_date": "23-aug-2020",
+        "state": "future"
+    },
     "chickensaladandads.com": {
         "epoch": 1616889600.0,
         "expiration_date": "28-mar-2021",
@@ -10515,8 +10520,8 @@
         "state": "future"
     },
     "gdeslon.ru": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
         "state": "future"
     },
     "ge.com": {
@@ -17755,8 +17760,8 @@
         "state": "future"
     },
     "ngacm.com": {
-        "epoch": 1589673600.0,
-        "expiration_date": "17-may-2020",
+        "epoch": 1621209600.0,
+        "expiration_date": "17-may-2021",
         "state": "future"
     },
     "ngastatic.com": {
@@ -24255,8 +24260,8 @@
         "state": "future"
     },
     "stats.lt": {
-        "epoch": 1589587200.0,
-        "expiration_date": "16-may-2020",
+        "epoch": 1619568000.0,
+        "expiration_date": "28-apr-2021",
         "state": "future"
     },
     "stats2.com": {
@@ -28550,8 +28555,8 @@
         "state": "future"
     },
     "webserviceaward.com": {
-        "epoch": 1589673600.0,
-        "expiration_date": "17-may-2020",
+        "epoch": 1621209600.0,
+        "expiration_date": "17-may-2021",
         "state": "future"
     },
     "webservis.gen.tr": {
