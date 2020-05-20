@@ -2225,9 +2225,9 @@
         "state": "future"
     },
     "anycent.com": {
-        "epoch": 1584057600.0,
-        "expiration_date": "13-mar-2020",
-        "state": "past"
+        "epoch": 1621382400.0,
+        "expiration_date": "19-may-2021",
+        "state": "future"
     },
     "aol.ca": {
         "epoch": 1630713600.0,
@@ -3755,8 +3755,8 @@
         "state": "future"
     },
     "blekko.com": {
-        "epoch": 1589760000.0,
-        "expiration_date": "18-may-2020",
+        "epoch": 1621296000.0,
+        "expiration_date": "18-may-2021",
         "state": "future"
     },
     "blinkbox.com": {
@@ -19625,9 +19625,9 @@
         "state": "future"
     },
     "plug.it": {
-        "epoch": 1588464000.0,
-        "expiration_date": "03-may-2020",
-        "state": "past"
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
+        "state": "future"
     },
     "plugin.ws": {
         "epoch": 1605744000.0,
@@ -24035,8 +24035,8 @@
         "state": "future"
     },
     "stainlesssteel.ru": {
-        "epoch": 1589932800.0,
-        "expiration_date": "20-may-2020",
+        "epoch": 1621468800.0,
+        "expiration_date": "20-may-2021",
         "state": "future"
     },
     "staleshow.com": {
