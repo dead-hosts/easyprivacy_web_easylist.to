@@ -1660,8 +1660,8 @@
         "state": "future"
     },
     "alenty.com": {
-        "epoch": 1589760000.0,
-        "expiration_date": "18-may-2020",
+        "epoch": 1652832000.0,
+        "expiration_date": "18-may-2022",
         "state": "future"
     },
     "alexa.com": {
@@ -2780,8 +2780,8 @@
         "state": "future"
     },
     "authorinsights.com": {
-        "epoch": 1589760000.0,
-        "expiration_date": "18-may-2020",
+        "epoch": 1621296000.0,
+        "expiration_date": "18-may-2021",
         "state": "future"
     },
     "auto-ping.com": {
@@ -2960,8 +2960,8 @@
         "state": "future"
     },
     "awin1.com": {
-        "epoch": 1589846400.0,
-        "expiration_date": "19-may-2020",
+        "epoch": 1621382400.0,
+        "expiration_date": "19-may-2021",
         "state": "future"
     },
     "awstrack.me": {
@@ -5372,7 +5372,7 @@
     "clickpathmedia.com": {
         "epoch": 1589932800.0,
         "expiration_date": "20-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "clickprotector.com": {
         "epoch": 1638662400.0,
@@ -8700,9 +8700,9 @@
         "state": "future"
     },
     "ethn.io": {
-        "epoch": 1589673600.0,
-        "expiration_date": "17-may-2020",
-        "state": "past"
+        "epoch": 1621209600.0,
+        "expiration_date": "17-may-2021",
+        "state": "future"
     },
     "ethnio.com": {
         "epoch": 1639612800.0,
@@ -9285,8 +9285,8 @@
         "state": "future"
     },
     "fastwebcounter.com": {
-        "epoch": 1589846400.0,
-        "expiration_date": "19-may-2020",
+        "epoch": 1621382400.0,
+        "expiration_date": "19-may-2021",
         "state": "future"
     },
     "fathomseo.com": {
@@ -9800,8 +9800,8 @@
         "state": "future"
     },
     "force24.co.uk": {
-        "epoch": 1589932800.0,
-        "expiration_date": "20-may-2020",
+        "epoch": 1653004800.0,
+        "expiration_date": "20-may-2022",
         "state": "future"
     },
     "ford.com": {
