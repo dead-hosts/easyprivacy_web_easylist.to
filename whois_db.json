@@ -22030,9 +22030,9 @@
         "state": "future"
     },
     "sawpf.com": {
-        "epoch": 1589673600.0,
-        "expiration_date": "17-may-2020",
-        "state": "past"
+        "epoch": 1621209600.0,
+        "expiration_date": "17-may-2021",
+        "state": "future"
     },
     "saymedia.com": {
         "epoch": 1610323200.0,
@@ -22890,8 +22890,8 @@
         "state": "future"
     },
     "sightmaxondemand.com": {
-        "epoch": 1589846400.0,
-        "expiration_date": "19-may-2020",
+        "epoch": 1621382400.0,
+        "expiration_date": "19-may-2021",
         "state": "future"
     },
     "signifyd.com": {
