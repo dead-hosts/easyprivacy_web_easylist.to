@@ -3485,9 +3485,9 @@
         "state": "future"
     },
     "bf-tools.net": {
-        "epoch": 1589673600.0,
-        "expiration_date": "17-may-2020",
-        "state": "past"
+        "epoch": 1621209600.0,
+        "expiration_date": "17-may-2021",
+        "state": "future"
     },
     "bfmio.com": {
         "epoch": 1614729600.0,
@@ -11015,8 +11015,8 @@
         "state": "future"
     },
     "google-rank.org": {
-        "epoch": 1589760000.0,
-        "expiration_date": "18-may-2020",
+        "epoch": 1621296000.0,
+        "expiration_date": "18-may-2021",
         "state": "future"
     },
     "google.com": {
@@ -11960,8 +11960,8 @@
         "state": "future"
     },
     "hot-count.com": {
-        "epoch": 1589846400.0,
-        "expiration_date": "19-may-2020",
+        "epoch": 1621382400.0,
+        "expiration_date": "19-may-2021",
         "state": "future"
     },
     "hotdogsandads.com": {
@@ -15930,8 +15930,8 @@
         "state": "future"
     },
     "mepirtedic.com": {
-        "epoch": 1589932800.0,
-        "expiration_date": "20-may-2020",
+        "epoch": 1621468800.0,
+        "expiration_date": "20-may-2021",
         "state": "future"
     },
     "mercadoclics.com": {
@@ -26000,9 +26000,9 @@
         "state": "future"
     },
     "tracelytics.com": {
-        "epoch": 1589673600.0,
-        "expiration_date": "17-may-2020",
-        "state": "past"
+        "epoch": 1621209600.0,
+        "expiration_date": "17-may-2021",
+        "state": "future"
     },
     "tracemyip.org": {
         "epoch": 1670284800.0,
@@ -26230,8 +26230,8 @@
         "state": "future"
     },
     "trafficjoint.com": {
-        "epoch": 1589846400.0,
-        "expiration_date": "19-may-2020",
+        "epoch": 1621382400.0,
+        "expiration_date": "19-may-2021",
         "state": "future"
     },
     "trafficregenerator.com": {
@@ -28575,9 +28575,9 @@
         "state": "future"
     },
     "websiteonlinecounter.com": {
-        "epoch": 1582588800.0,
-        "expiration_date": "25-feb-2020",
-        "state": "past"
+        "epoch": 1621468800.0,
+        "expiration_date": "20-may-2021",
+        "state": "future"
     },
     "websiteperform.com": {
         "epoch": 1619913600.0,
@@ -29865,8 +29865,8 @@
         "state": "future"
     },
     "zengenti.com": {
-        "epoch": 1589760000.0,
-        "expiration_date": "18-may-2020",
+        "epoch": 1621296000.0,
+        "expiration_date": "18-may-2021",
         "state": "future"
     },
     "zeotap.com": {
