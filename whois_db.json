@@ -25085,8 +25085,8 @@
         "state": "future"
     },
     "tds.io": {
-        "epoch": 1589846400.0,
-        "expiration_date": "19-may-2020",
+        "epoch": 1621382400.0,
+        "expiration_date": "19-may-2021",
         "state": "future"
     },
     "tdsrmbl.net": {
@@ -26257,7 +26257,7 @@
     "trafit.com": {
         "epoch": 1589932800.0,
         "expiration_date": "20-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "trafix.ro": {
         "epoch": 1591660800.0,
