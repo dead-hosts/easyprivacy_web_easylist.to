@@ -21,11 +21,13 @@ collector*.xhamster.
 compare.easyvoyage.
 creativefactory.zalando.
 datacollect*.abtasty.com
+ea.laredoute.
 encrypted.google.*
 equirodi.*
 etwun.com:8080
 expedia.*
 facebook.com*
+flashx.*
 fls-*.amazon.*&
 fls-*.amazon.*%
 gateway.reddit.com|
@@ -41,6 +43,7 @@ kayak.*
 lcs.naver.
 linguee.com*
 logger-*.dailymotion.com
+log*.ku6.com
 log-*.previewnetworks.com
 massdrop.com*
 mcdp-*.outbrain.com
@@ -66,5 +69,9 @@ tracking.olx.
 track.zalando.
 tripadvisor.*
 ts.delfi.
+vice.com*
 vtnlog-*.elb.amazonaws.com
+wawacity.*
+www.google.*
+www.imdb.*
 yandex.*
