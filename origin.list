@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202005202258
+! Version: 202005221217
 ! Title: EasyPrivacy
-! Last modified: 20 May 2020 22:58 UTC
+! Last modified: 22 May 2020 12:17 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6690,7 +6690,6 @@ _mongo_stats/
 ||kmtx.io^$third-party
 ||knowlead.io^$third-party
 ||knowledgevine.net^$third-party
-||kochava.com^$third-party
 ||koddi.com^$third-party
 ||komtrack.com^$third-party
 ||kontagent.net^$third-party
@@ -8531,6 +8530,7 @@ _mongo_stats/
 ||hammerhearing.com^$third-party
 ||hilariouszinc.com^$third-party
 ||historicalbeam.com^$third-party
+||hocgeese.com^$third-party
 ||homelycrown.com^$third-party
 ||horsenectar.com^$third-party
 ||immensehoney.com^$third-party
@@ -9011,6 +9011,7 @@ _mongo_stats/
 ||pingclock.net^$third-party
 ||potterpetrey.com^$third-party
 ||reseau-pub.com^$third-party
+||rossel.tech^$third-party
 ||semiocast.com^$third-party
 ||sitizy.network^$third-party
 ||sk1n.fr^$third-party
@@ -10728,6 +10729,7 @@ _mongo_stats/
 ||klaviyo.com/onsite/js/klaviyo.js$third-party
 ||klickly.com/track
 ||kmib.co.kr/ref/
+||kochava.com/track/$third-party
 ||kununu.com^*/tracking/
 ||kxcdn.com/actor/$third-party
 ||kxcdn.com/prj/
@@ -11273,6 +11275,7 @@ _mongo_stats/
 ||speedtrap.shopdirect.com^
 ||spot.im/api/tracker/
 ||spot.im^*/pixel?
+||spot.im^*/pixels
 ||spread.ly^*/statistics.php
 ||squarespace.com/universal/scripts-compressed/performance-$script,third-party
 ||srvmath.com^*/analytics.js
@@ -16824,6 +16827,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||geni.us/snippet.min.js$script,domain=pcmonitors.info
 @@||geo-targetly.com/geolocation?id$script,third-party
 @@||geo.kaloo.ga/json/?$script,domain=telesurtv.net
+@@||geo.ngtv.io/locate/$domain=hbo.com
 @@||geoip-js.com^*/me?referrer=$xmlhttprequest,domain=ibanez.com
 @@||geoplugin.net/json.gp?jsoncallback=$script,domain=worldc.am
 @@||geostag.cardinalcommerce.com/DeviceFingerprintWeb/includes/js/fingerprint2.min.js$script
