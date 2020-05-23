@@ -13110,9 +13110,9 @@
         "state": "future"
     },
     "intrastats.com": {
-        "epoch": 1583452800.0,
-        "expiration_date": "06-mar-2020",
-        "state": "past"
+        "epoch": 1621641600.0,
+        "expiration_date": "22-may-2021",
+        "state": "future"
     },
     "intuitwebsites.com": {
         "epoch": 1636243200.0,
@@ -21684,6 +21684,11 @@
         "expiration_date": "26-jan-2021",
         "state": "future"
     },
+    "rossel.tech": {
+        "epoch": 1653696000.0,
+        "expiration_date": "28-may-2022",
+        "state": "future"
+    },
     "rottentomatoes.com": {
         "epoch": 1620950400.0,
         "expiration_date": "14-may-2021",
@@ -24305,8 +24310,8 @@
         "state": "future"
     },
     "statsforever.com": {
-        "epoch": 1590192000.0,
-        "expiration_date": "23-may-2020",
+        "epoch": 1621728000.0,
+        "expiration_date": "23-may-2021",
         "state": "future"
     },
     "statsinsight.com": {
@@ -26265,9 +26270,9 @@
         "state": "future"
     },
     "trafit.com": {
-        "epoch": 1589932800.0,
-        "expiration_date": "20-may-2020",
-        "state": "past"
+        "epoch": 1621468800.0,
+        "expiration_date": "20-may-2021",
+        "state": "future"
     },
     "trafix.ro": {
         "epoch": 1591660800.0,
