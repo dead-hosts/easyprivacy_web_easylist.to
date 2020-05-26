@@ -5744,6 +5744,11 @@
         "expiration_date": "03-oct-2019",
         "state": "past"
     },
+    "coinmarketcap.com": {
+        "epoch": 1682640000.0,
+        "expiration_date": "28-apr-2023",
+        "state": "future"
+    },
     "coinminerz.com": {
         "epoch": 1630281600.0,
         "expiration_date": "30-aug-2021",
