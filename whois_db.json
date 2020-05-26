@@ -11140,8 +11140,8 @@
         "state": "future"
     },
     "gotmojo.com": {
-        "epoch": 1590278400.0,
-        "expiration_date": "24-may-2020",
+        "epoch": 1621814400.0,
+        "expiration_date": "24-may-2021",
         "state": "future"
     },
     "gotrk.net": {
@@ -11662,6 +11662,11 @@
     "highmetrics.com": {
         "epoch": 1594339200.0,
         "expiration_date": "10-jul-2020",
+        "state": "future"
+    },
+    "highwebmedia.com": {
+        "epoch": 1826064000.0,
+        "expiration_date": "13-nov-2027",
         "state": "future"
     },
     "hilariouszinc.com": {
@@ -23325,9 +23330,9 @@
         "state": "future"
     },
     "smartan.ai": {
-        "epoch": 1582416000.0,
-        "expiration_date": "23-feb-2020",
-        "state": "past"
+        "epoch": 1645574400.0,
+        "expiration_date": "23-feb-2022",
+        "state": "future"
     },
     "smartctr.com": {
         "epoch": 1598572800.0,
