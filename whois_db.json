@@ -2630,8 +2630,8 @@
         "state": "future"
     },
     "atlantafalcons.com": {
-        "epoch": 1590710400.0,
-        "expiration_date": "29-may-2020",
+        "epoch": 1653782400.0,
+        "expiration_date": "29-may-2022",
         "state": "future"
     },
     "atlantis.com": {
@@ -8540,8 +8540,8 @@
         "state": "future"
     },
     "entensity.net": {
-        "epoch": 1590537600.0,
-        "expiration_date": "27-may-2020",
+        "epoch": 1653609600.0,
+        "expiration_date": "27-may-2022",
         "state": "future"
     },
     "enter-system.com": {
@@ -11364,6 +11364,11 @@
         "expiration_date": "18-jun-2020",
         "state": "future"
     },
+    "guoshipartners.com": {
+        "epoch": 1732924800.0,
+        "expiration_date": "30-nov-2024",
+        "state": "future"
+    },
     "gus.host": {
         "epoch": 1602979200.0,
         "expiration_date": "18-oct-2020",
@@ -12805,8 +12810,8 @@
         "state": "future"
     },
     "infospace.com": {
-        "epoch": 1590537600.0,
-        "expiration_date": "27-may-2020",
+        "epoch": 1622073600.0,
+        "expiration_date": "27-may-2021",
         "state": "future"
     },
     "infox.sg": {
@@ -20322,6 +20327,11 @@
     "puritan.com": {
         "epoch": 1633132800.0,
         "expiration_date": "02-oct-2021",
+        "state": "future"
+    },
+    "push4site.com": {
+        "epoch": 1603670400.0,
+        "expiration_date": "26-oct-2020",
         "state": "future"
     },
     "pushdom.co": {
