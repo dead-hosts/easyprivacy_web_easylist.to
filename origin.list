@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202005300004
+! Version: 202005300038
 ! Title: EasyPrivacy
-! Last modified: 30 May 2020 00:04 UTC
+! Last modified: 30 May 2020 00:38 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -13096,6 +13096,7 @@ _mongo_stats/
 ||dominos.co.uk^*/universal.html?
 ||dp.shoprunner.com^
 ||dragonstatic.com/parking/js/track.js
+||drop.com/impressionsBeacon
 ||dropbox.com/alternate_
 ||dropbox.com/el/?b=open:
 ||dropbox.com/log/
@@ -13598,7 +13599,6 @@ _mongo_stats/
 ||kelkoo.co.uk/kk_track?
 ||kelkoo.co.uk^*/tracker/
 ||kelkoo.com/kk_track?
-||kg.aws.mashable.com^
 ||killerstartups.com^*/adsensev
 ||kinesisproxy.hearstlabs.com^
 ||king.com/api/events?
@@ -13612,8 +13612,7 @@ _mongo_stats/
 ||kohls.com/_bm/_data
 ||kohls.com/test_rum?
 ||kosmix.com^*.txt?pvid=
-||kyte.tv/flash/MarbachMetricsOmniture.swf
-||kyte.tv/flash/MarbachMetricsProvider.swf
+||krakenlyrics.com/view?
 ||laas.americanexpress.com^
 ||lancasteronline.com/javascript/ga.php
 ||landrover.com/system/logging/
@@ -13710,8 +13709,7 @@ _mongo_stats/
 ||marketing.nodesource.com^
 ||marriott.com^*/Bootstrap.js
 ||marriott.com^*/mi_customer_survey.js
-||mashable.com/pv.xml
-||massdrop.com*^/pixelrb?
+||mashable.com/s/js/zad.js
 ||mastercard.com^*/Analytics/
 ||matchesfashion.com/js/Track.js
 ||mate1.com^*/iframe/pixel/
@@ -13807,9 +13805,9 @@ _mongo_stats/
 ||mozilla.com/js/track.js
 ||mozilla.net^*/webtrends/
 ||mozilla.org/includes/min/*=js_stats
-||mp3lyrics.org^*/cnt.php?
 ||mql5.com/tr?
 ||msecnd.net^*/wt.js?
+||mshcdn.com/assets/lib/aab-$script,domain=mashable.com
 ||msn.com/collect/
 ||msn.com/ro.aspx?
 ||msn.com/script/tracking*.js
