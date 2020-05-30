@@ -18749,6 +18749,11 @@
         "expiration_date": "26-may-2022",
         "state": "future"
     },
+    "otclick-adv.ru": {
+        "epoch": 1613520000.0,
+        "expiration_date": "17-feb-2021",
+        "state": "future"
+    },
     "otoshiana.com": {
         "epoch": 1614124800.0,
         "expiration_date": "24-feb-2021",
@@ -22180,8 +22185,8 @@
         "state": "future"
     },
     "scoot.co.uk": {
-        "epoch": 1590537600.0,
-        "expiration_date": "27-may-2020",
+        "epoch": 1622073600.0,
+        "expiration_date": "27-may-2021",
         "state": "future"
     },
     "scorecardresearch.com": {
@@ -24477,7 +24482,7 @@
     "stocktwits.com": {
         "epoch": 1590710400.0,
         "expiration_date": "29-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "stomp.com.sg": {
         "epoch": 1613433600.0,
@@ -25360,8 +25365,8 @@
         "state": "future"
     },
     "theconversation.com": {
-        "epoch": 1590710400.0,
-        "expiration_date": "29-may-2020",
+        "epoch": 1622246400.0,
+        "expiration_date": "29-may-2021",
         "state": "future"
     },
     "thecounter.com": {
@@ -25475,8 +25480,8 @@
         "state": "future"
     },
     "thesaurus.com": {
-        "epoch": 1590710400.0,
-        "expiration_date": "29-may-2020",
+        "epoch": 1622246400.0,
+        "expiration_date": "29-may-2021",
         "state": "future"
     },
     "thesearchagency.net": {
@@ -29265,8 +29270,8 @@
         "state": "future"
     },
     "wwe.com": {
-        "epoch": 1590710400.0,
-        "expiration_date": "29-may-2020",
+        "epoch": 1653782400.0,
+        "expiration_date": "29-may-2022",
         "state": "future"
     },
     "wwgate.ru": {
