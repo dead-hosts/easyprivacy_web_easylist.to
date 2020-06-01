@@ -11720,8 +11720,8 @@
         "state": "future"
     },
     "hiperstat.com": {
-        "epoch": 1590969600.0,
-        "expiration_date": "01-jun-2020",
+        "epoch": 1622505600.0,
+        "expiration_date": "01-jun-2021",
         "state": "future"
     },
     "hisense.com": {
@@ -12800,8 +12800,8 @@
         "state": "future"
     },
     "infocollect.dk": {
-        "epoch": 1590883200.0,
-        "expiration_date": "31-may-2020",
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
         "state": "future"
     },
     "infogr.am": {
@@ -21409,6 +21409,11 @@
         "expiration_date": "14-nov-2020",
         "state": "future"
     },
+    "retargeter.com.br": {
+        "epoch": 1661126400.0,
+        "expiration_date": "22-aug-2022",
+        "state": "future"
+    },
     "retargeting.biz": {
         "epoch": 1613088000.0,
         "expiration_date": "12-feb-2021",
@@ -21952,6 +21957,11 @@
     "rutube.ru": {
         "epoch": 1605052800.0,
         "expiration_date": "11-nov-2020",
+        "state": "future"
+    },
+    "rvkcpqz.com": {
+        "epoch": 1612656000.0,
+        "expiration_date": "07-feb-2021",
         "state": "future"
     },
     "rztrkr.com": {
@@ -26500,8 +26510,8 @@
         "state": "future"
     },
     "trbo.com": {
-        "epoch": 1590796800.0,
-        "expiration_date": "30-may-2020",
+        "epoch": 1622332800.0,
+        "expiration_date": "30-may-2021",
         "state": "future"
     },
     "treasuredata.com": {
@@ -29820,8 +29830,8 @@
         "state": "future"
     },
     "youle55.com": {
-        "epoch": 1590969600.0,
-        "expiration_date": "01-jun-2020",
+        "epoch": 1622505600.0,
+        "expiration_date": "01-jun-2021",
         "state": "future"
     },
     "younewstv.com": {
