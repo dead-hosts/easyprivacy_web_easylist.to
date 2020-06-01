@@ -14950,8 +14950,8 @@
         "state": "future"
     },
     "livestat.com": {
-        "epoch": 1590796800.0,
-        "expiration_date": "30-may-2020",
+        "epoch": 1622332800.0,
+        "expiration_date": "30-may-2021",
         "state": "future"
     },
     "livestation.com": {
@@ -15470,8 +15470,8 @@
         "state": "future"
     },
     "magnuum.com": {
-        "epoch": 1590796800.0,
-        "expiration_date": "30-may-2020",
+        "epoch": 1622332800.0,
+        "expiration_date": "30-may-2021",
         "state": "future"
     },
     "mail-app.com": {
@@ -15699,6 +15699,11 @@
         "expiration_date": "08-sep-2028",
         "state": "future"
     },
+    "matterlytics.com": {
+        "epoch": 1615852800.0,
+        "expiration_date": "16-mar-2021",
+        "state": "future"
+    },
     "maxmind.com": {
         "epoch": 1740355200.0,
         "expiration_date": "24-feb-2025",
@@ -15872,6 +15877,11 @@
     "mediagauge.com": {
         "epoch": 1606176000.0,
         "expiration_date": "24-nov-2020",
+        "state": "future"
+    },
+    "mediaglacier.com": {
+        "epoch": 1597363200.0,
+        "expiration_date": "14-aug-2020",
         "state": "future"
     },
     "mediaite.com": {
@@ -16395,8 +16405,8 @@
         "state": "future"
     },
     "mlstat.com": {
-        "epoch": 1590883200.0,
-        "expiration_date": "31-may-2020",
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
         "state": "future"
     },
     "mlt01.com": {
@@ -17080,8 +17090,8 @@
         "state": "future"
     },
     "myroitracking.com": {
-        "epoch": 1590796800.0,
-        "expiration_date": "30-may-2020",
+        "epoch": 1622332800.0,
+        "expiration_date": "30-may-2021",
         "state": "future"
     },
     "myseostats.com": {
@@ -17540,8 +17550,8 @@
         "state": "future"
     },
     "netbiscuits.net": {
-        "epoch": 1590796800.0,
-        "expiration_date": "30-may-2020",
+        "epoch": 1622332800.0,
+        "expiration_date": "30-may-2021",
         "state": "future"
     },
     "netclickstats.com": {
@@ -23372,6 +23382,11 @@
     "smartan.ai": {
         "epoch": 1645574400.0,
         "expiration_date": "23-feb-2022",
+        "state": "future"
+    },
+    "smartclip-services.com": {
+        "epoch": 1599350400.0,
+        "expiration_date": "06-sep-2020",
         "state": "future"
     },
     "smartctr.com": {
