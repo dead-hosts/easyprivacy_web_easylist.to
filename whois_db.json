@@ -23550,8 +23550,8 @@
         "state": "future"
     },
     "smartname.com": {
-        "epoch": 1590883200.0,
-        "expiration_date": "31-may-2020",
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
         "state": "future"
     },
     "smartnews-ads.com": {
@@ -24012,7 +24012,7 @@
     "spinmedia.com": {
         "epoch": 1590969600.0,
         "expiration_date": "01-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "spklw.com": {
         "epoch": 1606262400.0,
@@ -24200,8 +24200,8 @@
         "state": "future"
     },
     "squidoo.com": {
-        "epoch": 1590969600.0,
-        "expiration_date": "01-jun-2020",
+        "epoch": 1622505600.0,
+        "expiration_date": "01-jun-2021",
         "state": "future"
     },
     "squirrelhands.com": {
@@ -24660,9 +24660,9 @@
         "state": "future"
     },
     "stocktwits.com": {
-        "epoch": 1590710400.0,
-        "expiration_date": "29-may-2020",
-        "state": "past"
+        "epoch": 1622246400.0,
+        "expiration_date": "29-may-2021",
+        "state": "future"
     },
     "stomp.com.sg": {
         "epoch": 1613433600.0,
@@ -25600,8 +25600,8 @@
         "state": "future"
     },
     "thefrisky.com": {
-        "epoch": 1590969600.0,
-        "expiration_date": "01-jun-2020",
+        "epoch": 1622505600.0,
+        "expiration_date": "01-jun-2021",
         "state": "future"
     },
     "thegameslist.com": {
@@ -25872,6 +25872,11 @@
     "tinyurl.com": {
         "epoch": 1864166400.0,
         "expiration_date": "27-jan-2029",
+        "state": "future"
+    },
+    "tipsport.org": {
+        "epoch": 1616025600.0,
+        "expiration_date": "18-mar-2021",
         "state": "future"
     },
     "tiscali.it": {
@@ -29140,8 +29145,8 @@
         "state": "future"
     },
     "wikimonde.com": {
-        "epoch": 1590883200.0,
-        "expiration_date": "31-may-2020",
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
         "state": "future"
     },
     "wikinvest.com": {
