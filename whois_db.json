@@ -1305,8 +1305,8 @@
         "state": "future"
     },
     "advalo.com": {
-        "epoch": 1590796800.0,
-        "expiration_date": "30-may-2020",
+        "epoch": 1622332800.0,
+        "expiration_date": "30-may-2021",
         "state": "future"
     },
     "advanced-web-analytics.com": {
@@ -2327,6 +2327,11 @@
     "appboycdn.com": {
         "epoch": 1619654400.0,
         "expiration_date": "29-apr-2021",
+        "state": "future"
+    },
+    "appcast.io": {
+        "epoch": 1613865600.0,
+        "expiration_date": "21-feb-2021",
         "state": "future"
     },
     "appdynamics.com": {
@@ -8780,8 +8785,8 @@
         "state": "future"
     },
     "euleriancdn.net": {
-        "epoch": 1590969600.0,
-        "expiration_date": "01-jun-2020",
+        "epoch": 1622505600.0,
+        "expiration_date": "01-jun-2021",
         "state": "future"
     },
     "eum-appdynamics.com": {
@@ -12357,6 +12362,11 @@
     "ib-ibi.com": {
         "epoch": 1653782400.0,
         "expiration_date": "29-may-2022",
+        "state": "future"
+    },
+    "ibeat-analytics.com": {
+        "epoch": 1621036800.0,
+        "expiration_date": "15-may-2021",
         "state": "future"
     },
     "iberia.com": {
