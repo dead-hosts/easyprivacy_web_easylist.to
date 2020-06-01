@@ -3284,6 +3284,11 @@
         "expiration_date": "01-may-2021",
         "state": "future"
     },
+    "bcicdn.com": {
+        "epoch": 1615939200.0,
+        "expiration_date": "17-mar-2021",
+        "state": "future"
+    },
     "bcs-computersysteme.com": {
         "epoch": 1621555200.0,
         "expiration_date": "21-may-2021",
@@ -7365,8 +7370,8 @@
         "state": "future"
     },
     "devtribu.fr": {
-        "epoch": 1590969600.0,
-        "expiration_date": "01-jun-2020",
+        "epoch": 1622505600.0,
+        "expiration_date": "01-jun-2021",
         "state": "future"
     },
     "dforum.net": {
@@ -7492,6 +7497,11 @@
     "dimml.io": {
         "epoch": 1596758400.0,
         "expiration_date": "07-aug-2020",
+        "state": "future"
+    },
+    "dingxiang-inc.com": {
+        "epoch": 1653264000.0,
+        "expiration_date": "23-may-2022",
         "state": "future"
     },
     "diplomahawaii.com": {
@@ -11564,6 +11574,11 @@
         "expiration_date": "03-feb-2021",
         "state": "future"
     },
+    "he7ll.com": {
+        "epoch": 1612396800.0,
+        "expiration_date": "04-feb-2021",
+        "state": "future"
+    },
     "healthcarejobsite.com": {
         "epoch": 1592179200.0,
         "expiration_date": "15-jun-2020",
@@ -15299,6 +15314,11 @@
         "expiration_date": "15-oct-2020",
         "state": "future"
     },
+    "ltwebstatic.com": {
+        "epoch": 1611014400.0,
+        "expiration_date": "19-jan-2021",
+        "state": "future"
+    },
     "lucidchart.com": {
         "epoch": 1664236800.0,
         "expiration_date": "27-sep-2022",
@@ -16192,6 +16212,11 @@
     "mgz.com.ua": {
         "epoch": 1618963200.0,
         "expiration_date": "21-apr-2021",
+        "state": "future"
+    },
+    "mhxk.com": {
+        "epoch": 1600300800.0,
+        "expiration_date": "17-sep-2020",
         "state": "future"
     },
     "mi-de-ner-nis3.info": {
@@ -17989,6 +18014,11 @@
         "expiration_date": "22-oct-2021",
         "state": "future"
     },
+    "nofraud.com": {
+        "epoch": 1611705600.0,
+        "expiration_date": "27-jan-2021",
+        "state": "future"
+    },
     "noicattolici.it": {
         "epoch": 1612656000.0,
         "expiration_date": "07-feb-2021",
@@ -19389,6 +19419,11 @@
         "expiration_date": "17-jun-2021",
         "state": "future"
     },
+    "pgimgs.com": {
+        "epoch": 1641427200.0,
+        "expiration_date": "06-jan-2022",
+        "state": "future"
+    },
     "pgs.io": {
         "epoch": 1615507200.0,
         "expiration_date": "12-mar-2021",
@@ -19844,6 +19879,11 @@
         "expiration_date": "17-sep-2020",
         "state": "future"
     },
+    "poll-maker.com": {
+        "epoch": 1711929600.0,
+        "expiration_date": "01-apr-2024",
+        "state": "future"
+    },
     "poolmining.net": {
         "epoch": 1600992000.0,
         "expiration_date": "25-sep-2020",
@@ -20177,6 +20217,11 @@
     "projectsunblock.com": {
         "epoch": 1600560000.0,
         "expiration_date": "20-sep-2020",
+        "state": "future"
+    },
+    "promo.ge": {
+        "epoch": 1619481600.0,
+        "expiration_date": "27-apr-2021",
         "state": "future"
     },
     "promotionengine.com": {
@@ -21397,6 +21442,11 @@
     "responsetap.com": {
         "epoch": 1728086400.0,
         "expiration_date": "05-oct-2024",
+        "state": "future"
+    },
+    "resu.io": {
+        "epoch": 1593907200.0,
+        "expiration_date": "05-jul-2020",
         "state": "future"
     },
     "resulticks.com": {
@@ -23684,6 +23734,11 @@
         "expiration_date": "24-mar-2021",
         "state": "future"
     },
+    "socital.com": {
+        "epoch": 1645488000.0,
+        "expiration_date": "22-feb-2022",
+        "state": "future"
+    },
     "socketviking.net": {
         "epoch": 1592697600.0,
         "expiration_date": "21-jun-2020",
@@ -24187,7 +24242,7 @@
     "sslproxy.dk": {
         "epoch": 1590883200.0,
         "expiration_date": "31-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "stack-sonar.com": {
         "epoch": 1621987200.0,
@@ -25134,6 +25189,11 @@
         "expiration_date": "01-jun-2021",
         "state": "future"
     },
+    "talkingdata.com": {
+        "epoch": 1673049600.0,
+        "expiration_date": "07-jan-2023",
+        "state": "future"
+    },
     "talktalk.co.uk": {
         "epoch": 1595116800.0,
         "expiration_date": "19-jul-2020",
@@ -25300,8 +25360,8 @@
         "state": "future"
     },
     "techweb.com": {
-        "epoch": 1590796800.0,
-        "expiration_date": "30-may-2020",
+        "epoch": 1622332800.0,
+        "expiration_date": "30-may-2021",
         "state": "future"
     },
     "tedioustooth.com": {
@@ -27120,8 +27180,8 @@
         "state": "future"
     },
     "ultimatebootcd.com": {
-        "epoch": 1590883200.0,
-        "expiration_date": "31-may-2020",
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
         "state": "future"
     },
     "ultimedia.com": {
