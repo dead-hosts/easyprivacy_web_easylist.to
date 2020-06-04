@@ -15095,8 +15095,8 @@
         "state": "future"
     },
     "localmonero.co": {
-        "epoch": 1591228800.0,
-        "expiration_date": "04-jun-2020",
+        "epoch": 1622764800.0,
+        "expiration_date": "04-jun-2021",
         "state": "future"
     },
     "localytics.com": {
@@ -18410,8 +18410,8 @@
         "state": "future"
     },
     "okcupid.com": {
-        "epoch": 1591056000.0,
-        "expiration_date": "02-jun-2020",
+        "epoch": 1622592000.0,
+        "expiration_date": "02-jun-2021",
         "state": "future"
     },
     "oktopost.com": {
@@ -24015,9 +24015,9 @@
         "state": "future"
     },
     "spinmedia.com": {
-        "epoch": 1590969600.0,
-        "expiration_date": "01-jun-2020",
-        "state": "past"
+        "epoch": 1622505600.0,
+        "expiration_date": "01-jun-2021",
+        "state": "future"
     },
     "spklw.com": {
         "epoch": 1606262400.0,
