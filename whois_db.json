@@ -745,8 +745,8 @@
         "state": "future"
     },
     "acexedge.com": {
-        "epoch": 1591228800.0,
-        "expiration_date": "04-jun-2020",
+        "epoch": 1622764800.0,
+        "expiration_date": "04-jun-2021",
         "state": "future"
     },
     "acfun.tv": {
@@ -1615,8 +1615,8 @@
         "state": "future"
     },
     "akanoo.com": {
-        "epoch": 1591142400.0,
-        "expiration_date": "03-jun-2020",
+        "epoch": 1622678400.0,
+        "expiration_date": "03-jun-2021",
         "state": "future"
     },
     "aklamio.com": {
@@ -1960,8 +1960,8 @@
         "state": "future"
     },
     "ampush.io": {
-        "epoch": 1591142400.0,
-        "expiration_date": "03-jun-2020",
+        "epoch": 1622678400.0,
+        "expiration_date": "03-jun-2021",
         "state": "future"
     },
     "amung.us": {
@@ -3554,6 +3554,11 @@
         "expiration_date": "30-aug-2020",
         "state": "future"
     },
+    "bidsimulator.com": {
+        "epoch": 1591920000.0,
+        "expiration_date": "12-jun-2020",
+        "state": "future"
+    },
     "bidswitch.net": {
         "epoch": 1662076800.0,
         "expiration_date": "02-sep-2022",
@@ -4100,8 +4105,8 @@
         "state": "future"
     },
     "brandlock.io": {
-        "epoch": 1591142400.0,
-        "expiration_date": "03-jun-2020",
+        "epoch": 1622678400.0,
+        "expiration_date": "03-jun-2021",
         "state": "future"
     },
     "brandmetrics.com": {
@@ -5395,8 +5400,8 @@
         "state": "future"
     },
     "clickonometrics.pl": {
-        "epoch": 1591228800.0,
-        "expiration_date": "04-jun-2020",
+        "epoch": 1685836800.0,
+        "expiration_date": "04-jun-2023",
         "state": "future"
     },
     "clickpathmedia.com": {
@@ -7452,7 +7457,7 @@
     "digitaloptout.com": {
         "epoch": 1591228800.0,
         "expiration_date": "04-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "digitalriver.com": {
         "epoch": 1740787200.0,
@@ -9325,8 +9330,8 @@
         "state": "future"
     },
     "fastonlineusers.com": {
-        "epoch": 1591056000.0,
-        "expiration_date": "02-jun-2020",
+        "epoch": 1622592000.0,
+        "expiration_date": "02-jun-2021",
         "state": "future"
     },
     "faststart.ru": {
@@ -9835,8 +9840,8 @@
         "state": "future"
     },
     "footprintlive.com": {
-        "epoch": 1591142400.0,
-        "expiration_date": "03-jun-2020",
+        "epoch": 1622678400.0,
+        "expiration_date": "03-jun-2021",
         "state": "future"
     },
     "forbes.com": {
@@ -10130,8 +10135,8 @@
         "state": "future"
     },
     "freegeoip.app": {
-        "epoch": 1591228800.0,
-        "expiration_date": "04-jun-2020",
+        "epoch": 1654300800.0,
+        "expiration_date": "04-jun-2022",
         "state": "future"
     },
     "freegeoip.net": {
@@ -11105,8 +11110,8 @@
         "state": "future"
     },
     "googlerank.info": {
-        "epoch": 1591056000.0,
-        "expiration_date": "02-jun-2020",
+        "epoch": 1622592000.0,
+        "expiration_date": "02-jun-2021",
         "state": "future"
     },
     "googletagmanager.com": {
