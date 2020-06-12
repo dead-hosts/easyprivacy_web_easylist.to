@@ -9749,6 +9749,11 @@
         "expiration_date": "21-mar-2021",
         "state": "future"
     },
+    "flyasiana.com": {
+        "epoch": 1604275200.0,
+        "expiration_date": "02-nov-2020",
+        "state": "future"
+    },
     "flybmi.com": {
         "epoch": 1624838400.0,
         "expiration_date": "28-jun-2021",
@@ -9775,8 +9780,8 @@
         "state": "future"
     },
     "fnlondon.com": {
-        "epoch": 1591574400.0,
-        "expiration_date": "08-jun-2020",
+        "epoch": 1623110400.0,
+        "expiration_date": "08-jun-2021",
         "state": "future"
     },
     "fogl1onf.com": {
@@ -10490,8 +10495,8 @@
         "state": "future"
     },
     "gainings.biz": {
-        "epoch": 1591315200.0,
-        "expiration_date": "05-jun-2020",
+        "epoch": 1622851200.0,
+        "expiration_date": "05-jun-2021",
         "state": "future"
     },
     "galaxiemedia.fr": {
@@ -14740,8 +14745,8 @@
         "state": "future"
     },
     "letitbit.net": {
-        "epoch": 1591401600.0,
-        "expiration_date": "06-jun-2020",
+        "epoch": 1622937600.0,
+        "expiration_date": "06-jun-2021",
         "state": "future"
     },
     "letterboxtrail.com": {
@@ -15725,8 +15730,8 @@
         "state": "future"
     },
     "marktplaats.net": {
-        "epoch": 1591660800.0,
-        "expiration_date": "09-jun-2020",
+        "epoch": 1623196800.0,
+        "expiration_date": "09-jun-2021",
         "state": "future"
     },
     "maropost.com": {
@@ -20610,8 +20615,8 @@
         "state": "future"
     },
     "qbox.me": {
-        "epoch": 1591488000.0,
-        "expiration_date": "07-jun-2020",
+        "epoch": 1654560000.0,
+        "expiration_date": "07-jun-2022",
         "state": "future"
     },
     "qchannel03.cn": {
@@ -24280,9 +24285,9 @@
         "state": "future"
     },
     "sslproxy.dk": {
-        "epoch": 1590883200.0,
-        "expiration_date": "31-may-2020",
-        "state": "past"
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
+        "state": "future"
     },
     "stack-sonar.com": {
         "epoch": 1621987200.0,
@@ -26202,6 +26207,11 @@
     "touchcommerce.com": {
         "epoch": 1611446400.0,
         "expiration_date": "24-jan-2021",
+        "state": "future"
+    },
+    "tourmake.it": {
+        "epoch": 1621728000.0,
+        "expiration_date": "23-may-2021",
         "state": "future"
     },
     "tourradar.com": {
@@ -29660,8 +29670,8 @@
         "state": "future"
     },
     "xn--e1aaipcdgnfsn.su": {
-        "epoch": 1591833600.0,
-        "expiration_date": "11-jun-2020",
+        "epoch": 1623369600.0,
+        "expiration_date": "11-jun-2021",
         "state": "future"
     },
     "xozilla.com": {
