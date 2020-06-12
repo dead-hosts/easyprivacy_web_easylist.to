@@ -4955,8 +4955,8 @@
         "state": "future"
     },
     "center.tv": {
-        "epoch": 1591488000.0,
-        "expiration_date": "07-jun-2020",
+        "epoch": 1623024000.0,
+        "expiration_date": "07-jun-2021",
         "state": "future"
     },
     "centerblog.net": {
@@ -16700,8 +16700,8 @@
         "state": "future"
     },
     "monova.org": {
-        "epoch": 1591660800.0,
-        "expiration_date": "09-jun-2020",
+        "epoch": 1749427200.0,
+        "expiration_date": "09-jun-2025",
         "state": "future"
     },
     "monstat.com": {
@@ -20350,8 +20350,8 @@
         "state": "future"
     },
     "ps-deals.com": {
-        "epoch": 1591488000.0,
-        "expiration_date": "07-jun-2020",
+        "epoch": 1623024000.0,
+        "expiration_date": "07-jun-2021",
         "state": "future"
     },
     "pstatp.com": {
@@ -25970,8 +25970,8 @@
         "state": "future"
     },
     "tmagazine.com": {
-        "epoch": 1591920000.0,
-        "expiration_date": "12-jun-2020",
+        "epoch": 1654992000.0,
+        "expiration_date": "12-jun-2022",
         "state": "future"
     },
     "tmall.com": {
@@ -26860,8 +26860,8 @@
         "state": "future"
     },
     "truste.com": {
-        "epoch": 1591920000.0,
-        "expiration_date": "12-jun-2020",
+        "epoch": 1749686400.0,
+        "expiration_date": "12-jun-2025",
         "state": "future"
     },
     "trustedform.com": {
@@ -30172,6 +30172,11 @@
     "zeotap.com": {
         "epoch": 1658534400.0,
         "expiration_date": "23-jul-2022",
+        "state": "future"
+    },
+    "zerohedge.com": {
+        "epoch": 1610323200.0,
+        "expiration_date": "11-jan-2021",
         "state": "future"
     },
     "zesep.com": {
