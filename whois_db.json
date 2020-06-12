@@ -11625,8 +11625,8 @@
         "state": "future"
     },
     "hearstmags.com": {
-        "epoch": 1591833600.0,
-        "expiration_date": "11-jun-2020",
+        "epoch": 1623369600.0,
+        "expiration_date": "11-jun-2021",
         "state": "future"
     },
     "hearstnp.com": {
@@ -13505,8 +13505,8 @@
         "state": "future"
     },
     "isitelab.io": {
-        "epoch": 1591660800.0,
-        "expiration_date": "09-jun-2020",
+        "epoch": 1623196800.0,
+        "expiration_date": "09-jun-2021",
         "state": "future"
     },
     "ismatlab.com": {
@@ -15329,6 +15329,11 @@
         "expiration_date": "02-mar-2022",
         "state": "future"
     },
+    "lr-ingest.io": {
+        "epoch": 1618617600.0,
+        "expiration_date": "17-apr-2021",
+        "state": "future"
+    },
     "lsfinteractive.com": {
         "epoch": 1604966400.0,
         "expiration_date": "10-nov-2020",
@@ -15495,8 +15500,8 @@
         "state": "future"
     },
     "m6web.fr": {
-        "epoch": 1591574400.0,
-        "expiration_date": "08-jun-2020",
+        "epoch": 1623110400.0,
+        "expiration_date": "08-jun-2021",
         "state": "future"
     },
     "ma-petite-recette.fr": {
@@ -21582,7 +21587,7 @@
     "reverbnation.com": {
         "epoch": 1591920000.0,
         "expiration_date": "12-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "revjet.com": {
         "epoch": 1600041600.0,
@@ -23900,8 +23905,8 @@
         "state": "future"
     },
     "soundcloud.com": {
-        "epoch": 1591574400.0,
-        "expiration_date": "08-jun-2020",
+        "epoch": 1623110400.0,
+        "expiration_date": "08-jun-2021",
         "state": "future"
     },
     "sourcecode.pro": {
@@ -28240,8 +28245,8 @@
         "state": "future"
     },
     "vizual.ai": {
-        "epoch": 1591488000.0,
-        "expiration_date": "07-jun-2020",
+        "epoch": 1654560000.0,
+        "expiration_date": "07-jun-2022",
         "state": "future"
     },
     "vizury.com": {
@@ -29010,9 +29015,9 @@
         "state": "future"
     },
     "webvoo.com": {
-        "epoch": 1591228800.0,
-        "expiration_date": "04-jun-2020",
-        "state": "past"
+        "epoch": 1622764800.0,
+        "expiration_date": "04-jun-2021",
+        "state": "future"
     },
     "webworx24.co.uk": {
         "epoch": 1596758400.0,
