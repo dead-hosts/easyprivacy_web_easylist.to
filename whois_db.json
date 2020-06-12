@@ -10,8 +10,8 @@
         "state": "future"
     },
     "0stats.com": {
-        "epoch": 1591574400.0,
-        "expiration_date": "08-jun-2020",
+        "epoch": 1623110400.0,
+        "expiration_date": "08-jun-2021",
         "state": "future"
     },
     "0x1f4b0.com": {
@@ -2005,8 +2005,8 @@
         "state": "future"
     },
     "analyti.io": {
-        "epoch": 1591315200.0,
-        "expiration_date": "05-jun-2020",
+        "epoch": 1622851200.0,
+        "expiration_date": "05-jun-2021",
         "state": "future"
     },
     "analytic.rocks": {
@@ -3065,8 +3065,8 @@
         "state": "future"
     },
     "b5media.com": {
-        "epoch": 1591574400.0,
-        "expiration_date": "08-jun-2020",
+        "epoch": 1623110400.0,
+        "expiration_date": "08-jun-2021",
         "state": "future"
     },
     "b8cdn.com": {
@@ -4432,6 +4432,11 @@
     "bzpics.com": {
         "epoch": 1611705600.0,
         "expiration_date": "27-jan-2021",
+        "state": "future"
+    },
+    "c-date.com": {
+        "epoch": 1594252800.0,
+        "expiration_date": "09-jul-2020",
         "state": "future"
     },
     "c-date.it": {
@@ -7520,8 +7525,8 @@
         "state": "future"
     },
     "dircont3.com": {
-        "epoch": 1591574400.0,
-        "expiration_date": "08-jun-2020",
+        "epoch": 1623110400.0,
+        "expiration_date": "08-jun-2021",
         "state": "future"
     },
     "directcrm.ru": {
@@ -8460,8 +8465,8 @@
         "state": "future"
     },
     "emarketeer.com": {
-        "epoch": 1591488000.0,
-        "expiration_date": "07-jun-2020",
+        "epoch": 1623024000.0,
+        "expiration_date": "07-jun-2021",
         "state": "future"
     },
     "embeddedanalytics.com": {
@@ -11275,8 +11280,8 @@
         "state": "future"
     },
     "graphinsider.com": {
-        "epoch": 1591660800.0,
-        "expiration_date": "09-jun-2020",
+        "epoch": 1623196800.0,
+        "expiration_date": "09-jun-2021",
         "state": "future"
     },
     "gravity.com": {
@@ -11340,8 +11345,8 @@
         "state": "future"
     },
     "growingio.com": {
-        "epoch": 1591747200.0,
-        "expiration_date": "10-jun-2020",
+        "epoch": 1686355200.0,
+        "expiration_date": "10-jun-2023",
         "state": "future"
     },
     "grumrt.com": {
@@ -16232,6 +16237,11 @@
     "mfio.cf": {
         "epoch": 1867190400.0,
         "expiration_date": "03-mar-2029",
+        "state": "future"
+    },
+    "mgid.com": {
+        "epoch": 1640822400.0,
+        "expiration_date": "30-dec-2021",
         "state": "future"
     },
     "mgz.com.ua": {
@@ -21425,8 +21435,8 @@
         "state": "future"
     },
     "research-artisan.com": {
-        "epoch": 1591660800.0,
-        "expiration_date": "09-jun-2020",
+        "epoch": 1623196800.0,
+        "expiration_date": "09-jun-2021",
         "state": "future"
     },
     "research-int.se": {
@@ -26525,8 +26535,8 @@
         "state": "future"
     },
     "trafix.ro": {
-        "epoch": 1591660800.0,
-        "expiration_date": "09-jun-2020",
+        "epoch": 1623196800.0,
+        "expiration_date": "09-jun-2021",
         "state": "future"
     },
     "trafiz.net": {
@@ -28205,8 +28215,8 @@
         "state": "future"
     },
     "vivistats.com": {
-        "epoch": 1591920000.0,
-        "expiration_date": "12-jun-2020",
+        "epoch": 1623456000.0,
+        "expiration_date": "12-jun-2021",
         "state": "future"
     },
     "vivocha.com": {
@@ -28990,8 +29000,8 @@
         "state": "future"
     },
     "webvisor.com": {
-        "epoch": 1591747200.0,
-        "expiration_date": "10-jun-2020",
+        "epoch": 1623283200.0,
+        "expiration_date": "10-jun-2021",
         "state": "future"
     },
     "webvisor.ru": {
