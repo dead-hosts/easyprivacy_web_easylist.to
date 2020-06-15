@@ -1995,8 +1995,8 @@
         "state": "future"
     },
     "analysis.fi": {
-        "epoch": 1592006400.0,
-        "expiration_date": "13-jun-2020",
+        "epoch": 1623542400.0,
+        "expiration_date": "13-jun-2021",
         "state": "future"
     },
     "analysistools.net": {
@@ -13355,9 +13355,9 @@
         "state": "future"
     },
     "ipcount.net": {
-        "epoch": 1591920000.0,
-        "expiration_date": "12-jun-2020",
-        "state": "past"
+        "epoch": 1623456000.0,
+        "expiration_date": "12-jun-2021",
+        "state": "future"
     },
     "iper2.com": {
         "epoch": 1628899200.0,
@@ -13957,7 +13957,7 @@
     "jwduahujge.ru": {
         "epoch": 1592006400.0,
         "expiration_date": "13-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "jwmstats.com": {
         "epoch": 1620604800.0,
@@ -15955,8 +15955,8 @@
         "state": "future"
     },
     "mebablo.com": {
-        "epoch": 1592179200.0,
-        "expiration_date": "15-jun-2020",
+        "epoch": 1623715200.0,
+        "expiration_date": "15-jun-2021",
         "state": "future"
     },
     "media-imdb.com": {
@@ -23200,9 +23200,9 @@
         "state": "future"
     },
     "simplehitcounter.com": {
-        "epoch": 1591920000.0,
-        "expiration_date": "12-jun-2020",
-        "state": "past"
+        "epoch": 1623456000.0,
+        "expiration_date": "12-jun-2021",
+        "state": "future"
     },
     "simplereach.com": {
         "epoch": 1615420800.0,
@@ -27825,8 +27825,8 @@
         "state": "future"
     },
     "verticalsearchworks.com": {
-        "epoch": 1592092800.0,
-        "expiration_date": "14-jun-2020",
+        "epoch": 1623628800.0,
+        "expiration_date": "14-jun-2021",
         "state": "future"
     },
     "vertster.com": {
@@ -27975,8 +27975,8 @@
         "state": "future"
     },
     "vilynx.com": {
-        "epoch": 1592092800.0,
-        "expiration_date": "14-jun-2020",
+        "epoch": 1623628800.0,
+        "expiration_date": "14-jun-2021",
         "state": "future"
     },
     "vimeo.com": {
@@ -28570,8 +28570,8 @@
         "state": "future"
     },
     "waudit.cz": {
-        "epoch": 1591228800.0,
-        "expiration_date": "04-jun-2020",
+        "epoch": 1654300800.0,
+        "expiration_date": "04-jun-2022",
         "state": "future"
     },
     "way2traffic.com": {
@@ -30182,6 +30182,11 @@
     "zesep.com": {
         "epoch": 1615507200.0,
         "expiration_date": "12-mar-2021",
+        "state": "future"
+    },
+    "zeustechnology.com": {
+        "epoch": 1611360000.0,
+        "expiration_date": "23-jan-2021",
         "state": "future"
     },
     "ziffdavisb2b.com": {
