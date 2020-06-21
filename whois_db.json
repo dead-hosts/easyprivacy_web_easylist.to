@@ -7442,7 +7442,7 @@
     "digiland.it": {
         "epoch": 1592524800.0,
         "expiration_date": "19-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "digimedia.com": {
         "epoch": 1722297600.0,
@@ -10837,7 +10837,7 @@
     "gibts-hier.com": {
         "epoch": 1592697600.0,
         "expiration_date": "21-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "giddycoat.com": {
         "epoch": 1596412800.0,
@@ -25830,8 +25830,8 @@
         "state": "future"
     },
     "thron.com": {
-        "epoch": 1592524800.0,
-        "expiration_date": "19-jun-2020",
+        "epoch": 1624060800.0,
+        "expiration_date": "19-jun-2021",
         "state": "future"
     },
     "thrtle.com": {
