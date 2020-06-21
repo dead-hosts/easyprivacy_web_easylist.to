@@ -1250,8 +1250,8 @@
         "state": "future"
     },
     "adtarget.me": {
-        "epoch": 1592524800.0,
-        "expiration_date": "19-jun-2020",
+        "epoch": 1687132800.0,
+        "expiration_date": "19-jun-2023",
         "state": "future"
     },
     "adthletic.com": {
@@ -1340,8 +1340,8 @@
         "state": "future"
     },
     "adwstats.com": {
-        "epoch": 1592524800.0,
-        "expiration_date": "19-jun-2020",
+        "epoch": 1624060800.0,
+        "expiration_date": "19-jun-2021",
         "state": "future"
     },
     "adxadtracker.com": {
@@ -1680,8 +1680,8 @@
         "state": "future"
     },
     "alexametrics.com": {
-        "epoch": 1592524800.0,
-        "expiration_date": "19-jun-2020",
+        "epoch": 1624060800.0,
+        "expiration_date": "19-jun-2021",
         "state": "future"
     },
     "algopine.com": {
@@ -2270,8 +2270,8 @@
         "state": "future"
     },
     "ape78cn2.com": {
-        "epoch": 1592697600.0,
-        "expiration_date": "21-jun-2020",
+        "epoch": 1624233600.0,
+        "expiration_date": "21-jun-2021",
         "state": "future"
     },
     "apester.com": {
@@ -4490,8 +4490,8 @@
         "state": "future"
     },
     "cactusglobal.io": {
-        "epoch": 1592697600.0,
-        "expiration_date": "21-jun-2020",
+        "epoch": 1624233600.0,
+        "expiration_date": "21-jun-2021",
         "state": "future"
     },
     "cadreon.com": {
@@ -5430,8 +5430,8 @@
         "state": "future"
     },
     "clicksen.se": {
-        "epoch": 1592697600.0,
-        "expiration_date": "21-jun-2020",
+        "epoch": 1624233600.0,
+        "expiration_date": "21-jun-2021",
         "state": "future"
     },
     "clickshift.com": {
@@ -5447,7 +5447,7 @@
     "clicktale.net": {
         "epoch": 1592697600.0,
         "expiration_date": "21-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "clicktrack1.com": {
         "epoch": 1618876800.0,
@@ -8784,6 +8784,11 @@
         "expiration_date": "26-nov-2025",
         "state": "future"
     },
+    "etp-prod.com": {
+        "epoch": 1601683200.0,
+        "expiration_date": "03-oct-2020",
+        "state": "future"
+    },
     "etracker.com": {
         "epoch": 1606003200.0,
         "expiration_date": "22-nov-2020",
@@ -9170,9 +9175,9 @@
         "state": "future"
     },
     "fabricww.com": {
-        "epoch": 1592438400.0,
-        "expiration_date": "18-jun-2020",
-        "state": "past"
+        "epoch": 1623974400.0,
+        "expiration_date": "18-jun-2021",
+        "state": "future"
     },
     "facebook.com": {
         "epoch": 1837987200.0,
@@ -11110,8 +11115,8 @@
         "state": "future"
     },
     "googleadservices.com": {
-        "epoch": 1592524800.0,
-        "expiration_date": "19-jun-2020",
+        "epoch": 1624060800.0,
+        "expiration_date": "19-jun-2021",
         "state": "future"
     },
     "googleanalytcs.com": {
@@ -11912,7 +11917,7 @@
     "hivps.xyz": {
         "epoch": 1592697600.0,
         "expiration_date": "21-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "hlserve.com": {
         "epoch": 1601337600.0,
@@ -12870,8 +12875,8 @@
         "state": "future"
     },
     "infopro-insight.com": {
-        "epoch": 1592524800.0,
-        "expiration_date": "19-jun-2020",
+        "epoch": 1624060800.0,
+        "expiration_date": "19-jun-2021",
         "state": "future"
     },
     "infoprodata.com": {
@@ -15145,8 +15150,8 @@
         "state": "future"
     },
     "locotrack.net": {
-        "epoch": 1592611200.0,
-        "expiration_date": "20-jun-2020",
+        "epoch": 1624147200.0,
+        "expiration_date": "20-jun-2021",
         "state": "future"
     },
     "logaholic.com": {
@@ -15885,8 +15890,8 @@
         "state": "future"
     },
     "mbww.com": {
-        "epoch": 1592524800.0,
-        "expiration_date": "19-jun-2020",
+        "epoch": 1624060800.0,
+        "expiration_date": "19-jun-2021",
         "state": "future"
     },
     "mcloudglobal.com": {
