@@ -1390,8 +1390,8 @@
         "state": "future"
     },
     "affilbox.cz": {
-        "epoch": 1592524800.0,
-        "expiration_date": "19-jun-2020",
+        "epoch": 1655596800.0,
+        "expiration_date": "19-jun-2022",
         "state": "future"
     },
     "affiliates-pro.com": {
@@ -2767,7 +2767,7 @@
     "audtd.com": {
         "epoch": 1592697600.0,
         "expiration_date": "21-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "auriq.com": {
         "epoch": 1617062400.0,
@@ -4905,8 +4905,8 @@
         "state": "future"
     },
     "cdnmaster.cn": {
-        "epoch": 1592697600.0,
-        "expiration_date": "21-jun-2020",
+        "epoch": 1624233600.0,
+        "expiration_date": "21-jun-2021",
         "state": "future"
     },
     "cdnmaster.com": {
@@ -4915,8 +4915,8 @@
         "state": "future"
     },
     "cdnplanet.com": {
-        "epoch": 1592524800.0,
-        "expiration_date": "19-jun-2020",
+        "epoch": 1624060800.0,
+        "expiration_date": "19-jun-2021",
         "state": "future"
     },
     "cdntrf.com": {
@@ -12640,8 +12640,8 @@
         "state": "future"
     },
     "imagedoll.com": {
-        "epoch": 1592524800.0,
-        "expiration_date": "19-jun-2020",
+        "epoch": 1624060800.0,
+        "expiration_date": "19-jun-2021",
         "state": "future"
     },
     "imagefap.com": {
@@ -14730,8 +14730,8 @@
         "state": "future"
     },
     "lentainform.com": {
-        "epoch": 1592611200.0,
-        "expiration_date": "20-jun-2020",
+        "epoch": 1624147200.0,
+        "expiration_date": "20-jun-2021",
         "state": "future"
     },
     "leokross.com": {
@@ -18650,8 +18650,8 @@
         "state": "future"
     },
     "onlinewebstat.com": {
-        "epoch": 1592697600.0,
-        "expiration_date": "21-jun-2020",
+        "epoch": 1624233600.0,
+        "expiration_date": "21-jun-2021",
         "state": "future"
     },
     "onlysix.co.uk": {
@@ -28019,6 +28019,11 @@
         "expiration_date": "29-mar-2021",
         "state": "future"
     },
+    "viously.com": {
+        "epoch": 1808179200.0,
+        "expiration_date": "20-apr-2027",
+        "state": "future"
+    },
     "vipstatic.com": {
         "epoch": 1720137600.0,
         "expiration_date": "05-jul-2024",
@@ -29160,8 +29165,8 @@
         "state": "future"
     },
     "whoseesyou.com": {
-        "epoch": 1592524800.0,
-        "expiration_date": "19-jun-2020",
+        "epoch": 1624060800.0,
+        "expiration_date": "19-jun-2021",
         "state": "future"
     },
     "whosread.com": {
