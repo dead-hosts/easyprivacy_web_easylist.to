@@ -720,8 +720,8 @@
         "state": "future"
     },
     "accuradio.com": {
-        "epoch": 1592611200.0,
-        "expiration_date": "20-jun-2020",
+        "epoch": 1624147200.0,
+        "expiration_date": "20-jun-2021",
         "state": "future"
     },
     "accuratefiles.com": {
@@ -6010,8 +6010,8 @@
         "state": "future"
     },
     "consumerreports.org": {
-        "epoch": 1592524800.0,
-        "expiration_date": "19-jun-2020",
+        "epoch": 1655596800.0,
+        "expiration_date": "19-jun-2022",
         "state": "future"
     },
     "contactatonce.com": {
@@ -13297,7 +13297,7 @@
     "iol.it": {
         "epoch": 1592524800.0,
         "expiration_date": "19-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "iolam.it": {
         "epoch": 1611446400.0,
@@ -18140,8 +18140,8 @@
         "state": "future"
     },
     "novinite.com": {
-        "epoch": 1592611200.0,
-        "expiration_date": "20-jun-2020",
+        "epoch": 1624147200.0,
+        "expiration_date": "20-jun-2021",
         "state": "future"
     },
     "nowinteract.com": {
@@ -18795,8 +18795,8 @@
         "state": "future"
     },
     "optimum.net": {
-        "epoch": 1592524800.0,
-        "expiration_date": "19-jun-2020",
+        "epoch": 1624060800.0,
+        "expiration_date": "19-jun-2021",
         "state": "future"
     },
     "optin-machine.com": {
