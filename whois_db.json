@@ -26137,7 +26137,7 @@
     "topolino.it": {
         "epoch": 1592784000.0,
         "expiration_date": "22-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "topsem.com": {
         "epoch": 1602028800.0,
@@ -27165,8 +27165,8 @@
         "state": "future"
     },
     "uai.com.br": {
-        "epoch": 1592524800.0,
-        "expiration_date": "19-jun-2020",
+        "epoch": 1687132800.0,
+        "expiration_date": "19-jun-2023",
         "state": "future"
     },
     "uapoisk.net": {
