@@ -20730,8 +20730,8 @@
         "state": "future"
     },
     "questionmarket.com": {
-        "epoch": 1592611200.0,
-        "expiration_date": "20-jun-2020",
+        "epoch": 1624147200.0,
+        "expiration_date": "20-jun-2021",
         "state": "future"
     },
     "questionpro.com": {
@@ -21970,8 +21970,8 @@
         "state": "future"
     },
     "rsys2.net": {
-        "epoch": 1592611200.0,
-        "expiration_date": "20-jun-2020",
+        "epoch": 1624147200.0,
+        "expiration_date": "20-jun-2021",
         "state": "future"
     },
     "rt.ru": {
@@ -25640,8 +25640,8 @@
         "state": "future"
     },
     "thefind.com": {
-        "epoch": 1592524800.0,
-        "expiration_date": "19-jun-2020",
+        "epoch": 1624060800.0,
+        "expiration_date": "19-jun-2021",
         "state": "future"
     },
     "thefreedictionary.com": {
@@ -29285,9 +29285,9 @@
         "state": "future"
     },
     "wirtschaftspresse.biz": {
-        "epoch": 1588809600.0,
-        "expiration_date": "07-may-2020",
-        "state": "past"
+        "epoch": 1620345600.0,
+        "expiration_date": "07-may-2021",
+        "state": "future"
     },
     "wisetrack.net": {
         "epoch": 1610323200.0,
