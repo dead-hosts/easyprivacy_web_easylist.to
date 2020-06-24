@@ -740,8 +740,8 @@
         "state": "future"
     },
     "acetrk.com": {
-        "epoch": 1592870400.0,
-        "expiration_date": "23-jun-2020",
+        "epoch": 1624406400.0,
+        "expiration_date": "23-jun-2021",
         "state": "future"
     },
     "acexedge.com": {
@@ -1485,8 +1485,8 @@
         "state": "future"
     },
     "agentanalytics.com": {
-        "epoch": 1592870400.0,
-        "expiration_date": "23-jun-2020",
+        "epoch": 1624406400.0,
+        "expiration_date": "23-jun-2021",
         "state": "future"
     },
     "agentinteractive.com": {
@@ -5445,9 +5445,9 @@
         "state": "future"
     },
     "clicktale.net": {
-        "epoch": 1592697600.0,
-        "expiration_date": "21-jun-2020",
-        "state": "past"
+        "epoch": 1624233600.0,
+        "expiration_date": "21-jun-2021",
+        "state": "future"
     },
     "clicktrack1.com": {
         "epoch": 1618876800.0,
@@ -6560,8 +6560,8 @@
         "state": "future"
     },
     "crmmetrix.fr": {
-        "epoch": 1592956800.0,
-        "expiration_date": "24-jun-2020",
+        "epoch": 1624492800.0,
+        "expiration_date": "24-jun-2021",
         "state": "future"
     },
     "crmmetrixwris.com": {
@@ -9105,8 +9105,8 @@
         "state": "future"
     },
     "extreme-ip-lookup.com": {
-        "epoch": 1592956800.0,
-        "expiration_date": "24-jun-2020",
+        "epoch": 1624492800.0,
+        "expiration_date": "24-jun-2021",
         "state": "future"
     },
     "extremetech.com": {
@@ -11915,9 +11915,9 @@
         "state": "future"
     },
     "hivps.xyz": {
-        "epoch": 1592697600.0,
-        "expiration_date": "21-jun-2020",
-        "state": "past"
+        "epoch": 1624233600.0,
+        "expiration_date": "21-jun-2021",
+        "state": "future"
     },
     "hlserve.com": {
         "epoch": 1601337600.0,
@@ -14875,8 +14875,8 @@
         "state": "future"
     },
     "link-smart.com": {
-        "epoch": 1592956800.0,
-        "expiration_date": "24-jun-2020",
+        "epoch": 1624492800.0,
+        "expiration_date": "24-jun-2021",
         "state": "future"
     },
     "linkbucks.com": {
@@ -15395,8 +15395,8 @@
         "state": "future"
     },
     "lumatag.co.uk": {
-        "epoch": 1592870400.0,
-        "expiration_date": "23-jun-2020",
+        "epoch": 1624406400.0,
+        "expiration_date": "23-jun-2021",
         "state": "future"
     },
     "lumberamount.com": {
@@ -15500,8 +15500,8 @@
         "state": "future"
     },
     "m-t.io": {
-        "epoch": 1592870400.0,
-        "expiration_date": "23-jun-2020",
+        "epoch": 1624406400.0,
+        "expiration_date": "23-jun-2021",
         "state": "future"
     },
     "m1ll1c4n0.com": {
@@ -18315,8 +18315,8 @@
         "state": "future"
     },
     "o-s.io": {
-        "epoch": 1592870400.0,
-        "expiration_date": "23-jun-2020",
+        "epoch": 1655942400.0,
+        "expiration_date": "23-jun-2022",
         "state": "future"
     },
     "o2.cz": {
@@ -18802,7 +18802,7 @@
     "optin-machine.com": {
         "epoch": 1592956800.0,
         "expiration_date": "24-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "optinproject.com": {
         "epoch": 1613347200.0,
@@ -18872,7 +18872,7 @@
     "oribi.io": {
         "epoch": 1592956800.0,
         "expiration_date": "24-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "orquideassp.com": {
         "epoch": 1616889600.0,
