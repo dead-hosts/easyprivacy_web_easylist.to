@@ -21687,7 +21687,7 @@
     "riastats.com": {
         "epoch": 1592956800.0,
         "expiration_date": "24-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "richard-group.com": {
         "epoch": 1656633600.0,
@@ -23795,9 +23795,9 @@
         "state": "future"
     },
     "socketviking.net": {
-        "epoch": 1592697600.0,
-        "expiration_date": "21-jun-2020",
-        "state": "past"
+        "epoch": 1624233600.0,
+        "expiration_date": "21-jun-2021",
+        "state": "future"
     },
     "socsi.in": {
         "epoch": 1596067200.0,
@@ -24545,8 +24545,8 @@
         "state": "future"
     },
     "stats2.com": {
-        "epoch": 1592956800.0,
-        "expiration_date": "24-jun-2020",
+        "epoch": 1624492800.0,
+        "expiration_date": "24-jun-2021",
         "state": "future"
     },
     "stats21.com": {
@@ -27924,6 +27924,11 @@
         "expiration_date": "20-jun-2021",
         "state": "future"
     },
+    "videoplayerhub.com": {
+        "epoch": 1597017600.0,
+        "expiration_date": "10-aug-2020",
+        "state": "future"
+    },
     "videoplaza.com": {
         "epoch": 1659744000.0,
         "expiration_date": "06-aug-2022",
@@ -28765,8 +28770,8 @@
         "state": "future"
     },
     "webflowmetrics.com": {
-        "epoch": 1592956800.0,
-        "expiration_date": "24-jun-2020",
+        "epoch": 1624492800.0,
+        "expiration_date": "24-jun-2021",
         "state": "future"
     },
     "webforensics.co.uk": {
@@ -30325,8 +30330,8 @@
         "state": "future"
     },
     "zqtk.net": {
-        "epoch": 1592956800.0,
-        "expiration_date": "24-jun-2020",
+        "epoch": 1624492800.0,
+        "expiration_date": "24-jun-2021",
         "state": "future"
     },
     "zroitracker.com": {
