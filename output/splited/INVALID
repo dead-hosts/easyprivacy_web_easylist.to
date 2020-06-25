@@ -61,6 +61,7 @@ kayak.*                                                                         
 lcs.naver.                                                                                           SYNTAX     XXX        2020-06-25T00:29:14.527539
 linguee.com*                                                                                         SYNTAX     XXX        2020-06-25T00:29:14.986365
 logger-*.dailymotion.com                                                                             SYNTAX     XXX        2020-06-25T00:29:15.846101
+log*.ku6.com                                                                                         SYNTAX     XXX        2020-06-25T01:41:34.766249
 log-*.previewnetworks.com                                                                            SYNTAX     XXX        2020-06-24T23:52:22.355668
 mcdp-*.outbrain.com                                                                                  SYNTAX     XXX        2020-06-24T23:52:23.995888
 meetrics.netbb-                                                                                      SYNTAX     XXX        2020-06-24T21:45:19.396030
@@ -70,6 +71,7 @@ minero-proxy-*.sh                                                               
 pixel.archive.                                                                                       SYNTAX     XXX        2020-06-25T01:05:36.893385
 pulsar.ebay.                                                                                         SYNTAX     XXX        2020-06-25T01:05:38.995571
 rover.ebay.                                                                                          SYNTAX     XXX        2020-06-25T01:05:42.704663
+sapo.*                                                                                               SYNTAX     XXX        2020-06-25T01:41:41.944120
 site.flashx.                                                                                         SYNTAX     XXX        2020-06-24T22:17:13.855867
 skyscanner.*                                                                                         SYNTAX     XXX        2020-06-25T01:05:46.366265
 skyscanner.*                                                                                         SYNTAX     XXX        2020-06-25T01:05:46.373264
@@ -79,6 +81,7 @@ startpage.*                                                                     
 startpage.*                                                                                          SYNTAX     XXX        2020-06-25T01:05:49.085458
 stats2.*.fdnames.com                                                                                 SYNTAX     XXX        2020-06-25T00:28:33.219416
 stats-*.p2pnow.ru                                                                                    SYNTAX     XXX        2020-06-25T00:28:37.812160
+stat.*.v-56.com                                                                                      SYNTAX     XXX        2020-06-25T01:41:35.969454
 tagcommander.laredoute.                                                                              SYNTAX     XXX        2020-06-25T01:05:51.102521
 tags.aljazeera.                                                                                      SYNTAX     XXX        2020-06-25T01:05:51.132908
 targeting.*.arcpublishing.com                                                                        SYNTAX     XXX        2020-06-24T23:52:38.316014
@@ -92,6 +95,7 @@ ts.delfi.                                                                       
 vice.com*                                                                                            SYNTAX     XXX        2020-06-25T01:05:58.530693
 vice.com*                                                                                            SYNTAX     XXX        2020-06-25T01:05:58.591560
 vtnlog-*.elb.amazonaws.com                                                                           SYNTAX     XXX        2020-06-24T23:52:44.507097
+wawacity.*                                                                                           SYNTAX     XXX        2020-06-25T01:41:32.255782
 www.google.*                                                                                         SYNTAX     XXX        2020-06-25T01:06:03.504971
 www.imdb.*                                                                                           SYNTAX     XXX        2020-06-25T01:06:03.512514
 yandex.*                                                                                             SYNTAX     XXX        2020-06-24T23:52:46.685939
