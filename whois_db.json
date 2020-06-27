@@ -9895,8 +9895,8 @@
         "state": "future"
     },
     "foreseeresults.com": {
-        "epoch": 1593129600.0,
-        "expiration_date": "26-jun-2020",
+        "epoch": 1687737600.0,
+        "expiration_date": "26-jun-2023",
         "state": "future"
     },
     "forkcdn.com": {
@@ -13567,6 +13567,11 @@
     "iteye.com": {
         "epoch": 1611964800.0,
         "expiration_date": "30-jan-2021",
+        "state": "future"
+    },
+    "ithinkthereforeiam.net": {
+        "epoch": 1618012800.0,
+        "expiration_date": "10-apr-2021",
         "state": "future"
     },
     "itop.cz": {
@@ -18800,9 +18805,9 @@
         "state": "future"
     },
     "optin-machine.com": {
-        "epoch": 1592956800.0,
-        "expiration_date": "24-jun-2020",
-        "state": "past"
+        "epoch": 1624492800.0,
+        "expiration_date": "24-jun-2021",
+        "state": "future"
     },
     "optinproject.com": {
         "epoch": 1613347200.0,
@@ -18870,9 +18875,9 @@
         "state": "future"
     },
     "oribi.io": {
-        "epoch": 1592956800.0,
-        "expiration_date": "24-jun-2020",
-        "state": "past"
+        "epoch": 1624492800.0,
+        "expiration_date": "24-jun-2021",
+        "state": "future"
     },
     "orquideassp.com": {
         "epoch": 1616889600.0,
@@ -19375,8 +19380,8 @@
         "state": "future"
     },
     "perfops.net": {
-        "epoch": 1593129600.0,
-        "expiration_date": "26-jun-2020",
+        "epoch": 1624665600.0,
+        "expiration_date": "26-jun-2021",
         "state": "future"
     },
     "performanceanalyser.net": {
@@ -20120,8 +20125,8 @@
         "state": "future"
     },
     "precisioncounter.com": {
-        "epoch": 1593043200.0,
-        "expiration_date": "25-jun-2020",
+        "epoch": 1624579200.0,
+        "expiration_date": "25-jun-2021",
         "state": "future"
     },
     "predicta.net": {
@@ -20925,8 +20930,8 @@
         "state": "future"
     },
     "rankinteractive.com": {
-        "epoch": 1593216000.0,
-        "expiration_date": "27-jun-2020",
+        "epoch": 1624752000.0,
+        "expiration_date": "27-jun-2021",
         "state": "future"
     },
     "rapidcounter.com": {
