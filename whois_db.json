@@ -11530,8 +11530,8 @@
         "state": "future"
     },
     "hartgeld.com": {
-        "epoch": 1593129600.0,
-        "expiration_date": "26-jun-2020",
+        "epoch": 1624665600.0,
+        "expiration_date": "26-jun-2021",
         "state": "future"
     },
     "hasbro.com": {
@@ -17617,6 +17617,11 @@
     "neon-lab.com": {
         "epoch": 1611100800.0,
         "expiration_date": "20-jan-2021",
+        "state": "future"
+    },
+    "neowin.net": {
+        "epoch": 1696204800.0,
+        "expiration_date": "02-oct-2023",
         "state": "future"
     },
     "nepohita.com": {
@@ -29830,9 +29835,9 @@
         "state": "future"
     },
     "yellowpages.co.in": {
-        "epoch": 1589328000.0,
-        "expiration_date": "13-may-2020",
-        "state": "past"
+        "epoch": 1620864000.0,
+        "expiration_date": "13-may-2021",
+        "state": "future"
     },
     "yellowpages.com": {
         "epoch": 1659312000.0,
