@@ -4734,6 +4734,11 @@
         "expiration_date": "08-apr-2026",
         "state": "future"
     },
+    "carpentercomparison.com": {
+        "epoch": 1611619200.0,
+        "expiration_date": "26-jan-2021",
+        "state": "future"
+    },
     "carrotquest.io": {
         "epoch": 1617753600.0,
         "expiration_date": "07-apr-2021",
@@ -5815,8 +5820,8 @@
         "state": "future"
     },
     "coinzillatag.com": {
-        "epoch": 1593475200.0,
-        "expiration_date": "30-jun-2020",
+        "epoch": 1625011200.0,
+        "expiration_date": "30-jun-2021",
         "state": "future"
     },
     "coll1onf.com": {
@@ -6782,6 +6787,11 @@
     "current.com": {
         "epoch": 1621555200.0,
         "expiration_date": "21-may-2021",
+        "state": "future"
+    },
+    "curvycry.com": {
+        "epoch": 1616025600.0,
+        "expiration_date": "18-mar-2021",
         "state": "future"
     },
     "customer.io": {
@@ -9357,6 +9367,11 @@
     "fastwebcounter.com": {
         "epoch": 1621382400.0,
         "expiration_date": "19-may-2021",
+        "state": "future"
+    },
+    "fatcoil.com": {
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
         "state": "future"
     },
     "fathomseo.com": {
@@ -15309,6 +15324,11 @@
         "expiration_date": "09-aug-2020",
         "state": "future"
     },
+    "lorenzourban.com": {
+        "epoch": 1611964800.0,
+        "expiration_date": "30-jan-2021",
+        "state": "future"
+    },
     "losital.ru": {
         "epoch": 1589846400.0,
         "expiration_date": "19-may-2020",
@@ -20745,8 +20765,8 @@
         "state": "future"
     },
     "questionpro.com": {
-        "epoch": 1593475200.0,
-        "expiration_date": "30-jun-2020",
+        "epoch": 1625011200.0,
+        "expiration_date": "30-jun-2021",
         "state": "future"
     },
     "questradeaffiliates.com": {
@@ -20872,6 +20892,11 @@
     "radiotime.com": {
         "epoch": 1613260800.0,
         "expiration_date": "14-feb-2021",
+        "state": "future"
+    },
+    "railwayreason.com": {
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
         "state": "future"
     },
     "raintwig.com": {
@@ -21635,8 +21660,8 @@
         "state": "future"
     },
     "rewardtv.com": {
-        "epoch": 1593475200.0,
-        "expiration_date": "30-jun-2020",
+        "epoch": 1625011200.0,
+        "expiration_date": "30-jun-2021",
         "state": "future"
     },
     "reztrack.com": {
@@ -23385,8 +23410,8 @@
         "state": "future"
     },
     "sitetag.us": {
-        "epoch": 1593388800.0,
-        "expiration_date": "29-jun-2020",
+        "epoch": 1656460800.0,
+        "expiration_date": "29-jun-2022",
         "state": "future"
     },
     "sitetagger.co.uk": {
@@ -24762,7 +24787,7 @@
     "stormiq.com": {
         "epoch": 1593475200.0,
         "expiration_date": "30-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "stormyachiever.com": {
         "epoch": 1648944000.0,
@@ -24992,6 +25017,11 @@
     "supercounters.com": {
         "epoch": 1647734400.0,
         "expiration_date": "20-mar-2022",
+        "state": "future"
+    },
+    "superficialsquare.com": {
+        "epoch": 1664064000.0,
+        "expiration_date": "25-sep-2022",
         "state": "future"
     },
     "superfunblog.com": {
@@ -26675,8 +26705,8 @@
         "state": "future"
     },
     "trendcounter.com": {
-        "epoch": 1593388800.0,
-        "expiration_date": "29-jun-2020",
+        "epoch": 1624924800.0,
+        "expiration_date": "29-jun-2021",
         "state": "future"
     },
     "trendemon.com": {
@@ -29550,8 +29580,8 @@
         "state": "future"
     },
     "wundercounter.com": {
-        "epoch": 1593475200.0,
-        "expiration_date": "30-jun-2020",
+        "epoch": 1625011200.0,
+        "expiration_date": "30-jun-2021",
         "state": "future"
     },
     "wunderground.com": {
