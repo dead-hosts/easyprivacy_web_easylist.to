@@ -8740,8 +8740,8 @@
         "state": "future"
     },
     "estadisticasgratis.com": {
-        "epoch": 1593302400.0,
-        "expiration_date": "28-jun-2020",
+        "epoch": 1624838400.0,
+        "expiration_date": "28-jun-2021",
         "state": "future"
     },
     "estara.com": {
@@ -8855,8 +8855,8 @@
         "state": "future"
     },
     "euroads.dk": {
-        "epoch": 1593475200.0,
-        "expiration_date": "30-jun-2020",
+        "epoch": 1625011200.0,
+        "expiration_date": "30-jun-2021",
         "state": "future"
     },
     "eurocounter.com": {
@@ -8920,8 +8920,8 @@
         "state": "future"
     },
     "evgnet.com": {
-        "epoch": 1593302400.0,
-        "expiration_date": "28-jun-2020",
+        "epoch": 1624838400.0,
+        "expiration_date": "28-jun-2021",
         "state": "future"
     },
     "evidon.com": {
@@ -10472,6 +10472,11 @@
     "fuziontech.net": {
         "epoch": 1618185600.0,
         "expiration_date": "12-apr-2021",
+        "state": "future"
+    },
+    "fwcdn1.com": {
+        "epoch": 1612656000.0,
+        "expiration_date": "07-feb-2021",
         "state": "future"
     },
     "fwix.com": {
@@ -12650,8 +12655,8 @@
         "state": "future"
     },
     "im-apps.net": {
-        "epoch": 1593388800.0,
-        "expiration_date": "29-jun-2020",
+        "epoch": 1624924800.0,
+        "expiration_date": "29-jun-2021",
         "state": "future"
     },
     "imagedoll.com": {
@@ -19300,8 +19305,8 @@
         "state": "future"
     },
     "peakcounter.dk": {
-        "epoch": 1593475200.0,
-        "expiration_date": "30-jun-2020",
+        "epoch": 1625011200.0,
+        "expiration_date": "30-jun-2021",
         "state": "future"
     },
     "pearltrees.com": {
@@ -21062,6 +21067,11 @@
     "reachsocket.com": {
         "epoch": 1613433600.0,
         "expiration_date": "16-feb-2021",
+        "state": "future"
+    },
+    "reactandshare.com": {
+        "epoch": 1616284800.0,
+        "expiration_date": "21-mar-2021",
         "state": "future"
     },
     "reactful.com": {
@@ -26747,7 +26757,7 @@
     "trick17.it": {
         "epoch": 1593475200.0,
         "expiration_date": "30-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "triggeredmessaging.com": {
         "epoch": 1598313600.0,
@@ -30277,7 +30287,7 @@
     "zipstat.dk": {
         "epoch": 1593475200.0,
         "expiration_date": "30-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "zirve100.com": {
         "epoch": 1618531200.0,
