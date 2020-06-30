@@ -4395,8 +4395,8 @@
         "state": "future"
     },
     "buzzfed.com": {
-        "epoch": 1593388800.0,
-        "expiration_date": "29-jun-2020",
+        "epoch": 1656460800.0,
+        "expiration_date": "29-jun-2022",
         "state": "future"
     },
     "buzzfeed.com": {
@@ -5092,6 +5092,11 @@
     "cheqzone.com": {
         "epoch": 1598140800.0,
         "expiration_date": "23-aug-2020",
+        "state": "future"
+    },
+    "chicagotribune.com": {
+        "epoch": 1621382400.0,
+        "expiration_date": "19-may-2021",
         "state": "future"
     },
     "chickensaladandads.com": {
