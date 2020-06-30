@@ -12229,6 +12229,11 @@
         "expiration_date": "18-sep-2020",
         "state": "future"
     },
+    "hs.fi": {
+        "epoch": 1689292800.0,
+        "expiration_date": "14-jul-2023",
+        "state": "future"
+    },
     "hsadspixel.net": {
         "epoch": 1618963200.0,
         "expiration_date": "21-apr-2021",
@@ -15779,6 +15784,11 @@
         "expiration_date": "09-jun-2021",
         "state": "future"
     },
+    "marmiton.org": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
     "maropost.com": {
         "epoch": 1628640000.0,
         "expiration_date": "11-aug-2021",
@@ -18539,6 +18549,11 @@
         "expiration_date": "27-jul-2020",
         "state": "future"
     },
+    "omataloyhtio.fi": {
+        "epoch": 1611792000.0,
+        "expiration_date": "28-jan-2021",
+        "state": "future"
+    },
     "omeda.com": {
         "epoch": 1735516800.0,
         "expiration_date": "30-dec-2024",
@@ -20235,8 +20250,8 @@
         "state": "future"
     },
     "prisjakt.nu": {
-        "epoch": 1593388800.0,
-        "expiration_date": "29-jun-2020",
+        "epoch": 1624924800.0,
+        "expiration_date": "29-jun-2021",
         "state": "future"
     },
     "privacytool.org": {
@@ -20587,6 +20602,11 @@
     "putpat.tv": {
         "epoch": 1619308800.0,
         "expiration_date": "25-apr-2021",
+        "state": "future"
+    },
+    "puutarha.net": {
+        "epoch": 1636070400.0,
+        "expiration_date": "05-nov-2021",
         "state": "future"
     },
     "pvmax.net": {
@@ -24047,7 +24067,7 @@
     "spaziogames.it": {
         "epoch": 1593388800.0,
         "expiration_date": "29-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "speakertext.com": {
         "epoch": 1650585600.0,
@@ -25580,8 +25600,8 @@
         "state": "future"
     },
     "terra.com.mx": {
-        "epoch": 1593388800.0,
-        "expiration_date": "29-jun-2020",
+        "epoch": 1624924800.0,
+        "expiration_date": "29-jun-2021",
         "state": "future"
     },
     "tes-game.ru": {
