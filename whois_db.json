@@ -13505,8 +13505,8 @@
         "state": "future"
     },
     "ipstatp.com": {
-        "epoch": 1593734400.0,
-        "expiration_date": "03-jul-2020",
+        "epoch": 1625270400.0,
+        "expiration_date": "03-jul-2021",
         "state": "future"
     },
     "iqdata.ai": {
@@ -27995,8 +27995,8 @@
         "state": "future"
     },
     "videoly.co": {
-        "epoch": 1593648000.0,
-        "expiration_date": "02-jul-2020",
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
         "state": "future"
     },
     "videoplayer2.xyz": {
@@ -28122,7 +28122,7 @@
     "viralize.tv": {
         "epoch": 1593734400.0,
         "expiration_date": "03-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "viralninjas.com": {
         "epoch": 1598918400.0,
@@ -28480,8 +28480,8 @@
         "state": "future"
     },
     "vooxe.com": {
-        "epoch": 1593734400.0,
-        "expiration_date": "03-jul-2020",
+        "epoch": 1625270400.0,
+        "expiration_date": "03-jul-2021",
         "state": "future"
     },
     "votigo.com": {
