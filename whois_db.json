@@ -23284,6 +23284,11 @@
         "expiration_date": "18-aug-2020",
         "state": "future"
     },
+    "simpleanalyticscdn.com": {
+        "epoch": 1617148800.0,
+        "expiration_date": "31-mar-2021",
+        "state": "future"
+    },
     "simpleheatmaps.com": {
         "epoch": 1601769600.0,
         "expiration_date": "04-oct-2020",
