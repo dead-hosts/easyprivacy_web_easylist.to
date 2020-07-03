@@ -5029,6 +5029,11 @@
         "expiration_date": "11-aug-2022",
         "state": "future"
     },
+    "change.org": {
+        "epoch": 1863475200.0,
+        "expiration_date": "19-jan-2029",
+        "state": "future"
+    },
     "channel4.com": {
         "epoch": 1605484800.0,
         "expiration_date": "16-nov-2020",
@@ -23005,8 +23010,8 @@
         "state": "future"
     },
     "sh.st": {
-        "epoch": 1593561600.0,
-        "expiration_date": "01-jul-2020",
+        "epoch": 1625097600.0,
+        "expiration_date": "01-jul-2021",
         "state": "future"
     },
     "share-online.biz": {
@@ -23130,8 +23135,8 @@
         "state": "future"
     },
     "shopping.com": {
-        "epoch": 1593648000.0,
-        "expiration_date": "02-jul-2020",
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
         "state": "future"
     },
     "shoprunner.com": {
@@ -28175,8 +28180,8 @@
         "state": "future"
     },
     "virtualearth.net": {
-        "epoch": 1593561600.0,
-        "expiration_date": "01-jul-2020",
+        "epoch": 1625097600.0,
+        "expiration_date": "01-jul-2021",
         "state": "future"
     },
     "virtualnet.co.uk": {
