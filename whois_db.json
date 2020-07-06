@@ -7460,9 +7460,9 @@
         "state": "future"
     },
     "digiland.it": {
-        "epoch": 1592524800.0,
-        "expiration_date": "19-jun-2020",
-        "state": "past"
+        "epoch": 1624060800.0,
+        "expiration_date": "19-jun-2021",
+        "state": "future"
     },
     "digimedia.com": {
         "epoch": 1722297600.0,
@@ -8525,8 +8525,8 @@
         "state": "future"
     },
     "emv2.com": {
-        "epoch": 1593820800.0,
-        "expiration_date": "04-jul-2020",
+        "epoch": 1625356800.0,
+        "expiration_date": "04-jul-2021",
         "state": "future"
     },
     "emxdgt.com": {
@@ -13330,9 +13330,9 @@
         "state": "future"
     },
     "iol.it": {
-        "epoch": 1592524800.0,
-        "expiration_date": "19-jun-2020",
-        "state": "past"
+        "epoch": 1624060800.0,
+        "expiration_date": "19-jun-2021",
+        "state": "future"
     },
     "iolam.it": {
         "epoch": 1611446400.0,
