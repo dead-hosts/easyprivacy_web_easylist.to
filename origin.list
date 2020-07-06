@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202007032324
+! Version: 202007061947
 ! Title: EasyPrivacy
-! Last modified: 03 Jul 2020 23:24 UTC
+! Last modified: 06 Jul 2020 19:47 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1577,6 +1577,7 @@
 /didna-pixel-
 /diffuser.js
 /digital-data-enrichment.
+/DigitalAnalytics.umd.
 /digitalice_tag.js
 /dil_v6.4.js
 /disp_cnt.
@@ -2702,6 +2703,7 @@
 /Logs/ad?
 /Logs/discovery?
 /Logs/other?data=
+/logs/report_js_error
 /logserver-
 /logstat.
 /logstat?
@@ -4016,6 +4018,7 @@
 /stt/track/*
 /stwc-counter/*
 /stwc/code.js
+/submission/pageview
 /supercookie.
 /superstats.
 /supertracking.
@@ -4088,6 +4091,7 @@
 /TealeafSDK.js
 /TealeafSDKConfig.js
 /TealeafTarget.
+/tealeaftarget?
 /tealium-analytics.
 /tealium-api/*
 /tealium-udo.
@@ -10681,6 +10685,7 @@ _mongo_stats/
 ||i.compendium.com^
 ||i.s-microsoft.com/wedcs/ms.js
 ||i.viafoura.co^
+||iabusprivacy.pmc.com^
 ||ib.adnxs.com^
 ||ibmcloud.com/collector/
 ||icbdr.com/images/pixel.gif
@@ -10956,6 +10961,7 @@ _mongo_stats/
 ||msecnd.net/scripts/b/ai.
 ||msecnd.net/scripts/jsll-
 ||mshcdn.com/assets/metrics-
+||mtrcs.samba.tv^
 ||mts.mansion.com^$third-party
 ||mtvnservices.com/aria/uuid.html
 ||mtvnservices.com/metrics/
@@ -11071,6 +11077,7 @@ _mongo_stats/
 ||performance.typekit.net^$third-party
 ||performgroup.com/metrics/
 ||perr.h-cdn.com^$third-party
+||perso.aws.arc.pub^
 ||petitionermaster.appspot.com^
 ||phantom.nudgespot.com^$third-party
 ||phncdn.com/js/ssig_helper.js
@@ -11512,6 +11519,7 @@ _mongo_stats/
 ||track.contently.com^
 ||track.cordial.io^
 ||track.digitalriver.com^
+||track.hubspot.com^
 ||track.juno.com^
 ||track.leadin.com^
 ||track.mailerlite.com^
@@ -11818,6 +11826,7 @@ _mongo_stats/
 ||frog.wix.com/hls2?
 ||frog.wix.com/p?
 ||frog.wix.com/pre?
+||frog.wix.com^$ping
 ! Fingerprinting
 ||apps-pro.tid.es/external/tailormade-no-jquery-
 ||bcicdn.com^*/hg.js
@@ -12641,6 +12650,7 @@ _mongo_stats/
 ||reachandrich.antevenio.com^
 ||s3wfg.com/js/vortexloader.js
 ||stats.miarroba.info^
+||tag.shopping-feed.com^
 ||tracker.thinkindot.com^
 ! Swedish
 ||aftonbladet.se/blogportal/view/statistics?$third-party
@@ -13163,6 +13173,7 @@ _mongo_stats/
 ||creditcards.com/sb.php?
 ||crowdignite.com/img/l.gif
 ||crsend.com/stats/
+||crta.metro.co.uk^
 ||crunchsports.com/tracking_fetchinfo.aspx?
 ||ct.cnet.com/opens?
 ||ctscdn.com/content/tracking-
@@ -13251,6 +13262,7 @@ _mongo_stats/
 ||e2ma.net/track/
 ||eafyfsuh.net/track/
 ||easy2.com^*/logging/
+||eba-amadeus.netdna-ssl.com/fastTrack/$domain=flyasiana.com
 ||ebay-us.com/fp/
 ||ebay.com/op/t.do?event
 ||ebayobjects.com/*;dc_pixel_url=$image
@@ -14112,6 +14124,7 @@ _mongo_stats/
 ||pardot.com/pd.js
 ||partners.badongo.com^
 ||partners.mysavings.com^
+||paypal.com/platform/tealeaftarget
 ||paypal.com/webapps/beaconweb/
 ||paypalobjects.com/*/m/mid.swf$domain=paypal.com
 ||pbsrc.com/common/pixel.png
@@ -14343,6 +14356,7 @@ _mongo_stats/
 ||s3.amazonaws.com^$script,domain=decider.com|nypost.com|pagesix.com
 ||sa.bbc.co.uk^
 ||sa.squareup.com^
+||sa135.kiro7.com^
 ||sa135.macworld.co.uk^
 ||sa135.wsbtv.com^
 ||sabah.com.tr/Statistic/
@@ -15225,6 +15239,7 @@ _mongo_stats/
 ||oneid.mmstat.com^
 ! Port scanning Fingerprinting Trackers (Privacy and CPU abuse)
 ! https://nullsweep.com/why-is-this-website-port-scanning-me/
+$third-party,websocket,domain=ameriprise.com|beachbody.com|chick-fil-a.com|citi.com|ebay.at|ebay.be|ebay.ca|ebay.ch|ebay.cn|ebay.co.uk|ebay.com|ebay.com.au|ebay.com.hk|ebay.com.my|ebay.com.sg|ebay.de|ebay.es|ebay.fr|ebay.ie|ebay.it|ebay.nl|ebay.ph|ebay.pl|equifax.com|gumtree.com|lendup.com|mbna.ca|sciencedirect.com|sky.com|spectrum.net|td.com|tiaa.org|vedacheck.com|wepay.com
 /^https?:\/\/ir\.ebaystatic\.com\/rs\/v\/[a-zA-Z0-9]{18,}\.js/$script,domain=vipr.ebaydesc.com
 /^https?:\/\/nav\.sciencedirect\.com\/[a-zA-Z0-9]{14,}\.js/$script,domain=sciencedirect.com
 /^https?:\/\/pov\.spectrum\.net\/[a-zA-Z0-9]{14,}\.js/$script,domain=spectrum.net
@@ -16433,6 +16448,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||cgi.tbs.co.jp^
 ||count.upc.rakuten.co.jp^
 ||dmm.com/analytics/
+||dmm.com/imp?
 ||event.notifier.rakuten.co.jp^
 ||goo.ne.jp^*/vltracedmd.js
 ||i2i.jp/bin/
@@ -16509,6 +16525,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ! Polish
 |http://x.o2.pl^
 ||analytics.gazeta.pl^
+||collect.state.centrum24.pl^
 ||dot.wp.pl^
 ||entryhit.wp.pl^
 ||interia.pl^*/hit.
