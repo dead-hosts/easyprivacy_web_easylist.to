@@ -4570,8 +4570,8 @@
         "state": "future"
     },
     "calotag.com": {
-        "epoch": 1593907200.0,
-        "expiration_date": "05-jul-2020",
+        "epoch": 1625443200.0,
+        "expiration_date": "05-jul-2021",
         "state": "future"
     },
     "campaigncog.com": {
@@ -14235,13 +14235,13 @@
         "state": "future"
     },
     "kiwari.com": {
-        "epoch": 1593907200.0,
-        "expiration_date": "05-jul-2020",
+        "epoch": 1656979200.0,
+        "expiration_date": "05-jul-2022",
         "state": "future"
     },
     "kk-resources.com": {
-        "epoch": 1593820800.0,
-        "expiration_date": "04-jul-2020",
+        "epoch": 1656892800.0,
+        "expiration_date": "04-jul-2022",
         "state": "future"
     },
     "kksou.com": {
@@ -21575,8 +21575,8 @@
         "state": "future"
     },
     "resu.io": {
-        "epoch": 1593907200.0,
-        "expiration_date": "05-jul-2020",
+        "epoch": 1625443200.0,
+        "expiration_date": "05-jul-2021",
         "state": "future"
     },
     "resulticks.com": {
@@ -23920,8 +23920,8 @@
         "state": "future"
     },
     "sohu.com": {
-        "epoch": 1593820800.0,
-        "expiration_date": "04-jul-2020",
+        "epoch": 1625356800.0,
+        "expiration_date": "04-jul-2021",
         "state": "future"
     },
     "sohu.com.cn": {
@@ -28130,9 +28130,9 @@
         "state": "future"
     },
     "viralize.tv": {
-        "epoch": 1593734400.0,
-        "expiration_date": "03-jul-2020",
-        "state": "past"
+        "epoch": 1625270400.0,
+        "expiration_date": "03-jul-2021",
+        "state": "future"
     },
     "viralninjas.com": {
         "epoch": 1598918400.0,
