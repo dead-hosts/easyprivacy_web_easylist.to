@@ -26984,6 +26984,11 @@
         "expiration_date": "24-jan-2022",
         "state": "future"
     },
+    "trwl1.com": {
+        "epoch": 1625961600.0,
+        "expiration_date": "11-jul-2021",
+        "state": "future"
+    },
     "trysera.com": {
         "epoch": 1619222400.0,
         "expiration_date": "24-apr-2021",
