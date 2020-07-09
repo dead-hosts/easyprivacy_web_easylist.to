@@ -295,8 +295,8 @@
         "state": "future"
     },
     "3dlivestats.com": {
-        "epoch": 1594252800.0,
-        "expiration_date": "09-jul-2020",
+        "epoch": 1625788800.0,
+        "expiration_date": "09-jul-2021",
         "state": "future"
     },
     "3dmark.com": {
@@ -532,6 +532,11 @@
     "a-counters.com": {
         "epoch": 1605830400.0,
         "expiration_date": "20-nov-2020",
+        "state": "future"
+    },
+    "a-mo.net": {
+        "epoch": 1694131200.0,
+        "expiration_date": "08-sep-2023",
         "state": "future"
     },
     "a-pagerank.net": {
@@ -1989,6 +1994,11 @@
         "expiration_date": "27-apr-2021",
         "state": "future"
     },
+    "analitycs.net": {
+        "epoch": 1606003200.0,
+        "expiration_date": "22-nov-2020",
+        "state": "future"
+    },
     "analoganalytics.com": {
         "epoch": 1601942400.0,
         "expiration_date": "06-oct-2020",
@@ -2767,6 +2777,11 @@
     "audtd.com": {
         "epoch": 1624233600.0,
         "expiration_date": "21-jun-2021",
+        "state": "future"
+    },
+    "aufp.io": {
+        "epoch": 1611360000.0,
+        "expiration_date": "23-jan-2021",
         "state": "future"
     },
     "auriq.com": {
@@ -4240,8 +4255,8 @@
         "state": "future"
     },
     "browser-update.org": {
-        "epoch": 1594080000.0,
-        "expiration_date": "07-jul-2020",
+        "epoch": 1625616000.0,
+        "expiration_date": "07-jul-2021",
         "state": "future"
     },
     "browsermine.com": {
@@ -5705,8 +5720,8 @@
         "state": "future"
     },
     "cogmatch.net": {
-        "epoch": 1594166400.0,
-        "expiration_date": "08-jul-2020",
+        "epoch": 1625702400.0,
+        "expiration_date": "08-jul-2021",
         "state": "future"
     },
     "cognativex.com": {
@@ -6910,8 +6925,8 @@
         "state": "future"
     },
     "d41.co": {
-        "epoch": 1594166400.0,
-        "expiration_date": "08-jul-2020",
+        "epoch": 1657238400.0,
+        "expiration_date": "08-jul-2022",
         "state": "future"
     },
     "da-kolkoz.com": {
@@ -7045,8 +7060,8 @@
         "state": "future"
     },
     "datamind.ru": {
-        "epoch": 1594080000.0,
-        "expiration_date": "07-jul-2020",
+        "epoch": 1625616000.0,
+        "expiration_date": "07-jul-2021",
         "state": "future"
     },
     "dataperforma.com": {
@@ -9385,8 +9400,8 @@
         "state": "future"
     },
     "fathomseo.com": {
-        "epoch": 1594080000.0,
-        "expiration_date": "07-jul-2020",
+        "epoch": 1625616000.0,
+        "expiration_date": "07-jul-2021",
         "state": "future"
     },
     "faultycanvas.com": {
@@ -10959,6 +10974,16 @@
         "expiration_date": "07-may-2021",
         "state": "future"
     },
+    "glassboxcdn.com": {
+        "epoch": 1627776000.0,
+        "expiration_date": "01-aug-2021",
+        "state": "future"
+    },
+    "glassboxdigital.io": {
+        "epoch": 1610064000.0,
+        "expiration_date": "08-jan-2021",
+        "state": "future"
+    },
     "glbtracker.com": {
         "epoch": 1596758400.0,
         "expiration_date": "07-aug-2020",
@@ -12037,6 +12062,11 @@
     "horsenectar.com": {
         "epoch": 1616112000.0,
         "expiration_date": "19-mar-2021",
+        "state": "future"
+    },
+    "horzrb.com": {
+        "epoch": 1596153600.0,
+        "expiration_date": "31-jul-2020",
         "state": "future"
     },
     "hoseasons.co.uk": {
@@ -13430,8 +13460,8 @@
         "state": "future"
     },
     "ipgp.net": {
-        "epoch": 1594080000.0,
-        "expiration_date": "07-jul-2020",
+        "epoch": 1625616000.0,
+        "expiration_date": "07-jul-2021",
         "state": "future"
     },
     "iphonesoft.fr": {
@@ -13482,6 +13512,11 @@
     "iplsc.com": {
         "epoch": 1596672000.0,
         "expiration_date": "06-aug-2020",
+        "state": "future"
+    },
+    "ipqualityscore.com": {
+        "epoch": 1681516800.0,
+        "expiration_date": "15-apr-2023",
         "state": "future"
     },
     "ipro.com": {
@@ -15175,8 +15210,8 @@
         "state": "future"
     },
     "localytics.com": {
-        "epoch": 1594080000.0,
-        "expiration_date": "07-jul-2020",
+        "epoch": 1625616000.0,
+        "expiration_date": "07-jul-2021",
         "state": "future"
     },
     "location3.com": {
@@ -16497,6 +16532,11 @@
     "miniusa.com": {
         "epoch": 1614556800.0,
         "expiration_date": "01-mar-2021",
+        "state": "future"
+    },
+    "minkatu.com": {
+        "epoch": 1617494400.0,
+        "expiration_date": "04-apr-2021",
         "state": "future"
     },
     "minr.pw": {
@@ -18020,8 +18060,8 @@
         "state": "future"
     },
     "ngmco.net": {
-        "epoch": 1594080000.0,
-        "expiration_date": "07-jul-2020",
+        "epoch": 1625616000.0,
+        "expiration_date": "07-jul-2021",
         "state": "future"
     },
     "ngpvan.com": {
@@ -18815,9 +18855,9 @@
         "state": "future"
     },
     "oproi.com": {
-        "epoch": 1593993600.0,
-        "expiration_date": "06-jul-2020",
-        "state": "past"
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
+        "state": "future"
     },
     "optify.net": {
         "epoch": 1687737600.0,
@@ -19704,6 +19744,11 @@
         "expiration_date": "13-mar-2022",
         "state": "future"
     },
+    "pinpoll.com": {
+        "epoch": 1603756800.0,
+        "expiration_date": "27-oct-2020",
+        "state": "future"
+    },
     "pinterest.com": {
         "epoch": 1606348800.0,
         "expiration_date": "26-nov-2020",
@@ -20407,6 +20452,11 @@
     "proxify.com": {
         "epoch": 1839283200.0,
         "expiration_date": "14-apr-2028",
+        "state": "future"
+    },
+    "prprocess.com": {
+        "epoch": 1617580800.0,
+        "expiration_date": "05-apr-2021",
         "state": "future"
     },
     "prtracker.com": {
