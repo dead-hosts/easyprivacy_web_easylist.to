@@ -4467,7 +4467,7 @@
     "c-date.com": {
         "epoch": 1594252800.0,
         "expiration_date": "09-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "c-date.it": {
         "epoch": 1612569600.0,
@@ -5705,8 +5705,8 @@
         "state": "future"
     },
     "cnstats.ru": {
-        "epoch": 1594080000.0,
-        "expiration_date": "07-jul-2020",
+        "epoch": 1625616000.0,
+        "expiration_date": "07-jul-2021",
         "state": "future"
     },
     "cnt1.net": {
@@ -7135,8 +7135,8 @@
         "state": "future"
     },
     "daumcdn.net": {
-        "epoch": 1594166400.0,
-        "expiration_date": "08-jul-2020",
+        "epoch": 1625702400.0,
+        "expiration_date": "08-jul-2021",
         "state": "future"
     },
     "dawin.tv": {
@@ -15710,8 +15710,8 @@
         "state": "future"
     },
     "madnet.ru": {
-        "epoch": 1594252800.0,
-        "expiration_date": "09-jul-2020",
+        "epoch": 1628467200.0,
+        "expiration_date": "09-aug-2021",
         "state": "future"
     },
     "madthumbs.com": {
@@ -29220,8 +29220,8 @@
         "state": "future"
     },
     "webservis.gen.tr": {
-        "epoch": 1593907200.0,
-        "expiration_date": "05-jul-2020",
+        "epoch": 1625443200.0,
+        "expiration_date": "05-jul-2021",
         "state": "future"
     },
     "website-hit-counters.com": {
