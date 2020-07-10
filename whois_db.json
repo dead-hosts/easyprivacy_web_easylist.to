@@ -14100,9 +14100,9 @@
         "state": "future"
     },
     "jv.dk": {
-        "epoch": 1593475200.0,
-        "expiration_date": "30-jun-2020",
-        "state": "past"
+        "epoch": 1625011200.0,
+        "expiration_date": "30-jun-2021",
+        "state": "future"
     },
     "jwduahujge.ru": {
         "epoch": 1592006400.0,
@@ -27920,8 +27920,8 @@
         "state": "future"
     },
     "usps.com": {
-        "epoch": 1594252800.0,
-        "expiration_date": "09-jul-2020",
+        "epoch": 1625788800.0,
+        "expiration_date": "09-jul-2021",
         "state": "future"
     },
     "usuarios-online.com": {
@@ -29444,6 +29444,11 @@
         "expiration_date": "15-dec-2022",
         "state": "future"
     },
+    "wellsfargo.com": {
+        "epoch": 1651190400.0,
+        "expiration_date": "29-apr-2022",
+        "state": "future"
+    },
     "wellsphere.com": {
         "epoch": 1623542400.0,
         "expiration_date": "13-jun-2021",
@@ -30117,6 +30122,11 @@
     "yandeg.ru": {
         "epoch": 1621209600.0,
         "expiration_date": "17-may-2021",
+        "state": "future"
+    },
+    "yandex.com": {
+        "epoch": 1632355200.0,
+        "expiration_date": "23-sep-2021",
         "state": "future"
     },
     "yandex.fr": {
