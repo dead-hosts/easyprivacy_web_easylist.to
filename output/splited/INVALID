@@ -71,6 +71,7 @@ minero-proxy-*.sh                                                               
 pixel.archive.                                                                                       SYNTAX     XXX        2020-07-09T23:39:04.564074
 pulsar.ebay.                                                                                         SYNTAX     XXX        2020-07-10T00:10:04.344974
 rover.ebay.                                                                                          SYNTAX     XXX        2020-07-10T00:10:08.054903
+sapo.*                                                                                               SYNTAX     XXX        2020-07-10T00:27:32.814220
 site.flashx.                                                                                         SYNTAX     XXX        2020-07-09T22:29:40.608929
 skyscanner.*                                                                                         SYNTAX     XXX        2020-07-10T00:10:11.790208
 skyscanner.*                                                                                         SYNTAX     XXX        2020-07-10T00:10:11.796737
@@ -78,6 +79,7 @@ startpage.*                                                                     
 startpage.*                                                                                          SYNTAX     XXX        2020-07-10T00:10:14.482733
 startpage.*                                                                                          SYNTAX     XXX        2020-07-10T00:10:14.489278
 startpage.*                                                                                          SYNTAX     XXX        2020-07-10T00:10:14.495780
+stat.*.v-56.com                                                                                      SYNTAX     XXX        2020-07-10T00:27:26.918678
 stats2.*.fdnames.com                                                                                 SYNTAX     XXX        2020-07-09T23:38:09.705132
 stats-*.p2pnow.ru                                                                                    SYNTAX     XXX        2020-07-09T23:38:14.257116
 t.delfi.                                                                                             SYNTAX     XXX        2020-07-10T00:10:16.313420

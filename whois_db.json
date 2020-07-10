@@ -2950,8 +2950,8 @@
         "state": "future"
     },
     "avito.ru": {
-        "epoch": 1594252800.0,
-        "expiration_date": "09-jul-2020",
+        "epoch": 1625788800.0,
+        "expiration_date": "09-jul-2021",
         "state": "future"
     },
     "avitop.com": {
@@ -8790,8 +8790,8 @@
         "state": "future"
     },
     "esmas.com": {
-        "epoch": 1594166400.0,
-        "expiration_date": "08-jul-2020",
+        "epoch": 1625702400.0,
+        "expiration_date": "08-jul-2021",
         "state": "future"
     },
     "esomniture.com": {
@@ -17590,8 +17590,8 @@
         "state": "future"
     },
     "nasza-klasa.pl": {
-        "epoch": 1594252800.0,
-        "expiration_date": "09-jul-2020",
+        "epoch": 1625270400.0,
+        "expiration_date": "03-jul-2021",
         "state": "future"
     },
     "natero.com": {
@@ -26240,9 +26240,9 @@
         "state": "future"
     },
     "tiscali.it": {
-        "epoch": 1592956800.0,
-        "expiration_date": "24-jun-2020",
-        "state": "past"
+        "epoch": 1624492800.0,
+        "expiration_date": "24-jun-2021",
+        "state": "future"
     },
     "tisoomi-services.com": {
         "epoch": 1615507200.0,
@@ -26440,9 +26440,9 @@
         "state": "future"
     },
     "topolino.it": {
-        "epoch": 1592784000.0,
-        "expiration_date": "22-jun-2020",
-        "state": "past"
+        "epoch": 1624320000.0,
+        "expiration_date": "22-jun-2021",
+        "state": "future"
     },
     "topsem.com": {
         "epoch": 1602028800.0,
