@@ -1330,8 +1330,8 @@
         "state": "future"
     },
     "advconversion.com": {
-        "epoch": 1594512000.0,
-        "expiration_date": "12-jul-2020",
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
         "state": "future"
     },
     "advertising.com": {
@@ -3405,8 +3405,8 @@
         "state": "future"
     },
     "benchit.com": {
-        "epoch": 1594339200.0,
-        "expiration_date": "10-jul-2020",
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
         "state": "future"
     },
     "benchtag2.co": {
@@ -7870,8 +7870,8 @@
         "state": "future"
     },
     "domodomain.com": {
-        "epoch": 1594339200.0,
-        "expiration_date": "10-jul-2020",
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
         "state": "future"
     },
     "donreach.com": {
@@ -8875,8 +8875,8 @@
         "state": "future"
     },
     "etrigue.com": {
-        "epoch": 1594339200.0,
-        "expiration_date": "10-jul-2020",
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
         "state": "future"
     },
     "etsy.com": {
@@ -9945,8 +9945,8 @@
         "state": "future"
     },
     "footprintdns.com": {
-        "epoch": 1594339200.0,
-        "expiration_date": "10-jul-2020",
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
         "state": "future"
     },
     "footprintlive.com": {
@@ -10117,7 +10117,7 @@
     "free-counter.co.uk": {
         "epoch": 1594425600.0,
         "expiration_date": "11-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "free-counter.com": {
         "epoch": 1594944000.0,
@@ -11315,8 +11315,8 @@
         "state": "future"
     },
     "gostats.org": {
-        "epoch": 1594425600.0,
-        "expiration_date": "11-jul-2020",
+        "epoch": 1625961600.0,
+        "expiration_date": "11-jul-2021",
         "state": "future"
     },
     "gostats.pl": {
@@ -11880,8 +11880,8 @@
         "state": "future"
     },
     "highmetrics.com": {
-        "epoch": 1594339200.0,
-        "expiration_date": "10-jul-2020",
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
         "state": "future"
     },
     "highwebmedia.com": {
@@ -11970,8 +11970,8 @@
         "state": "future"
     },
     "hitfarm.com": {
-        "epoch": 1594425600.0,
-        "expiration_date": "11-jul-2020",
+        "epoch": 1625961600.0,
+        "expiration_date": "11-jul-2021",
         "state": "future"
     },
     "hitmatic.com": {
@@ -12145,8 +12145,8 @@
         "state": "future"
     },
     "hospitality-optimizer.com": {
-        "epoch": 1594512000.0,
-        "expiration_date": "12-jul-2020",
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
         "state": "future"
     },
     "host-tracker.com": {
@@ -13387,6 +13387,11 @@
     "investhash.com": {
         "epoch": 1605398400.0,
         "expiration_date": "15-nov-2020",
+        "state": "future"
+    },
+    "investingchannel.com": {
+        "epoch": 1621296000.0,
+        "expiration_date": "18-may-2021",
         "state": "future"
     },
     "invisioncloudstats.com": {
@@ -14750,8 +14755,8 @@
         "state": "future"
     },
     "leadid.com": {
-        "epoch": 1594425600.0,
-        "expiration_date": "11-jul-2020",
+        "epoch": 1625961600.0,
+        "expiration_date": "11-jul-2021",
         "state": "future"
     },
     "leadin.com": {
