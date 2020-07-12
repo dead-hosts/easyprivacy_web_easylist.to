@@ -15240,8 +15240,8 @@
         "state": "future"
     },
     "livestrong.com": {
-        "epoch": 1594512000.0,
-        "expiration_date": "12-jul-2020",
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
         "state": "future"
     },
     "livetex.ru": {
@@ -19065,8 +19065,8 @@
         "state": "future"
     },
     "orain.org": {
-        "epoch": 1594339200.0,
-        "expiration_date": "10-jul-2020",
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
         "state": "future"
     },
     "orange.fr": {
@@ -26194,6 +26194,11 @@
         "expiration_date": "22-dec-2020",
         "state": "future"
     },
+    "tiktok.com": {
+        "epoch": 1626739200.0,
+        "expiration_date": "20-jul-2021",
+        "state": "future"
+    },
     "timeinc.net": {
         "epoch": 1628726400.0,
         "expiration_date": "12-aug-2021",
@@ -28860,8 +28865,8 @@
         "state": "future"
     },
     "wachovia.com": {
-        "epoch": 1594425600.0,
-        "expiration_date": "11-jul-2020",
+        "epoch": 1657497600.0,
+        "expiration_date": "11-jul-2022",
         "state": "future"
     },
     "waframedia9.com": {
