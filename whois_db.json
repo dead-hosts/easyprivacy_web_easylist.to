@@ -4465,9 +4465,9 @@
         "state": "future"
     },
     "c-date.com": {
-        "epoch": 1594252800.0,
-        "expiration_date": "09-jul-2020",
-        "state": "past"
+        "epoch": 1625788800.0,
+        "expiration_date": "09-jul-2021",
+        "state": "future"
     },
     "c-date.it": {
         "epoch": 1612569600.0,
@@ -10690,8 +10690,8 @@
         "state": "future"
     },
     "gcion.com": {
-        "epoch": 1594339200.0,
-        "expiration_date": "10-jul-2020",
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
         "state": "future"
     },
     "gde.ru": {
@@ -24805,8 +24805,8 @@
         "state": "future"
     },
     "statistiq.com": {
-        "epoch": 1594425600.0,
-        "expiration_date": "11-jul-2020",
+        "epoch": 1625961600.0,
+        "expiration_date": "11-jul-2021",
         "state": "future"
     },
     "statistx.com": {

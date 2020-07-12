@@ -2,6 +2,22 @@
 # Date of generation: 2020-07-12T21:52:10.792137
 
 Subject                                                                                              Source     HTTP Code  Analyze Date        
+58.68.146.44:8000                                                                                    SYNTAX     XXX        2020-07-12T22:29:24.039107
+121.78.90.104:8383                                                                                   SYNTAX     XXX        2020-07-12T22:29:23.632569
+activity.*.miui.com                                                                                  SYNTAX     XXX        2020-07-12T22:29:24.631246
+analytics-beacon-*.amazonaws.com                                                                     SYNTAX     XXX        2020-07-12T22:29:27.922311
+bc.geocities.                                                                                        SYNTAX     XXX        2020-07-12T22:29:30.829883
+bin.clearspring.*                                                                                    SYNTAX     XXX        2020-07-12T22:29:31.082891
+cloudfront.net*                                                                                      SYNTAX     XXX        2020-07-12T22:29:34.709551
+cloudfront.net*                                                                                      SYNTAX     XXX        2020-07-12T22:29:34.713066
+cloudfront.net*                                                                                      SYNTAX     XXX        2020-07-12T22:29:34.716603
+cloudfront.net*                                                                                      SYNTAX     XXX        2020-07-12T22:29:34.720085
+collect.*.miui.com                                                                                   SYNTAX     XXX        2020-07-12T22:29:37.168487
+collector-*.elb.amazonaws.com                                                                        SYNTAX     XXX        2020-07-12T22:29:37.178981
+collector-*.tvsquared.com                                                                            SYNTAX     XXX        2020-07-12T22:29:37.182388
+datacollect*.abtasty.com                                                                             SYNTAX     XXX        2020-07-12T22:29:38.962573
+facebook.com*                                                                                        SYNTAX     XXX        2020-07-12T22:29:42.105629
+irs01.                                                                                               SYNTAX     XXX        2020-07-12T22:29:01.151336
 meetrics.netbb-                                                                                      SYNTAX     XXX        2020-07-12T21:52:10.791997
 minero-proxy-*.sh                                                                                    SYNTAX     XXX        2020-07-12T22:11:38.359935
 site.flashx.                                                                                         SYNTAX     XXX        2020-07-12T22:11:42.064753
