@@ -3420,8 +3420,8 @@
         "state": "future"
     },
     "berateveng.ru": {
-        "epoch": 1594339200.0,
-        "expiration_date": "10-jul-2020",
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
         "state": "future"
     },
     "berg-6-82.com": {
@@ -7200,9 +7200,9 @@
         "state": "future"
     },
     "de-mi-nis-ner2.info": {
-        "epoch": 1594252800.0,
-        "expiration_date": "09-jul-2020",
-        "state": "past"
+        "epoch": 1625788800.0,
+        "expiration_date": "09-jul-2021",
+        "state": "future"
     },
     "de-ner-mi-nis4.info": {
         "epoch": 1600128000.0,
@@ -8890,8 +8890,8 @@
         "state": "future"
     },
     "etzbnfuigipwvs.ru": {
-        "epoch": 1594339200.0,
-        "expiration_date": "10-jul-2020",
+        "epoch": 1625875200.0,
+        "expiration_date": "10-jul-2021",
         "state": "future"
     },
     "eu-survey.com": {
@@ -16085,8 +16085,8 @@
         "state": "future"
     },
     "md-nx.com": {
-        "epoch": 1594425600.0,
-        "expiration_date": "11-jul-2020",
+        "epoch": 1625961600.0,
+        "expiration_date": "11-jul-2021",
         "state": "future"
     },
     "mdctrail.com": {
@@ -16615,8 +16615,8 @@
         "state": "future"
     },
     "mininghub.club": {
-        "epoch": 1594425600.0,
-        "expiration_date": "11-jul-2020",
+        "epoch": 1625961600.0,
+        "expiration_date": "11-jul-2021",
         "state": "future"
     },
     "miniurls.co": {
@@ -17730,8 +17730,8 @@
         "state": "future"
     },
     "nddmcconmqsy.ru": {
-        "epoch": 1594425600.0,
-        "expiration_date": "11-jul-2020",
+        "epoch": 1625961600.0,
+        "expiration_date": "11-jul-2021",
         "state": "future"
     },
     "ndf81.com": {
@@ -20044,6 +20044,11 @@
         "expiration_date": "28-may-2021",
         "state": "future"
     },
+    "pleasantpump.com": {
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
+        "state": "future"
+    },
     "plecki.com": {
         "epoch": 1596931200.0,
         "expiration_date": "09-aug-2020",
@@ -21655,8 +21660,8 @@
         "state": "future"
     },
     "remailtarget.com": {
-        "epoch": 1594425600.0,
-        "expiration_date": "11-jul-2020",
+        "epoch": 1625961600.0,
+        "expiration_date": "11-jul-2021",
         "state": "future"
     },
     "remarketingpixel.com": {
@@ -23597,7 +23602,7 @@
     "sitebro.com": {
         "epoch": 1594512000.0,
         "expiration_date": "12-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "sitebro.net": {
         "epoch": 1618444800.0,
@@ -23965,8 +23970,8 @@
         "state": "future"
     },
     "smrk.io": {
-        "epoch": 1594425600.0,
-        "expiration_date": "11-jul-2020",
+        "epoch": 1625961600.0,
+        "expiration_date": "11-jul-2021",
         "state": "future"
     },
     "smrtlnks.com": {
@@ -26315,9 +26320,9 @@
         "state": "future"
     },
     "tnctrx.com": {
-        "epoch": 1594252800.0,
-        "expiration_date": "09-jul-2020",
-        "state": "past"
+        "epoch": 1625788800.0,
+        "expiration_date": "09-jul-2021",
+        "state": "future"
     },
     "tns-counter.ru": {
         "epoch": 1613692800.0,
@@ -26470,8 +26475,8 @@
         "state": "future"
     },
     "torbit.com": {
-        "epoch": 1594425600.0,
-        "expiration_date": "11-jul-2020",
+        "epoch": 1657497600.0,
+        "expiration_date": "11-jul-2022",
         "state": "future"
     },
     "toro-tags.com": {
@@ -26520,8 +26525,8 @@
         "state": "future"
     },
     "touchclarity.com": {
-        "epoch": 1594425600.0,
-        "expiration_date": "11-jul-2020",
+        "epoch": 1625961600.0,
+        "expiration_date": "11-jul-2021",
         "state": "future"
     },
     "touchcommerce.com": {
@@ -26852,7 +26857,7 @@
     "trafficregenerator.com": {
         "epoch": 1594512000.0,
         "expiration_date": "12-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "traffikcntr.com": {
         "epoch": 1615075200.0,
@@ -26860,8 +26865,8 @@
         "state": "future"
     },
     "trafic.ro": {
-        "epoch": 1594425600.0,
-        "expiration_date": "11-jul-2020",
+        "epoch": 1622592000.0,
+        "expiration_date": "02-jun-2021",
         "state": "future"
     },
     "trafinfo.info": {
@@ -27475,8 +27480,8 @@
         "state": "future"
     },
     "u5c93.com": {
-        "epoch": 1594425600.0,
-        "expiration_date": "11-jul-2020",
+        "epoch": 1625961600.0,
+        "expiration_date": "11-jul-2021",
         "state": "future"
     },
     "u5e.com": {
