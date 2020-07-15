@@ -19515,8 +19515,8 @@
         "state": "future"
     },
     "paypal.com": {
-        "epoch": 1594771200.0,
-        "expiration_date": "15-jul-2020",
+        "epoch": 1626307200.0,
+        "expiration_date": "15-jul-2021",
         "state": "future"
     },
     "paypalobjects.com": {
@@ -27665,8 +27665,8 @@
         "state": "future"
     },
     "ui-portal.com": {
-        "epoch": 1594684800.0,
-        "expiration_date": "14-jul-2020",
+        "epoch": 1626220800.0,
+        "expiration_date": "14-jul-2021",
         "state": "future"
     },
     "uiz.io": {
@@ -28342,7 +28342,7 @@
     "video-cdn.net": {
         "epoch": 1594771200.0,
         "expiration_date": "15-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "videobolt.net": {
         "epoch": 1683936000.0,
