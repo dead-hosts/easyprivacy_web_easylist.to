@@ -1799,6 +1799,11 @@
         "expiration_date": "04-sep-2020",
         "state": "future"
     },
+    "alljapanesepass.com": {
+        "epoch": 1655856000.0,
+        "expiration_date": "22-jun-2022",
+        "state": "future"
+    },
     "allmodern.com": {
         "epoch": 1596585600.0,
         "expiration_date": "05-aug-2020",
@@ -10515,8 +10520,8 @@
         "state": "future"
     },
     "fujifilm.com": {
-        "epoch": 1594598400.0,
-        "expiration_date": "13-jul-2020",
+        "epoch": 1626134400.0,
+        "expiration_date": "13-jul-2021",
         "state": "future"
     },
     "fullstory.com": {
@@ -10677,7 +10682,7 @@
     "gamerdeals.net": {
         "epoch": 1594771200.0,
         "expiration_date": "15-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "gamesgames.com": {
         "epoch": 1772928000.0,
@@ -12315,8 +12320,8 @@
         "state": "future"
     },
     "hotmovs.com": {
-        "epoch": 1594684800.0,
-        "expiration_date": "14-jul-2020",
+        "epoch": 1626220800.0,
+        "expiration_date": "14-jul-2021",
         "state": "future"
     },
     "hotnews.ro": {
@@ -13970,8 +13975,8 @@
         "state": "future"
     },
     "jeuxjeux2.com": {
-        "epoch": 1594598400.0,
-        "expiration_date": "13-jul-2020",
+        "epoch": 1626134400.0,
+        "expiration_date": "13-jul-2021",
         "state": "future"
     },
     "jeuxvideo.com": {
@@ -15865,8 +15870,8 @@
         "state": "future"
     },
     "malibubright.com": {
-        "epoch": 1594771200.0,
-        "expiration_date": "15-jul-2020",
+        "epoch": 1626307200.0,
+        "expiration_date": "15-jul-2021",
         "state": "future"
     },
     "mandrillapp.com": {
