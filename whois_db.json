@@ -2420,8 +2420,8 @@
         "state": "future"
     },
     "aprtx.com": {
-        "epoch": 1594684800.0,
-        "expiration_date": "14-jul-2020",
+        "epoch": 1626220800.0,
+        "expiration_date": "14-jul-2021",
         "state": "future"
     },
     "apsislead.com": {
@@ -4565,8 +4565,8 @@
         "state": "future"
     },
     "callmeasurement.com": {
-        "epoch": 1594684800.0,
-        "expiration_date": "14-jul-2020",
+        "epoch": 1626220800.0,
+        "expiration_date": "14-jul-2021",
         "state": "future"
     },
     "callousbrake.com": {
@@ -8935,8 +8935,8 @@
         "state": "future"
     },
     "europagerank.com": {
-        "epoch": 1594598400.0,
-        "expiration_date": "13-jul-2020",
+        "epoch": 1626134400.0,
+        "expiration_date": "13-jul-2021",
         "state": "future"
     },
     "europuls.net": {
@@ -9857,7 +9857,7 @@
     "flyingpt.com": {
         "epoch": 1594771200.0,
         "expiration_date": "15-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "flyjazz.ca": {
         "epoch": 1615420800.0,
@@ -10000,8 +10000,8 @@
         "state": "future"
     },
     "formisimo.com": {
-        "epoch": 1594684800.0,
-        "expiration_date": "14-jul-2020",
+        "epoch": 1626220800.0,
+        "expiration_date": "14-jul-2021",
         "state": "future"
     },
     "formulawire.com": {
@@ -10115,9 +10115,9 @@
         "state": "future"
     },
     "free-counter.co.uk": {
-        "epoch": 1594425600.0,
-        "expiration_date": "11-jul-2020",
-        "state": "past"
+        "epoch": 1625961600.0,
+        "expiration_date": "11-jul-2021",
+        "state": "future"
     },
     "free-counter.com": {
         "epoch": 1594944000.0,
@@ -11162,6 +11162,11 @@
     "goadv.com": {
         "epoch": 1596499200.0,
         "expiration_date": "04-aug-2020",
+        "state": "future"
+    },
+    "goatcounter.com": {
+        "epoch": 1621468800.0,
+        "expiration_date": "20-may-2021",
         "state": "future"
     },
     "goaww.com": {
@@ -12374,6 +12379,11 @@
         "expiration_date": "12-feb-2022",
         "state": "future"
     },
+    "htlbid.com": {
+        "epoch": 1601683200.0,
+        "expiration_date": "03-oct-2020",
+        "state": "future"
+    },
     "httdev.it": {
         "epoch": 1605830400.0,
         "expiration_date": "20-nov-2020",
@@ -13504,6 +13514,11 @@
         "expiration_date": "12-jun-2021",
         "state": "future"
     },
+    "ipdata.co": {
+        "epoch": 1693699200.0,
+        "expiration_date": "03-sep-2023",
+        "state": "future"
+    },
     "iper2.com": {
         "epoch": 1628899200.0,
         "expiration_date": "14-aug-2021",
@@ -14010,8 +14025,8 @@
         "state": "future"
     },
     "jscounter.com": {
-        "epoch": 1594771200.0,
-        "expiration_date": "15-jul-2020",
+        "epoch": 1626307200.0,
+        "expiration_date": "15-jul-2021",
         "state": "future"
     },
     "jscrambler.com": {
@@ -14745,13 +14760,13 @@
         "state": "future"
     },
     "leadforensics.com": {
-        "epoch": 1594771200.0,
-        "expiration_date": "15-jul-2020",
+        "epoch": 1626307200.0,
+        "expiration_date": "15-jul-2021",
         "state": "future"
     },
     "leadformix.com": {
-        "epoch": 1594598400.0,
-        "expiration_date": "13-jul-2020",
+        "epoch": 1626134400.0,
+        "expiration_date": "13-jul-2021",
         "state": "future"
     },
     "leadid.com": {
@@ -17570,8 +17585,8 @@
         "state": "future"
     },
     "nanovisor.io": {
-        "epoch": 1594598400.0,
-        "expiration_date": "13-jul-2020",
+        "epoch": 1626134400.0,
+        "expiration_date": "13-jul-2021",
         "state": "future"
     },
     "naplesnews.com": {
@@ -18745,8 +18760,8 @@
         "state": "future"
     },
     "omkt.co": {
-        "epoch": 1594598400.0,
-        "expiration_date": "13-jul-2020",
+        "epoch": 1657670400.0,
+        "expiration_date": "13-jul-2022",
         "state": "future"
     },
     "omniconvert.com": {
@@ -20167,6 +20182,11 @@
     "polarcdn-pentos.com": {
         "epoch": 1618790400.0,
         "expiration_date": "19-apr-2021",
+        "state": "future"
+    },
+    "polarcdn-terrax.com": {
+        "epoch": 1652486400.0,
+        "expiration_date": "14-may-2022",
         "state": "future"
     },
     "policeone.com": {
