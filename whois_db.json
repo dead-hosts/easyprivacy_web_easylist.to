@@ -689,6 +689,11 @@
         "expiration_date": "31-jul-2021",
         "state": "future"
     },
+    "accengage.net": {
+        "epoch": 1616112000.0,
+        "expiration_date": "19-mar-2021",
+        "state": "future"
+    },
     "acceptableserver.com": {
         "epoch": 1606521600.0,
         "expiration_date": "28-nov-2020",
@@ -1090,8 +1095,8 @@
         "state": "future"
     },
     "adminer.com": {
-        "epoch": 1594598400.0,
-        "expiration_date": "13-jul-2020",
+        "epoch": 1626134400.0,
+        "expiration_date": "13-jul-2021",
         "state": "future"
     },
     "admission.net": {
@@ -1554,6 +1559,11 @@
         "expiration_date": "04-aug-2021",
         "state": "future"
     },
+    "aimtell.com": {
+        "epoch": 1677110400.0,
+        "expiration_date": "23-feb-2023",
+        "state": "future"
+    },
     "air2s.com": {
         "epoch": 1615334400.0,
         "expiration_date": "10-mar-2021",
@@ -1677,6 +1687,11 @@
     "alenty.com": {
         "epoch": 1652832000.0,
         "expiration_date": "18-may-2022",
+        "state": "future"
+    },
+    "alertme.news": {
+        "epoch": 1604966400.0,
+        "expiration_date": "10-nov-2020",
         "state": "future"
     },
     "alexa.com": {
@@ -2619,6 +2634,11 @@
         "expiration_date": "22-dec-2025",
         "state": "future"
     },
+    "aswpsdkus.com": {
+        "epoch": 1611273600.0,
+        "expiration_date": "22-jan-2021",
+        "state": "future"
+    },
     "at.ua": {
         "epoch": 1596240000.0,
         "expiration_date": "01-aug-2020",
@@ -3477,7 +3497,7 @@
     "besucherzaehler.org": {
         "epoch": 1594771200.0,
         "expiration_date": "15-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "besucherzahlen.com": {
         "epoch": 1618444800.0,
@@ -4279,6 +4299,11 @@
         "expiration_date": "21-sep-2020",
         "state": "future"
     },
+    "browserpusher.com": {
+        "epoch": 1608595200.0,
+        "expiration_date": "22-dec-2020",
+        "state": "future"
+    },
     "browserscope.org": {
         "epoch": 1623974400.0,
         "expiration_date": "18-jun-2021",
@@ -4597,6 +4622,11 @@
     "calltrk.com": {
         "epoch": 1605916800.0,
         "expiration_date": "21-nov-2020",
+        "state": "future"
+    },
+    "calmcactus.com": {
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
         "state": "future"
     },
     "calotag.com": {
@@ -6542,6 +6572,11 @@
     "crabbychin.com": {
         "epoch": 1603238400.0,
         "expiration_date": "21-oct-2020",
+        "state": "future"
+    },
+    "cracataum.com": {
+        "epoch": 1606348800.0,
+        "expiration_date": "26-nov-2020",
         "state": "future"
     },
     "cracked.com": {
@@ -10054,6 +10089,16 @@
         "expiration_date": "20-jun-2020",
         "state": "future"
     },
+    "foxpush.com": {
+        "epoch": 1673049600.0,
+        "expiration_date": "07-jan-2023",
+        "state": "future"
+    },
+    "foxpush.net": {
+        "epoch": 1673049600.0,
+        "expiration_date": "07-jan-2023",
+        "state": "future"
+    },
     "fpctraffic2.com": {
         "epoch": 1645574400.0,
         "expiration_date": "23-feb-2022",
@@ -11822,6 +11867,11 @@
     "heraldtimesonline.com": {
         "epoch": 1644537600.0,
         "expiration_date": "11-feb-2022",
+        "state": "future"
+    },
+    "heroesdom.com": {
+        "epoch": 1606521600.0,
+        "expiration_date": "28-nov-2020",
         "state": "future"
     },
     "heroku.com": {
@@ -13892,6 +13942,11 @@
     "jdoqocy.com": {
         "epoch": 1617667200.0,
         "expiration_date": "06-apr-2021",
+        "state": "future"
+    },
+    "jeeng.com": {
+        "epoch": 1796256000.0,
+        "expiration_date": "03-dec-2026",
         "state": "future"
     },
     "jessops.com": {
@@ -16669,6 +16724,11 @@
         "expiration_date": "13-feb-2021",
         "state": "future"
     },
+    "misrepush.com": {
+        "epoch": 1602201600.0,
+        "expiration_date": "09-oct-2020",
+        "state": "future"
+    },
     "mixi.mn": {
         "epoch": 1644883200.0,
         "expiration_date": "15-feb-2022",
@@ -18332,6 +18392,11 @@
     "notifpush.com": {
         "epoch": 1613001600.0,
         "expiration_date": "11-feb-2021",
+        "state": "future"
+    },
+    "notify.solutions": {
+        "epoch": 1608249600.0,
+        "expiration_date": "18-dec-2020",
         "state": "future"
     },
     "notifyvisitors.com": {
@@ -20639,6 +20704,11 @@
         "expiration_date": "07-jun-2021",
         "state": "future"
     },
+    "psh.one": {
+        "epoch": 1603497600.0,
+        "expiration_date": "24-oct-2020",
+        "state": "future"
+    },
     "pstatp.com": {
         "epoch": 1609027200.0,
         "expiration_date": "27-dec-2020",
@@ -22340,8 +22410,8 @@
         "state": "future"
     },
     "rumanalytics.com": {
-        "epoch": 1594771200.0,
-        "expiration_date": "15-jul-2020",
+        "epoch": 1626307200.0,
+        "expiration_date": "15-jul-2021",
         "state": "future"
     },
     "rumpelstiltskinhead.com": {
@@ -23620,9 +23690,9 @@
         "state": "future"
     },
     "sitebro.com": {
-        "epoch": 1594512000.0,
-        "expiration_date": "12-jul-2020",
-        "state": "past"
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
+        "state": "future"
     },
     "sitebro.net": {
         "epoch": 1618444800.0,
@@ -23685,8 +23755,8 @@
         "state": "future"
     },
     "sitestat.com": {
-        "epoch": 1594684800.0,
-        "expiration_date": "14-jul-2020",
+        "epoch": 1626220800.0,
+        "expiration_date": "14-jul-2021",
         "state": "future"
     },
     "sitestats.live": {
@@ -23755,8 +23825,8 @@
         "state": "future"
     },
     "skimresources.com": {
-        "epoch": 1594684800.0,
-        "expiration_date": "14-jul-2020",
+        "epoch": 1626220800.0,
+        "expiration_date": "14-jul-2021",
         "state": "future"
     },
     "sky.com": {
@@ -24027,6 +24097,11 @@
     "snazzyspace.com": {
         "epoch": 1606003200.0,
         "expiration_date": "22-nov-2020",
+        "state": "future"
+    },
+    "snd.tc": {
+        "epoch": 1624492800.0,
+        "expiration_date": "24-jun-2021",
         "state": "future"
     },
     "sniperlog.ru": {
@@ -25625,8 +25700,8 @@
         "state": "future"
     },
     "targetfuel.com": {
-        "epoch": 1594684800.0,
-        "expiration_date": "14-jul-2020",
+        "epoch": 1626220800.0,
+        "expiration_date": "14-jul-2021",
         "state": "future"
     },
     "targetix.net": {
@@ -25650,8 +25725,8 @@
         "state": "future"
     },
     "taskanalytics.com": {
-        "epoch": 1594684800.0,
-        "expiration_date": "14-jul-2020",
+        "epoch": 1626220800.0,
+        "expiration_date": "14-jul-2021",
         "state": "future"
     },
     "taskulu.com": {
@@ -26880,9 +26955,9 @@
         "state": "future"
     },
     "trafficregenerator.com": {
-        "epoch": 1594512000.0,
-        "expiration_date": "12-jul-2020",
-        "state": "past"
+        "epoch": 1626048000.0,
+        "expiration_date": "12-jul-2021",
+        "state": "future"
     },
     "traffikcntr.com": {
         "epoch": 1615075200.0,
@@ -27775,8 +27850,8 @@
         "state": "future"
     },
     "upscore.com": {
-        "epoch": 1594598400.0,
-        "expiration_date": "13-jul-2020",
+        "epoch": 1657670400.0,
+        "expiration_date": "13-jul-2022",
         "state": "future"
     },
     "upsellit.com": {
@@ -28730,8 +28805,8 @@
         "state": "future"
     },
     "voicefive.com": {
-        "epoch": 1594684800.0,
-        "expiration_date": "14-jul-2020",
+        "epoch": 1626220800.0,
+        "expiration_date": "14-jul-2021",
         "state": "future"
     },
     "volantix.com": {
@@ -30097,6 +30172,11 @@
     "xtraffstat.com": {
         "epoch": 1624147200.0,
         "expiration_date": "20-jun-2021",
+        "state": "future"
+    },
+    "xtremepush.com": {
+        "epoch": 1741305600.0,
+        "expiration_date": "07-mar-2025",
         "state": "future"
     },
     "xtremline.com": {
