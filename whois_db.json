@@ -1215,8 +1215,8 @@
         "state": "future"
     },
     "adsensedetective.com": {
-        "epoch": 1594944000.0,
-        "expiration_date": "17-jul-2020",
+        "epoch": 1626480000.0,
+        "expiration_date": "17-jul-2021",
         "state": "future"
     },
     "adservicemedia.dk": {
@@ -3635,8 +3635,8 @@
         "state": "future"
     },
     "bigmir.net": {
-        "epoch": 1594944000.0,
-        "expiration_date": "17-jul-2020",
+        "epoch": 1626480000.0,
+        "expiration_date": "17-jul-2021",
         "state": "future"
     },
     "bigreal.org": {
@@ -9272,7 +9272,7 @@
     "ezytrack.com": {
         "epoch": 1594944000.0,
         "expiration_date": "17-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "f-counter.net": {
         "epoch": 1600646400.0,
@@ -9900,9 +9900,9 @@
         "state": "future"
     },
     "flyingpt.com": {
-        "epoch": 1594771200.0,
-        "expiration_date": "15-jul-2020",
-        "state": "past"
+        "epoch": 1657843200.0,
+        "expiration_date": "15-jul-2022",
+        "state": "future"
     },
     "flyjazz.ca": {
         "epoch": 1615420800.0,
@@ -10175,8 +10175,8 @@
         "state": "future"
     },
     "free-counter.com": {
-        "epoch": 1594944000.0,
-        "expiration_date": "17-jul-2020",
+        "epoch": 1626480000.0,
+        "expiration_date": "17-jul-2021",
         "state": "future"
     },
     "free-counters.co.uk": {
@@ -11525,8 +11525,8 @@
         "state": "future"
     },
     "group-ib.ru": {
-        "epoch": 1594857600.0,
-        "expiration_date": "16-jul-2020",
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
         "state": "future"
     },
     "groupon.com": {
@@ -14780,8 +14780,8 @@
         "state": "future"
     },
     "lead-123.com": {
-        "epoch": 1594944000.0,
-        "expiration_date": "17-jul-2020",
+        "epoch": 1626480000.0,
+        "expiration_date": "17-jul-2021",
         "state": "future"
     },
     "lead-analytics.biz": {
