@@ -19545,8 +19545,8 @@
         "state": "future"
     },
     "payments-amazon.com": {
-        "epoch": 1594857600.0,
-        "expiration_date": "16-jul-2020",
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
         "state": "future"
     },
     "paypal.com": {
@@ -21185,8 +21185,8 @@
         "state": "future"
     },
     "quisma.com": {
-        "epoch": 1595030400.0,
-        "expiration_date": "18-jul-2020",
+        "epoch": 1626566400.0,
+        "expiration_date": "18-jul-2021",
         "state": "future"
     },
     "quitsnap-blue.com": {
@@ -25560,9 +25560,9 @@
         "state": "future"
     },
     "synapsys.us": {
-        "epoch": 1588204800.0,
-        "expiration_date": "30-apr-2020",
-        "state": "past"
+        "epoch": 1626480000.0,
+        "expiration_date": "17-jul-2021",
+        "state": "future"
     },
     "sync.tv": {
         "epoch": 1616025600.0,
@@ -28375,9 +28375,9 @@
         "state": "future"
     },
     "video-cdn.net": {
-        "epoch": 1594771200.0,
-        "expiration_date": "15-jul-2020",
-        "state": "past"
+        "epoch": 1626307200.0,
+        "expiration_date": "15-jul-2021",
+        "state": "future"
     },
     "videobolt.net": {
         "epoch": 1683936000.0,
