@@ -577,7 +577,7 @@
     "aalbbh84.info": {
         "epoch": 1595030400.0,
         "expiration_date": "18-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "aamsitecertifier.com": {
         "epoch": 1599177600.0,
@@ -3500,9 +3500,9 @@
         "state": "future"
     },
     "besucherzaehler.org": {
-        "epoch": 1594771200.0,
-        "expiration_date": "15-jul-2020",
-        "state": "past"
+        "epoch": 1626307200.0,
+        "expiration_date": "15-jul-2021",
+        "state": "future"
     },
     "besucherzahlen.com": {
         "epoch": 1618444800.0,
@@ -7069,6 +7069,11 @@
         "expiration_date": "10-jan-2021",
         "state": "future"
     },
+    "danorenius.com": {
+        "epoch": 1611792000.0,
+        "expiration_date": "28-jan-2021",
+        "state": "future"
+    },
     "dapperdiscussion.com": {
         "epoch": 1610236800.0,
         "expiration_date": "10-jan-2021",
@@ -9687,6 +9692,11 @@
     "firefoxchina.cn": {
         "epoch": 1645142400.0,
         "expiration_date": "18-feb-2022",
+        "state": "future"
+    },
+    "firstfrogs.com": {
+        "epoch": 1616025600.0,
+        "expiration_date": "18-mar-2021",
         "state": "future"
     },
     "fishhoo.com": {
@@ -17634,6 +17644,11 @@
         "expiration_date": "11-jul-2019",
         "state": "past"
     },
+    "najva.com": {
+        "epoch": 1746057600.0,
+        "expiration_date": "01-may-2025",
+        "state": "future"
+    },
     "nalook.com": {
         "epoch": 1599091200.0,
         "expiration_date": "03-sep-2020",
@@ -23575,8 +23590,8 @@
         "state": "future"
     },
     "silvergamed.com": {
-        "epoch": 1594944000.0,
-        "expiration_date": "17-jul-2020",
+        "epoch": 1626480000.0,
+        "expiration_date": "17-jul-2021",
         "state": "future"
     },
     "silverpop.com": {
@@ -25520,9 +25535,9 @@
         "state": "future"
     },
     "swiftmining.win": {
-        "epoch": 1588204800.0,
-        "expiration_date": "30-apr-2020",
-        "state": "past"
+        "epoch": 1626480000.0,
+        "expiration_date": "17-jul-2021",
+        "state": "future"
     },
     "swiftypecdn.com": {
         "epoch": 1639353600.0,
@@ -28010,8 +28025,8 @@
         "state": "future"
     },
     "userreplay.net": {
-        "epoch": 1594857600.0,
-        "expiration_date": "16-jul-2020",
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
         "state": "future"
     },
     "userreport.com": {
@@ -30030,8 +30045,8 @@
         "state": "future"
     },
     "www-path.com": {
-        "epoch": 1594944000.0,
-        "expiration_date": "17-jul-2020",
+        "epoch": 1626480000.0,
+        "expiration_date": "17-jul-2021",
         "state": "future"
     },
     "wwwportal.dk": {
