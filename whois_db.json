@@ -1605,8 +1605,8 @@
         "state": "future"
     },
     "aiya.com.cn": {
-        "epoch": 1594857600.0,
-        "expiration_date": "16-jul-2020",
+        "epoch": 1626393600.0,
+        "expiration_date": "16-jul-2021",
         "state": "future"
     },
     "ajplugins.com": {
@@ -6170,8 +6170,8 @@
         "state": "future"
     },
     "contentpass.net": {
-        "epoch": 1594944000.0,
-        "expiration_date": "17-jul-2020",
+        "epoch": 1626480000.0,
+        "expiration_date": "17-jul-2021",
         "state": "future"
     },
     "contentsfeed.com": {
@@ -6242,6 +6242,11 @@
     "convertexperiments.com": {
         "epoch": 1622851200.0,
         "expiration_date": "05-jun-2021",
+        "state": "future"
+    },
+    "convertflow.co": {
+        "epoch": 1634342400.0,
+        "expiration_date": "16-oct-2021",
         "state": "future"
     },
     "convertglobal.com": {
@@ -10692,7 +10697,7 @@
     "gamegecko.com": {
         "epoch": 1595030400.0,
         "expiration_date": "18-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "gamerdeals.net": {
         "epoch": 1594771200.0,
@@ -11400,8 +11405,8 @@
         "state": "future"
     },
     "gostats.ru": {
-        "epoch": 1595030400.0,
-        "expiration_date": "18-jul-2020",
+        "epoch": 1626566400.0,
+        "expiration_date": "18-jul-2021",
         "state": "future"
     },
     "gotdns.com": {
@@ -12757,7 +12762,7 @@
     "idot.cz": {
         "epoch": 1594598400.0,
         "expiration_date": "13-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "idtargeting.com": {
         "epoch": 1604275200.0,
@@ -13155,8 +13160,8 @@
         "state": "future"
     },
     "inistrack.net": {
-        "epoch": 1594944000.0,
-        "expiration_date": "17-jul-2020",
+        "epoch": 1626480000.0,
+        "expiration_date": "17-jul-2021",
         "state": "future"
     },
     "inmagine.com": {
@@ -13322,7 +13327,7 @@
     "instreamatic.com": {
         "epoch": 1594944000.0,
         "expiration_date": "17-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "instructables.com": {
         "epoch": 1624320000.0,
@@ -26895,9 +26900,9 @@
         "state": "future"
     },
     "trackset.it": {
-        "epoch": 1593648000.0,
-        "expiration_date": "02-jul-2020",
-        "state": "past"
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
+        "state": "future"
     },
     "tracksy.com": {
         "epoch": 1621728000.0,
@@ -27155,9 +27160,9 @@
         "state": "future"
     },
     "trick17.it": {
-        "epoch": 1593475200.0,
-        "expiration_date": "30-jun-2020",
-        "state": "past"
+        "epoch": 1625011200.0,
+        "expiration_date": "30-jun-2021",
+        "state": "future"
     },
     "triggeredmessaging.com": {
         "epoch": 1598313600.0,
@@ -30560,8 +30565,8 @@
         "state": "future"
     },
     "ywywjrlbsuv.com": {
-        "epoch": 1595030400.0,
-        "expiration_date": "18-jul-2020",
+        "epoch": 1626566400.0,
+        "expiration_date": "18-jul-2021",
         "state": "future"
     },
     "yxdown.com": {
