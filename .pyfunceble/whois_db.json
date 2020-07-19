@@ -6385,8 +6385,8 @@
         "state": "future"
     },
     "count.fr": {
-        "epoch": 1595116800.0,
-        "expiration_date": "19-jul-2020",
+        "epoch": 1626652800.0,
+        "expiration_date": "19-jul-2021",
         "state": "future"
     },
     "count.im": {
@@ -6765,8 +6765,8 @@
         "state": "future"
     },
     "crypto-coins.com": {
-        "epoch": 1595116800.0,
-        "expiration_date": "19-jul-2020",
+        "epoch": 1626652800.0,
+        "expiration_date": "19-jul-2021",
         "state": "future"
     },
     "crypto-coins.info": {
@@ -7707,6 +7707,11 @@
     "discovery.com": {
         "epoch": 1618963200.0,
         "expiration_date": "21-apr-2021",
+        "state": "future"
+    },
+    "discreetfield.com": {
+        "epoch": 1597622400.0,
+        "expiration_date": "17-aug-2020",
         "state": "future"
     },
     "disneylandparis.fr": {
@@ -11262,7 +11267,7 @@
     "goldoffer.online": {
         "epoch": 1595116800.0,
         "expiration_date": "19-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "goldstats.com": {
         "epoch": 1622073600.0,
@@ -12967,6 +12972,11 @@
     "imprvdosrv.com": {
         "epoch": 1598659200.0,
         "expiration_date": "29-aug-2020",
+        "state": "future"
+    },
+    "impulsejewel.com": {
+        "epoch": 1616025600.0,
+        "expiration_date": "18-mar-2021",
         "state": "future"
     },
     "imrk.net": {
@@ -15587,6 +15597,11 @@
     "lovefilm.com": {
         "epoch": 1708560000.0,
         "expiration_date": "22-feb-2024",
+        "state": "future"
+    },
+    "lovelydrum.com": {
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
         "state": "future"
     },
     "lowlocket.com": {
@@ -22969,6 +22984,11 @@
         "expiration_date": "15-mar-2021",
         "state": "future"
     },
+    "seatsmoke.com": {
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
+        "state": "future"
+    },
     "seattletimes.com": {
         "epoch": 1614643200.0,
         "expiration_date": "02-mar-2021",
@@ -23694,6 +23714,11 @@
         "expiration_date": "20-dec-2020",
         "state": "future"
     },
+    "sinceresubstance.com": {
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
+        "state": "future"
+    },
     "singlefeed.com": {
         "epoch": 1624579200.0,
         "expiration_date": "25-jun-2021",
@@ -24102,6 +24127,11 @@
     "smileyhost.net": {
         "epoch": 1618099200.0,
         "expiration_date": "11-apr-2021",
+        "state": "future"
+    },
+    "smoggystation.com": {
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
         "state": "future"
     },
     "smrk.io": {
@@ -26024,6 +26054,11 @@
         "expiration_date": "02-oct-2020",
         "state": "future"
     },
+    "tgtag.io": {
+        "epoch": 1605744000.0,
+        "expiration_date": "19-nov-2020",
+        "state": "future"
+    },
     "tgw.com": {
         "epoch": 1632873600.0,
         "expiration_date": "29-sep-2021",
@@ -26042,7 +26077,7 @@
     "theadex.com": {
         "epoch": 1595116800.0,
         "expiration_date": "19-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "theagency.com": {
         "epoch": 1647734400.0,
@@ -26497,6 +26532,11 @@
     "toc.io": {
         "epoch": 1607644800.0,
         "expiration_date": "11-dec-2020",
+        "state": "future"
+    },
+    "toecircle.com": {
+        "epoch": 1598227200.0,
+        "expiration_date": "24-aug-2020",
         "state": "future"
     },
     "tomonline-inc.com": {
@@ -26992,6 +27032,11 @@
     "trafficfuel.com": {
         "epoch": 1618444800.0,
         "expiration_date": "15-apr-2021",
+        "state": "future"
+    },
+    "trafficguard.ai": {
+        "epoch": 1645574400.0,
+        "expiration_date": "23-feb-2022",
         "state": "future"
     },
     "trafficjoint.com": {
@@ -28140,8 +28185,8 @@
         "state": "future"
     },
     "vantage-media.net": {
-        "epoch": 1595116800.0,
-        "expiration_date": "19-jul-2020",
+        "epoch": 1626652800.0,
+        "expiration_date": "19-jul-2021",
         "state": "future"
     },
     "vapedia.com": {
@@ -28297,6 +28342,11 @@
     "verresof.com": {
         "epoch": 1617580800.0,
         "expiration_date": "05-apr-2021",
+        "state": "future"
+    },
+    "verseballs.com": {
+        "epoch": 1616025600.0,
+        "expiration_date": "18-mar-2021",
         "state": "future"
     },
     "vertical-leap.co.uk": {
