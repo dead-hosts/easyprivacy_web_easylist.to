@@ -1467,7 +1467,7 @@
     "africal.info": {
         "epoch": 1595116800.0,
         "expiration_date": "19-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "afrigator.com": {
         "epoch": 1679529600.0,
@@ -2220,8 +2220,8 @@
         "state": "future"
     },
     "anti-cheat.info": {
-        "epoch": 1595116800.0,
-        "expiration_date": "19-jul-2020",
+        "epoch": 1601683200.0,
+        "expiration_date": "03-oct-2020",
         "state": "future"
     },
     "antvoice.com": {
@@ -3350,9 +3350,9 @@
         "state": "future"
     },
     "beampulse.com": {
-        "epoch": 1595030400.0,
-        "expiration_date": "18-jul-2020",
-        "state": "past"
+        "epoch": 1626566400.0,
+        "expiration_date": "18-jul-2021",
+        "state": "future"
     },
     "beanstalkdata.com": {
         "epoch": 1619395200.0,
@@ -5370,8 +5370,8 @@
         "state": "future"
     },
     "clevi.com": {
-        "epoch": 1595116800.0,
-        "expiration_date": "19-jul-2020",
+        "epoch": 1626652800.0,
+        "expiration_date": "19-jul-2021",
         "state": "future"
     },
     "clgserv.pro": {
@@ -10835,8 +10835,8 @@
         "state": "future"
     },
     "geobytes.com": {
-        "epoch": 1595116800.0,
-        "expiration_date": "19-jul-2020",
+        "epoch": 1626652800.0,
+        "expiration_date": "19-jul-2021",
         "state": "future"
     },
     "geocompteur.com": {
@@ -12925,9 +12925,9 @@
         "state": "future"
     },
     "imhd.io": {
-        "epoch": 1595030400.0,
-        "expiration_date": "18-jul-2020",
-        "state": "past"
+        "epoch": 1626566400.0,
+        "expiration_date": "18-jul-2021",
+        "state": "future"
     },
     "immanalytics.com": {
         "epoch": 1600992000.0,
@@ -16060,8 +16060,8 @@
         "state": "future"
     },
     "masterstats.com": {
-        "epoch": 1595116800.0,
-        "expiration_date": "19-jul-2020",
+        "epoch": 1626652800.0,
+        "expiration_date": "19-jul-2021",
         "state": "future"
     },
     "mataharirama.xyz": {
@@ -16380,8 +16380,8 @@
         "state": "future"
     },
     "memo.co": {
-        "epoch": 1595116800.0,
-        "expiration_date": "19-jul-2020",
+        "epoch": 1626652800.0,
+        "expiration_date": "19-jul-2021",
         "state": "future"
     },
     "mengis-linden.org": {
@@ -20068,6 +20068,11 @@
         "epoch": 1562284800,
         "expiration_date": "05-jul-2019",
         "state": "past"
+    },
+    "pixfuture.com": {
+        "epoch": 1634860800.0,
+        "expiration_date": "22-oct-2021",
+        "state": "future"
     },
     "pixhosting.com": {
         "epoch": 1598140800.0,
