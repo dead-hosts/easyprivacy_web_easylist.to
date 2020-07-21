@@ -1465,9 +1465,9 @@
         "state": "future"
     },
     "africal.info": {
-        "epoch": 1595116800.0,
-        "expiration_date": "19-jul-2020",
-        "state": "past"
+        "epoch": 1626652800.0,
+        "expiration_date": "19-jul-2021",
+        "state": "future"
     },
     "afrigator.com": {
         "epoch": 1679529600.0,
@@ -6605,8 +6605,8 @@
         "state": "future"
     },
     "craftkeys.com": {
-        "epoch": 1595203200.0,
-        "expiration_date": "20-jul-2020",
+        "epoch": 1626739200.0,
+        "expiration_date": "20-jul-2021",
         "state": "future"
     },
     "craktraffic.com": {
@@ -10292,6 +10292,11 @@
     "freecounter.it": {
         "epoch": 1600819200.0,
         "expiration_date": "23-sep-2020",
+        "state": "future"
+    },
+    "freecounter.ovh": {
+        "epoch": 1603238400.0,
+        "expiration_date": "21-oct-2020",
         "state": "future"
     },
     "freecountercode.com": {
@@ -14600,8 +14605,8 @@
         "state": "future"
     },
     "kontagent.net": {
-        "epoch": 1595289600.0,
-        "expiration_date": "21-jul-2020",
+        "epoch": 1626825600.0,
+        "expiration_date": "21-jul-2021",
         "state": "future"
     },
     "kopsil.com": {
@@ -15175,8 +15180,8 @@
         "state": "future"
     },
     "linksynergy.com": {
-        "epoch": 1595289600.0,
-        "expiration_date": "21-jul-2020",
+        "epoch": 1626825600.0,
+        "expiration_date": "21-jul-2021",
         "state": "future"
     },
     "linkwi.se": {
@@ -19370,8 +19375,8 @@
         "state": "future"
     },
     "p-td.com": {
-        "epoch": 1595289600.0,
-        "expiration_date": "21-jul-2020",
+        "epoch": 1626825600.0,
+        "expiration_date": "21-jul-2021",
         "state": "future"
     },
     "p0.com": {
@@ -22060,8 +22065,8 @@
         "state": "future"
     },
     "revolvermaps.com": {
-        "epoch": 1595203200.0,
-        "expiration_date": "20-jul-2020",
+        "epoch": 1626739200.0,
+        "expiration_date": "20-jul-2021",
         "state": "future"
     },
     "revsw.net": {
