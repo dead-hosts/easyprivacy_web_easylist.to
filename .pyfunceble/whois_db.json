@@ -575,9 +575,9 @@
         "state": "future"
     },
     "aalbbh84.info": {
-        "epoch": 1595030400.0,
-        "expiration_date": "18-jul-2020",
-        "state": "past"
+        "epoch": 1626566400.0,
+        "expiration_date": "18-jul-2021",
+        "state": "future"
     },
     "aamsitecertifier.com": {
         "epoch": 1599177600.0,
@@ -12902,7 +12902,7 @@
     "imcht.net": {
         "epoch": 1595289600.0,
         "expiration_date": "21-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "imdb.com": {
         "epoch": 1704326400.0,
@@ -17685,8 +17685,8 @@
         "state": "future"
     },
     "nametraff.com": {
-        "epoch": 1595203200.0,
-        "expiration_date": "20-jul-2020",
+        "epoch": 1626739200.0,
+        "expiration_date": "20-jul-2021",
         "state": "future"
     },
     "nana10.co.il": {
@@ -26080,9 +26080,9 @@
         "state": "future"
     },
     "theadex.com": {
-        "epoch": 1595116800.0,
-        "expiration_date": "19-jul-2020",
-        "state": "past"
+        "epoch": 1626652800.0,
+        "expiration_date": "19-jul-2021",
+        "state": "future"
     },
     "theagency.com": {
         "epoch": 1647734400.0,
@@ -26952,7 +26952,7 @@
     "trackset.com": {
         "epoch": 1595289600.0,
         "expiration_date": "21-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "trackset.it": {
         "epoch": 1625184000.0,
@@ -26995,8 +26995,8 @@
         "state": "future"
     },
     "tradelab.fr": {
-        "epoch": 1595289600.0,
-        "expiration_date": "21-jul-2020",
+        "epoch": 1626825600.0,
+        "expiration_date": "21-jul-2021",
         "state": "future"
     },
     "tradescape.biz": {
@@ -29320,8 +29320,8 @@
         "state": "future"
     },
     "webforensics.co.uk": {
-        "epoch": 1595289600.0,
-        "expiration_date": "21-jul-2020",
+        "epoch": 1626825600.0,
+        "expiration_date": "21-jul-2021",
         "state": "future"
     },
     "webgains.com": {
