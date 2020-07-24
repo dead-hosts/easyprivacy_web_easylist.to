@@ -62,6 +62,7 @@ kayak.*                                                                         
 kayak.*                                                                                              SYNTAX     XXX        2020-07-24T23:09:28.639981
 lcs.naver.                                                                                           SYNTAX     XXX        2020-07-24T23:09:29.911976
 linguee.com*                                                                                         SYNTAX     XXX        2020-07-24T23:09:30.370486
+log*.ku6.com                                                                                         SYNTAX     XXX        2020-07-24T23:38:13.237020
 log-*.previewnetworks.com                                                                            SYNTAX     XXX        2020-07-24T22:34:15.254894
 logger-*.dailymotion.com                                                                             SYNTAX     XXX        2020-07-24T23:09:31.209252
 mcdp-*.outbrain.com                                                                                  SYNTAX     XXX        2020-07-24T22:34:16.923537
@@ -70,6 +71,7 @@ metro-trending-*.amazonaws.com                                                  
 pixel.archive.                                                                                       SYNTAX     XXX        2020-07-24T23:09:43.590461
 pulsar.ebay.                                                                                         SYNTAX     XXX        2020-07-24T23:09:45.720141
 rover.ebay.                                                                                          SYNTAX     XXX        2020-07-24T23:09:49.461825
+sapo.*                                                                                               SYNTAX     XXX        2020-07-24T23:38:21.028698
 site.flashx.                                                                                         SYNTAX     XXX        2020-07-24T22:16:02.667513
 skyscanner.*                                                                                         SYNTAX     XXX        2020-07-24T23:26:55.364941
 skyscanner.*                                                                                         SYNTAX     XXX        2020-07-24T23:26:55.371485
@@ -77,6 +79,7 @@ startpage.*                                                                     
 startpage.*                                                                                          SYNTAX     XXX        2020-07-24T23:26:58.121541
 startpage.*                                                                                          SYNTAX     XXX        2020-07-24T23:26:58.128514
 startpage.*                                                                                          SYNTAX     XXX        2020-07-24T23:26:58.135554
+stat.*.v-56.com                                                                                      SYNTAX     XXX        2020-07-24T23:38:14.400245
 stats2.*.fdnames.com                                                                                 SYNTAX     XXX        2020-07-24T22:51:49.656894
 stats-*.p2pnow.ru                                                                                    SYNTAX     XXX        2020-07-24T23:08:53.294488
 t.delfi.                                                                                             SYNTAX     XXX        2020-07-24T23:26:59.965015

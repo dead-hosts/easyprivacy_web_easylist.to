@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202007242247
+! Version: 202007242319
 ! Title: EasyPrivacy
-! Last modified: 24 Jul 2020 22:47 UTC
+! Last modified: 24 Jul 2020 23:19 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -12672,6 +12672,7 @@ _mongo_stats/
 ||awaps.yandex.ru^
 ||banstat.nadavi.net^
 ||bigday.ru/counter.php?
+||browser-updater.yandex.net^
 ||c.bigmir.net^
 ||clck.yandex.ru^$~other
 ||climatecontrol.ru/counters/
@@ -12747,6 +12748,7 @@ _mongo_stats/
 ||stat.sputnik.ru^
 ||stat.tvigle.ru^
 ||stats-*.p2pnow.ru^
+||stats.embedcdn.cc^
 ||stats.seedr.com^
 ||stats.tazeros.com^
 ||subscribe.ru/1.gif/$image
@@ -16731,6 +16733,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||2ch.hk^*/tracker.js?
 ||4pda.ru/stat/
 ||ad7.bigmir.net^
+||affilate.hh.ru^
 ||agroserver.ru/ct/
 ||analytics.carambatv.ru^
 ||auto.ru/-/ajax/$~xmlhttprequest
