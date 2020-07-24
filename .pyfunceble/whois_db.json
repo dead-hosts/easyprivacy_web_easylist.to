@@ -3730,8 +3730,8 @@
         "state": "future"
     },
     "bitclubnetwork.com": {
-        "epoch": 1595376000.0,
-        "expiration_date": "22-jul-2020",
+        "epoch": 1626912000.0,
+        "expiration_date": "22-jul-2021",
         "state": "future"
     },
     "bitdefender.com": {
@@ -12925,9 +12925,9 @@
         "state": "future"
     },
     "imcht.net": {
-        "epoch": 1595289600.0,
-        "expiration_date": "21-jul-2020",
-        "state": "past"
+        "epoch": 1626825600.0,
+        "expiration_date": "21-jul-2021",
+        "state": "future"
     },
     "imdb.com": {
         "epoch": 1704326400.0,
@@ -14340,8 +14340,8 @@
         "state": "past"
     },
     "kctag.net": {
-        "epoch": 1595462400.0,
-        "expiration_date": "23-jul-2020",
+        "epoch": 1626998400.0,
+        "expiration_date": "23-jul-2021",
         "state": "future"
     },
     "kdata.fr": {
@@ -17050,8 +17050,8 @@
         "state": "future"
     },
     "monkeyminer.net": {
-        "epoch": 1595462400.0,
-        "expiration_date": "23-jul-2020",
+        "epoch": 1626998400.0,
+        "expiration_date": "23-jul-2021",
         "state": "future"
     },
     "monkeyquest.com": {
@@ -20999,6 +20999,16 @@
         "expiration_date": "16-sep-2021",
         "state": "future"
     },
+    "pushex.io": {
+        "epoch": 1612051200.0,
+        "expiration_date": "31-jan-2021",
+        "state": "future"
+    },
+    "pushify.com": {
+        "epoch": 1625529600.0,
+        "expiration_date": "06-jul-2021",
+        "state": "future"
+    },
     "pushly.com": {
         "epoch": 1610409600.0,
         "expiration_date": "12-jan-2021",
@@ -21722,7 +21732,7 @@
     "redretarget.com": {
         "epoch": 1595548800.0,
         "expiration_date": "24-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "redstatcounter.com": {
         "epoch": 1638748800.0,
@@ -23234,6 +23244,11 @@
         "expiration_date": "28-aug-2020",
         "state": "future"
     },
+    "sendpulse.com": {
+        "epoch": 1674432000.0,
+        "expiration_date": "23-jan-2023",
+        "state": "future"
+    },
     "sendtonews.com": {
         "epoch": 1650153600.0,
         "expiration_date": "17-apr-2022",
@@ -23575,8 +23590,8 @@
         "state": "future"
     },
     "shoptimally.com": {
-        "epoch": 1595548800.0,
-        "expiration_date": "24-jul-2020",
+        "epoch": 1753315200.0,
+        "expiration_date": "24-jul-2025",
         "state": "future"
     },
     "shoutcast.com": {
@@ -23602,6 +23617,11 @@
     "shrink-service.it": {
         "epoch": 1612828800.0,
         "expiration_date": "09-feb-2021",
+        "state": "future"
+    },
+    "shroughtened.com": {
+        "epoch": 1611792000.0,
+        "expiration_date": "28-jan-2021",
         "state": "future"
     },
     "shutterfly.com": {
@@ -24047,6 +24067,11 @@
     "smadex.com": {
         "epoch": 1641168000.0,
         "expiration_date": "03-jan-2022",
+        "state": "future"
+    },
+    "smallbeginner.com": {
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
         "state": "future"
     },
     "smallcapnetwork.com": {
@@ -25305,8 +25330,8 @@
         "state": "future"
     },
     "streambeam.io": {
-        "epoch": 1595462400.0,
-        "expiration_date": "23-jul-2020",
+        "epoch": 1626998400.0,
+        "expiration_date": "23-jul-2021",
         "state": "future"
     },
     "streamsend.com": {
@@ -26682,7 +26707,7 @@
     "topofblogs.com": {
         "epoch": 1595548800.0,
         "expiration_date": "24-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "topolino.it": {
         "epoch": 1624320000.0,
@@ -26995,9 +27020,9 @@
         "state": "future"
     },
     "trackset.com": {
-        "epoch": 1595289600.0,
-        "expiration_date": "21-jul-2020",
-        "state": "past"
+        "epoch": 1626825600.0,
+        "expiration_date": "21-jul-2021",
+        "state": "future"
     },
     "trackset.it": {
         "epoch": 1625184000.0,
@@ -28032,6 +28057,11 @@
     "uralweb.ru": {
         "epoch": 1596240000.0,
         "expiration_date": "01-aug-2020",
+        "state": "future"
+    },
+    "urbanairship.com": {
+        "epoch": 1618358400.0,
+        "expiration_date": "14-apr-2021",
         "state": "future"
     },
     "urbanlist.com": {
@@ -29990,8 +30020,8 @@
         "state": "future"
     },
     "worldflagcounter.com": {
-        "epoch": 1595289600.0,
-        "expiration_date": "21-jul-2020",
+        "epoch": 1626825600.0,
+        "expiration_date": "21-jul-2021",
         "state": "future"
     },
     "worldgolf.com": {
@@ -30152,6 +30182,16 @@
     "wunderloop.net": {
         "epoch": 1600387200.0,
         "expiration_date": "18-sep-2020",
+        "state": "future"
+    },
+    "wwclickserv.club": {
+        "epoch": 1627516800.0,
+        "expiration_date": "29-jul-2021",
+        "state": "future"
+    },
+    "wwclicktm.club": {
+        "epoch": 1627516800.0,
+        "expiration_date": "29-jul-2021",
         "state": "future"
     },
     "wwe.com": {
