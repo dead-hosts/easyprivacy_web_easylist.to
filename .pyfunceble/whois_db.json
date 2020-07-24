@@ -4235,8 +4235,8 @@
         "state": "future"
     },
     "breakmedia.com": {
-        "epoch": 1595548800.0,
-        "expiration_date": "24-jul-2020",
+        "epoch": 1627084800.0,
+        "expiration_date": "24-jul-2021",
         "state": "future"
     },
     "breaktime.com.tw": {
@@ -4907,6 +4907,11 @@
     "cbsimg.net": {
         "epoch": 1623369600.0,
         "expiration_date": "11-jun-2021",
+        "state": "future"
+    },
+    "cbsistatic.com": {
+        "epoch": 1603756800.0,
+        "expiration_date": "27-oct-2020",
         "state": "future"
     },
     "cbsnews.com": {
@@ -6870,8 +6875,8 @@
         "state": "future"
     },
     "ctags.cn": {
-        "epoch": 1595462400.0,
-        "expiration_date": "23-jul-2020",
+        "epoch": 1626998400.0,
+        "expiration_date": "23-jul-2021",
         "state": "future"
     },
     "ctnsnet.com": {
@@ -10427,7 +10432,7 @@
     "freestats.tv": {
         "epoch": 1595548800.0,
         "expiration_date": "24-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "freestats.ws": {
         "epoch": 1742342400.0,
@@ -12057,7 +12062,7 @@
     "hit100.ro": {
         "epoch": 1595548800.0,
         "expiration_date": "24-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "hit2map.com": {
         "epoch": 1608249600.0,
@@ -15355,8 +15360,8 @@
         "state": "future"
     },
     "liverail.com": {
-        "epoch": 1595548800.0,
-        "expiration_date": "24-jul-2020",
+        "epoch": 1658620800.0,
+        "expiration_date": "24-jul-2022",
         "state": "future"
     },
     "livesegmentservice.com": {
@@ -16980,8 +16985,8 @@
         "state": "future"
     },
     "mokuz.ru": {
-        "epoch": 1595462400.0,
-        "expiration_date": "23-jul-2020",
+        "epoch": 1626998400.0,
+        "expiration_date": "23-jul-2021",
         "state": "future"
     },
     "mollnia.com": {
@@ -20090,8 +20095,8 @@
         "state": "future"
     },
     "pixanalytics.com": {
-        "epoch": 1595462400.0,
-        "expiration_date": "23-jul-2020",
+        "epoch": 1626998400.0,
+        "expiration_date": "23-jul-2021",
         "state": "future"
     },
     "pixazza.com": {
@@ -20685,8 +20690,8 @@
         "state": "future"
     },
     "programmatic.cz": {
-        "epoch": 1595462400.0,
-        "expiration_date": "23-jul-2020",
+        "epoch": 1626998400.0,
+        "expiration_date": "23-jul-2021",
         "state": "future"
     },
     "programmatictrader.com": {
@@ -23940,8 +23945,8 @@
         "state": "future"
     },
     "sjv.io": {
-        "epoch": 1595376000.0,
-        "expiration_date": "22-jul-2020",
+        "epoch": 1626912000.0,
+        "expiration_date": "22-jul-2021",
         "state": "future"
     },
     "sk-static.com": {
@@ -25525,8 +25530,8 @@
         "state": "future"
     },
     "suntcontent.se": {
-        "epoch": 1595548800.0,
-        "expiration_date": "24-jul-2020",
+        "epoch": 1627084800.0,
+        "expiration_date": "24-jul-2021",
         "state": "future"
     },
     "supercounters.com": {
