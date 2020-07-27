@@ -1177,7 +1177,7 @@
     "adprimemedia.com": {
         "epoch": 1595808000.0,
         "expiration_date": "27-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "adprotraffic.com": {
         "epoch": 1623196800.0,
@@ -2137,7 +2137,7 @@
     "androidfilehost.com": {
         "epoch": 1595808000.0,
         "expiration_date": "27-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "androidtv.news": {
         "epoch": 1598832000.0,
@@ -5177,7 +5177,7 @@
     "cheapsalesconsulting.com": {
         "epoch": 1595808000.0,
         "expiration_date": "27-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "checkout.com": {
         "epoch": 1603584000.0,
@@ -9125,8 +9125,8 @@
         "state": "future"
     },
     "eweek.com": {
-        "epoch": 1595721600.0,
-        "expiration_date": "26-jul-2020",
+        "epoch": 1627257600.0,
+        "expiration_date": "26-jul-2021",
         "state": "future"
     },
     "ex.ua": {
@@ -10265,8 +10265,8 @@
         "state": "future"
     },
     "freean.us": {
-        "epoch": 1595721600.0,
-        "expiration_date": "26-jul-2020",
+        "epoch": 1627257600.0,
+        "expiration_date": "26-jul-2021",
         "state": "future"
     },
     "freebase.com": {
@@ -14005,8 +14005,8 @@
         "state": "future"
     },
     "jakpost.net": {
-        "epoch": 1595808000.0,
-        "expiration_date": "27-jul-2020",
+        "epoch": 1627344000.0,
+        "expiration_date": "27-jul-2021",
         "state": "future"
     },
     "jaludo.com": {
@@ -16140,8 +16140,8 @@
         "state": "future"
     },
     "mastercard.com": {
-        "epoch": 1595721600.0,
-        "expiration_date": "26-jul-2020",
+        "epoch": 1627257600.0,
+        "expiration_date": "26-jul-2021",
         "state": "future"
     },
     "masterstats.com": {
@@ -18050,8 +18050,8 @@
         "state": "future"
     },
     "net-a-porter.com": {
-        "epoch": 1595721600.0,
-        "expiration_date": "26-jul-2020",
+        "epoch": 1627257600.0,
+        "expiration_date": "26-jul-2021",
         "state": "future"
     },
     "net-filter.com": {
@@ -21825,8 +21825,8 @@
         "state": "future"
     },
     "reference.com": {
-        "epoch": 1595808000.0,
-        "expiration_date": "27-jul-2020",
+        "epoch": 1658880000.0,
+        "expiration_date": "27-jul-2022",
         "state": "future"
     },
     "referer.org": {
@@ -25915,8 +25915,8 @@
         "state": "future"
     },
     "targetspot.com": {
-        "epoch": 1595721600.0,
-        "expiration_date": "26-jul-2020",
+        "epoch": 1627257600.0,
+        "expiration_date": "26-jul-2021",
         "state": "future"
     },
     "taringa.net": {
