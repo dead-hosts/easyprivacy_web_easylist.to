@@ -702,7 +702,7 @@
     "acces-charme.com": {
         "epoch": 1596067200.0,
         "expiration_date": "30-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "access-analyze.org": {
         "epoch": 1612742400.0,
@@ -5645,8 +5645,8 @@
         "state": "future"
     },
     "clnk.me": {
-        "epoch": 1595980800.0,
-        "expiration_date": "29-jul-2020",
+        "epoch": 1627516800.0,
+        "expiration_date": "29-jul-2021",
         "state": "future"
     },
     "clod.pw": {
@@ -13310,8 +13310,8 @@
         "state": "future"
     },
     "inrd.ru": {
-        "epoch": 1595980800.0,
-        "expiration_date": "29-jul-2020",
+        "epoch": 1627516800.0,
+        "expiration_date": "29-jul-2021",
         "state": "future"
     },
     "insdrbot.com": {
@@ -22800,8 +22800,8 @@
         "state": "future"
     },
     "sambaads.com": {
-        "epoch": 1596067200.0,
-        "expiration_date": "30-jul-2020",
+        "epoch": 1627603200.0,
+        "expiration_date": "30-jul-2021",
         "state": "future"
     },
     "samsung.com": {
@@ -26725,8 +26725,8 @@
         "state": "future"
     },
     "top-bloggers.com": {
-        "epoch": 1596067200.0,
-        "expiration_date": "30-jul-2020",
+        "epoch": 1627603200.0,
+        "expiration_date": "30-jul-2021",
         "state": "future"
     },
     "top-ro.ro": {
