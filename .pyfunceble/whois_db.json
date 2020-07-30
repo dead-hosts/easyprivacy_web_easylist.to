@@ -1334,6 +1334,11 @@
         "expiration_date": "24-nov-2020",
         "state": "future"
     },
+    "advangelists.com": {
+        "epoch": 1637712000.0,
+        "expiration_date": "24-nov-2021",
+        "state": "future"
+    },
     "advconversion.com": {
         "epoch": 1626048000.0,
         "expiration_date": "12-jul-2021",
@@ -4272,6 +4277,11 @@
     "brilig.com": {
         "epoch": 1598313600.0,
         "expiration_date": "25-aug-2020",
+        "state": "future"
+    },
+    "britepool.com": {
+        "epoch": 1624924800.0,
+        "expiration_date": "29-jun-2021",
         "state": "future"
     },
     "broadbandchoices.co.uk": {
@@ -7707,7 +7717,7 @@
     "directrdr.com": {
         "epoch": 1596067200.0,
         "expiration_date": "30-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "diritalia.com": {
         "epoch": 1621209600.0,
@@ -9920,8 +9930,8 @@
         "state": "future"
     },
     "fluidsurveys.com": {
-        "epoch": 1595980800.0,
-        "expiration_date": "29-jul-2020",
+        "epoch": 1627516800.0,
+        "expiration_date": "29-jul-2021",
         "state": "future"
     },
     "flurry.com": {
@@ -13785,8 +13795,8 @@
         "state": "future"
     },
     "iqfp1.com": {
-        "epoch": 1595894400.0,
-        "expiration_date": "28-jul-2020",
+        "epoch": 1658966400.0,
+        "expiration_date": "28-jul-2022",
         "state": "future"
     },
     "irecommend.ru": {
@@ -16040,8 +16050,8 @@
         "state": "future"
     },
     "market2lead.com": {
-        "epoch": 1595894400.0,
-        "expiration_date": "28-jul-2020",
+        "epoch": 1627430400.0,
+        "expiration_date": "28-jul-2021",
         "state": "future"
     },
     "marketgid.com": {
@@ -16495,8 +16505,8 @@
         "state": "future"
     },
     "mercent.com": {
-        "epoch": 1595635200.0,
-        "expiration_date": "25-jul-2020",
+        "epoch": 1627171200.0,
+        "expiration_date": "25-jul-2021",
         "state": "future"
     },
     "merchantcircle.com": {
@@ -16925,8 +16935,8 @@
         "state": "future"
     },
     "mm7.net": {
-        "epoch": 1595894400.0,
-        "expiration_date": "28-jul-2020",
+        "epoch": 1627430400.0,
+        "expiration_date": "28-jul-2021",
         "state": "future"
     },
     "mmccint.com": {
@@ -17565,8 +17575,8 @@
         "state": "future"
     },
     "myomnistar.com": {
-        "epoch": 1595721600.0,
-        "expiration_date": "26-jul-2020",
+        "epoch": 1627257600.0,
+        "expiration_date": "26-jul-2021",
         "state": "future"
     },
     "mypagerank.net": {
@@ -17965,8 +17975,8 @@
         "state": "future"
     },
     "neatstats.com": {
-        "epoch": 1595980800.0,
-        "expiration_date": "29-jul-2020",
+        "epoch": 1627516800.0,
+        "expiration_date": "29-jul-2021",
         "state": "future"
     },
     "nedstat.com": {
@@ -18920,8 +18930,8 @@
         "state": "future"
     },
     "omarsys.com": {
-        "epoch": 1595808000.0,
-        "expiration_date": "27-jul-2020",
+        "epoch": 1627344000.0,
+        "expiration_date": "27-jul-2021",
         "state": "future"
     },
     "omataloyhtio.fi": {
@@ -20690,8 +20700,8 @@
         "state": "future"
     },
     "pro6e.com": {
-        "epoch": 1595980800.0,
-        "expiration_date": "29-jul-2020",
+        "epoch": 1627516800.0,
+        "expiration_date": "29-jul-2021",
         "state": "future"
     },
     "proclivitysystems.com": {
@@ -21875,8 +21885,8 @@
         "state": "future"
     },
     "reinvigorate.net": {
-        "epoch": 1595980800.0,
-        "expiration_date": "29-jul-2020",
+        "epoch": 1627516800.0,
+        "expiration_date": "29-jul-2021",
         "state": "future"
     },
     "reitingas.lt": {
