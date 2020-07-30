@@ -1175,9 +1175,9 @@
         "state": "future"
     },
     "adprimemedia.com": {
-        "epoch": 1595808000.0,
-        "expiration_date": "27-jul-2020",
-        "state": "past"
+        "epoch": 1627344000.0,
+        "expiration_date": "27-jul-2021",
+        "state": "future"
     },
     "adprotraffic.com": {
         "epoch": 1623196800.0,
@@ -2140,9 +2140,9 @@
         "state": "future"
     },
     "androidfilehost.com": {
-        "epoch": 1595808000.0,
-        "expiration_date": "27-jul-2020",
-        "state": "past"
+        "epoch": 1627344000.0,
+        "expiration_date": "27-jul-2021",
+        "state": "future"
     },
     "androidtv.news": {
         "epoch": 1598832000.0,
@@ -3820,8 +3820,8 @@
         "state": "future"
     },
     "blankfire.com": {
-        "epoch": 1595980800.0,
-        "expiration_date": "29-jul-2020",
+        "epoch": 1627516800.0,
+        "expiration_date": "29-jul-2021",
         "state": "future"
     },
     "blastingnews.com": {
@@ -5190,9 +5190,9 @@
         "state": "future"
     },
     "cheapsalesconsulting.com": {
-        "epoch": 1595808000.0,
-        "expiration_date": "27-jul-2020",
-        "state": "past"
+        "epoch": 1627344000.0,
+        "expiration_date": "27-jul-2021",
+        "state": "future"
     },
     "checkout.com": {
         "epoch": 1603584000.0,
@@ -6640,8 +6640,8 @@
         "state": "future"
     },
     "crackle.com": {
-        "epoch": 1596067200.0,
-        "expiration_date": "30-jul-2020",
+        "epoch": 1627603200.0,
+        "expiration_date": "30-jul-2021",
         "state": "future"
     },
     "craftkeys.com": {
@@ -8069,6 +8069,11 @@
         "expiration_date": "18-jul-2021",
         "state": "future"
     },
+    "drudgereport.com": {
+        "epoch": 1897344000.0,
+        "expiration_date": "15-feb-2030",
+        "state": "future"
+    },
     "drugs.com": {
         "epoch": 1671321600.0,
         "expiration_date": "18-dec-2022",
@@ -8530,8 +8535,8 @@
         "state": "future"
     },
     "eharmony.ca": {
-        "epoch": 1596067200.0,
-        "expiration_date": "30-jul-2020",
+        "epoch": 1659139200.0,
+        "expiration_date": "30-jul-2022",
         "state": "future"
     },
     "eharmony.co.uk": {
@@ -8905,8 +8910,8 @@
         "state": "future"
     },
     "espncdn.com": {
-        "epoch": 1596067200.0,
-        "expiration_date": "30-jul-2020",
+        "epoch": 1627603200.0,
+        "expiration_date": "30-jul-2021",
         "state": "future"
     },
     "estadisticasgratis.com": {
@@ -20480,8 +20485,8 @@
         "state": "future"
     },
     "pornhd.com": {
-        "epoch": 1596067200.0,
-        "expiration_date": "30-jul-2020",
+        "epoch": 1627603200.0,
+        "expiration_date": "30-jul-2021",
         "state": "future"
     },
     "pornhost.com": {
@@ -21385,8 +21390,8 @@
         "state": "future"
     },
     "racingbase.com": {
-        "epoch": 1595980800.0,
-        "expiration_date": "29-jul-2020",
+        "epoch": 1627516800.0,
+        "expiration_date": "29-jul-2021",
         "state": "future"
     },
     "racinguk.com": {
@@ -23072,6 +23077,11 @@
     "searchcompletion.com": {
         "epoch": 1623628800.0,
         "expiration_date": "14-jun-2021",
+        "state": "future"
+    },
+    "searchenginejournal.com": {
+        "epoch": 1749600000.0,
+        "expiration_date": "11-jun-2025",
         "state": "future"
     },
     "searchenginewatch.com": {
