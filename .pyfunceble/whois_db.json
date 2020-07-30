@@ -4039,6 +4039,11 @@
         "expiration_date": "20-feb-2021",
         "state": "future"
     },
+    "bmfeed.ru": {
+        "epoch": 1624752000.0,
+        "expiration_date": "27-jun-2021",
+        "state": "future"
+    },
     "bmlmedia.com": {
         "epoch": 1601942400.0,
         "expiration_date": "06-oct-2020",
@@ -5305,8 +5310,8 @@
         "state": "future"
     },
     "circle.am": {
-        "epoch": 1595894400.0,
-        "expiration_date": "28-jul-2020",
+        "epoch": 1627430400.0,
+        "expiration_date": "28-jul-2021",
         "state": "future"
     },
     "circonus.com": {
@@ -6830,8 +6835,8 @@
         "state": "future"
     },
     "cryptoloot.pro": {
-        "epoch": 1596067200.0,
-        "expiration_date": "30-jul-2020",
+        "epoch": 1627603200.0,
+        "expiration_date": "30-jul-2021",
         "state": "future"
     },
     "cryptomine.pro": {
@@ -11645,8 +11650,8 @@
         "state": "future"
     },
     "gtags.net": {
-        "epoch": 1595894400.0,
-        "expiration_date": "28-jul-2020",
+        "epoch": 1627430400.0,
+        "expiration_date": "28-jul-2021",
         "state": "future"
     },
     "gtcslt-di2.com": {
@@ -21729,6 +21734,11 @@
         "expiration_date": "09-aug-2020",
         "state": "future"
     },
+    "reconditerespect.com": {
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
+        "state": "future"
+    },
     "recosenselabs.com": {
         "epoch": 1600300800.0,
         "expiration_date": "17-sep-2020",
@@ -23859,6 +23869,11 @@
         "expiration_date": "25-jun-2021",
         "state": "future"
     },
+    "singroot.com": {
+        "epoch": 1616025600.0,
+        "expiration_date": "18-mar-2021",
+        "state": "future"
+    },
     "sishik.ru": {
         "epoch": 1603065600.0,
         "expiration_date": "19-oct-2020",
@@ -24415,8 +24430,8 @@
         "state": "future"
     },
     "socsi.in": {
-        "epoch": 1596067200.0,
-        "expiration_date": "30-jul-2020",
+        "epoch": 1627603200.0,
+        "expiration_date": "30-jul-2021",
         "state": "future"
     },
     "sodoit.com": {
@@ -25167,11 +25182,11 @@
     "stats21.com": {
         "epoch": 1596067200.0,
         "expiration_date": "30-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "stats4all.com": {
-        "epoch": 1595980800.0,
-        "expiration_date": "29-jul-2020",
+        "epoch": 1627516800.0,
+        "expiration_date": "29-jul-2021",
         "state": "future"
     },
     "stats4u.net": {
@@ -26025,8 +26040,8 @@
         "state": "future"
     },
     "technical-service.net": {
-        "epoch": 1596067200.0,
-        "expiration_date": "30-jul-2020",
+        "epoch": 1627603200.0,
+        "expiration_date": "30-jul-2021",
         "state": "future"
     },
     "technorati.com": {
@@ -26730,8 +26745,8 @@
         "state": "future"
     },
     "top100webshops.com": {
-        "epoch": 1595980800.0,
-        "expiration_date": "29-jul-2020",
+        "epoch": 1627516800.0,
+        "expiration_date": "29-jul-2021",
         "state": "future"
     },
     "top10sportsites.com": {
@@ -26940,8 +26955,8 @@
         "state": "future"
     },
     "traceless.me": {
-        "epoch": 1595980800.0,
-        "expiration_date": "29-jul-2020",
+        "epoch": 1627516800.0,
+        "expiration_date": "29-jul-2021",
         "state": "future"
     },
     "tracelytics.com": {
@@ -27840,8 +27855,8 @@
         "state": "future"
     },
     "uadx.com": {
-        "epoch": 1595980800.0,
-        "expiration_date": "29-jul-2020",
+        "epoch": 1627516800.0,
+        "expiration_date": "29-jul-2021",
         "state": "future"
     },
     "uai.com.br": {
@@ -28490,8 +28505,8 @@
         "state": "future"
     },
     "vepxl1.net": {
-        "epoch": 1595894400.0,
-        "expiration_date": "28-jul-2020",
+        "epoch": 1627430400.0,
+        "expiration_date": "28-jul-2021",
         "state": "future"
     },
     "verifier.live": {
