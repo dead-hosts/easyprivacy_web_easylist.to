@@ -4962,7 +4962,7 @@
     "ccscserver.com": {
         "epoch": 1596326400.0,
         "expiration_date": "02-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "cctv.com": {
         "epoch": 1810944000.0,
@@ -5170,8 +5170,8 @@
         "state": "future"
     },
     "chartbeat.com": {
-        "epoch": 1596326400.0,
-        "expiration_date": "02-aug-2020",
+        "epoch": 1627862400.0,
+        "expiration_date": "02-aug-2021",
         "state": "future"
     },
     "chartbeat.net": {
@@ -7720,9 +7720,9 @@
         "state": "future"
     },
     "directrdr.com": {
-        "epoch": 1596067200.0,
-        "expiration_date": "30-jul-2020",
-        "state": "past"
+        "epoch": 1627603200.0,
+        "expiration_date": "30-jul-2021",
+        "state": "future"
     },
     "diritalia.com": {
         "epoch": 1621209600.0,
@@ -8172,6 +8172,11 @@
     "duowan.com": {
         "epoch": 1614297600.0,
         "expiration_date": "26-feb-2021",
+        "state": "future"
+    },
+    "durationmedia.net": {
+        "epoch": 1618012800.0,
+        "expiration_date": "10-apr-2021",
         "state": "future"
     },
     "durocount.com": {
@@ -12122,7 +12127,7 @@
     "hitcounterstats.com": {
         "epoch": 1596326400.0,
         "expiration_date": "02-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "hitfarm.com": {
         "epoch": 1625961600.0,
@@ -12290,8 +12295,8 @@
         "state": "future"
     },
     "horzrb.com": {
-        "epoch": 1596153600.0,
-        "expiration_date": "31-jul-2020",
+        "epoch": 1627689600.0,
+        "expiration_date": "31-jul-2021",
         "state": "future"
     },
     "hoseasons.co.uk": {
@@ -12630,8 +12635,8 @@
         "state": "future"
     },
     "hurra.com": {
-        "epoch": 1596240000.0,
-        "expiration_date": "01-aug-2020",
+        "epoch": 1627776000.0,
+        "expiration_date": "01-aug-2021",
         "state": "future"
     },
     "huuto.net": {
@@ -19122,7 +19127,7 @@
     "onlysix.co.uk": {
         "epoch": 1596240000.0,
         "expiration_date": "01-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "onnetwork.tv": {
         "epoch": 1617840000.0,
@@ -19210,8 +19215,8 @@
         "state": "future"
     },
     "openvenue.com": {
-        "epoch": 1596153600.0,
-        "expiration_date": "31-jul-2020",
+        "epoch": 1627689600.0,
+        "expiration_date": "31-jul-2021",
         "state": "future"
     },
     "opera.com": {
