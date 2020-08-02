@@ -30,8 +30,8 @@
         "state": "future"
     },
     "101apps.com": {
-        "epoch": 1596153600.0,
-        "expiration_date": "31-jul-2020",
+        "epoch": 1627689600.0,
+        "expiration_date": "31-jul-2021",
         "state": "future"
     },
     "103bees.com": {
@@ -700,9 +700,9 @@
         "state": "future"
     },
     "acces-charme.com": {
-        "epoch": 1596067200.0,
-        "expiration_date": "30-jul-2020",
-        "state": "past"
+        "epoch": 1627603200.0,
+        "expiration_date": "30-jul-2021",
+        "state": "future"
     },
     "access-analyze.org": {
         "epoch": 1612742400.0,
@@ -1005,8 +1005,8 @@
         "state": "future"
     },
     "addthisedge.com": {
-        "epoch": 1596326400.0,
-        "expiration_date": "02-aug-2020",
+        "epoch": 1627862400.0,
+        "expiration_date": "02-aug-2021",
         "state": "future"
     },
     "addtoany.com": {
@@ -6255,8 +6255,8 @@
         "state": "future"
     },
     "conversionlabs.net.pl": {
-        "epoch": 1596326400.0,
-        "expiration_date": "02-aug-2020",
+        "epoch": 1627862400.0,
+        "expiration_date": "02-aug-2021",
         "state": "future"
     },
     "conversionlogic.net": {
@@ -8710,8 +8710,8 @@
         "state": "future"
     },
     "endorsal.io": {
-        "epoch": 1596240000.0,
-        "expiration_date": "01-aug-2020",
+        "epoch": 1627776000.0,
+        "expiration_date": "01-aug-2021",
         "state": "future"
     },
     "endurablecrayon.com": {
@@ -22752,6 +22752,11 @@
     "sahibinden.com": {
         "epoch": 1767052800.0,
         "expiration_date": "30-dec-2025",
+        "state": "future"
+    },
+    "sail-horizon.com": {
+        "epoch": 1601164800.0,
+        "expiration_date": "27-sep-2020",
         "state": "future"
     },
     "sailthru.com": {
