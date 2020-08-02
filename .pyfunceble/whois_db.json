@@ -3265,8 +3265,8 @@
         "state": "future"
     },
     "barrons.com": {
-        "epoch": 1596153600.0,
-        "expiration_date": "31-jul-2020",
+        "epoch": 1627689600.0,
+        "expiration_date": "31-jul-2021",
         "state": "future"
     },
     "basicstat.com": {
@@ -3980,8 +3980,8 @@
         "state": "future"
     },
     "bloxcms.com": {
-        "epoch": 1596240000.0,
-        "expiration_date": "01-aug-2020",
+        "epoch": 1627776000.0,
+        "expiration_date": "01-aug-2021",
         "state": "future"
     },
     "bluecava.com": {
@@ -10030,8 +10030,8 @@
         "state": "future"
     },
     "foodnavigator.com": {
-        "epoch": 1596326400.0,
-        "expiration_date": "02-aug-2020",
+        "epoch": 1627862400.0,
+        "expiration_date": "02-aug-2021",
         "state": "future"
     },
     "foodora.ca": {
@@ -12685,8 +12685,8 @@
         "state": "future"
     },
     "i-am-bored.com": {
-        "epoch": 1596240000.0,
-        "expiration_date": "01-aug-2020",
+        "epoch": 1627776000.0,
+        "expiration_date": "01-aug-2021",
         "state": "future"
     },
     "i-services.net": {
@@ -15310,8 +15310,8 @@
         "state": "future"
     },
     "list.ru": {
-        "epoch": 1596240000.0,
-        "expiration_date": "01-aug-2020",
+        "epoch": 1627776000.0,
+        "expiration_date": "01-aug-2021",
         "state": "future"
     },
     "listat.biz": {
@@ -20467,6 +20467,11 @@
     "popt.in": {
         "epoch": 1620950400.0,
         "expiration_date": "14-may-2021",
+        "state": "future"
+    },
+    "poptropica.com": {
+        "epoch": 1622851200.0,
+        "expiration_date": "05-jun-2021",
         "state": "future"
     },
     "populr.me": {
