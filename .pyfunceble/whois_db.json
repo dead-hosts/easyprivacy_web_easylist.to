@@ -29670,9 +29670,9 @@
         "state": "future"
     },
     "websolutions.it": {
-        "epoch": 1595030400.0,
-        "expiration_date": "18-jul-2020",
-        "state": "past"
+        "epoch": 1626566400.0,
+        "expiration_date": "18-jul-2021",
+        "state": "future"
     },
     "webspectator.com": {
         "epoch": 1691366400.0,
@@ -29950,8 +29950,8 @@
         "state": "future"
     },
     "widgetbox.com": {
-        "epoch": 1596240000.0,
-        "expiration_date": "01-aug-2020",
+        "epoch": 1627776000.0,
+        "expiration_date": "01-aug-2021",
         "state": "future"
     },
     "widgethost.com": {
@@ -30342,7 +30342,7 @@
     "wwwportal.dk": {
         "epoch": 1596153600.0,
         "expiration_date": "31-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "wymiana.org": {
         "epoch": 1608508800.0,
