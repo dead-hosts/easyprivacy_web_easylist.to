@@ -50,8 +50,8 @@
         "state": "future"
     },
     "123compteur.com": {
-        "epoch": 1596585600.0,
-        "expiration_date": "05-aug-2020",
+        "epoch": 1628121600.0,
+        "expiration_date": "05-aug-2021",
         "state": "future"
     },
     "123count.com": {
@@ -2015,8 +2015,8 @@
         "state": "future"
     },
     "analights.com": {
-        "epoch": 1596499200.0,
-        "expiration_date": "04-aug-2020",
+        "epoch": 1628035200.0,
+        "expiration_date": "04-aug-2021",
         "state": "future"
     },
     "analitits.com": {
@@ -4084,6 +4084,11 @@
         "expiration_date": "01-oct-2020",
         "state": "future"
     },
+    "boilingbeetle.com": {
+        "epoch": 1603238400.0,
+        "expiration_date": "21-oct-2020",
+        "state": "future"
+    },
     "bokecc.com": {
         "epoch": 1618185600.0,
         "expiration_date": "12-apr-2021",
@@ -4300,8 +4305,8 @@
         "state": "future"
     },
     "broaddoor.com": {
-        "epoch": 1596412800.0,
-        "expiration_date": "03-aug-2020",
+        "epoch": 1627948800.0,
+        "expiration_date": "03-aug-2021",
         "state": "future"
     },
     "broadwayworld.com": {
@@ -10220,8 +10225,8 @@
         "state": "future"
     },
     "frailoffer.com": {
-        "epoch": 1596412800.0,
-        "expiration_date": "03-aug-2020",
+        "epoch": 1627948800.0,
+        "expiration_date": "03-aug-2021",
         "state": "future"
     },
     "france24.com": {
@@ -11090,8 +11095,8 @@
         "state": "future"
     },
     "giddycoat.com": {
-        "epoch": 1596412800.0,
-        "expiration_date": "03-aug-2020",
+        "epoch": 1627948800.0,
+        "expiration_date": "03-aug-2021",
         "state": "future"
     },
     "giddyuptrk.com": {
@@ -14875,8 +14880,8 @@
         "state": "future"
     },
     "laserveradedomaina.com": {
-        "epoch": 1596499200.0,
-        "expiration_date": "04-aug-2020",
+        "epoch": 1628035200.0,
+        "expiration_date": "04-aug-2021",
         "state": "future"
     },
     "lastpass.com": {
@@ -18075,8 +18080,8 @@
         "state": "future"
     },
     "nervoussummer.com": {
-        "epoch": 1596412800.0,
-        "expiration_date": "03-aug-2020",
+        "epoch": 1627948800.0,
+        "expiration_date": "03-aug-2021",
         "state": "future"
     },
     "net-a-porter.com": {
@@ -20995,8 +21000,8 @@
         "state": "future"
     },
     "puffyloss.com": {
-        "epoch": 1596412800.0,
-        "expiration_date": "03-aug-2020",
+        "epoch": 1627948800.0,
+        "expiration_date": "03-aug-2021",
         "state": "future"
     },
     "puffypull.com": {
@@ -24174,6 +24179,11 @@
         "expiration_date": "02-mar-2021",
         "state": "future"
     },
+    "sm-epsilon.com": {
+        "epoch": 1606348800.0,
+        "expiration_date": "26-nov-2020",
+        "state": "future"
+    },
     "smadex.com": {
         "epoch": 1641168000.0,
         "expiration_date": "03-jan-2022",
@@ -25090,8 +25100,8 @@
         "state": "future"
     },
     "staticiv.com": {
-        "epoch": 1596412800.0,
-        "expiration_date": "03-aug-2020",
+        "epoch": 1627948800.0,
+        "expiration_date": "03-aug-2021",
         "state": "future"
     },
     "staticlp.com": {
@@ -25172,7 +25182,7 @@
     "statowl.com": {
         "epoch": 1596585600.0,
         "expiration_date": "05-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "statpipe.ru": {
         "epoch": 1603065600.0,
@@ -26090,8 +26100,8 @@
         "state": "future"
     },
     "tedioustooth.com": {
-        "epoch": 1596412800.0,
-        "expiration_date": "03-aug-2020",
+        "epoch": 1627948800.0,
+        "expiration_date": "03-aug-2021",
         "state": "future"
     },
     "teepublic.com": {
@@ -28060,8 +28070,8 @@
         "state": "future"
     },
     "unknowntray.com": {
-        "epoch": 1596412800.0,
-        "expiration_date": "03-aug-2020",
+        "epoch": 1627948800.0,
+        "expiration_date": "03-aug-2021",
         "state": "future"
     },
     "unlock-protocol.com": {
@@ -30510,8 +30520,8 @@
         "state": "future"
     },
     "xtremline.com": {
-        "epoch": 1596412800.0,
-        "expiration_date": "03-aug-2020",
+        "epoch": 1627948800.0,
+        "expiration_date": "03-aug-2021",
         "state": "future"
     },
     "xxxcounter.com": {
