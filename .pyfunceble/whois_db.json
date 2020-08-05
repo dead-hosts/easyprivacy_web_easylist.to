@@ -10832,7 +10832,7 @@
     "gazzettaobjects.it": {
         "epoch": 1596585600.0,
         "expiration_date": "05-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "gbotvisit.com": {
         "epoch": 1603152000.0,
@@ -24635,8 +24635,8 @@
         "state": "future"
     },
     "spaceprogram.com": {
-        "epoch": 1596585600.0,
-        "expiration_date": "05-aug-2020",
+        "epoch": 1628121600.0,
+        "expiration_date": "05-aug-2021",
         "state": "future"
     },
     "spamanalyst.com": {
@@ -27592,6 +27592,11 @@
     "truoptik.com": {
         "epoch": 1614211200.0,
         "expiration_date": "25-feb-2021",
+        "state": "future"
+    },
+    "trustcommander.net": {
+        "epoch": 1615507200.0,
+        "expiration_date": "12-mar-2021",
         "state": "future"
     },
     "truste.com": {
@@ -31030,8 +31035,8 @@
         "state": "future"
     },
     "ziffprod.com": {
-        "epoch": 1596499200.0,
-        "expiration_date": "04-aug-2020",
+        "epoch": 1628035200.0,
+        "expiration_date": "04-aug-2021",
         "state": "future"
     },
     "zillow.com": {
