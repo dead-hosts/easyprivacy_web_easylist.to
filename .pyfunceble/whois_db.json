@@ -80,8 +80,8 @@
         "state": "future"
     },
     "168logger.com": {
-        "epoch": 1596585600.0,
-        "expiration_date": "05-aug-2020",
+        "epoch": 1628121600.0,
+        "expiration_date": "05-aug-2021",
         "state": "future"
     },
     "17173.com": {
@@ -4960,9 +4960,9 @@
         "state": "future"
     },
     "ccscserver.com": {
-        "epoch": 1596326400.0,
-        "expiration_date": "02-aug-2020",
-        "state": "past"
+        "epoch": 1627862400.0,
+        "expiration_date": "02-aug-2021",
+        "state": "future"
     },
     "cctv.com": {
         "epoch": 1810944000.0,
@@ -9189,6 +9189,11 @@
         "expiration_date": "18-sep-2021",
         "state": "future"
     },
+    "excited.me": {
+        "epoch": 1626480000.0,
+        "expiration_date": "17-jul-2021",
+        "state": "future"
+    },
     "exclusiveclicks.com": {
         "epoch": 1614729600.0,
         "expiration_date": "03-mar-2021",
@@ -12125,9 +12130,9 @@
         "state": "future"
     },
     "hitcounterstats.com": {
-        "epoch": 1596326400.0,
-        "expiration_date": "02-aug-2020",
-        "state": "past"
+        "epoch": 1627862400.0,
+        "expiration_date": "02-aug-2021",
+        "state": "future"
     },
     "hitfarm.com": {
         "epoch": 1625961600.0,
@@ -17580,8 +17585,8 @@
         "state": "future"
     },
     "myntelligence.com": {
-        "epoch": 1596499200.0,
-        "expiration_date": "04-aug-2020",
+        "epoch": 1628035200.0,
+        "expiration_date": "04-aug-2021",
         "state": "future"
     },
     "myntra.com": {
@@ -18355,8 +18360,8 @@
         "state": "future"
     },
     "nextstat.com": {
-        "epoch": 1596412800.0,
-        "expiration_date": "03-aug-2020",
+        "epoch": 1627948800.0,
+        "expiration_date": "03-aug-2021",
         "state": "future"
     },
     "nexttime.ovh": {
@@ -20100,8 +20105,8 @@
         "state": "future"
     },
     "pingdom.net": {
-        "epoch": 1596499200.0,
-        "expiration_date": "04-aug-2020",
+        "epoch": 1628035200.0,
+        "expiration_date": "04-aug-2021",
         "state": "future"
     },
     "pingil.com": {
@@ -21230,8 +21235,8 @@
         "state": "future"
     },
     "qlitics.com": {
-        "epoch": 1596585600.0,
-        "expiration_date": "05-aug-2020",
+        "epoch": 1628121600.0,
+        "expiration_date": "05-aug-2021",
         "state": "future"
     },
     "qlzn6i1l.com": {
@@ -23235,8 +23240,8 @@
         "state": "future"
     },
     "seewhy.com": {
-        "epoch": 1596499200.0,
-        "expiration_date": "04-aug-2020",
+        "epoch": 1628035200.0,
+        "expiration_date": "04-aug-2021",
         "state": "future"
     },
     "segment.com": {
@@ -23385,8 +23390,8 @@
         "state": "future"
     },
     "seoparts.net": {
-        "epoch": 1596412800.0,
-        "expiration_date": "03-aug-2020",
+        "epoch": 1627948800.0,
+        "expiration_date": "03-aug-2021",
         "state": "future"
     },
     "seoquake.com": {
