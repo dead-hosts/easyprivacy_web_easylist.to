@@ -5675,8 +5675,8 @@
         "state": "future"
     },
     "cloudapp.net": {
-        "epoch": 1596758400.0,
-        "expiration_date": "07-aug-2020",
+        "epoch": 1628294400.0,
+        "expiration_date": "07-aug-2021",
         "state": "future"
     },
     "cloudcdn.gdn": {
@@ -12262,7 +12262,7 @@
     "hocalwire.com": {
         "epoch": 1596844800.0,
         "expiration_date": "08-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "hocgeese.com": {
         "epoch": 1610236800.0,
@@ -14510,8 +14510,8 @@
         "state": "future"
     },
     "keyword-match.com": {
-        "epoch": 1596672000.0,
-        "expiration_date": "06-aug-2020",
+        "epoch": 1628208000.0,
+        "expiration_date": "06-aug-2021",
         "state": "future"
     },
     "keywordmax.com": {
