@@ -6050,8 +6050,8 @@
         "state": "future"
     },
     "compteur-gratuit.org": {
-        "epoch": 1596844800.0,
-        "expiration_date": "08-aug-2020",
+        "epoch": 1628380800.0,
+        "expiration_date": "08-aug-2021",
         "state": "future"
     },
     "compteur-visite.com": {
@@ -24030,8 +24030,8 @@
         "state": "future"
     },
     "sitelinktrack.com": {
-        "epoch": 1596758400.0,
-        "expiration_date": "07-aug-2020",
+        "epoch": 1628294400.0,
+        "expiration_date": "07-aug-2021",
         "state": "future"
     },
     "sitemaji.com": {
@@ -25220,9 +25220,9 @@
         "state": "future"
     },
     "statowl.com": {
-        "epoch": 1596585600.0,
-        "expiration_date": "05-aug-2020",
-        "state": "past"
+        "epoch": 1628121600.0,
+        "expiration_date": "05-aug-2021",
+        "state": "future"
     },
     "statpipe.ru": {
         "epoch": 1603065600.0,
@@ -28627,7 +28627,7 @@
     "vertical-leap.co.uk": {
         "epoch": 1596758400.0,
         "expiration_date": "07-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "vertical-leap.net": {
         "epoch": 1623024000.0,
@@ -29689,6 +29689,11 @@
         "expiration_date": "25-apr-2021",
         "state": "future"
     },
+    "webpu.sh": {
+        "epoch": 1611360000.0,
+        "expiration_date": "23-jan-2021",
+        "state": "future"
+    },
     "webreseau.com": {
         "epoch": 1615507200.0,
         "expiration_date": "12-mar-2021",
@@ -30179,6 +30184,11 @@
         "expiration_date": "15-dec-2020",
         "state": "future"
     },
+    "wonderpush.com": {
+        "epoch": 1679702400.0,
+        "expiration_date": "25-mar-2023",
+        "state": "future"
+    },
     "woolik.com": {
         "epoch": 1627344000.0,
         "expiration_date": "27-jul-2021",
@@ -30295,8 +30305,8 @@
         "state": "future"
     },
     "wpdstat.com": {
-        "epoch": 1596844800.0,
-        "expiration_date": "08-aug-2020",
+        "epoch": 1603670400.0,
+        "expiration_date": "26-oct-2020",
         "state": "future"
     },
     "wpfc.ml": {
@@ -30425,8 +30435,8 @@
         "state": "future"
     },
     "wywy.com": {
-        "epoch": 1596672000.0,
-        "expiration_date": "06-aug-2020",
+        "epoch": 1628208000.0,
+        "expiration_date": "06-aug-2021",
         "state": "future"
     },
     "wywyuserservice.com": {
