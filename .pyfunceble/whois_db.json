@@ -445,8 +445,8 @@
         "state": "future"
     },
     "7bpeople.com": {
-        "epoch": 1596758400.0,
-        "expiration_date": "07-aug-2020",
+        "epoch": 1659830400.0,
+        "expiration_date": "07-aug-2022",
         "state": "future"
     },
     "7eer.net": {
@@ -3382,7 +3382,7 @@
     "beanstock.com": {
         "epoch": 1596844800.0,
         "expiration_date": "08-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "bebj.com": {
         "epoch": 1602460800.0,
@@ -4885,8 +4885,8 @@
         "state": "future"
     },
     "cashcount.com": {
-        "epoch": 1596672000.0,
-        "expiration_date": "06-aug-2020",
+        "epoch": 1628208000.0,
+        "expiration_date": "06-aug-2021",
         "state": "future"
     },
     "casualstat.com": {
@@ -5800,8 +5800,8 @@
         "state": "future"
     },
     "cnxweb.com": {
-        "epoch": 1596844800.0,
-        "expiration_date": "08-aug-2020",
+        "epoch": 1603584000.0,
+        "expiration_date": "25-oct-2020",
         "state": "future"
     },
     "cnzz.com": {
@@ -7189,6 +7189,11 @@
         "expiration_date": "07-mar-2021",
         "state": "future"
     },
+    "datafront.co": {
+        "epoch": 1659312000.0,
+        "expiration_date": "01-aug-2022",
+        "state": "future"
+    },
     "datam.com": {
         "epoch": 1600819200.0,
         "expiration_date": "23-sep-2020",
@@ -7685,8 +7690,8 @@
         "state": "future"
     },
     "dimml.io": {
-        "epoch": 1596758400.0,
-        "expiration_date": "07-aug-2020",
+        "epoch": 1628294400.0,
+        "expiration_date": "07-aug-2021",
         "state": "future"
     },
     "dingxiang-inc.com": {
@@ -10734,6 +10739,31 @@
         "expiration_date": "17-aug-2020",
         "state": "future"
     },
+    "g2178927685.co": {
+        "epoch": 1619308800.0,
+        "expiration_date": "25-apr-2021",
+        "state": "future"
+    },
+    "g2377012020.co": {
+        "epoch": 1619308800.0,
+        "expiration_date": "25-apr-2021",
+        "state": "future"
+    },
+    "g2575096355.co": {
+        "epoch": 1619308800.0,
+        "expiration_date": "25-apr-2021",
+        "state": "future"
+    },
+    "g2773180690.co": {
+        "epoch": 1619308800.0,
+        "expiration_date": "25-apr-2021",
+        "state": "future"
+    },
+    "g2971265025.co": {
+        "epoch": 1623110400.0,
+        "expiration_date": "08-jun-2021",
+        "state": "future"
+    },
     "gaconnector.com": {
         "epoch": 1800403200.0,
         "expiration_date": "20-jan-2027",
@@ -11195,8 +11225,8 @@
         "state": "future"
     },
     "glbtracker.com": {
-        "epoch": 1596758400.0,
-        "expiration_date": "07-aug-2020",
+        "epoch": 1628294400.0,
+        "expiration_date": "07-aug-2021",
         "state": "future"
     },
     "gleam.io": {
@@ -15295,8 +15325,8 @@
         "state": "future"
     },
     "linkxchanger.com": {
-        "epoch": 1596672000.0,
-        "expiration_date": "06-aug-2020",
+        "epoch": 1628208000.0,
+        "expiration_date": "06-aug-2021",
         "state": "future"
     },
     "linuxtoday.com": {
@@ -15840,8 +15870,8 @@
         "state": "future"
     },
     "lxtrack.com": {
-        "epoch": 1596844800.0,
-        "expiration_date": "08-aug-2020",
+        "epoch": 1628380800.0,
+        "expiration_date": "08-aug-2021",
         "state": "future"
     },
     "lycos.com": {
@@ -18037,6 +18067,11 @@
     "neighborlywatch.com": {
         "epoch": 1606694400.0,
         "expiration_date": "30-nov-2020",
+        "state": "future"
+    },
+    "nejmqianyan.cn": {
+        "epoch": 1773619200.0,
+        "expiration_date": "16-mar-2026",
         "state": "future"
     },
     "neki.org": {
@@ -20820,8 +20855,8 @@
         "state": "future"
     },
     "proofpoint.com": {
-        "epoch": 1596844800.0,
-        "expiration_date": "08-aug-2020",
+        "epoch": 1659916800.0,
+        "expiration_date": "08-aug-2022",
         "state": "future"
     },
     "proofpositivemedia.com": {
@@ -20905,8 +20940,8 @@
         "state": "future"
     },
     "pstats.com": {
-        "epoch": 1596672000.0,
-        "expiration_date": "06-aug-2020",
+        "epoch": 1628208000.0,
+        "expiration_date": "06-aug-2021",
         "state": "future"
     },
     "pswec.com": {
@@ -21410,8 +21445,8 @@
         "state": "future"
     },
     "r7ls.net": {
-        "epoch": 1596844800.0,
-        "expiration_date": "08-aug-2020",
+        "epoch": 1628380800.0,
+        "expiration_date": "08-aug-2021",
         "state": "future"
     },
     "racingbase.com": {
