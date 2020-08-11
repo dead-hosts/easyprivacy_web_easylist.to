@@ -4415,8 +4415,8 @@
         "state": "future"
     },
     "bumlam.com": {
-        "epoch": 1597017600.0,
-        "expiration_date": "10-aug-2020",
+        "epoch": 1660089600.0,
+        "expiration_date": "10-aug-2022",
         "state": "future"
     },
     "bumpin.com": {
@@ -12270,9 +12270,9 @@
         "state": "future"
     },
     "hocalwire.com": {
-        "epoch": 1596844800.0,
-        "expiration_date": "08-aug-2020",
-        "state": "past"
+        "epoch": 1659916800.0,
+        "expiration_date": "08-aug-2022",
+        "state": "future"
     },
     "hocgeese.com": {
         "epoch": 1610236800.0,
@@ -17727,7 +17727,7 @@
     "mystat.it": {
         "epoch": 1596931200.0,
         "expiration_date": "09-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "mytictac.com": {
         "epoch": 1607126400.0,
@@ -25100,8 +25100,8 @@
         "state": "future"
     },
     "stat.media": {
-        "epoch": 1597104000.0,
-        "expiration_date": "11-aug-2020",
+        "epoch": 1628640000.0,
+        "expiration_date": "11-aug-2021",
         "state": "future"
     },
     "stat.pl": {
