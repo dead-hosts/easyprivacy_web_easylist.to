@@ -3260,8 +3260,8 @@
         "state": "future"
     },
     "barnesandnoble.com": {
-        "epoch": 1596931200.0,
-        "expiration_date": "09-aug-2020",
+        "epoch": 1628467200.0,
+        "expiration_date": "09-aug-2021",
         "state": "future"
     },
     "barrons.com": {
@@ -13069,6 +13069,11 @@
         "expiration_date": "17-aug-2020",
         "state": "future"
     },
+    "imore.com": {
+        "epoch": 1695081600.0,
+        "expiration_date": "19-sep-2023",
+        "state": "future"
+    },
     "impactradius-event.com": {
         "epoch": 1611273600.0,
         "expiration_date": "22-jan-2021",
@@ -13305,8 +13310,8 @@
         "state": "future"
     },
     "inmagine.com": {
-        "epoch": 1596931200.0,
-        "expiration_date": "09-aug-2020",
+        "epoch": 1628467200.0,
+        "expiration_date": "09-aug-2021",
         "state": "future"
     },
     "inmoment.com": {
@@ -15542,6 +15547,11 @@
     "lndata.com": {
         "epoch": 1654646400.0,
         "expiration_date": "08-jun-2022",
+        "state": "future"
+    },
+    "lngtd.com": {
+        "epoch": 1625961600.0,
+        "expiration_date": "11-jul-2021",
         "state": "future"
     },
     "localmonero.co": {
@@ -17935,8 +17945,8 @@
         "state": "future"
     },
     "nature.com": {
-        "epoch": 1597017600.0,
-        "expiration_date": "10-aug-2020",
+        "epoch": 1660089600.0,
+        "expiration_date": "10-aug-2022",
         "state": "future"
     },
     "naughtydog.com": {
@@ -18010,8 +18020,8 @@
         "state": "future"
     },
     "ncsoft.com": {
-        "epoch": 1597017600.0,
-        "expiration_date": "10-aug-2020",
+        "epoch": 1628553600.0,
+        "expiration_date": "10-aug-2021",
         "state": "future"
     },
     "nddmcconmqsy.ru": {
@@ -21825,8 +21835,8 @@
         "state": "future"
     },
     "recomendedsite.com": {
-        "epoch": 1596931200.0,
-        "expiration_date": "09-aug-2020",
+        "epoch": 1628467200.0,
+        "expiration_date": "09-aug-2021",
         "state": "future"
     },
     "reconditerespect.com": {
