@@ -1590,8 +1590,8 @@
         "state": "future"
     },
     "airpr.com": {
-        "epoch": 1596931200.0,
-        "expiration_date": "09-aug-2020",
+        "epoch": 1628467200.0,
+        "expiration_date": "09-aug-2021",
         "state": "future"
     },
     "airserve.net": {
@@ -1705,8 +1705,8 @@
         "state": "future"
     },
     "alexacdn.com": {
-        "epoch": 1597104000.0,
-        "expiration_date": "11-aug-2020",
+        "epoch": 1604361600.0,
+        "expiration_date": "03-nov-2020",
         "state": "future"
     },
     "alexametrics.com": {
@@ -3380,9 +3380,9 @@
         "state": "future"
     },
     "beanstock.com": {
-        "epoch": 1596844800.0,
-        "expiration_date": "08-aug-2020",
-        "state": "past"
+        "epoch": 1628380800.0,
+        "expiration_date": "08-aug-2021",
+        "state": "future"
     },
     "bebj.com": {
         "epoch": 1602460800.0,
@@ -4560,8 +4560,8 @@
         "state": "future"
     },
     "c212.net": {
-        "epoch": 1596931200.0,
-        "expiration_date": "09-aug-2020",
+        "epoch": 1628467200.0,
+        "expiration_date": "09-aug-2021",
         "state": "future"
     },
     "c3metrics.com": {
@@ -7660,8 +7660,8 @@
         "state": "future"
     },
     "digitaltarget.ru": {
-        "epoch": 1597017600.0,
-        "expiration_date": "10-aug-2020",
+        "epoch": 1628553600.0,
+        "expiration_date": "10-aug-2021",
         "state": "future"
     },
     "digitiminimi.com": {
@@ -8850,8 +8850,8 @@
         "state": "future"
     },
     "episerver.net": {
-        "epoch": 1597017600.0,
-        "expiration_date": "10-aug-2020",
+        "epoch": 1628553600.0,
+        "expiration_date": "10-aug-2021",
         "state": "future"
     },
     "epitrack.com": {
@@ -9010,8 +9010,8 @@
         "state": "future"
     },
     "etyper.com": {
-        "epoch": 1596931200.0,
-        "expiration_date": "09-aug-2020",
+        "epoch": 1628467200.0,
+        "expiration_date": "09-aug-2021",
         "state": "future"
     },
     "etzbnfuigipwvs.ru": {
@@ -9075,8 +9075,8 @@
         "state": "future"
     },
     "eventcapture03.com": {
-        "epoch": 1597017600.0,
-        "expiration_date": "10-aug-2020",
+        "epoch": 1628553600.0,
+        "expiration_date": "10-aug-2021",
         "state": "future"
     },
     "eventful.com": {
@@ -9765,8 +9765,8 @@
         "state": "future"
     },
     "finderlocator.com": {
-        "epoch": 1597017600.0,
-        "expiration_date": "10-aug-2020",
+        "epoch": 1628553600.0,
+        "expiration_date": "10-aug-2021",
         "state": "future"
     },
     "firecrux.com": {
@@ -10997,6 +10997,11 @@
     "georiot.com": {
         "epoch": 1612396800.0,
         "expiration_date": "04-feb-2021",
+        "state": "future"
+    },
+    "geotargetly.co": {
+        "epoch": 1614211200.0,
+        "expiration_date": "25-feb-2021",
         "state": "future"
     },
     "geovisite.ovh": {
@@ -14745,8 +14750,8 @@
         "state": "future"
     },
     "kopsil.com": {
-        "epoch": 1596931200.0,
-        "expiration_date": "09-aug-2020",
+        "epoch": 1628467200.0,
+        "expiration_date": "09-aug-2021",
         "state": "future"
     },
     "kosmix.com": {
@@ -15710,8 +15715,8 @@
         "state": "future"
     },
     "lopley.com": {
-        "epoch": 1596931200.0,
-        "expiration_date": "09-aug-2020",
+        "epoch": 1628467200.0,
+        "expiration_date": "09-aug-2021",
         "state": "future"
     },
     "lorenzourban.com": {
@@ -17790,8 +17795,8 @@
         "state": "future"
     },
     "naayna.com": {
-        "epoch": 1596931200.0,
-        "expiration_date": "09-aug-2020",
+        "epoch": 1628467200.0,
+        "expiration_date": "09-aug-2021",
         "state": "future"
     },
     "nabaza.com": {
@@ -18559,6 +18564,11 @@
         "expiration_date": "27-jan-2021",
         "state": "future"
     },
+    "noibu.com": {
+        "epoch": 1803859200.0,
+        "expiration_date": "01-mar-2027",
+        "state": "future"
+    },
     "noicattolici.it": {
         "epoch": 1612656000.0,
         "expiration_date": "07-feb-2021",
@@ -18927,6 +18937,11 @@
     "oghub.io": {
         "epoch": 1604361600.0,
         "expiration_date": "03-nov-2020",
+        "state": "future"
+    },
+    "ohayoo.io": {
+        "epoch": 1623628800.0,
+        "expiration_date": "14-jun-2021",
         "state": "future"
     },
     "ohmystats.com": {
@@ -20355,8 +20370,8 @@
         "state": "future"
     },
     "plecki.com": {
-        "epoch": 1596931200.0,
-        "expiration_date": "09-aug-2020",
+        "epoch": 1628467200.0,
+        "expiration_date": "09-aug-2021",
         "state": "future"
     },
     "pleisty.com": {
@@ -22865,8 +22880,8 @@
         "state": "future"
     },
     "salesviewer.com": {
-        "epoch": 1597104000.0,
-        "expiration_date": "11-aug-2020",
+        "epoch": 1628640000.0,
+        "expiration_date": "11-aug-2021",
         "state": "future"
     },
     "salesviewer.org": {
