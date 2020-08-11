@@ -17210,8 +17210,8 @@
         "state": "future"
     },
     "morningdigit.com": {
-        "epoch": 1597017600.0,
-        "expiration_date": "10-aug-2020",
+        "epoch": 1628553600.0,
+        "expiration_date": "10-aug-2021",
         "state": "future"
     },
     "mortgage101.com": {
@@ -18837,6 +18837,11 @@
     "oadz.com": {
         "epoch": 1600041600.0,
         "expiration_date": "14-sep-2020",
+        "state": "future"
+    },
+    "oafishobservation.com": {
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
         "state": "future"
     },
     "oasisactive.com": {
@@ -24069,6 +24074,11 @@
         "expiration_date": "03-apr-2021",
         "state": "future"
     },
+    "siteplug.com": {
+        "epoch": 1622419200.0,
+        "expiration_date": "31-may-2021",
+        "state": "future"
+    },
     "sitereport.org": {
         "epoch": 1605225600.0,
         "expiration_date": "13-nov-2020",
@@ -27037,7 +27047,7 @@
     "tracc.it": {
         "epoch": 1596931200.0,
         "expiration_date": "09-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "tracdelight.com": {
         "epoch": 1618704000.0,
@@ -28760,8 +28770,8 @@
         "state": "future"
     },
     "videoplayerhub.com": {
-        "epoch": 1597017600.0,
-        "expiration_date": "10-aug-2020",
+        "epoch": 1628553600.0,
+        "expiration_date": "10-aug-2021",
         "state": "future"
     },
     "videoplaza.com": {
@@ -29780,8 +29790,8 @@
         "state": "future"
     },
     "webstat.com": {
-        "epoch": 1597017600.0,
-        "expiration_date": "10-aug-2020",
+        "epoch": 1628553600.0,
+        "expiration_date": "10-aug-2021",
         "state": "future"
     },
     "webstat.net": {
