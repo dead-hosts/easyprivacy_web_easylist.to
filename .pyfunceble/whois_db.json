@@ -16274,6 +16274,11 @@
         "expiration_date": "16-mar-2021",
         "state": "future"
     },
+    "maven.io": {
+        "epoch": 1613520000.0,
+        "expiration_date": "17-feb-2021",
+        "state": "future"
+    },
     "maxmind.com": {
         "epoch": 1740355200.0,
         "expiration_date": "24-feb-2025",
@@ -17580,8 +17585,8 @@
         "state": "future"
     },
     "mycounter.com.ua": {
-        "epoch": 1597363200.0,
-        "expiration_date": "14-aug-2020",
+        "epoch": 1628899200.0,
+        "expiration_date": "14-aug-2021",
         "state": "future"
     },
     "mycounter.ua": {
@@ -20739,6 +20744,11 @@
         "expiration_date": "05-mar-2021",
         "state": "future"
     },
+    "presspage.com": {
+        "epoch": 1630368000.0,
+        "expiration_date": "31-aug-2021",
+        "state": "future"
+    },
     "prezi.com": {
         "epoch": 1598227200.0,
         "expiration_date": "24-aug-2020",
@@ -22015,8 +22025,8 @@
         "state": "future"
     },
     "relap.io": {
-        "epoch": 1597363200.0,
-        "expiration_date": "14-aug-2020",
+        "epoch": 1628899200.0,
+        "expiration_date": "14-aug-2021",
         "state": "future"
     },
     "relaymedia.com": {
