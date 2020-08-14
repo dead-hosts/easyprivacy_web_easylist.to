@@ -5825,8 +5825,8 @@
         "state": "future"
     },
     "codecguide.com": {
-        "epoch": 1597190400.0,
-        "expiration_date": "12-aug-2020",
+        "epoch": 1628726400.0,
+        "expiration_date": "12-aug-2021",
         "state": "future"
     },
     "codeweblog.com": {
@@ -8515,9 +8515,9 @@
         "state": "future"
     },
     "edvantage.com.sg": {
-        "epoch": 1595030400.0,
-        "expiration_date": "18-jul-2020",
-        "state": "past"
+        "epoch": 1626566400.0,
+        "expiration_date": "18-jul-2021",
+        "state": "future"
     },
     "edweek.org": {
         "epoch": 1624406400.0,
@@ -11127,6 +11127,11 @@
     "ggxt.net": {
         "epoch": 1627171200.0,
         "expiration_date": "25-jul-2021",
+        "state": "future"
+    },
+    "ghacks.net": {
+        "epoch": 1696291200.0,
+        "expiration_date": "03-oct-2023",
         "state": "future"
     },
     "gibts-hier.com": {
@@ -19300,8 +19305,8 @@
         "state": "future"
     },
     "openuniversity.co.uk": {
-        "epoch": 1597190400.0,
-        "expiration_date": "12-aug-2020",
+        "epoch": 1660262400.0,
+        "expiration_date": "12-aug-2022",
         "state": "future"
     },
     "openvenue.com": {
@@ -22520,8 +22525,8 @@
         "state": "future"
     },
     "roadandtrack.com": {
-        "epoch": 1597190400.0,
-        "expiration_date": "12-aug-2020",
+        "epoch": 1628726400.0,
+        "expiration_date": "12-aug-2021",
         "state": "future"
     },
     "roblox.com": {
