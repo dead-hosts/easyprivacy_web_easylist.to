@@ -590,8 +590,8 @@
         "state": "future"
     },
     "aapsis.com": {
-        "epoch": 1597363200.0,
-        "expiration_date": "14-aug-2020",
+        "epoch": 1604188800.0,
+        "expiration_date": "01-nov-2020",
         "state": "future"
     },
     "aaxdetect.com": {
@@ -2745,8 +2745,8 @@
         "state": "future"
     },
     "attributionapp.com": {
-        "epoch": 1597276800.0,
-        "expiration_date": "13-aug-2020",
+        "epoch": 1628812800.0,
+        "expiration_date": "13-aug-2021",
         "state": "future"
     },
     "auction.co.kr": {
@@ -5065,8 +5065,8 @@
         "state": "future"
     },
     "celebrus.com": {
-        "epoch": 1597190400.0,
-        "expiration_date": "12-aug-2020",
+        "epoch": 1628726400.0,
+        "expiration_date": "12-aug-2021",
         "state": "future"
     },
     "cellstores.com": {
@@ -6265,8 +6265,8 @@
         "state": "future"
     },
     "conversionlogic.net": {
-        "epoch": 1597363200.0,
-        "expiration_date": "14-aug-2020",
+        "epoch": 1628899200.0,
+        "expiration_date": "14-aug-2021",
         "state": "future"
     },
     "conversionly.com": {
@@ -7167,7 +7167,7 @@
     "datacygnal.io": {
         "epoch": 1597363200.0,
         "expiration_date": "14-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "datado.me": {
         "epoch": 1617840000.0,
@@ -7460,8 +7460,8 @@
         "state": "future"
     },
     "demdex.net": {
-        "epoch": 1597190400.0,
-        "expiration_date": "12-aug-2020",
+        "epoch": 1628726400.0,
+        "expiration_date": "12-aug-2021",
         "state": "future"
     },
     "denakop.com": {
@@ -8127,7 +8127,7 @@
     "dstrack2.info": {
         "epoch": 1597363200.0,
         "expiration_date": "14-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "dtc-v6t.com": {
         "epoch": 1617235200.0,
@@ -9410,8 +9410,8 @@
         "state": "future"
     },
     "faktor.io": {
-        "epoch": 1597190400.0,
-        "expiration_date": "12-aug-2020",
+        "epoch": 1628726400.0,
+        "expiration_date": "12-aug-2021",
         "state": "future"
     },
     "falkenbergtorget.se": {
@@ -11732,7 +11732,7 @@
     "guanoo.net": {
         "epoch": 1597363200.0,
         "expiration_date": "14-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "guardwork.info": {
         "epoch": 1600128000.0,
@@ -12195,8 +12195,8 @@
         "state": "future"
     },
     "hits.io": {
-        "epoch": 1597190400.0,
-        "expiration_date": "12-aug-2020",
+        "epoch": 1628726400.0,
+        "expiration_date": "12-aug-2021",
         "state": "future"
     },
     "hits2u.com": {
@@ -13530,8 +13530,8 @@
         "state": "future"
     },
     "interact-analytics.com": {
-        "epoch": 1597363200.0,
-        "expiration_date": "14-aug-2020",
+        "epoch": 1628899200.0,
+        "expiration_date": "14-aug-2021",
         "state": "future"
     },
     "interakt.ru": {
@@ -14562,7 +14562,7 @@
     "killerwebstats.com": {
         "epoch": 1597363200.0,
         "expiration_date": "14-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "king.com": {
         "epoch": 1740268800.0,
@@ -14845,8 +14845,8 @@
         "state": "future"
     },
     "ladsp.com": {
-        "epoch": 1597190400.0,
-        "expiration_date": "12-aug-2020",
+        "epoch": 1628726400.0,
+        "expiration_date": "12-aug-2021",
         "state": "future"
     },
     "laferia.cr": {
@@ -15075,8 +15075,8 @@
         "state": "future"
     },
     "leadsrx.com": {
-        "epoch": 1597363200.0,
-        "expiration_date": "14-aug-2020",
+        "epoch": 1628899200.0,
+        "expiration_date": "14-aug-2021",
         "state": "future"
     },
     "leadzu.com": {
@@ -16450,8 +16450,8 @@
         "state": "future"
     },
     "mediaglacier.com": {
-        "epoch": 1597363200.0,
-        "expiration_date": "14-aug-2020",
+        "epoch": 1628899200.0,
+        "expiration_date": "14-aug-2021",
         "state": "future"
     },
     "mediaite.com": {
@@ -17217,7 +17217,7 @@
     "mopinion.com": {
         "epoch": 1597363200.0,
         "expiration_date": "14-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "morningdigit.com": {
         "epoch": 1628553600.0,
@@ -21420,8 +21420,8 @@
         "state": "future"
     },
     "quillion.com": {
-        "epoch": 1597190400.0,
-        "expiration_date": "12-aug-2020",
+        "epoch": 1628726400.0,
+        "expiration_date": "12-aug-2021",
         "state": "future"
     },
     "quinet.it": {
