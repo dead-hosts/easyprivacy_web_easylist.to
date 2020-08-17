@@ -1290,8 +1290,8 @@
         "state": "future"
     },
     "adtr.io": {
-        "epoch": 1597622400.0,
-        "expiration_date": "17-aug-2020",
+        "epoch": 1629158400.0,
+        "expiration_date": "17-aug-2021",
         "state": "future"
     },
     "adtrackers.net": {
@@ -1790,8 +1790,8 @@
         "state": "future"
     },
     "allanalpass.com": {
-        "epoch": 1597449600.0,
-        "expiration_date": "15-aug-2020",
+        "epoch": 1628985600.0,
+        "expiration_date": "15-aug-2021",
         "state": "future"
     },
     "allcarpictures.com": {
@@ -2680,8 +2680,8 @@
         "state": "future"
     },
     "atdmt.com": {
-        "epoch": 1597622400.0,
-        "expiration_date": "17-aug-2020",
+        "epoch": 1629158400.0,
+        "expiration_date": "17-aug-2021",
         "state": "future"
     },
     "atgstores.com": {
@@ -10857,6 +10857,11 @@
     "gammachug.com": {
         "epoch": 1605225600.0,
         "expiration_date": "13-nov-2020",
+        "state": "future"
+    },
+    "gannettdigital.com": {
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
         "state": "future"
     },
     "gardenweb.com": {
