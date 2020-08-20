@@ -19735,9 +19735,9 @@
         "state": "future"
     },
     "pampopholf.com": {
-        "epoch": 1597622400.0,
-        "expiration_date": "17-aug-2020",
-        "state": "past"
+        "epoch": 1629158400.0,
+        "expiration_date": "17-aug-2021",
+        "state": "future"
     },
     "pandasecurity.com": {
         "epoch": 1599436800.0,
@@ -20020,8 +20020,8 @@
         "state": "future"
     },
     "performax.cz": {
-        "epoch": 1597881600.0,
-        "expiration_date": "20-aug-2020",
+        "epoch": 1629417600.0,
+        "expiration_date": "20-aug-2021",
         "state": "future"
     },
     "performgroup.com": {
@@ -23372,7 +23372,7 @@
     "sedotracker.com": {
         "epoch": 1597881600.0,
         "expiration_date": "20-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "seeclickfix.com": {
         "epoch": 1606435200.0,
@@ -24005,8 +24005,8 @@
         "state": "future"
     },
     "simpleanalytics.io": {
-        "epoch": 1597708800.0,
-        "expiration_date": "18-aug-2020",
+        "epoch": 1629244800.0,
+        "expiration_date": "18-aug-2021",
         "state": "future"
     },
     "simpleanalyticscdn.com": {
@@ -24385,9 +24385,9 @@
         "state": "future"
     },
     "smart-digital-solutions.com": {
-        "epoch": 1597622400.0,
-        "expiration_date": "17-aug-2020",
-        "state": "past"
+        "epoch": 1629158400.0,
+        "expiration_date": "17-aug-2021",
+        "state": "future"
     },
     "smart-dmp.com": {
         "epoch": 1623801600.0,
@@ -25025,9 +25025,9 @@
         "state": "future"
     },
     "springmetrics.com": {
-        "epoch": 1597622400.0,
-        "expiration_date": "17-aug-2020",
-        "state": "past"
+        "epoch": 1629158400.0,
+        "expiration_date": "17-aug-2021",
+        "state": "future"
     },
     "sprinklecontent.com": {
         "epoch": 1684627200.0,
@@ -25112,6 +25112,11 @@
     "srcip.com": {
         "epoch": 1597968000.0,
         "expiration_date": "21-aug-2020",
+        "state": "future"
+    },
+    "srmdata.com": {
+        "epoch": 1612483200.0,
+        "expiration_date": "05-feb-2021",
         "state": "future"
     },
     "srpx.net": {
@@ -25450,8 +25455,8 @@
         "state": "future"
     },
     "statsw.com": {
-        "epoch": 1597708800.0,
-        "expiration_date": "18-aug-2020",
+        "epoch": 1629244800.0,
+        "expiration_date": "18-aug-2021",
         "state": "future"
     },
     "statswebtown.com": {
@@ -27005,9 +27010,9 @@
         "state": "future"
     },
     "toplist100.org": {
-        "epoch": 1597622400.0,
-        "expiration_date": "17-aug-2020",
-        "state": "past"
+        "epoch": 1629158400.0,
+        "expiration_date": "17-aug-2021",
+        "state": "future"
     },
     "topmalaysia.com": {
         "epoch": 1614384000.0,
@@ -27495,8 +27500,8 @@
         "state": "future"
     },
     "transactionale.com": {
-        "epoch": 1597795200.0,
-        "expiration_date": "19-aug-2020",
+        "epoch": 1629331200.0,
+        "expiration_date": "19-aug-2021",
         "state": "future"
     },
     "travel-assets.com": {
@@ -28685,8 +28690,8 @@
         "state": "future"
     },
     "vee24.com": {
-        "epoch": 1597795200.0,
-        "expiration_date": "19-aug-2020",
+        "epoch": 1660867200.0,
+        "expiration_date": "19-aug-2022",
         "state": "future"
     },
     "veeseo.com": {
@@ -29095,8 +29100,8 @@
         "state": "future"
     },
     "visistat.com": {
-        "epoch": 1597708800.0,
-        "expiration_date": "18-aug-2020",
+        "epoch": 1629244800.0,
+        "expiration_date": "18-aug-2021",
         "state": "future"
     },
     "visitor-analytics.io": {
@@ -29160,8 +29165,8 @@
         "state": "future"
     },
     "visitstreamer.com": {
-        "epoch": 1597708800.0,
-        "expiration_date": "18-aug-2020",
+        "epoch": 1629244800.0,
+        "expiration_date": "18-aug-2021",
         "state": "future"
     },
     "visto1.net": {
