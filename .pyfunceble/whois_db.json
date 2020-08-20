@@ -10900,9 +10900,9 @@
         "state": "past"
     },
     "gazzettaobjects.it": {
-        "epoch": 1596585600.0,
-        "expiration_date": "05-aug-2020",
-        "state": "past"
+        "epoch": 1628121600.0,
+        "expiration_date": "05-aug-2021",
+        "state": "future"
     },
     "gbotvisit.com": {
         "epoch": 1603152000.0,
@@ -19800,8 +19800,8 @@
         "state": "future"
     },
     "partypoker.com": {
-        "epoch": 1597795200.0,
-        "expiration_date": "19-aug-2020",
+        "epoch": 1629331200.0,
+        "expiration_date": "19-aug-2021",
         "state": "future"
     },
     "pass-1234.com": {
@@ -21735,9 +21735,9 @@
         "state": "future"
     },
     "rcsobjects.it": {
-        "epoch": 1596585600.0,
-        "expiration_date": "05-aug-2020",
-        "state": "past"
+        "epoch": 1628121600.0,
+        "expiration_date": "05-aug-2021",
+        "state": "future"
     },
     "rdstation.com.br": {
         "epoch": 1622937600.0,
@@ -21962,6 +21962,11 @@
     "redditstatic.com": {
         "epoch": 1636416000.0,
         "expiration_date": "09-nov-2021",
+        "state": "future"
+    },
+    "redfast.com": {
+        "epoch": 1742428800.0,
+        "expiration_date": "20-mar-2025",
         "state": "future"
     },
     "redfastlabs.com": {
@@ -24325,8 +24330,8 @@
         "state": "future"
     },
     "sli-spark.com": {
-        "epoch": 1597881600.0,
-        "expiration_date": "20-aug-2020",
+        "epoch": 1629417600.0,
+        "expiration_date": "20-aug-2021",
         "state": "future"
     },
     "slickdeals.net": {
@@ -25555,8 +25560,8 @@
         "state": "future"
     },
     "stilanzeigen.net": {
-        "epoch": 1597708800.0,
-        "expiration_date": "18-aug-2020",
+        "epoch": 1629244800.0,
+        "expiration_date": "18-aug-2021",
         "state": "future"
     },
     "stileproject.com": {
@@ -27765,8 +27770,8 @@
         "state": "future"
     },
     "trumba.com": {
-        "epoch": 1597795200.0,
-        "expiration_date": "19-aug-2020",
+        "epoch": 1629331200.0,
+        "expiration_date": "19-aug-2021",
         "state": "future"
     },
     "truoptik.com": {
