@@ -1070,8 +1070,8 @@
         "state": "future"
     },
     "adku.com": {
-        "epoch": 1597795200.0,
-        "expiration_date": "19-aug-2020",
+        "epoch": 1629331200.0,
+        "expiration_date": "19-aug-2021",
         "state": "future"
     },
     "adless.io": {
@@ -5160,9 +5160,9 @@
         "state": "future"
     },
     "cftrack.com": {
-        "epoch": 1597622400.0,
-        "expiration_date": "17-aug-2020",
-        "state": "past"
+        "epoch": 1629158400.0,
+        "expiration_date": "17-aug-2021",
+        "state": "future"
     },
     "chanel.com": {
         "epoch": 1660176000.0,
@@ -7035,8 +7035,8 @@
         "state": "future"
     },
     "cybermonitor.com": {
-        "epoch": 1597708800.0,
-        "expiration_date": "18-aug-2020",
+        "epoch": 1629244800.0,
+        "expiration_date": "18-aug-2021",
         "state": "future"
     },
     "cytoclause.com": {
@@ -7110,8 +7110,8 @@
         "state": "future"
     },
     "dailycaller-alerts.com": {
-        "epoch": 1597795200.0,
-        "expiration_date": "19-aug-2020",
+        "epoch": 1603843200.0,
+        "expiration_date": "28-oct-2020",
         "state": "future"
     },
     "dailymail.co.uk": {
@@ -8290,8 +8290,8 @@
         "state": "future"
     },
     "e-goi.com": {
-        "epoch": 1597708800.0,
-        "expiration_date": "18-aug-2020",
+        "epoch": 1629244800.0,
+        "expiration_date": "18-aug-2021",
         "state": "future"
     },
     "e-kaiseki.com": {
@@ -8795,8 +8795,8 @@
         "state": "future"
     },
     "engine212.com": {
-        "epoch": 1597881600.0,
-        "expiration_date": "20-aug-2020",
+        "epoch": 1629417600.0,
+        "expiration_date": "20-aug-2021",
         "state": "future"
     },
     "engine64.com": {
@@ -9685,8 +9685,8 @@
         "state": "future"
     },
     "feedperfect.com": {
-        "epoch": 1597795200.0,
-        "expiration_date": "19-aug-2020",
+        "epoch": 1629331200.0,
+        "expiration_date": "19-aug-2021",
         "state": "future"
     },
     "feedsportal.com": {
@@ -11452,7 +11452,7 @@
     "goodcounter.org": {
         "epoch": 1597881600.0,
         "expiration_date": "20-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "google-analytics.com": {
         "epoch": 1626566400.0,
@@ -13190,8 +13190,8 @@
         "state": "future"
     },
     "incentivesnetwork.net": {
-        "epoch": 1597708800.0,
-        "expiration_date": "18-aug-2020",
+        "epoch": 1660780800.0,
+        "expiration_date": "18-aug-2022",
         "state": "future"
     },
     "ind.sh": {
@@ -15594,6 +15594,11 @@
         "expiration_date": "22-aug-2020",
         "state": "future"
     },
+    "lmyiwaakn.com": {
+        "epoch": 1612656000.0,
+        "expiration_date": "07-feb-2021",
+        "state": "future"
+    },
     "lndata.com": {
         "epoch": 1654646400.0,
         "expiration_date": "08-jun-2022",
@@ -16547,7 +16552,7 @@
     "mediaseeding.com": {
         "epoch": 1597881600.0,
         "expiration_date": "20-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "mediaset.it": {
         "epoch": 1606780800.0,
@@ -21135,8 +21140,8 @@
         "state": "future"
     },
     "pubstack.io": {
-        "epoch": 1597881600.0,
-        "expiration_date": "20-aug-2020",
+        "epoch": 1629417600.0,
+        "expiration_date": "20-aug-2021",
         "state": "future"
     },
     "puffyloss.com": {
@@ -21957,6 +21962,11 @@
     "redditstatic.com": {
         "epoch": 1636416000.0,
         "expiration_date": "09-nov-2021",
+        "state": "future"
+    },
+    "redfastlabs.com": {
+        "epoch": 1757894400.0,
+        "expiration_date": "15-sep-2025",
         "state": "future"
     },
     "redfin.com": {
