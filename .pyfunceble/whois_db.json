@@ -10695,8 +10695,8 @@
         "state": "future"
     },
     "funshion.com": {
-        "epoch": 1598054400.0,
-        "expiration_date": "22-aug-2020",
+        "epoch": 1755820800.0,
+        "expiration_date": "22-aug-2025",
         "state": "future"
     },
     "funstage.com": {
@@ -11912,6 +11912,11 @@
     "hardware-infos.com": {
         "epoch": 1604707200.0,
         "expiration_date": "07-nov-2020",
+        "state": "future"
+    },
+    "hardware.info": {
+        "epoch": 1627689600.0,
+        "expiration_date": "31-jul-2021",
         "state": "future"
     },
     "hartgeld.com": {
