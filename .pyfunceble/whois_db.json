@@ -20375,8 +20375,8 @@
         "state": "future"
     },
     "pixhosting.com": {
-        "epoch": 1598140800.0,
-        "expiration_date": "23-aug-2020",
+        "epoch": 1629676800.0,
+        "expiration_date": "23-aug-2021",
         "state": "future"
     },
     "piximedia.com": {
@@ -20415,8 +20415,8 @@
         "state": "future"
     },
     "planet49.com": {
-        "epoch": 1598140800.0,
-        "expiration_date": "23-aug-2020",
+        "epoch": 1629676800.0,
+        "expiration_date": "23-aug-2021",
         "state": "future"
     },
     "plantdigestion.com": {
@@ -25820,8 +25820,8 @@
         "state": "future"
     },
     "sugarops.com": {
-        "epoch": 1598054400.0,
-        "expiration_date": "22-aug-2020",
+        "epoch": 1629590400.0,
+        "expiration_date": "22-aug-2021",
         "state": "future"
     },
     "sugarvine.com": {
@@ -30625,9 +30625,9 @@
         "state": "future"
     },
     "wwwportal.dk": {
-        "epoch": 1596153600.0,
-        "expiration_date": "31-jul-2020",
-        "state": "past"
+        "epoch": 1598832000.0,
+        "expiration_date": "31-aug-2020",
+        "state": "future"
     },
     "wymiana.org": {
         "epoch": 1608508800.0,
