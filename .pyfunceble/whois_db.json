@@ -4524,6 +4524,11 @@
         "expiration_date": "07-aug-2022",
         "state": "future"
     },
+    "buzzoole.com": {
+        "epoch": 1626998400.0,
+        "expiration_date": "23-jul-2021",
+        "state": "future"
+    },
     "bwbx.io": {
         "epoch": 1608076800.0,
         "expiration_date": "16-dec-2020",
@@ -5245,8 +5250,8 @@
         "state": "future"
     },
     "cheqzone.com": {
-        "epoch": 1598140800.0,
-        "expiration_date": "23-aug-2020",
+        "epoch": 1629676800.0,
+        "expiration_date": "23-aug-2021",
         "state": "future"
     },
     "chicagotribune.com": {
@@ -8445,8 +8450,8 @@
         "state": "future"
     },
     "ebaystatic.com": {
-        "epoch": 1598054400.0,
-        "expiration_date": "22-aug-2020",
+        "epoch": 1629590400.0,
+        "expiration_date": "22-aug-2021",
         "state": "future"
     },
     "ebtrk1.com": {
@@ -14327,6 +14332,11 @@
     "jscrambler.com": {
         "epoch": 1768348800.0,
         "expiration_date": "14-jan-2026",
+        "state": "future"
+    },
+    "jsdelivr.net": {
+        "epoch": 1621123200.0,
+        "expiration_date": "16-may-2021",
         "state": "future"
     },
     "jsecoin.com": {
@@ -20627,6 +20637,11 @@
     "popcap.com": {
         "epoch": 1624838400.0,
         "expiration_date": "28-jun-2021",
+        "state": "future"
+    },
+    "popin.cc": {
+        "epoch": 1650412800.0,
+        "expiration_date": "20-apr-2022",
         "state": "future"
     },
     "popsample.com": {
