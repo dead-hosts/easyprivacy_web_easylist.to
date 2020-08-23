@@ -605,8 +605,8 @@
         "state": "future"
     },
     "abcompteur.com": {
-        "epoch": 1597968000.0,
-        "expiration_date": "21-aug-2020",
+        "epoch": 1629504000.0,
+        "expiration_date": "21-aug-2021",
         "state": "future"
     },
     "abcotvs.net": {
@@ -4914,6 +4914,11 @@
         "expiration_date": "07-apr-2022",
         "state": "future"
     },
+    "causecherry.com": {
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
+        "state": "future"
+    },
     "cautiouscrate.com": {
         "epoch": 1615680000.0,
         "expiration_date": "14-mar-2021",
@@ -5795,8 +5800,8 @@
         "state": "future"
     },
     "cnhv.co": {
-        "epoch": 1598140800.0,
-        "expiration_date": "23-aug-2020",
+        "epoch": 1629676800.0,
+        "expiration_date": "23-aug-2021",
         "state": "future"
     },
     "cnn.com": {
@@ -6485,8 +6490,8 @@
         "state": "future"
     },
     "counter-kostenlos.net": {
-        "epoch": 1598054400.0,
-        "expiration_date": "22-aug-2020",
+        "epoch": 1629590400.0,
+        "expiration_date": "22-aug-2021",
         "state": "future"
     },
     "counter.gd": {
@@ -7582,7 +7587,7 @@
     "devphp.org.ua": {
         "epoch": 1598054400.0,
         "expiration_date": "22-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "devtribu.fr": {
         "epoch": 1622505600.0,
@@ -7640,8 +7645,8 @@
         "state": "future"
     },
     "digidip.net": {
-        "epoch": 1598054400.0,
-        "expiration_date": "22-aug-2020",
+        "epoch": 1629590400.0,
+        "expiration_date": "22-aug-2021",
         "state": "future"
     },
     "digiland.it": {
@@ -15595,8 +15600,8 @@
         "state": "future"
     },
     "lmiutil.com": {
-        "epoch": 1598054400.0,
-        "expiration_date": "22-aug-2020",
+        "epoch": 1629590400.0,
+        "expiration_date": "22-aug-2021",
         "state": "future"
     },
     "lmyiwaakn.com": {
@@ -21254,6 +21259,11 @@
         "expiration_date": "31-jan-2021",
         "state": "future"
     },
+    "pushible.com": {
+        "epoch": 1621209600.0,
+        "expiration_date": "17-may-2021",
+        "state": "future"
+    },
     "pushify.com": {
         "epoch": 1625529600.0,
         "expiration_date": "06-jul-2021",
@@ -23405,9 +23415,9 @@
         "state": "future"
     },
     "sedotracker.com": {
-        "epoch": 1597881600.0,
-        "expiration_date": "20-aug-2020",
-        "state": "past"
+        "epoch": 1629417600.0,
+        "expiration_date": "20-aug-2021",
+        "state": "future"
     },
     "seeclickfix.com": {
         "epoch": 1606435200.0,
@@ -23515,8 +23525,8 @@
         "state": "future"
     },
     "semantic-finder.com": {
-        "epoch": 1598140800.0,
-        "expiration_date": "23-aug-2020",
+        "epoch": 1629676800.0,
+        "expiration_date": "23-aug-2021",
         "state": "future"
     },
     "semanticverses.com": {
@@ -25145,8 +25155,8 @@
         "state": "future"
     },
     "srcip.com": {
-        "epoch": 1597968000.0,
-        "expiration_date": "21-aug-2020",
+        "epoch": 1661040000.0,
+        "expiration_date": "21-aug-2022",
         "state": "future"
     },
     "srmdata.com": {
