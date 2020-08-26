@@ -5220,8 +5220,8 @@
         "state": "future"
     },
     "cheapflights.com": {
-        "epoch": 1598313600.0,
-        "expiration_date": "25-aug-2020",
+        "epoch": 1629849600.0,
+        "expiration_date": "25-aug-2021",
         "state": "future"
     },
     "cheapsalesconsulting.com": {
@@ -10355,8 +10355,8 @@
         "state": "future"
     },
     "freebiesms.com": {
-        "epoch": 1598227200.0,
-        "expiration_date": "24-aug-2020",
+        "epoch": 1629763200.0,
+        "expiration_date": "24-aug-2021",
         "state": "future"
     },
     "freebloghitcounter.com": {
@@ -11647,6 +11647,11 @@
     "graftpool.ovh": {
         "epoch": 1612396800.0,
         "expiration_date": "04-feb-2021",
+        "state": "future"
+    },
+    "grammarly.io": {
+        "epoch": 1612915200.0,
+        "expiration_date": "10-feb-2021",
         "state": "future"
     },
     "gramombird.com": {
@@ -18484,6 +18489,11 @@
         "expiration_date": "16-oct-2020",
         "state": "future"
     },
+    "newzit.com": {
+        "epoch": 1630800000.0,
+        "expiration_date": "05-sep-2021",
+        "state": "future"
+    },
     "nex8.net": {
         "epoch": 1607299200.0,
         "expiration_date": "07-dec-2020",
@@ -18950,8 +18960,8 @@
         "state": "future"
     },
     "oasisactive.com": {
-        "epoch": 1598227200.0,
-        "expiration_date": "24-aug-2020",
+        "epoch": 1629763200.0,
+        "expiration_date": "24-aug-2021",
         "state": "future"
     },
     "observerapp.com": {
@@ -20860,8 +20870,8 @@
         "state": "future"
     },
     "prezi.com": {
-        "epoch": 1598227200.0,
-        "expiration_date": "24-aug-2020",
+        "epoch": 1629763200.0,
+        "expiration_date": "24-aug-2021",
         "state": "future"
     },
     "prfct.co": {
