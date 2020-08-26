@@ -3255,8 +3255,8 @@
         "state": "future"
     },
     "baptisttop1000.com": {
-        "epoch": 1598313600.0,
-        "expiration_date": "25-aug-2020",
+        "epoch": 1629849600.0,
+        "expiration_date": "25-aug-2021",
         "state": "future"
     },
     "barcelo.com": {
@@ -3680,8 +3680,8 @@
         "state": "future"
     },
     "bigreal.org": {
-        "epoch": 1598227200.0,
-        "expiration_date": "24-aug-2020",
+        "epoch": 1629763200.0,
+        "expiration_date": "24-aug-2021",
         "state": "future"
     },
     "bigstats.net": {
@@ -4305,8 +4305,8 @@
         "state": "future"
     },
     "brilig.com": {
-        "epoch": 1598313600.0,
-        "expiration_date": "25-aug-2020",
+        "epoch": 1629849600.0,
+        "expiration_date": "25-aug-2021",
         "state": "future"
     },
     "britepool.com": {
@@ -6620,8 +6620,8 @@
         "state": "future"
     },
     "cphalk.com": {
-        "epoch": 1598313600.0,
-        "expiration_date": "25-aug-2020",
+        "epoch": 1629849600.0,
+        "expiration_date": "25-aug-2021",
         "state": "future"
     },
     "cpmktg.com": {
@@ -6770,8 +6770,8 @@
         "state": "future"
     },
     "crosswalkmail.com": {
-        "epoch": 1598400000.0,
-        "expiration_date": "26-aug-2020",
+        "epoch": 1629936000.0,
+        "expiration_date": "26-aug-2021",
         "state": "future"
     },
     "crowdfactory.com": {
@@ -8175,8 +8175,8 @@
         "state": "future"
     },
     "dti-ranker.com": {
-        "epoch": 1598227200.0,
-        "expiration_date": "24-aug-2020",
+        "epoch": 1629763200.0,
+        "expiration_date": "24-aug-2021",
         "state": "future"
     },
     "dtscout.com": {
@@ -9210,8 +9210,8 @@
         "state": "future"
     },
     "exactag.com": {
-        "epoch": 1598227200.0,
-        "expiration_date": "24-aug-2020",
+        "epoch": 1629763200.0,
+        "expiration_date": "24-aug-2021",
         "state": "future"
     },
     "exacttarget.com": {
@@ -10445,8 +10445,8 @@
         "state": "future"
     },
     "freegeoip.net": {
-        "epoch": 1598400000.0,
-        "expiration_date": "26-aug-2020",
+        "epoch": 1629936000.0,
+        "expiration_date": "26-aug-2021",
         "state": "future"
     },
     "freehitscounter.org": {
@@ -10810,6 +10810,11 @@
         "state": "future"
     },
     "g3169349360.co": {
+        "epoch": 1623110400.0,
+        "expiration_date": "08-jun-2021",
+        "state": "future"
+    },
+    "g3367433695.co": {
         "epoch": 1623110400.0,
         "expiration_date": "08-jun-2021",
         "state": "future"
@@ -14042,7 +14047,7 @@
     "itrac.it": {
         "epoch": 1598313600.0,
         "expiration_date": "25-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "itracker360.com": {
         "epoch": 1607904000.0,
@@ -17595,8 +17600,8 @@
         "state": "future"
     },
     "mvtracker.com": {
-        "epoch": 1598400000.0,
-        "expiration_date": "26-aug-2020",
+        "epoch": 1629936000.0,
+        "expiration_date": "26-aug-2021",
         "state": "future"
     },
     "mwor.gq": {
@@ -19350,9 +19355,9 @@
         "state": "future"
     },
     "openclick.com": {
-        "epoch": 1598140800.0,
-        "expiration_date": "23-aug-2020",
-        "state": "past"
+        "epoch": 1629676800.0,
+        "expiration_date": "23-aug-2021",
+        "state": "future"
     },
     "openguid.org": {
         "epoch": 1628899200.0,
@@ -22665,8 +22670,8 @@
         "state": "future"
     },
     "rockincontent.net": {
-        "epoch": 1598227200.0,
-        "expiration_date": "24-aug-2020",
+        "epoch": 1629763200.0,
+        "expiration_date": "24-aug-2021",
         "state": "future"
     },
     "rocks.io": {
