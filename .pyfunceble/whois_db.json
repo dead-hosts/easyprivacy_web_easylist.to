@@ -2612,6 +2612,12 @@
         "expiration_date": "21-jan-2021",
         "state": "future"
     },
+    "asayer.io": {
+        "epoch": 1631145600.0,
+        "expiration_date": "09-sep-2021",
+        "server": "whois.nic.io",
+        "state": "future"
+    },
     "ascend.ai": {
         "epoch": 1658361600.0,
         "expiration_date": "21-jul-2022",
@@ -5367,8 +5373,9 @@
         "state": "future"
     },
     "circonus.com": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
+        "epoch": 1756339200.0,
+        "expiration_date": "28-aug-2025",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "circular-counters.com": {
@@ -6137,8 +6144,9 @@
         "state": "future"
     },
     "concert.io": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.nic.io",
         "state": "future"
     },
     "conde.io": {
@@ -9280,6 +9288,7 @@
     "exe.bid": {
         "epoch": 1595289600.0,
         "expiration_date": "21-jul-2020",
+        "server": "whois.nic.bid",
         "state": "past"
     },
     "exelate.com": {
@@ -11093,8 +11102,9 @@
         "state": "future"
     },
     "getaim.info": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "getambassador.com": {
@@ -12997,6 +13007,7 @@
     "idot.cz": {
         "epoch": 1594598400.0,
         "expiration_date": "13-jul-2020",
+        "server": "whois.nic.cz",
         "state": "past"
     },
     "idtargeting.com": {
@@ -13205,8 +13216,9 @@
         "state": "future"
     },
     "imprvdosrv.com": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "impulsejewel.com": {
@@ -14753,7 +14765,8 @@
     "klickly.com": {
         "epoch": 1598659200.0,
         "expiration_date": "29-aug-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "klldabck.com": {
         "epoch": 1618185600.0,
@@ -17413,8 +17426,9 @@
         "state": "future"
     },
     "movementventures.com": {
-        "epoch": 1598486400.0,
-        "expiration_date": "27-aug-2020",
+        "epoch": 1630022400.0,
+        "expiration_date": "27-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "movieclips.com": {
@@ -21801,8 +21815,9 @@
         "state": "future"
     },
     "raygun.io": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.nic.io",
         "state": "future"
     },
     "rays-counter.com": {
@@ -23636,8 +23651,9 @@
         "state": "future"
     },
     "sendibm4.com": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "sendpulse.com": {
