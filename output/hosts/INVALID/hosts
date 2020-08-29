@@ -2,6 +2,9 @@
 # Date of generation: 2020-08-29T22:02:17.091910
 
 0.0.0.0 activity.*.miui.com
+0.0.0.0 aff*.kolektiva.net
+0.0.0.0 airbnb.*
+0.0.0.0 amazon.*
 0.0.0.0 analytics-beacon-*.amazonaws.com
 0.0.0.0 bc.geocities.
 0.0.0.0 bin.clearspring.*
@@ -10,6 +13,7 @@
 0.0.0.0 collector-*.elb.amazonaws.com
 0.0.0.0 collector-*.tvsquared.com
 0.0.0.0 datacollect*.abtasty.com
+0.0.0.0 etwun.com:8080
 0.0.0.0 facebook.com*
 0.0.0.0 hits-*.iubenda.com
 0.0.0.0 log-*.previewnetworks.com
@@ -17,6 +21,13 @@
 0.0.0.0 meetrics.netbb-
 0.0.0.0 metro-trending-*.amazonaws.com
 0.0.0.0 minero-proxy-*.sh
+0.0.0.0 stats2.*.fdnames.com
+0.0.0.0 stats-*.p2pnow.ru
+0.0.0.0 targeting.*.arcpublishing.com
+0.0.0.0 tracker.twenga.
+0.0.0.0 tracking.*.miui.com
 0.0.0.0 tracking*.euroads.fi
+0.0.0.0 vtnlog-*.elb.amazonaws.com
+0.0.0.0 yandex.*
 0.0.0.0 58.68.146.44:8000
 0.0.0.0 121.78.90.104:8383

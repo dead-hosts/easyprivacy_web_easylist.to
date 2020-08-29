@@ -1498,8 +1498,9 @@
         "state": "future"
     },
     "aftonbladet.se": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.iis.se",
         "state": "future"
     },
     "agates.ru": {
@@ -28937,8 +28938,9 @@
         "state": "future"
     },
     "verticalacuity.com": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "verticalscope.com": {
@@ -30169,6 +30171,12 @@
     "webtutoriaux.com": {
         "epoch": 1601424000.0,
         "expiration_date": "30-sep-2020",
+        "state": "future"
+    },
+    "webutation.net": {
+        "epoch": 1630022400.0,
+        "expiration_date": "27-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "webvisor.com": {
