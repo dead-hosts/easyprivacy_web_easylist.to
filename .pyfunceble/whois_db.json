@@ -885,8 +885,9 @@
         "state": "future"
     },
     "ad-srv-track.com": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ad2links.com": {
@@ -1485,8 +1486,9 @@
         "state": "future"
     },
     "afsanalytics.com": {
-        "epoch": 1598486400.0,
-        "expiration_date": "27-aug-2020",
+        "epoch": 1630022400.0,
+        "expiration_date": "27-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "afterdawn.com": {
@@ -5075,8 +5077,9 @@
         "state": "future"
     },
     "cdntrf.com": {
-        "epoch": 1598486400.0,
-        "expiration_date": "27-aug-2020",
+        "epoch": 1630022400.0,
+        "expiration_date": "27-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "cedexis.com": {
@@ -7110,8 +7113,9 @@
         "state": "future"
     },
     "dacounter.com": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "dada.net": {
@@ -7815,8 +7819,9 @@
         "state": "future"
     },
     "displaymarketplace.com": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "displaymate.com": {
@@ -7972,6 +7977,12 @@
     "do09.net": {
         "epoch": 1600473600.0,
         "expiration_date": "19-sep-2020",
+        "state": "future"
+    },
+    "doceree.com": {
+        "epoch": 1752192000.0,
+        "expiration_date": "11-jul-2025",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "docin.com": {
@@ -8910,8 +8921,9 @@
         "state": "future"
     },
     "eproof.com": {
-        "epoch": 1598486400.0,
-        "expiration_date": "27-aug-2020",
+        "epoch": 1630022400.0,
+        "expiration_date": "27-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "erate.co.il": {
@@ -12260,8 +12272,9 @@
         "state": "future"
     },
     "hitmatic.com": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "hitmir.ru": {
@@ -12930,8 +12943,9 @@
         "state": "future"
     },
     "ics0.com": {
-        "epoch": 1598572800.0,
-        "expiration_date": "28-aug-2020",
+        "epoch": 1630108800.0,
+        "expiration_date": "28-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "id-visitors.com": {
@@ -14052,6 +14066,7 @@
     "itrac.it": {
         "epoch": 1598313600.0,
         "expiration_date": "25-aug-2020",
+        "server": "whois.nic.it",
         "state": "past"
     },
     "itracker360.com": {
@@ -16775,8 +16790,9 @@
         "state": "future"
     },
     "metricsdirect.com": {
-        "epoch": 1598486400.0,
-        "expiration_date": "27-aug-2020",
+        "epoch": 1630022400.0,
+        "expiration_date": "27-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "metrigo.com": {
@@ -17070,8 +17086,9 @@
         "state": "future"
     },
     "mkt941.com": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mktoresp.com": {
@@ -18252,7 +18269,8 @@
     "net-filter.com": {
         "epoch": 1598659200.0,
         "expiration_date": "29-aug-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "net-parade.it": {
         "epoch": 1609632000.0,
@@ -19317,6 +19335,7 @@
     "onlysix.co.uk": {
         "epoch": 1596240000.0,
         "expiration_date": "01-aug-2020",
+        "server": "whois.nic.uk",
         "state": "past"
     },
     "onnetwork.tv": {
