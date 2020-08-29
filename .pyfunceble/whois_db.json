@@ -18803,6 +18803,12 @@
         "expiration_date": "10-sep-2025",
         "state": "future"
     },
+    "novelcool.com": {
+        "epoch": 1618185600.0,
+        "expiration_date": "12-apr-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "novell.com": {
         "epoch": 1605744000.0,
         "expiration_date": "19-nov-2020",
@@ -22204,6 +22210,7 @@
     "register.it": {
         "epoch": 1597536000.0,
         "expiration_date": "16-aug-2020",
+        "server": "whois.nic.it",
         "state": "past"
     },
     "reinvigorate.net": {
