@@ -2014,8 +2014,9 @@
         "state": "future"
     },
     "amxdt.com": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "amy.gs": {
@@ -3312,8 +3313,9 @@
         "state": "future"
     },
     "basilic.io": {
-        "epoch": 1598832000.0,
-        "expiration_date": "31-aug-2020",
+        "epoch": 1630368000.0,
+        "expiration_date": "31-aug-2021",
+        "server": "whois.nic.io",
         "state": "future"
     },
     "basketballbelieve.com": {
@@ -3652,8 +3654,9 @@
         "state": "future"
     },
     "bidr.io": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
+        "server": "whois.nic.io",
         "state": "future"
     },
     "bidsimulator.com": {
@@ -3922,8 +3925,9 @@
         "state": "future"
     },
     "blockmetrics.com": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "blog-stat.com": {
@@ -6572,8 +6576,9 @@
         "state": "future"
     },
     "countertracker.com": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "counterviews.net": {
@@ -7444,8 +7449,9 @@
         "state": "past"
     },
     "deep.bi": {
-        "epoch": 1598918400.0,
-        "expiration_date": "01-sep-2020",
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
+        "server": "whois1.nic.bi",
         "state": "future"
     },
     "deepattention.com": {
@@ -8672,8 +8678,9 @@
         "state": "future"
     },
     "electusdigital.com": {
-        "epoch": 1598918400.0,
-        "expiration_date": "01-sep-2020",
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "elite-s001.com": {
@@ -10853,6 +10860,12 @@
         "expiration_date": "08-jun-2021",
         "state": "future"
     },
+    "g3565518030.co": {
+        "epoch": 1623110400.0,
+        "expiration_date": "08-jun-2021",
+        "server": "whois.nic.co",
+        "state": "future"
+    },
     "gaconnector.com": {
         "epoch": 1800403200.0,
         "expiration_date": "20-jan-2027",
@@ -11130,8 +11143,9 @@
         "state": "future"
     },
     "getconversion.net": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1605571200.0,
+        "expiration_date": "17-nov-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "getdrip.com": {
@@ -13279,8 +13293,9 @@
         "state": "future"
     },
     "indexstats.com": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "indextools.com": {
@@ -14791,8 +14806,9 @@
         "state": "future"
     },
     "km-sea.net": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "kmib.co.kr": {
@@ -18294,10 +18310,10 @@
         "state": "future"
     },
     "net-filter.com": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "net-parade.it": {
         "epoch": 1609632000.0,
@@ -18320,8 +18336,9 @@
         "state": "future"
     },
     "netapplications.com": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "netbiscuits.net": {
@@ -20347,8 +20364,9 @@
         "state": "future"
     },
     "pingagenow.com": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "pingclock.net": {
@@ -21278,8 +21296,9 @@
         "state": "future"
     },
     "pulselog.com": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "pulsemaps.com": {
