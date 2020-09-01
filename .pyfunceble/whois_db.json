@@ -1694,8 +1694,9 @@
         "state": "future"
     },
     "alemoney.xyz": {
-        "epoch": 1598400000.0,
-        "expiration_date": "26-aug-2020",
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
+        "server": "whois.nic.xyz",
         "state": "future"
     },
     "alenty.com": {
@@ -5755,8 +5756,9 @@
         "state": "past"
     },
     "cloudflareinsights.com": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "cloudfront.net": {
@@ -12510,8 +12512,9 @@
         "state": "future"
     },
     "hostingcloud.faith": {
-        "epoch": 1598832000.0,
-        "expiration_date": "31-aug-2020",
+        "epoch": 1630368000.0,
+        "expiration_date": "31-aug-2021",
+        "server": "whois.nic.faith",
         "state": "future"
     },
     "hostingcloud.party": {
@@ -16077,8 +16080,9 @@
         "state": "future"
     },
     "m-brain.fi": {
-        "epoch": 1598832000.0,
-        "expiration_date": "31-aug-2020",
+        "epoch": 1630368000.0,
+        "expiration_date": "31-aug-2021",
+        "server": "whois.fi",
         "state": "future"
     },
     "m-pathy.com": {
@@ -24811,8 +24815,9 @@
         "state": "future"
     },
     "sodoit.com": {
-        "epoch": 1598832000.0,
-        "expiration_date": "31-aug-2020",
+        "epoch": 1630368000.0,
+        "expiration_date": "31-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "soe.com": {
@@ -24916,8 +24921,9 @@
         "state": "future"
     },
     "soska.us": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
+        "server": "whois.nic.us",
         "state": "future"
     },
     "soufun.com": {
@@ -26400,7 +26406,8 @@
     "tctm.co": {
         "epoch": 1598918400.0,
         "expiration_date": "01-sep-2020",
-        "state": "future"
+        "server": "whois.nic.co",
+        "state": "past"
     },
     "td573.com": {
         "epoch": 1611619200.0,
@@ -26583,8 +26590,9 @@
         "state": "future"
     },
     "testin.cn": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
+        "server": "whois.cnnic.cn",
         "state": "future"
     },
     "tetigi.com": {
@@ -29186,8 +29194,9 @@
         "state": "future"
     },
     "viralninjas.com": {
-        "epoch": 1598918400.0,
-        "expiration_date": "01-sep-2020",
+        "epoch": 1605916800.0,
+        "expiration_date": "21-nov-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "viralnova.com": {
@@ -29316,8 +29325,9 @@
         "state": "future"
     },
     "visitorjs.com": {
-        "epoch": 1598918400.0,
-        "expiration_date": "01-sep-2020",
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "visitorpath.com": {
