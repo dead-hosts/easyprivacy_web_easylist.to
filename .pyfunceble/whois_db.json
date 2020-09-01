@@ -5842,8 +5842,9 @@
         "state": "future"
     },
     "cnnx.io": {
-        "epoch": 1598832000.0,
-        "expiration_date": "31-aug-2020",
+        "epoch": 1630368000.0,
+        "expiration_date": "31-aug-2021",
+        "server": "whois.nic.io",
         "state": "future"
     },
     "cnpapers.com": {
@@ -10778,8 +10779,9 @@
         "state": "future"
     },
     "futurecdn.net": {
-        "epoch": 1598832000.0,
-        "expiration_date": "31-aug-2020",
+        "epoch": 1630368000.0,
+        "expiration_date": "31-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "futuristicfifth.com": {
@@ -14328,8 +14330,9 @@
         "state": "future"
     },
     "jobvite.com": {
-        "epoch": 1598745600.0,
-        "expiration_date": "30-aug-2020",
+        "epoch": 1630281600.0,
+        "expiration_date": "30-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "johansens.com": {
@@ -14783,10 +14786,10 @@
         "state": "future"
     },
     "klickly.com": {
-        "epoch": 1598659200.0,
-        "expiration_date": "29-aug-2020",
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "klldabck.com": {
         "epoch": 1618185600.0,
@@ -16226,8 +16229,9 @@
         "state": "future"
     },
     "mandrillapp.com": {
-        "epoch": 1598918400.0,
-        "expiration_date": "01-sep-2020",
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mangomolo.com": {
@@ -23653,8 +23657,9 @@
         "state": "future"
     },
     "semantiqo.com": {
-        "epoch": 1598832000.0,
-        "expiration_date": "31-aug-2020",
+        "epoch": 1630368000.0,
+        "expiration_date": "31-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "semasio.net": {
