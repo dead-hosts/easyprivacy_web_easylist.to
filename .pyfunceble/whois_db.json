@@ -7048,8 +7048,9 @@
         "state": "future"
     },
     "cv.ee": {
-        "epoch": 1598918400.0,
-        "expiration_date": "01-sep-2020",
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
+        "server": "whois.tld.ee",
         "state": "future"
     },
     "cvtr.io": {
@@ -17604,8 +17605,9 @@
         "state": "future"
     },
     "mtv3.fi": {
-        "epoch": 1598832000.0,
-        "expiration_date": "31-aug-2020",
+        "epoch": 1693440000.0,
+        "expiration_date": "31-aug-2023",
+        "server": "whois.fi",
         "state": "future"
     },
     "mtvnservices.com": {
@@ -21890,8 +21892,9 @@
         "state": "future"
     },
     "rbc.ru": {
-        "epoch": 1598918400.0,
-        "expiration_date": "01-sep-2020",
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "rbl.ms": {
@@ -22393,6 +22396,12 @@
     "reprocautious.com": {
         "epoch": 1623369600.0,
         "expiration_date": "11-jun-2021",
+        "state": "future"
+    },
+    "repstatic.it": {
+        "epoch": 1610755200.0,
+        "expiration_date": "16-jan-2021",
+        "server": "whois.nic.it",
         "state": "future"
     },
     "res-x.com": {
