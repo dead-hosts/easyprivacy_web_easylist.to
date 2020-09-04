@@ -662,8 +662,9 @@
         "state": "future"
     },
     "absorbingprison.com": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "abstractedamount.com": {
@@ -767,8 +768,9 @@
         "state": "future"
     },
     "acidpigs.com": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "acint.net": {
@@ -1821,7 +1823,8 @@
     "alleyarm.com": {
         "epoch": 1599177600.0,
         "expiration_date": "04-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "alljapanesepass.com": {
         "epoch": 1655856000.0,
@@ -2955,8 +2958,9 @@
         "state": "future"
     },
     "automaticside.com": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "automobile.it": {
@@ -3211,8 +3215,9 @@
         "state": "future"
     },
     "bagbeam.com": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "baidu.com": {
@@ -3251,8 +3256,9 @@
         "state": "future"
     },
     "bandborder.com": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "bandstores.co.uk": {
@@ -3657,8 +3663,9 @@
         "state": "future"
     },
     "biberukalap.com": {
-        "epoch": 1599091200.0,
-        "expiration_date": "03-sep-2020",
+        "epoch": 1630627200.0,
+        "expiration_date": "03-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "bid.run": {
@@ -4525,8 +4532,9 @@
         "state": "future"
     },
     "butterbulb.com": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "butterburst.com": {
@@ -7897,8 +7905,9 @@
         "state": "future"
     },
     "distinctday.com": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "distralytics.com": {
@@ -9511,8 +9520,9 @@
         "state": "future"
     },
     "fadedsnow.com": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "faibl.org": {
@@ -9621,8 +9631,9 @@
         "state": "future"
     },
     "farshake.com": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "farsnews.com": {
@@ -9978,12 +9989,14 @@
     "flightsy.bid": {
         "epoch": 1599177600.0,
         "expiration_date": "04-sep-2020",
-        "state": "future"
+        "server": "whois.nic.bid",
+        "state": "past"
     },
     "flightsy.win": {
         "epoch": 1599177600.0,
         "expiration_date": "04-sep-2020",
-        "state": "future"
+        "server": "whois.nic.win",
+        "state": "past"
     },
     "flightzy.bid": {
         "epoch": 1602288000.0,
@@ -10051,8 +10064,9 @@
         "state": "future"
     },
     "flockflame.com": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "flocktory.com": {
@@ -12281,8 +12295,9 @@
         "state": "future"
     },
     "historicalbeam.com": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "hit-counter-download.com": {
@@ -16618,8 +16633,9 @@
         "state": "future"
     },
     "meatydime.com": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mebablo.com": {
@@ -17255,8 +17271,9 @@
         "state": "future"
     },
     "mmtro.com": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mnginteractive.com": {
@@ -17658,8 +17675,9 @@
         "state": "future"
     },
     "munero.me": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
+        "server": "whois.nic.me",
         "state": "future"
     },
     "murdoog.com": {
@@ -23154,8 +23172,9 @@
         "state": "future"
     },
     "sagetrc.com": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "sahibinden.com": {
@@ -23499,8 +23518,9 @@
         "state": "future"
     },
     "sealine.pro": {
-        "epoch": 1599004800.0,
-        "expiration_date": "02-sep-2020",
+        "epoch": 1630540800.0,
+        "expiration_date": "02-sep-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "searchcompletion.com": {
@@ -26158,7 +26178,8 @@
     "surfertracker.com": {
         "epoch": 1599177600.0,
         "expiration_date": "04-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "surinenglish.com": {
         "epoch": 1613088000.0,
@@ -26476,10 +26497,10 @@
         "state": "future"
     },
     "tctm.co": {
-        "epoch": 1598918400.0,
-        "expiration_date": "01-sep-2020",
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
         "server": "whois.nic.co",
-        "state": "past"
+        "state": "future"
     },
     "td573.com": {
         "epoch": 1611619200.0,
@@ -29964,8 +29985,9 @@
         "state": "future"
     },
     "webcounter.co.za": {
-        "epoch": 1599004800.0,
-        "expiration_date": "02-sep-2020",
+        "epoch": 1630540800.0,
+        "expiration_date": "02-sep-2021",
+        "server": "whois.registry.net.za",
         "state": "future"
     },
     "webcounter.ws": {
