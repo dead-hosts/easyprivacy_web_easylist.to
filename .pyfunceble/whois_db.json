@@ -1735,6 +1735,12 @@
         "expiration_date": "19-jun-2021",
         "state": "future"
     },
+    "alfemminile.com": {
+        "epoch": 1604534400.0,
+        "expiration_date": "05-nov-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "algopine.com": {
         "epoch": 1599782400.0,
         "expiration_date": "11-sep-2020",
@@ -2565,8 +2571,9 @@
         "state": "future"
     },
     "arlt.com": {
-        "epoch": 1599091200.0,
-        "expiration_date": "03-sep-2020",
+        "epoch": 1630627200.0,
+        "expiration_date": "03-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "armystudyguide.com": {
@@ -28114,8 +28121,9 @@
         "state": "future"
     },
     "ts.fi": {
-        "epoch": 1599091200.0,
-        "expiration_date": "03-sep-2020",
+        "epoch": 1630627200.0,
+        "expiration_date": "03-sep-2021",
+        "server": "whois.fi",
         "state": "future"
     },
     "tscapeplay.com": {
