@@ -4077,8 +4077,9 @@
         "state": "future"
     },
     "bluenile.co.uk": {
-        "epoch": 1599091200.0,
-        "expiration_date": "03-sep-2020",
+        "epoch": 1630627200.0,
+        "expiration_date": "03-sep-2021",
+        "server": "whois.nic.uk",
         "state": "future"
     },
     "bluenile.com": {
@@ -7716,6 +7717,12 @@
     "diffusion-tracker.com": {
         "epoch": 1601683200.0,
         "expiration_date": "03-oct-2020",
+        "state": "future"
+    },
+    "digg.com": {
+        "epoch": 1861660800.0,
+        "expiration_date": "29-dec-2028",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "digidip.net": {
@@ -12625,10 +12632,10 @@
         "state": "future"
     },
     "hotelpricecomparison.net": {
-        "epoch": 1598918400.0,
-        "expiration_date": "01-sep-2020",
+        "epoch": 1630454400.0,
+        "expiration_date": "01-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "hotels-scanner.com": {
         "epoch": 1836259200.0,
@@ -23664,8 +23671,9 @@
         "state": "future"
     },
     "seekingalpha.com": {
-        "epoch": 1599091200.0,
-        "expiration_date": "03-sep-2020",
+        "epoch": 1630627200.0,
+        "expiration_date": "03-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "seevolution.com": {
@@ -26844,8 +26852,9 @@
         "state": "future"
     },
     "thejc.com": {
-        "epoch": 1599004800.0,
-        "expiration_date": "02-sep-2020",
+        "epoch": 1662076800.0,
+        "expiration_date": "02-sep-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "themesltd.com": {
@@ -31377,6 +31386,12 @@
     "yupptv.com": {
         "epoch": 1737676800.0,
         "expiration_date": "24-jan-2025",
+        "state": "future"
+    },
+    "yusercontent.com": {
+        "epoch": 1604448000.0,
+        "expiration_date": "04-nov-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ywywjrlbsuv.com": {
