@@ -5170,8 +5170,9 @@
         "state": "future"
     },
     "cellstores.com": {
-        "epoch": 1599436800.0,
-        "expiration_date": "07-sep-2020",
+        "epoch": 1662508800.0,
+        "expiration_date": "07-sep-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "center.io": {
@@ -11133,8 +11134,9 @@
         "state": "future"
     },
     "general-search.com": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1630886400.0,
+        "expiration_date": "06-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "geni.us": {
@@ -11710,8 +11712,9 @@
         "state": "future"
     },
     "gosanangelo.com": {
-        "epoch": 1599436800.0,
-        "expiration_date": "07-sep-2020",
+        "epoch": 1630972800.0,
+        "expiration_date": "07-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "goseek.com": {
@@ -12947,8 +12950,9 @@
         "state": "future"
     },
     "hwscdn.com": {
-        "epoch": 1599436800.0,
-        "expiration_date": "07-sep-2020",
+        "epoch": 1630972800.0,
+        "expiration_date": "07-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "hxtrack.com": {
@@ -19994,8 +19998,9 @@
         "state": "future"
     },
     "pandasecurity.com": {
-        "epoch": 1599436800.0,
-        "expiration_date": "07-sep-2020",
+        "epoch": 1630972800.0,
+        "expiration_date": "07-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "panelsave.com": {
@@ -21550,6 +21555,12 @@
         "expiration_date": "12-jan-2021",
         "state": "future"
     },
+    "pushsquare.com": {
+        "epoch": 1768435200.0,
+        "expiration_date": "15-jan-2026",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "pushwoosh.com": {
         "epoch": 1714608000.0,
         "expiration_date": "02-may-2024",
@@ -22802,8 +22813,9 @@
         "state": "future"
     },
     "rightmove.co.uk": {
-        "epoch": 1599436800.0,
-        "expiration_date": "07-sep-2020",
+        "epoch": 1630972800.0,
+        "expiration_date": "07-sep-2021",
+        "server": "whois.nic.uk",
         "state": "future"
     },
     "rightmoveanalytics.co.uk": {
@@ -24040,7 +24052,8 @@
     "sevenload.com": {
         "epoch": 1599436800.0,
         "expiration_date": "07-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "sex-flow.com": {
         "epoch": 1614124800.0,
@@ -28654,8 +28667,9 @@
         "state": "future"
     },
     "unrealmarketing.com": {
-        "epoch": 1599436800.0,
-        "expiration_date": "07-sep-2020",
+        "epoch": 1630972800.0,
+        "expiration_date": "07-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "unrulymedia.com": {
