@@ -1045,8 +1045,9 @@
         "state": "future"
     },
     "adgreed.com": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1630886400.0,
+        "expiration_date": "06-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adhslx.com": {
@@ -1070,8 +1071,9 @@
         "state": "future"
     },
     "adku.co": {
-        "epoch": 1599436800.0,
-        "expiration_date": "07-sep-2020",
+        "epoch": 1630972800.0,
+        "expiration_date": "07-sep-2021",
+        "server": "whois.nic.co",
         "state": "future"
     },
     "adku.com": {
@@ -5931,6 +5933,12 @@
         "expiration_date": "28-nov-2022",
         "state": "future"
     },
+    "coefficy.com": {
+        "epoch": 1633392000.0,
+        "expiration_date": "05-oct-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "cogmatch.net": {
         "epoch": 1625702400.0,
         "expiration_date": "08-jul-2021",
@@ -6633,7 +6641,8 @@
     "counting4free.com": {
         "epoch": 1599436800.0,
         "expiration_date": "07-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "countomat.com": {
         "epoch": 1652486400.0,
@@ -8446,8 +8455,9 @@
         "state": "future"
     },
     "eacla.com": {
-        "epoch": 1599436800.0,
-        "expiration_date": "07-sep-2020",
+        "epoch": 1630972800.0,
+        "expiration_date": "07-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "eafyfsuh.net": {
@@ -9995,6 +10005,12 @@
         "expiration_date": "06-feb-2021",
         "state": "future"
     },
+    "flexlinkspro.com": {
+        "epoch": 1629763200.0,
+        "expiration_date": "24-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "flickr.com": {
         "epoch": 1669075200.0,
         "expiration_date": "22-nov-2022",
@@ -10604,8 +10620,9 @@
         "state": "future"
     },
     "freestats.com": {
-        "epoch": 1599264000.0,
-        "expiration_date": "05-sep-2020",
+        "epoch": 1630800000.0,
+        "expiration_date": "05-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "freestats.me": {
@@ -10716,6 +10733,12 @@
     "fsd2.digital": {
         "epoch": 1650844800.0,
         "expiration_date": "25-apr-2022",
+        "state": "future"
+    },
+    "fstats.xyz": {
+        "epoch": 1613347200.0,
+        "expiration_date": "15-feb-2021",
+        "server": "whois.nic.xyz",
         "state": "future"
     },
     "fstrk.net": {
@@ -13406,8 +13429,9 @@
         "state": "future"
     },
     "inferclick.com": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1630886400.0,
+        "expiration_date": "06-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "infinigraph.com": {
@@ -13571,8 +13595,9 @@
         "state": "future"
     },
     "inpwrd.com": {
-        "epoch": 1599436800.0,
-        "expiration_date": "07-sep-2020",
+        "epoch": 1630972800.0,
+        "expiration_date": "07-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "inq.com": {
@@ -14538,8 +14563,9 @@
         "state": "future"
     },
     "jumplead.io": {
-        "epoch": 1599264000.0,
-        "expiration_date": "05-sep-2020",
+        "epoch": 1630800000.0,
+        "expiration_date": "05-sep-2021",
+        "server": "whois.nic.io",
         "state": "future"
     },
     "jumptime.com": {
@@ -17499,10 +17525,10 @@
         "state": "future"
     },
     "mousestats.com": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "mousetrace.com": {
         "epoch": 1603843200.0,
@@ -17661,8 +17687,9 @@
         "state": "future"
     },
     "mtracking.com": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1630886400.0,
+        "expiration_date": "06-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mtv.it": {
@@ -18346,7 +18373,8 @@
     "neki.org": {
         "epoch": 1599436800.0,
         "expiration_date": "07-sep-2020",
-        "state": "future"
+        "server": "whois.pir.org",
+        "state": "past"
     },
     "neko-san.fr": {
         "epoch": 1620950400.0,
@@ -20758,6 +20786,12 @@
     "pocitadlo.cz": {
         "epoch": 1603497600.0,
         "expiration_date": "24-oct-2020",
+        "state": "future"
+    },
+    "podfdch.com": {
+        "epoch": 1614902400.0,
+        "expiration_date": "05-mar-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "pointillist.com": {
