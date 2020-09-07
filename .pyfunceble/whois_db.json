@@ -5012,6 +5012,12 @@
         "expiration_date": "15-dec-2021",
         "state": "future"
     },
+    "cbsi.com": {
+        "epoch": 1626652800.0,
+        "expiration_date": "19-jul-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "cbsi.com.cn": {
         "epoch": 1617148800.0,
         "expiration_date": "31-mar-2021",
@@ -16735,8 +16741,9 @@
         "state": "future"
     },
     "mediaite.com": {
-        "epoch": 1599264000.0,
-        "expiration_date": "05-sep-2020",
+        "epoch": 1693872000.0,
+        "expiration_date": "05-sep-2023",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mediametrics.ru": {
@@ -23722,10 +23729,10 @@
         "state": "future"
     },
     "seedtag.com": {
-        "epoch": 1599177600.0,
-        "expiration_date": "04-sep-2020",
+        "epoch": 1630713600.0,
+        "expiration_date": "04-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "seehits.com": {
         "epoch": 1604448000.0,
@@ -24186,8 +24193,9 @@
         "state": "future"
     },
     "shopnetic.com": {
-        "epoch": 1599350400.0,
-        "expiration_date": "06-sep-2020",
+        "epoch": 1630886400.0,
+        "expiration_date": "06-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "shopping.com": {
