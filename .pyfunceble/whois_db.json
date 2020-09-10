@@ -830,8 +830,9 @@
         "state": "future"
     },
     "activecommerce.net": {
-        "epoch": 1599523200.0,
-        "expiration_date": "08-sep-2020",
+        "epoch": 1662595200.0,
+        "expiration_date": "08-sep-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "activeconversion.com": {
@@ -6425,6 +6426,12 @@
         "expiration_date": "10-nov-2020",
         "state": "future"
     },
+    "convertkit.com": {
+        "epoch": 1610755200.0,
+        "expiration_date": "16-jan-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "convertro.com": {
         "epoch": 1707436800.0,
         "expiration_date": "09-feb-2024",
@@ -7941,6 +7948,12 @@
     "disqus.com": {
         "epoch": 1733529600.0,
         "expiration_date": "07-dec-2024",
+        "state": "future"
+    },
+    "disquscdn.com": {
+        "epoch": 1655769600.0,
+        "expiration_date": "21-jun-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "distiltag.com": {
@@ -19649,6 +19662,12 @@
         "expiration_date": "31-jul-2021",
         "state": "future"
     },
+    "openxcdn.net": {
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "opera.com": {
         "epoch": 1618358400.0,
         "expiration_date": "14-apr-2021",
@@ -31334,8 +31353,9 @@
         "state": "future"
     },
     "yieldbird.com": {
-        "epoch": 1599609600.0,
-        "expiration_date": "09-sep-2020",
+        "epoch": 1631145600.0,
+        "expiration_date": "09-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "yieldbot.com": {
