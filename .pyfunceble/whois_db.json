@@ -804,8 +804,9 @@
         "state": "future"
     },
     "acs86.com": {
-        "epoch": 1599696000.0,
-        "expiration_date": "10-sep-2020",
+        "epoch": 1662768000.0,
+        "expiration_date": "10-sep-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "acsbap.com": {
@@ -1185,7 +1186,8 @@
     "adplusplus.fr": {
         "epoch": 1599609600.0,
         "expiration_date": "09-sep-2020",
-        "state": "future"
+        "server": "whois.nic.fr",
+        "state": "past"
     },
     "adprimemedia.com": {
         "epoch": 1627344000.0,
@@ -7694,10 +7696,10 @@
         "state": "future"
     },
     "devphp.org.ua": {
-        "epoch": 1598054400.0,
-        "expiration_date": "22-aug-2020",
+        "epoch": 1629590400.0,
+        "expiration_date": "22-aug-2021",
         "server": "whois.ua",
-        "state": "past"
+        "state": "future"
     },
     "devtribu.fr": {
         "epoch": 1622505600.0,
@@ -23819,6 +23821,12 @@
         "expiration_date": "25-oct-2020",
         "state": "future"
     },
+    "selectmedia.asia": {
+        "epoch": 1610496000.0,
+        "expiration_date": "13-jan-2021",
+        "server": "whois.nic.asia",
+        "state": "future"
+    },
     "selfcampaign.com": {
         "epoch": 1622678400.0,
         "expiration_date": "03-jun-2021",
@@ -23987,8 +23995,9 @@
         "state": "future"
     },
     "serious-partners.com": {
-        "epoch": 1599523200.0,
-        "expiration_date": "08-sep-2020",
+        "epoch": 1757289600.0,
+        "expiration_date": "08-sep-2025",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "serv-ac.com": {
@@ -25639,8 +25648,9 @@
         "state": "future"
     },
     "statcounterfree.com": {
-        "epoch": 1599609600.0,
-        "expiration_date": "09-sep-2020",
+        "epoch": 1631145600.0,
+        "expiration_date": "09-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "statdynamic.com": {
@@ -26529,8 +26539,9 @@
         "state": "future"
     },
     "tanx.com": {
-        "epoch": 1599523200.0,
-        "expiration_date": "08-sep-2020",
+        "epoch": 1662595200.0,
+        "expiration_date": "08-sep-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "taobao.com": {
@@ -27074,6 +27085,12 @@
     "thinkgeek.com": {
         "epoch": 1621209600.0,
         "expiration_date": "17-may-2021",
+        "state": "future"
+    },
+    "thinktot.com": {
+        "epoch": 1630800000.0,
+        "expiration_date": "05-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "thirdrespect.com": {
@@ -29166,8 +29183,9 @@
         "state": "future"
     },
     "verifypow.com": {
-        "epoch": 1599696000.0,
-        "expiration_date": "10-sep-2020",
+        "epoch": 1631232000.0,
+        "expiration_date": "10-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "verizonwireless.com": {
@@ -29388,8 +29406,9 @@
         "state": "future"
     },
     "vinlens.com": {
-        "epoch": 1599609600.0,
-        "expiration_date": "09-sep-2020",
+        "epoch": 1631145600.0,
+        "expiration_date": "09-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "vinub.com": {
@@ -29705,8 +29724,9 @@
         "state": "future"
     },
     "vmm-satellite2.com": {
-        "epoch": 1599696000.0,
-        "expiration_date": "10-sep-2020",
+        "epoch": 1631232000.0,
+        "expiration_date": "10-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "vmmpxl.com": {
@@ -30417,8 +30437,9 @@
         "state": "future"
     },
     "webtrendslive.com": {
-        "epoch": 1599609600.0,
-        "expiration_date": "09-sep-2020",
+        "epoch": 1631145600.0,
+        "expiration_date": "09-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "webtuna.com": {
