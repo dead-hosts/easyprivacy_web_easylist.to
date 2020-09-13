@@ -1316,8 +1316,9 @@
         "state": "future"
     },
     "adtriba.com": {
-        "epoch": 1599782400.0,
-        "expiration_date": "11-sep-2020",
+        "epoch": 1631318400.0,
+        "expiration_date": "11-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adultblogtoplist.com": {
@@ -2012,6 +2013,12 @@
     "amikay.com": {
         "epoch": 1605312000.0,
         "expiration_date": "14-nov-2020",
+        "state": "future"
+    },
+    "amlg.io": {
+        "epoch": 1600646400.0,
+        "expiration_date": "21-sep-2020",
+        "server": "whois.nic.io",
         "state": "future"
     },
     "amnet.tw": {
@@ -11861,8 +11868,9 @@
         "state": "future"
     },
     "gramombird.com": {
-        "epoch": 1599782400.0,
-        "expiration_date": "11-sep-2020",
+        "epoch": 1631318400.0,
+        "expiration_date": "11-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "granify.com": {
@@ -13622,7 +13630,8 @@
     "ingenioustech.biz": {
         "epoch": 1599955200.0,
         "expiration_date": "13-sep-2020",
-        "state": "future"
+        "server": "whois.nic.biz",
+        "state": "past"
     },
     "ininmacerad.pro": {
         "epoch": 1618704000.0,
@@ -17483,8 +17492,9 @@
         "state": "future"
     },
     "mollnia.com": {
-        "epoch": 1599868800.0,
-        "expiration_date": "12-sep-2020",
+        "epoch": 1631404800.0,
+        "expiration_date": "12-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "momently.com": {
@@ -20849,6 +20859,12 @@
     "plista.com": {
         "epoch": 1601164800.0,
         "expiration_date": "27-sep-2020",
+        "state": "future"
+    },
+    "plotrabbit.com": {
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "plug.it": {
@@ -24673,8 +24689,9 @@
         "state": "future"
     },
     "sitetagger.co.uk": {
-        "epoch": 1599782400.0,
-        "expiration_date": "11-sep-2020",
+        "epoch": 1662854400.0,
+        "expiration_date": "11-sep-2022",
+        "server": "whois.nic.uk",
         "state": "future"
     },
     "sitetistik.com": {
@@ -25558,8 +25575,9 @@
         "state": "future"
     },
     "sqate.io": {
-        "epoch": 1599868800.0,
-        "expiration_date": "12-sep-2020",
+        "epoch": 1631404800.0,
+        "expiration_date": "12-sep-2021",
+        "server": "whois.nic.io",
         "state": "future"
     },
     "squarespace.com": {
@@ -25703,8 +25721,9 @@
         "state": "future"
     },
     "stat08.com": {
-        "epoch": 1599782400.0,
-        "expiration_date": "11-sep-2020",
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "stat24.com": {
@@ -28574,8 +28593,9 @@
         "state": "future"
     },
     "tynt.com": {
-        "epoch": 1599955200.0,
-        "expiration_date": "13-sep-2020",
+        "epoch": 1631491200.0,
+        "expiration_date": "13-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "typepad.com": {
@@ -29642,7 +29662,8 @@
     "visitor-analytics.io": {
         "epoch": 1599955200.0,
         "expiration_date": "13-sep-2020",
-        "state": "future"
+        "server": "whois.nic.io",
+        "state": "past"
     },
     "visitor-analytics.net": {
         "epoch": 1612137600.0,
