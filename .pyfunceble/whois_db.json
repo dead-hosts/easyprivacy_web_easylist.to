@@ -1750,8 +1750,9 @@
         "state": "future"
     },
     "algopine.com": {
-        "epoch": 1599782400.0,
-        "expiration_date": "11-sep-2020",
+        "epoch": 1662854400.0,
+        "expiration_date": "11-sep-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aliasdmc.fr": {
@@ -4031,8 +4032,9 @@
         "state": "future"
     },
     "blogranking.net": {
-        "epoch": 1599868800.0,
-        "expiration_date": "12-sep-2020",
+        "epoch": 1631404800.0,
+        "expiration_date": "12-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "blogrankings.com": {
@@ -15780,8 +15782,9 @@
         "state": "future"
     },
     "livefyre.com": {
-        "epoch": 1599868800.0,
-        "expiration_date": "12-sep-2020",
+        "epoch": 1631404800.0,
+        "expiration_date": "12-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "livehelpnow.net": {
@@ -25655,6 +25658,12 @@
         "expiration_date": "15-jul-2022",
         "state": "future"
     },
+    "stacksocialcontent.com": {
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "stadsvc.com": {
         "epoch": 1605571200.0,
         "expiration_date": "17-nov-2020",
@@ -26928,8 +26937,9 @@
         "state": "future"
     },
     "tetigi.com": {
-        "epoch": 1599868800.0,
-        "expiration_date": "12-sep-2020",
+        "epoch": 1631404800.0,
+        "expiration_date": "12-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "tetoolbox.com": {
