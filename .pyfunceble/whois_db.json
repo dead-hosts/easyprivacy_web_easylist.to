@@ -7279,8 +7279,9 @@
         "state": "future"
     },
     "dainikbhaskar.com": {
-        "epoch": 1599782400.0,
-        "expiration_date": "11-sep-2020",
+        "epoch": 1883779200.0,
+        "expiration_date": "11-sep-2029",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "damdoor.com": {
@@ -16887,6 +16888,12 @@
     "mediego.com": {
         "epoch": 1631232000.0,
         "expiration_date": "10-sep-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "medium.com": {
+        "epoch": 1621987200.0,
+        "expiration_date": "26-may-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -29890,8 +29897,9 @@
         "state": "future"
     },
     "vodpod.com": {
-        "epoch": 1599955200.0,
-        "expiration_date": "13-sep-2020",
+        "epoch": 1694563200.0,
+        "expiration_date": "13-sep-2023",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "vogue.co.uk": {
