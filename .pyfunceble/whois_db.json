@@ -29437,6 +29437,12 @@
         "expiration_date": "02-jul-2021",
         "state": "future"
     },
+    "videomatictv.com": {
+        "epoch": 1615075200.0,
+        "expiration_date": "07-mar-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "videoplayer2.xyz": {
         "epoch": 1624147200.0,
         "expiration_date": "20-jun-2021",
@@ -29817,8 +29823,9 @@
         "state": "future"
     },
     "vizzit.se": {
-        "epoch": 1599955200.0,
-        "expiration_date": "13-sep-2020",
+        "epoch": 1631491200.0,
+        "expiration_date": "13-sep-2021",
+        "server": "whois.iis.se",
         "state": "future"
     },
     "vk.com": {
