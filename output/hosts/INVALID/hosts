@@ -25,6 +25,7 @@
 0.0.0.0 etwun.com:8080
 0.0.0.0 expedia.*
 0.0.0.0 facebook.com*
+0.0.0.0 flashx.*
 0.0.0.0 fls-*.amazon.*%
 0.0.0.0 fls-*.amazon.*&
 0.0.0.0 gismeteo.*
@@ -37,6 +38,7 @@
 0.0.0.0 kayak.*
 0.0.0.0 lcs.naver.
 0.0.0.0 linguee.com*
+0.0.0.0 log*.ku6.com
 0.0.0.0 log-*.previewnetworks.com
 0.0.0.0 logger-*.dailymotion.com
 0.0.0.0 mcdp-*.outbrain.com
@@ -47,8 +49,11 @@
 0.0.0.0 pixel.archive.
 0.0.0.0 pulsar.ebay.
 0.0.0.0 rover.ebay.
+0.0.0.0 sapo.*
+0.0.0.0 site.flashx.
 0.0.0.0 skyscanner.*
 0.0.0.0 startpage.*
+0.0.0.0 stat.*.v-56.com
 0.0.0.0 stats2.*.fdnames.com
 0.0.0.0 stats-*.p2pnow.ru
 0.0.0.0 t.delfi.
@@ -64,6 +69,7 @@
 0.0.0.0 ts.delfi.
 0.0.0.0 vice.com*
 0.0.0.0 vtnlog-*.elb.amazonaws.com
+0.0.0.0 wawacity.*
 0.0.0.0 www.google.*
 0.0.0.0 www.imdb.*
 0.0.0.0 yandex.*
