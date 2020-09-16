@@ -7498,8 +7498,9 @@
         "state": "future"
     },
     "de-ner-mi-nis4.info": {
-        "epoch": 1600128000.0,
-        "expiration_date": "15-sep-2020",
+        "epoch": 1631664000.0,
+        "expiration_date": "15-sep-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "de-nis-ner-mi-5.info": {
@@ -11669,9 +11670,10 @@
         "state": "future"
     },
     "goldoffer.online": {
-        "epoch": 1595116800.0,
-        "expiration_date": "19-jul-2020",
-        "state": "past"
+        "epoch": 1631404800.0,
+        "expiration_date": "12-sep-2021",
+        "server": "whois.nic.online",
+        "state": "future"
     },
     "goldstats.com": {
         "epoch": 1622073600.0,
@@ -18715,8 +18717,9 @@
         "state": "future"
     },
     "netupdater.info": {
-        "epoch": 1600128000.0,
-        "expiration_date": "15-sep-2020",
+        "epoch": 1631664000.0,
+        "expiration_date": "15-sep-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "netvigie.com": {
@@ -19285,8 +19288,9 @@
         "state": "future"
     },
     "oadz.com": {
-        "epoch": 1600041600.0,
-        "expiration_date": "14-sep-2020",
+        "epoch": 1631577600.0,
+        "expiration_date": "14-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "oafishobservation.com": {
@@ -20143,7 +20147,8 @@
     "panelsave.com": {
         "epoch": 1600128000.0,
         "expiration_date": "15-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "papajohns.com": {
         "epoch": 1627430400.0,
@@ -24806,8 +24811,9 @@
         "state": "future"
     },
     "sl-ct5.com": {
-        "epoch": 1600128000.0,
-        "expiration_date": "15-sep-2020",
+        "epoch": 1631664000.0,
+        "expiration_date": "15-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "sl.pt": {
@@ -25124,8 +25130,9 @@
         "state": "future"
     },
     "socialhoney.co": {
-        "epoch": 1600128000.0,
-        "expiration_date": "15-sep-2020",
+        "epoch": 1631664000.0,
+        "expiration_date": "15-sep-2021",
+        "server": "whois.nic.co",
         "state": "future"
     },
     "socialprofitmachine.com": {
@@ -25245,8 +25252,9 @@
         "state": "future"
     },
     "sometrics.com": {
-        "epoch": 1600041600.0,
-        "expiration_date": "14-sep-2020",
+        "epoch": 1631577600.0,
+        "expiration_date": "14-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "soodatmish.com": {
@@ -25461,8 +25469,9 @@
         "state": "future"
     },
     "spn-twr-14.com": {
-        "epoch": 1600128000.0,
-        "expiration_date": "15-sep-2020",
+        "epoch": 1631664000.0,
+        "expiration_date": "15-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "spn.ee": {
@@ -27159,8 +27168,9 @@
         "state": "future"
     },
     "thermstats.com": {
-        "epoch": 1600041600.0,
-        "expiration_date": "14-sep-2020",
+        "epoch": 1631577600.0,
+        "expiration_date": "14-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "thesaurus.com": {
@@ -28998,8 +29008,9 @@
         "state": "future"
     },
     "urlbrief.com": {
-        "epoch": 1600128000.0,
-        "expiration_date": "15-sep-2020",
+        "epoch": 1606953600.0,
+        "expiration_date": "03-dec-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "urlself.com": {
@@ -29133,8 +29144,9 @@
         "state": "future"
     },
     "usuarios-online.com": {
-        "epoch": 1600128000.0,
-        "expiration_date": "15-sep-2020",
+        "epoch": 1631664000.0,
+        "expiration_date": "15-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "uuxnwoevyb.com": {
@@ -29704,10 +29716,10 @@
         "state": "future"
     },
     "visitor-analytics.io": {
-        "epoch": 1599955200.0,
-        "expiration_date": "13-sep-2020",
+        "epoch": 1631491200.0,
+        "expiration_date": "13-sep-2021",
         "server": "whois.nic.io",
-        "state": "past"
+        "state": "future"
     },
     "visitor-analytics.net": {
         "epoch": 1612137600.0,
@@ -30393,7 +30405,8 @@
     "webmasterplan.com": {
         "epoch": 1600214400.0,
         "expiration_date": "16-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "webmd.com": {
         "epoch": 1680652800.0,
