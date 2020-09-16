@@ -1913,7 +1913,8 @@
     "alphasitebuilder.co.za": {
         "epoch": 1600041600.0,
         "expiration_date": "14-sep-2020",
-        "state": "future"
+        "server": "whois.registry.net.za",
+        "state": "past"
     },
     "altabold1.com": {
         "epoch": 1617235200.0,
@@ -4007,8 +4008,9 @@
         "state": "future"
     },
     "blogblog.com": {
-        "epoch": 1600128000.0,
-        "expiration_date": "15-sep-2020",
+        "epoch": 1631664000.0,
+        "expiration_date": "15-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "blogcounter.com": {
@@ -10968,8 +10970,9 @@
         "state": "future"
     },
     "fyre.co": {
-        "epoch": 1600041600.0,
-        "expiration_date": "14-sep-2020",
+        "epoch": 1631577600.0,
+        "expiration_date": "14-sep-2021",
+        "server": "whois.nic.co",
         "state": "future"
     },
     "fyreball.com": {
@@ -17935,8 +17938,9 @@
         "state": "future"
     },
     "mwstats.net": {
-        "epoch": 1600214400.0,
-        "expiration_date": "16-sep-2020",
+        "epoch": 1631750400.0,
+        "expiration_date": "16-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mxapis.com": {
@@ -19020,8 +19024,9 @@
         "state": "future"
     },
     "nokaut.link": {
-        "epoch": 1600041600.0,
-        "expiration_date": "14-sep-2020",
+        "epoch": 1631577600.0,
+        "expiration_date": "14-sep-2021",
+        "server": "whois.uniregistry.net",
         "state": "future"
     },
     "nola.com": {
