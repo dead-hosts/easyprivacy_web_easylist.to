@@ -29,6 +29,7 @@ collector*.xhamster.                                                            
 compare.easyvoyage.                                                                                  SYNTAX     XXX        2020-09-16T23:35:10.283786
 creativefactory.zalando.                                                                             SYNTAX     XXX        2020-09-16T23:35:10.455108
 datacollect*.abtasty.com                                                                             SYNTAX     XXX        2020-09-16T23:00:50.217973
+ea.laredoute.                                                                                        SYNTAX     XXX        2020-09-16T23:52:45.900687
 encrypted.google.*                                                                                   SYNTAX     XXX        2020-09-16T23:35:11.207830
 equirodi.*                                                                                           SYNTAX     XXX        2020-09-16T23:35:11.265380
 etwun.com:8080                                                                                       SYNTAX     XXX        2020-09-16T23:18:02.214206
@@ -36,6 +37,7 @@ expedia.*                                                                       
 expedia.*                                                                                            SYNTAX     XXX        2020-09-16T23:35:11.523246
 expedia.*                                                                                            SYNTAX     XXX        2020-09-16T23:35:11.528726
 facebook.com*                                                                                        SYNTAX     XXX        2020-09-16T23:00:50.657738
+flashx.*                                                                                             SYNTAX     XXX        2020-09-16T23:52:46.948874
 fls-*.amazon.*%                                                                                      SYNTAX     XXX        2020-09-16T23:35:11.916992
 fls-*.amazon.*&                                                                                      SYNTAX     XXX        2020-09-16T23:35:11.922843
 gismeteo.*                                                                                           SYNTAX     XXX        2020-09-16T23:35:12.530686
@@ -57,6 +59,7 @@ kayak.*                                                                         
 kayak.*                                                                                              SYNTAX     XXX        2020-09-16T23:35:13.720298
 lcs.naver.                                                                                           SYNTAX     XXX        2020-09-16T23:35:13.876204
 linguee.com*                                                                                         SYNTAX     XXX        2020-09-16T23:35:13.947045
+log*.ku6.com                                                                                         SYNTAX     XXX        2020-09-16T23:52:51.136641
 log-*.previewnetworks.com                                                                            SYNTAX     XXX        2020-09-16T23:00:51.815855
 logger-*.dailymotion.com                                                                             SYNTAX     XXX        2020-09-16T23:35:14.144372
 mcdp-*.outbrain.com                                                                                  SYNTAX     XXX        2020-09-16T23:00:52.088892
@@ -65,12 +68,15 @@ metro-trending-*.amazonaws.com                                                  
 pixel.archive.                                                                                       SYNTAX     XXX        2020-09-16T23:35:16.472165
 pulsar.ebay.                                                                                         SYNTAX     XXX        2020-09-16T23:35:16.873074
 rover.ebay.                                                                                          SYNTAX     XXX        2020-09-16T23:35:17.436809
+sapo.*                                                                                               SYNTAX     XXX        2020-09-16T23:52:53.908472
+site.flashx.                                                                                         SYNTAX     XXX        2020-09-16T23:52:46.964511
 skyscanner.*                                                                                         SYNTAX     XXX        2020-09-16T23:35:18.109340
 skyscanner.*                                                                                         SYNTAX     XXX        2020-09-16T23:35:18.122114
 startpage.*                                                                                          SYNTAX     XXX        2020-09-16T23:35:19.174436
 startpage.*                                                                                          SYNTAX     XXX        2020-09-16T23:35:19.181217
 startpage.*                                                                                          SYNTAX     XXX        2020-09-16T23:35:19.188193
 startpage.*                                                                                          SYNTAX     XXX        2020-09-16T23:35:19.195171
+stat.*.v-56.com                                                                                      SYNTAX     XXX        2020-09-16T23:52:51.615118
 stats2.*.fdnames.com                                                                                 SYNTAX     XXX        2020-09-16T23:18:03.024399
 stats-*.p2pnow.ru                                                                                    SYNTAX     XXX        2020-09-16T23:18:04.025456
 t.delfi.                                                                                             SYNTAX     XXX        2020-09-16T23:35:19.859255
@@ -87,6 +93,7 @@ ts.delfi.                                                                       
 vice.com*                                                                                            SYNTAX     XXX        2020-09-16T23:35:21.882303
 vice.com*                                                                                            SYNTAX     XXX        2020-09-16T23:35:21.889385
 vtnlog-*.elb.amazonaws.com                                                                           SYNTAX     XXX        2020-09-16T23:17:59.897830
+wawacity.*                                                                                           SYNTAX     XXX        2020-09-16T23:52:50.407653
 www.google.*                                                                                         SYNTAX     XXX        2020-09-16T23:35:22.809240
 www.imdb.*                                                                                           SYNTAX     XXX        2020-09-16T23:35:22.816731
 yandex.*                                                                                             SYNTAX     XXX        2020-09-16T23:18:00.192309
