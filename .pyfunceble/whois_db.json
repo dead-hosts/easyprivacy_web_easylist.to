@@ -9196,8 +9196,9 @@
         "state": "future"
     },
     "etonline.com": {
-        "epoch": 1600041600.0,
-        "expiration_date": "14-sep-2020",
+        "epoch": 1663113600.0,
+        "expiration_date": "14-sep-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "etoro.com": {
@@ -9704,8 +9705,9 @@
         "state": "future"
     },
     "fantom-xp.org": {
-        "epoch": 1600041600.0,
-        "expiration_date": "14-sep-2020",
+        "epoch": 1631577600.0,
+        "expiration_date": "14-sep-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "farecompare.com": {
@@ -16774,8 +16776,9 @@
         "state": "future"
     },
     "mealime.com": {
-        "epoch": 1600214400.0,
-        "expiration_date": "16-sep-2020",
+        "epoch": 1631750400.0,
+        "expiration_date": "16-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "measure.ly": {
@@ -18222,8 +18225,9 @@
         "state": "future"
     },
     "n26.com": {
-        "epoch": 1600214400.0,
-        "expiration_date": "16-sep-2020",
+        "epoch": 1631750400.0,
+        "expiration_date": "16-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "n74s9.com": {
@@ -20730,8 +20734,9 @@
         "state": "future"
     },
     "pixazza.com": {
-        "epoch": 1600214400.0,
-        "expiration_date": "16-sep-2020",
+        "epoch": 1631750400.0,
+        "expiration_date": "16-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "pixel.watch": {
@@ -32069,8 +32074,9 @@
         "state": "past"
     },
     "zytpirwai.net": {
-        "epoch": 1600041600.0,
-        "expiration_date": "14-sep-2020",
+        "epoch": 1631577600.0,
+        "expiration_date": "14-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     }
 }
