@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202009131601
+! Version: 202009162108
 ! Title: EasyPrivacy
-! Last modified: 13 Sep 2020 16:01 UTC
+! Last modified: 16 Sep 2020 21:08 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1510,7 +1510,7 @@
 /CreateCookieSSO_
 /CreateVIDCookie.aspx?
 /creative.png?slotId=
-/criteo.$domain=~criteo.investorroom.com
+/criteo.$domain=~criteo.blotout.io|~criteo.investorroom.com
 /Criteo/*
 /criteo_
 /criteoRTA.
@@ -2055,6 +2055,7 @@
 /gemiusAudience.
 /generictracking.
 /geo-ip-detect?
+/geo-location/v1
 /geo.php?
 /geoAnalysis.js
 /geocc.$domain=~geocc.ru
@@ -4539,7 +4540,6 @@
 /TrackingHandler.
 /trackingheader.
 /trackingImpression/*
-/trackingOnload-
 /trackingp.gif
 /trackingPixel.
 /TrackingPixel/*
@@ -5122,7 +5122,7 @@
 ://tracker.*/pageview
 ://tracking.*/beacon/
 ://tracking.*/tr.js
-://utm.$domain=~utm.arc.nasa.gov|~utm.edu|~utm.io|~utm.md|~utoronto.ca
+://utm.$domain=~utm.arc.nasa.gov|~utm.edu|~utm.io|~utm.md|~utm.pansa.pl|~utoronto.ca
 ;1x1inv=
 ;manifest-analytics.js
 ;sz=1x1;ord=
@@ -5329,6 +5329,9 @@ _xiti_js-
 _zag_cookie.
 cgi-bin/counter
 ||meetrics.netbb-
+! DNS checks
+/DNSCheck.js
+/DNSChecker.js
 ! hawkeye
 /hawk.js
 /hawkeye.js
@@ -10974,7 +10977,6 @@ _mongo_stats/
 ||livefyre.com/tracking/
 ||livefyre.com^*/tracker.js
 ||livefyre.com^*/tracking/
-||livehelpnow.net/lhn/handler/$image
 ||livehelpnow.net/lhn/jsutil/getinvitationmessage.aspx?
 ||liverail.com/?metric=
 ||liverail.com/track/?
@@ -13343,6 +13345,7 @@ _mongo_stats/
 ||customerservicejobs.com/common/track/
 ||cyberlink.com/analytics/
 ||d.ghostery.com^
+||d3f5l8ze0o4j2m.cloudfront.net^$script,domain=trademe.co.nz
 ||da.virginmedia.com^
 ||dabs.com/AbacusTest/clientinfo_bk.gif
 ||dailymail.co.uk/geo/
@@ -13483,6 +13486,7 @@ _mongo_stats/
 ||etui.fs.ml.com^
 ||eu.groupondata.com^
 ||ev.kck.st^
+||event-api.reverb.com^
 ||event-collector.udsrv.com^
 ||event-reporting-dot-webylytics.appspot.com^
 ||eventlog.jackpot.de^
@@ -14910,6 +14914,7 @@ _mongo_stats/
 ||talktalk.co.uk^*/log.html
 ||talktalk.co.uk^*/tracking/
 ||target.com/ci/$script
+||target.microsoft.com^$xmlhttprequest
 ||target.nejm.org^
 ||targetspot.com/track/
 ||tarot.com/stats/
@@ -15392,6 +15397,7 @@ _mongo_stats/
 ||youtube.com/ptracking?
 ||youtube.com/s?
 ||youtube.com/set_awesome?
+||youtube.com^*/heartbeat?
 ||ypcdn.com/webyp/javascripts/client_side_analytics_
 ||yuku.com/stats?
 ||yupptv.com/yupptvreports/stats.php^
@@ -15423,8 +15429,8 @@ _mongo_stats/
 ! Bing
 ||bing.com/fd/ls/l?IG=
 ||bing.com/fd/ls/lsp.aspx
-||bing.com^*/glinkping.aspx
-||bing.com^*/GLinkPingPost.aspx
+||bing.com^*/glinkping.aspx$ping,xmlhttprequest
+||bing.com^*/GLinkPingPost.aspx$ping,xmlhttprequest
 ! Aliexpress
 ||aliyuncs.com/r.png
 ||gj.mmstat.com^
@@ -15435,7 +15441,7 @@ _mongo_stats/
 /^https?:\/\/nav\.sciencedirect\.com\/[a-zA-Z0-9]{14,}\.js/$script,domain=sciencedirect.com
 /^https?:\/\/pov\.spectrum\.net\/[a-zA-Z0-9]{14,}\.js/$script,domain=spectrum.net
 /^https?:\/\/tmx\.td\.com\/[a-z0-9]{14,18}\.js.*/$script,domain=mbna.ca|td.com
-||127.0.0.1^$third-party,websocket,domain=~127.0.0.1|~localhost
+||127.0.0.1^$third-party,domain=ameriprise.com|beachbody.com|chick-fil-a.com|citi.com|ebay.at|ebay.be|ebay.ca|ebay.ch|ebay.cn|ebay.co.uk|ebay.com|ebay.com.au|ebay.com.hk|ebay.com.my|ebay.com.sg|ebay.de|ebay.es|ebay.fr|ebay.ie|ebay.it|ebay.nl|ebay.ph|ebay.pl|equifax.com|gumtree.com|lendup.com|mbna.ca|sciencedirect.com|sky.com|spectrum.net|td.com|tiaa.org|vedacheck.com|wepay.com
 ||ebay.com/nkfytkqtoxtljvzb.js$script,domain=ebay.com
 ||ebay.com/nkfytkqtoxtljvzbxhr.js$script,domain=ebay.com
 ||ebaystatic.com^*/10341xh50yz21mhhydueu4m5wad.js$script,domain=ebay.com
@@ -17872,7 +17878,6 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ! 
 ! ---------- Portuguese ----------
 ! 
-@@||127.0.0.1^$websocket,domain=sicredi.com.br
 @@||77.91.202.130/js/20050/xiti.js$domain=custojusto.pt
 @@||adobedtm.com^*/satelliteLib-$script,domain=crackle.com.br|laredoute.pt
 @@||chiptec.net/skin/*/GoogleAnalyticsPlus/$script
