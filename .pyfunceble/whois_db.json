@@ -1657,8 +1657,9 @@
         "state": "future"
     },
     "akamaihd.net": {
-        "epoch": 1600041600.0,
-        "expiration_date": "14-sep-2020",
+        "epoch": 1663113600.0,
+        "expiration_date": "14-sep-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "akamaized.net": {
@@ -25314,8 +25315,9 @@
         "state": "future"
     },
     "southafricahome.com": {
-        "epoch": 1600128000.0,
-        "expiration_date": "15-sep-2020",
+        "epoch": 1631664000.0,
+        "expiration_date": "15-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "sovereignbank.com": {
@@ -28782,8 +28784,9 @@
         "state": "future"
     },
     "ulogin.ru": {
-        "epoch": 1600214400.0,
-        "expiration_date": "16-sep-2020",
+        "epoch": 1631750400.0,
+        "expiration_date": "16-sep-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "ultimatebootcd.com": {
@@ -30132,8 +30135,9 @@
         "state": "future"
     },
     "wallkit.net": {
-        "epoch": 1600041600.0,
-        "expiration_date": "14-sep-2020",
+        "epoch": 1631577600.0,
+        "expiration_date": "14-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "wallpaperstock.net": {
@@ -30686,10 +30690,10 @@
         "state": "future"
     },
     "wee.dk": {
-        "epoch": 1598832000.0,
-        "expiration_date": "31-aug-2020",
+        "epoch": 1756598400.0,
+        "expiration_date": "31-aug-2025",
         "server": "whois.dk-hostmaster.dk",
-        "state": "past"
+        "state": "future"
     },
     "weeklyblitz.net": {
         "epoch": 1695686400.0,
