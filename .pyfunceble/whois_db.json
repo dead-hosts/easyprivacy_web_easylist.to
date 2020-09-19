@@ -6193,8 +6193,9 @@
         "state": "future"
     },
     "competitoor.com": {
-        "epoch": 1600300800.0,
-        "expiration_date": "17-sep-2020",
+        "epoch": 1631836800.0,
+        "expiration_date": "17-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "complextoad.com": {
@@ -11830,8 +11831,9 @@
         "state": "future"
     },
     "gostats.pl": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "gostats.ro": {
@@ -12925,8 +12927,9 @@
         "state": "future"
     },
     "hsforms.com": {
-        "epoch": 1600387200.0,
-        "expiration_date": "18-sep-2020",
+        "epoch": 1663459200.0,
+        "expiration_date": "18-sep-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "hsn.com": {
@@ -14504,6 +14507,12 @@
     "jeeng.com": {
         "epoch": 1796256000.0,
         "expiration_date": "03-dec-2026",
+        "state": "future"
+    },
+    "jerkmate.com": {
+        "epoch": 1760572800.0,
+        "expiration_date": "16-oct-2025",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "jessops.com": {
@@ -19200,8 +19209,9 @@
         "state": "future"
     },
     "nsdsvc.com": {
-        "epoch": 1600300800.0,
-        "expiration_date": "17-sep-2020",
+        "epoch": 1607212800.0,
+        "expiration_date": "06-dec-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "nspmotion.com": {
