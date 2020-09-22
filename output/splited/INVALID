@@ -5,6 +5,7 @@ Subject                                                                         
 meetrics.netbb-                                                                                      SYNTAX     XXX        2020-09-22T22:27:28.046811
 minero-proxy-*.sh                                                                                    SYNTAX     XXX        2020-09-22T22:44:43.409515
 activity.*.miui.com                                                                                  SYNTAX     XXX        2020-09-22T23:01:52.380062
+aff*.kolektiva.net                                                                                   SYNTAX     XXX        2020-09-22T23:19:10.413223
 analytics-beacon-*.amazonaws.com                                                                     SYNTAX     XXX        2020-09-22T23:01:52.652891
 bc.geocities.                                                                                        SYNTAX     XXX        2020-09-22T23:01:53.285334
 bin.clearspring.*                                                                                    SYNTAX     XXX        2020-09-22T23:01:53.390961
@@ -16,9 +17,16 @@ collect.*.miui.com                                                              
 collector-*.elb.amazonaws.com                                                                        SYNTAX     XXX        2020-09-22T23:01:54.243373
 collector-*.tvsquared.com                                                                            SYNTAX     XXX        2020-09-22T23:01:54.247004
 datacollect*.abtasty.com                                                                             SYNTAX     XXX        2020-09-22T23:01:54.886717
+etwun.com:8080                                                                                       SYNTAX     XXX        2020-09-22T23:19:10.572051
 facebook.com*                                                                                        SYNTAX     XXX        2020-09-22T23:01:55.380633
 hits-*.iubenda.com                                                                                   SYNTAX     XXX        2020-09-22T23:01:56.000984
 log-*.previewnetworks.com                                                                            SYNTAX     XXX        2020-09-22T23:01:56.735056
 mcdp-*.outbrain.com                                                                                  SYNTAX     XXX        2020-09-22T23:01:57.019524
 metro-trending-*.amazonaws.com                                                                       SYNTAX     XXX        2020-09-22T23:01:57.144618
+stats2.*.fdnames.com                                                                                 SYNTAX     XXX        2020-09-22T23:19:11.359976
+targeting.*.arcpublishing.com                                                                        SYNTAX     XXX        2020-09-22T23:19:06.919134
+tracker.twenga.                                                                                      SYNTAX     XXX        2020-09-22T23:19:07.387305
+tracking.*.miui.com                                                                                  SYNTAX     XXX        2020-09-22T23:19:07.418936
 tracking*.euroads.fi                                                                                 SYNTAX     XXX        2020-09-22T23:01:50.665582
+vtnlog-*.elb.amazonaws.com                                                                           SYNTAX     XXX        2020-09-22T23:19:08.278066
+yandex.*                                                                                             SYNTAX     XXX        2020-09-22T23:19:08.608756

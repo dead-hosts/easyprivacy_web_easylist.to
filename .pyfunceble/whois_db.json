@@ -24484,8 +24484,9 @@
         "state": "future"
     },
     "shofonline.org": {
-        "epoch": 1600560000.0,
-        "expiration_date": "20-sep-2020",
+        "epoch": 1607558400.0,
+        "expiration_date": "10-dec-2020",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "shopautoweek.com": {
@@ -28759,8 +28760,9 @@
         "state": "future"
     },
     "twimg.com": {
-        "epoch": 1600732800.0,
-        "expiration_date": "22-sep-2020",
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "twitch.tv": {
@@ -30934,6 +30936,12 @@
     "whoisvisiting.com": {
         "epoch": 1617235200.0,
         "expiration_date": "01-apr-2021",
+        "state": "future"
+    },
+    "whooshkaa.com": {
+        "epoch": 1611792000.0,
+        "expiration_date": "28-jan-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "whosclickingwho.com": {
