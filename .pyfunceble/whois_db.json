@@ -4654,8 +4654,9 @@
         "state": "future"
     },
     "byteoversea.com": {
-        "epoch": 1600560000.0,
-        "expiration_date": "20-sep-2020",
+        "epoch": 1663632000.0,
+        "expiration_date": "20-sep-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "bzgint.com": {
@@ -7926,8 +7927,9 @@
         "state": "future"
     },
     "directcrm.ru": {
-        "epoch": 1600646400.0,
-        "expiration_date": "21-sep-2020",
+        "epoch": 1632182400.0,
+        "expiration_date": "21-sep-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "directnews.co.uk": {
@@ -8282,8 +8284,9 @@
         "state": "future"
     },
     "dreamhost.com": {
-        "epoch": 1600732800.0,
-        "expiration_date": "22-sep-2020",
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "drift.com": {
@@ -9609,8 +9612,9 @@
         "state": "future"
     },
     "f-counter.net": {
-        "epoch": 1600646400.0,
-        "expiration_date": "21-sep-2020",
+        "epoch": 1632182400.0,
+        "expiration_date": "21-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "f-secure.com": {
@@ -10990,8 +10994,9 @@
         "state": "future"
     },
     "fwix.com": {
-        "epoch": 1600560000.0,
-        "expiration_date": "20-sep-2020",
+        "epoch": 1632096000.0,
+        "expiration_date": "20-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "fwmrm.net": {
@@ -14518,8 +14523,9 @@
         "state": "future"
     },
     "jangomail.com": {
-        "epoch": 1600560000.0,
-        "expiration_date": "20-sep-2020",
+        "epoch": 1632096000.0,
+        "expiration_date": "20-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "janrain.xyz": {
