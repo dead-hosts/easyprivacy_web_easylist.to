@@ -2020,8 +2020,8 @@
         "state": "future"
     },
     "amlg.io": {
-        "epoch": 1600646400.0,
-        "expiration_date": "21-sep-2020",
+        "epoch": 1632182400.0,
+        "expiration_date": "21-sep-2021",
         "server": "whois.nic.io",
         "state": "future"
     },
@@ -2325,8 +2325,9 @@
         "state": "past"
     },
     "anybest.site": {
-        "epoch": 1600473600.0,
-        "expiration_date": "19-sep-2020",
+        "epoch": 1608249600.0,
+        "expiration_date": "18-dec-2020",
+        "server": "whois.nic.site",
         "state": "future"
     },
     "anybest.space": {
@@ -4445,7 +4446,8 @@
     "brominer.com": {
         "epoch": 1600732800.0,
         "expiration_date": "22-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "bronto.com": {
         "epoch": 1603238400.0,
@@ -4463,8 +4465,9 @@
         "state": "future"
     },
     "browsermine.com": {
-        "epoch": 1600646400.0,
-        "expiration_date": "21-sep-2020",
+        "epoch": 1632182400.0,
+        "expiration_date": "21-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "browserpusher.com": {
@@ -17140,7 +17143,8 @@
     "metalyzer.com": {
         "epoch": 1600732800.0,
         "expiration_date": "22-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "meteor.com": {
         "epoch": 1677801600.0,
@@ -18629,8 +18633,9 @@
         "state": "future"
     },
     "ner-de-mi-nis-6.info": {
-        "epoch": 1600560000.0,
-        "expiration_date": "20-sep-2020",
+        "epoch": 1607040000.0,
+        "expiration_date": "04-dec-2020",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "nerfherdersolo.com": {
@@ -21782,8 +21787,9 @@
         "state": "future"
     },
     "pushbullet.com": {
-        "epoch": 1600732800.0,
-        "expiration_date": "22-sep-2020",
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "pushdom.co": {
@@ -25205,6 +25211,12 @@
         "expiration_date": "24-jun-2021",
         "state": "future"
     },
+    "sni-dat.com": {
+        "epoch": 1628553600.0,
+        "expiration_date": "10-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "sniperlog.ru": {
         "epoch": 1616284800.0,
         "expiration_date": "21-mar-2021",
@@ -26840,8 +26852,9 @@
         "state": "future"
     },
     "taplytics.com": {
-        "epoch": 1600646400.0,
-        "expiration_date": "21-sep-2020",
+        "epoch": 1632182400.0,
+        "expiration_date": "21-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "taps.io": {
@@ -28036,8 +28049,9 @@
         "state": "future"
     },
     "trackmethod.com": {
-        "epoch": 1600732800.0,
-        "expiration_date": "22-sep-2020",
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "trackmytarget.com": {
@@ -28999,6 +29013,12 @@
     "universaltrackingcontainer.com": {
         "epoch": 1611532800.0,
         "expiration_date": "25-jan-2021",
+        "state": "future"
+    },
+    "unknowncrate.com": {
+        "epoch": 1630800000.0,
+        "expiration_date": "05-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "unknowntray.com": {
@@ -31478,8 +31498,9 @@
         "state": "future"
     },
     "xmrpool.net": {
-        "epoch": 1600732800.0,
-        "expiration_date": "22-sep-2020",
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "xn--e1aaipcdgnfsn.su": {
@@ -31877,6 +31898,12 @@
     "yxdown.com": {
         "epoch": 1714176000.0,
         "expiration_date": "27-apr-2024",
+        "state": "future"
+    },
+    "yyjvimo.com": {
+        "epoch": 1614902400.0,
+        "expiration_date": "05-mar-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "yyv.co": {
