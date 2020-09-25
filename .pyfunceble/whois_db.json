@@ -3101,8 +3101,9 @@
         "state": "future"
     },
     "aviva.co.uk": {
-        "epoch": 1600905600.0,
-        "expiration_date": "24-sep-2020",
+        "epoch": 1632441600.0,
+        "expiration_date": "24-sep-2021",
+        "server": "whois.nic.uk",
         "state": "future"
     },
     "avmws.com": {
@@ -20399,8 +20400,9 @@
         "state": "future"
     },
     "pckeeper.com": {
-        "epoch": 1600819200.0,
-        "expiration_date": "23-sep-2020",
+        "epoch": 1632355200.0,
+        "expiration_date": "23-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "pclicks.com": {
@@ -22237,8 +22239,9 @@
         "state": "future"
     },
     "ralphlauren.com": {
-        "epoch": 1600905600.0,
-        "expiration_date": "24-sep-2020",
+        "epoch": 1632441600.0,
+        "expiration_date": "24-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ralphlauren.fr": {
@@ -23154,8 +23157,9 @@
         "state": "future"
     },
     "rightstuf.com": {
-        "epoch": 1600819200.0,
-        "expiration_date": "23-sep-2020",
+        "epoch": 1632355200.0,
+        "expiration_date": "23-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ringcentral.com": {
@@ -27938,8 +27942,9 @@
         "state": "future"
     },
     "tqn.com": {
-        "epoch": 1600992000.0,
-        "expiration_date": "25-sep-2020",
+        "epoch": 1664064000.0,
+        "expiration_date": "25-sep-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "tracc.it": {
@@ -29639,7 +29644,8 @@
     "vg247.com": {
         "epoch": 1600992000.0,
         "expiration_date": "25-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "vi-serve.com": {
         "epoch": 1626048000.0,

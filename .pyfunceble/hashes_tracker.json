@@ -1,13 +1,13 @@
 {
     "/home/travis/build/dead-hosts/easyprivacy_web_easylist.to/domains.list": {
         "base": {
-            "datetime_iso": "2020-09-25T23:06:32.659214",
-            "hash": "6eb6059c965750e34f9231f5862a494b3fb4f72230052c974660457d"
+            "datetime_iso": "2020-09-25T23:23:47.215823",
+            "hash": "d22055bf9f9ac0ac17765aca70f43c320c10062d78c8e51fb022ce63"
         },
         "latest": {
-            "datetime_iso": "2020-09-25T23:06:32.659214",
-            "hash": "6eb6059c965750e34f9231f5862a494b3fb4f72230052c974660457d"
+            "datetime_iso": "2020-09-25T23:23:47.215823",
+            "hash": "d22055bf9f9ac0ac17765aca70f43c320c10062d78c8e51fb022ce63"
         },
-        "position": 20502
+        "position": 33921
     }
 }
