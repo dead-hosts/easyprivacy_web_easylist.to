@@ -1162,8 +1162,9 @@
         "state": "future"
     },
     "adop.cc": {
-        "epoch": 1600992000.0,
-        "expiration_date": "25-sep-2020",
+        "epoch": 1695600000.0,
+        "expiration_date": "25-sep-2023",
+        "server": "ccwhois.verisign-grs.com",
         "state": "future"
     },
     "adoric-om.com": {
@@ -4449,10 +4450,10 @@
         "state": "future"
     },
     "brominer.com": {
-        "epoch": 1600732800.0,
-        "expiration_date": "22-sep-2020",
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "bronto.com": {
         "epoch": 1603238400.0,
@@ -5851,8 +5852,9 @@
         "state": "future"
     },
     "cloudcoins.co": {
-        "epoch": 1600992000.0,
-        "expiration_date": "25-sep-2020",
+        "epoch": 1632528000.0,
+        "expiration_date": "25-sep-2021",
+        "server": "whois.nic.co",
         "state": "future"
     },
     "cloudflane.com": {
@@ -6039,8 +6041,9 @@
         "state": "future"
     },
     "coin-have.com": {
-        "epoch": 1600819200.0,
-        "expiration_date": "23-sep-2020",
+        "epoch": 1632355200.0,
+        "expiration_date": "23-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "coin-hive.com": {
@@ -6069,8 +6072,9 @@
         "state": "future"
     },
     "coinerra.com": {
-        "epoch": 1600992000.0,
-        "expiration_date": "25-sep-2020",
+        "epoch": 1632528000.0,
+        "expiration_date": "25-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "coinhive-manager.com": {
@@ -10644,7 +10648,8 @@
     "freecounter.it": {
         "epoch": 1600819200.0,
         "expiration_date": "23-sep-2020",
-        "state": "future"
+        "server": "whois.nic.it",
+        "state": "past"
     },
     "freecounter.ovh": {
         "epoch": 1603238400.0,
@@ -10996,6 +11001,12 @@
     "fuziontech.net": {
         "epoch": 1618185600.0,
         "expiration_date": "12-apr-2021",
+        "state": "future"
+    },
+    "fuzzybasketball.com": {
+        "epoch": 1612656000.0,
+        "expiration_date": "07-feb-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "fwcdn1.com": {
@@ -15496,8 +15507,9 @@
         "state": "future"
     },
     "leadium.com": {
-        "epoch": 1600819200.0,
-        "expiration_date": "23-sep-2020",
+        "epoch": 1632355200.0,
+        "expiration_date": "23-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "leadlab.click": {
@@ -17167,10 +17179,10 @@
         "state": "future"
     },
     "metalyzer.com": {
-        "epoch": 1600732800.0,
-        "expiration_date": "22-sep-2020",
+        "epoch": 1632268800.0,
+        "expiration_date": "22-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "meteor.com": {
         "epoch": 1677801600.0,
@@ -17375,8 +17387,9 @@
         "state": "future"
     },
     "mineralt.io": {
-        "epoch": 1600992000.0,
-        "expiration_date": "25-sep-2020",
+        "epoch": 1632528000.0,
+        "expiration_date": "25-sep-2021",
+        "server": "whois.nic.io",
         "state": "future"
     },
     "minero.cc": {
@@ -17653,8 +17666,9 @@
         "state": "future"
     },
     "monero-miner.com": {
-        "epoch": 1600819200.0,
-        "expiration_date": "23-sep-2020",
+        "epoch": 1632355200.0,
+        "expiration_date": "23-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "monerominer.rocks": {
@@ -18951,8 +18965,9 @@
         "state": "future"
     },
     "nexioniect.com": {
-        "epoch": 1600992000.0,
-        "expiration_date": "25-sep-2020",
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "nexon.net": {
