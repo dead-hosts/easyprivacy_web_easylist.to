@@ -5470,7 +5470,8 @@
     "cinemafacil.com": {
         "epoch": 1600992000.0,
         "expiration_date": "25-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "cint.com": {
         "epoch": 1618617600.0,
