@@ -1447,8 +1447,9 @@
         "state": "future"
     },
     "affilired.com": {
-        "epoch": 1600819200.0,
-        "expiration_date": "23-sep-2020",
+        "epoch": 1632355200.0,
+        "expiration_date": "23-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "affilizr.com": {
@@ -15883,8 +15884,9 @@
         "state": "past"
     },
     "live-partner.com": {
-        "epoch": 1600992000.0,
-        "expiration_date": "25-sep-2020",
+        "epoch": 1632528000.0,
+        "expiration_date": "25-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "live.com": {
@@ -21578,7 +21580,8 @@
     "propelplus.com": {
         "epoch": 1600992000.0,
         "expiration_date": "25-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "properm.ru": {
         "epoch": 1622592000.0,
@@ -21876,8 +21879,9 @@
         "state": "future"
     },
     "pussy.org": {
-        "epoch": 1600905600.0,
-        "expiration_date": "24-sep-2020",
+        "epoch": 1632441600.0,
+        "expiration_date": "24-sep-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "putags.com": {
@@ -28973,6 +28977,12 @@
     "uknetguide.co.uk": {
         "epoch": 1601856000.0,
         "expiration_date": "05-oct-2020",
+        "state": "future"
+    },
+    "ulclick.ru": {
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "ulogin.ru": {
