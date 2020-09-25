@@ -1060,8 +1060,9 @@
         "state": "future"
     },
     "adidas.com": {
-        "epoch": 1600905600.0,
-        "expiration_date": "24-sep-2020",
+        "epoch": 1632441600.0,
+        "expiration_date": "24-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adinsight.co.kr": {
@@ -30453,8 +30454,9 @@
         "state": "future"
     },
     "weather.ca": {
-        "epoch": 1600992000.0,
-        "expiration_date": "25-sep-2020",
+        "epoch": 1632528000.0,
+        "expiration_date": "25-sep-2021",
+        "server": "whois.cira.ca",
         "state": "future"
     },
     "weather.com": {
