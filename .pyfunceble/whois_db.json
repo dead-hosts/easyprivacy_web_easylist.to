@@ -8617,7 +8617,8 @@
     "eage.it": {
         "epoch": 1601078400.0,
         "expiration_date": "26-sep-2020",
-        "state": "future"
+        "server": "whois.nic.it",
+        "state": "past"
     },
     "early-birds.fr": {
         "epoch": 1603670400.0,
