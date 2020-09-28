@@ -5497,10 +5497,10 @@
         "state": "future"
     },
     "cinemafacil.com": {
-        "epoch": 1600992000.0,
-        "expiration_date": "25-sep-2020",
+        "epoch": 1632528000.0,
+        "expiration_date": "25-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "cint.com": {
         "epoch": 1618617600.0,
@@ -8031,8 +8031,9 @@
         "state": "future"
     },
     "disneylandparis.fr": {
-        "epoch": 1601164800.0,
-        "expiration_date": "27-sep-2020",
+        "epoch": 1632700800.0,
+        "expiration_date": "27-sep-2021",
+        "server": "whois.nic.fr",
         "state": "future"
     },
     "display.studio": {
@@ -29844,8 +29845,9 @@
         "state": "future"
     },
     "videovalis.tv": {
-        "epoch": 1601251200.0,
-        "expiration_date": "28-sep-2020",
+        "epoch": 1632787200.0,
+        "expiration_date": "28-sep-2021",
+        "server": "tvwhois.verisign-grs.com",
         "state": "future"
     },
     "vidigital.ru": {
