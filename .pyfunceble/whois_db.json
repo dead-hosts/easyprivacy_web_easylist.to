@@ -2757,6 +2757,12 @@
         "expiration_date": "21-nov-2024",
         "state": "future"
     },
+    "atcdn.co.uk": {
+        "epoch": 1772582400.0,
+        "expiration_date": "04-mar-2026",
+        "server": "whois.nic.uk",
+        "state": "future"
+    },
     "atdmt.com": {
         "epoch": 1629158400.0,
         "expiration_date": "17-aug-2021",
@@ -5592,8 +5598,9 @@
         "state": "future"
     },
     "clearspring.com": {
-        "epoch": 1601251200.0,
-        "expiration_date": "28-sep-2020",
+        "epoch": 1632787200.0,
+        "expiration_date": "28-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "cleveritics.com": {
@@ -6376,8 +6383,9 @@
         "state": "future"
     },
     "contadorgratis.com": {
-        "epoch": 1601251200.0,
-        "expiration_date": "28-sep-2020",
+        "epoch": 1632787200.0,
+        "expiration_date": "28-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "contadorvisitasgratis.com": {
@@ -8552,7 +8560,8 @@
     "e-kaiseki.com": {
         "epoch": 1601251200.0,
         "expiration_date": "28-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "e-kuzbass.ru": {
         "epoch": 1611792000.0,
@@ -19542,8 +19551,9 @@
         "state": "future"
     },
     "oevery.com": {
-        "epoch": 1601164800.0,
-        "expiration_date": "27-sep-2020",
+        "epoch": 1632700800.0,
+        "expiration_date": "27-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "offermatica.com": {
@@ -21081,8 +21091,9 @@
         "state": "future"
     },
     "plista.com": {
-        "epoch": 1601164800.0,
-        "expiration_date": "27-sep-2020",
+        "epoch": 1632700800.0,
+        "expiration_date": "27-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "plotrabbit.com": {
@@ -21627,10 +21638,10 @@
         "state": "future"
     },
     "propelplus.com": {
-        "epoch": 1600992000.0,
-        "expiration_date": "25-sep-2020",
+        "epoch": 1632528000.0,
+        "expiration_date": "25-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "properm.ru": {
         "epoch": 1622592000.0,
@@ -23670,8 +23681,9 @@
         "state": "future"
     },
     "sail-horizon.com": {
-        "epoch": 1601164800.0,
-        "expiration_date": "27-sep-2020",
+        "epoch": 1632700800.0,
+        "expiration_date": "27-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "sailthru.com": {
@@ -30730,8 +30742,9 @@
         "state": "future"
     },
     "webmeter.ws": {
-        "epoch": 1601164800.0,
-        "expiration_date": "27-sep-2020",
+        "epoch": 1632700800.0,
+        "expiration_date": "27-sep-2021",
+        "server": "whois.website.ws",
         "state": "future"
     },
     "webmine.cz": {
@@ -30936,8 +30949,9 @@
         "state": "future"
     },
     "webturn.ru": {
-        "epoch": 1601251200.0,
-        "expiration_date": "28-sep-2020",
+        "epoch": 1632787200.0,
+        "expiration_date": "28-sep-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "webtutoriaux.com": {
