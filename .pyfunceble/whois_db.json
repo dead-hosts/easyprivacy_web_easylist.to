@@ -2493,8 +2493,9 @@
         "state": "future"
     },
     "appn.center": {
-        "epoch": 1601251200.0,
-        "expiration_date": "28-sep-2020",
+        "epoch": 1632787200.0,
+        "expiration_date": "28-sep-2021",
+        "server": "whois.nic.center",
         "state": "future"
     },
     "appsflyer.com": {
@@ -2876,6 +2877,12 @@
     "audienceiq.com": {
         "epoch": 1641945600.0,
         "expiration_date": "12-jan-2022",
+        "state": "future"
+    },
+    "audiencepixel.com": {
+        "epoch": 1630800000.0,
+        "expiration_date": "05-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "audiencerate.com": {
@@ -3537,7 +3544,8 @@
     "beencounter.com": {
         "epoch": 1601251200.0,
         "expiration_date": "28-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "beenetworks.net": {
         "epoch": 1605052800.0,
@@ -3560,8 +3568,9 @@
         "state": "future"
     },
     "belstat.com": {
-        "epoch": 1601164800.0,
-        "expiration_date": "27-sep-2020",
+        "epoch": 1632700800.0,
+        "expiration_date": "27-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "belstat.fr": {
@@ -4199,6 +4208,12 @@
     "bnpparibas.fr": {
         "epoch": 1603584000.0,
         "expiration_date": "25-oct-2020",
+        "state": "future"
+    },
+    "bnqt.com": {
+        "epoch": 1614729600.0,
+        "expiration_date": "03-mar-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "bntech.io": {
@@ -5343,8 +5358,9 @@
         "state": "future"
     },
     "chartbeat.net": {
-        "epoch": 1601078400.0,
-        "expiration_date": "26-sep-2020",
+        "epoch": 1632614400.0,
+        "expiration_date": "26-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "charter.com": {
@@ -6669,8 +6685,9 @@
         "state": "future"
     },
     "counterbot.com": {
-        "epoch": 1601164800.0,
-        "expiration_date": "27-sep-2020",
+        "epoch": 1632700800.0,
+        "expiration_date": "27-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "countercentral.com": {
@@ -7109,10 +7126,10 @@
         "state": "future"
     },
     "cttracking02.com": {
-        "epoch": 1600992000.0,
-        "expiration_date": "25-sep-2020",
+        "epoch": 1632528000.0,
+        "expiration_date": "25-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "cubchannel.com": {
         "epoch": 1602115200.0,
@@ -10726,10 +10743,10 @@
         "state": "future"
     },
     "freeonlineusers.com": {
-        "epoch": 1600992000.0,
-        "expiration_date": "25-sep-2020",
+        "epoch": 1632528000.0,
+        "expiration_date": "25-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "freepik.com": {
         "epoch": 1628035200.0,
@@ -12191,8 +12208,9 @@
         "state": "future"
     },
     "h4k5.com": {
-        "epoch": 1601078400.0,
-        "expiration_date": "26-sep-2020",
+        "epoch": 1632614400.0,
+        "expiration_date": "26-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "haberler.com": {
@@ -13051,8 +13069,9 @@
         "state": "future"
     },
     "hubvisor.io": {
-        "epoch": 1601251200.0,
-        "expiration_date": "28-sep-2020",
+        "epoch": 1822089600.0,
+        "expiration_date": "28-sep-2027",
+        "server": "whois.nic.io",
         "state": "future"
     },
     "hudb.pl": {
@@ -13488,10 +13507,10 @@
         "state": "future"
     },
     "immanalytics.com": {
-        "epoch": 1600992000.0,
-        "expiration_date": "25-sep-2020",
+        "epoch": 1632528000.0,
+        "expiration_date": "25-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "immensehoney.com": {
         "epoch": 1629158400.0,
@@ -16271,8 +16290,9 @@
         "state": "future"
     },
     "lpbeta.com": {
-        "epoch": 1601251200.0,
-        "expiration_date": "28-sep-2020",
+        "epoch": 1632787200.0,
+        "expiration_date": "28-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "lporirxe.com": {
@@ -17609,6 +17629,12 @@
         "expiration_date": "06-feb-2021",
         "state": "future"
     },
+    "mobee.xyz": {
+        "epoch": 1633392000.0,
+        "expiration_date": "05-oct-2021",
+        "server": "whois.nic.xyz",
+        "state": "future"
+    },
     "mobtop.ru": {
         "epoch": 1618444800.0,
         "expiration_date": "15-apr-2021",
@@ -18533,8 +18559,9 @@
         "state": "future"
     },
     "navilytics.com": {
-        "epoch": 1601251200.0,
-        "expiration_date": "28-sep-2020",
+        "epoch": 1632787200.0,
+        "expiration_date": "28-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "navlink.com": {
@@ -21212,8 +21239,9 @@
         "state": "future"
     },
     "populr.me": {
-        "epoch": 1601251200.0,
-        "expiration_date": "28-sep-2020",
+        "epoch": 1632787200.0,
+        "expiration_date": "28-sep-2021",
+        "server": "whois.nic.me",
         "state": "future"
     },
     "popupmaker.com": {
