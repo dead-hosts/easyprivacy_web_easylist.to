@@ -3141,6 +3141,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "awarealley.com": {
+        "epoch": 1611964800.0,
+        "expiration_date": "30-jan-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "awasete.com": {
         "epoch": 1621641600.0,
         "expiration_date": "22-may-2021",
@@ -8067,6 +8073,12 @@
         "expiration_date": "19-aug-2021",
         "state": "future"
     },
+    "distributiontomatoes.com": {
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "districtm.io": {
         "epoch": 1615680000.0,
         "expiration_date": "14-mar-2021",
@@ -9965,8 +9977,9 @@
         "state": "future"
     },
     "feraciumus.com": {
-        "epoch": 1601164800.0,
-        "expiration_date": "27-sep-2020",
+        "epoch": 1632700800.0,
+        "expiration_date": "27-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ferank.fr": {
@@ -10582,8 +10595,9 @@
         "state": "future"
     },
     "free-counters.net": {
-        "epoch": 1601164800.0,
-        "expiration_date": "27-sep-2020",
+        "epoch": 1632700800.0,
+        "expiration_date": "27-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "free-tv-video-online.me": {
@@ -12292,7 +12306,8 @@
     "hashforcash.us": {
         "epoch": 1601251200.0,
         "expiration_date": "28-sep-2020",
-        "state": "future"
+        "server": "whois.nic.us",
+        "state": "past"
     },
     "hashing.win": {
         "epoch": 1607558400.0,
@@ -14520,8 +14535,9 @@
         "state": "future"
     },
     "iyi.net": {
-        "epoch": 1601251200.0,
-        "expiration_date": "28-sep-2020",
+        "epoch": 1632787200.0,
+        "expiration_date": "28-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "iyisayfa.net": {
@@ -21372,7 +21388,8 @@
     "pr-chart.com": {
         "epoch": 1601251200.0,
         "expiration_date": "28-sep-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "pr-update.biz": {
         "epoch": 1571097600.0,
@@ -21877,6 +21894,12 @@
     "pushengage.com": {
         "epoch": 1631750400.0,
         "expiration_date": "16-sep-2021",
+        "state": "future"
+    },
+    "pusher.com": {
+        "epoch": 1717286400.0,
+        "expiration_date": "02-jun-2024",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "pushex.io": {
@@ -24333,8 +24356,9 @@
         "state": "future"
     },
     "serie-vostfr.com": {
-        "epoch": 1601078400.0,
-        "expiration_date": "26-sep-2020",
+        "epoch": 1632614400.0,
+        "expiration_date": "26-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "serious-partners.com": {
@@ -25857,6 +25881,12 @@
         "expiration_date": "07-jan-2022",
         "state": "future"
     },
+    "squealingturn.com": {
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "squidanalytics.com": {
         "epoch": 1627689600.0,
         "expiration_date": "31-jul-2021",
@@ -25956,6 +25986,12 @@
     "stargame.com": {
         "epoch": 1671321600.0,
         "expiration_date": "18-dec-2022",
+        "state": "future"
+    },
+    "startsmajesty.com": {
+        "epoch": 1631664000.0,
+        "expiration_date": "15-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "startstat.ru": {
@@ -26913,6 +26949,12 @@
         "expiration_date": "07-jan-2022",
         "state": "future"
     },
+    "tangibleteam.com": {
+        "epoch": 1633392000.0,
+        "expiration_date": "05-oct-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "tantifilm.top": {
         "epoch": 1612396800.0,
         "expiration_date": "04-feb-2021",
@@ -27157,8 +27199,9 @@
         "state": "future"
     },
     "tentaculos.net": {
-        "epoch": 1601078400.0,
-        "expiration_date": "26-sep-2020",
+        "epoch": 1632614400.0,
+        "expiration_date": "26-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "terabytemedia.com": {
@@ -28018,8 +28061,9 @@
         "state": "future"
     },
     "traceworks.com": {
-        "epoch": 1601164800.0,
-        "expiration_date": "27-sep-2020",
+        "epoch": 1632700800.0,
+        "expiration_date": "27-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "track-re01.com": {
@@ -28556,8 +28600,9 @@
         "state": "future"
     },
     "tru.am": {
-        "epoch": 1601251200.0,
-        "expiration_date": "28-sep-2020",
+        "epoch": 1632787200.0,
+        "expiration_date": "28-sep-2021",
+        "server": "whois.amnic.net",
         "state": "future"
     },
     "truconversion.com": {
@@ -28657,8 +28702,9 @@
         "state": "future"
     },
     "tscounter.com": {
-        "epoch": 1601078400.0,
-        "expiration_date": "26-sep-2020",
+        "epoch": 1632614400.0,
+        "expiration_date": "26-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "tsk4.com": {
@@ -29284,6 +29330,12 @@
         "expiration_date": "06-oct-2020",
         "state": "future"
     },
+    "usablenet.com": {
+        "epoch": 1634774400.0,
+        "expiration_date": "21-oct-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "usefathom.com": {
         "epoch": 1618444800.0,
         "expiration_date": "15-apr-2021",
@@ -29361,8 +29413,9 @@
         "state": "future"
     },
     "userreport.com": {
-        "epoch": 1601164800.0,
-        "expiration_date": "27-sep-2020",
+        "epoch": 1632700800.0,
+        "expiration_date": "27-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "users-api.com": {
@@ -30977,6 +31030,12 @@
     "wetpaint.com": {
         "epoch": 1621814400.0,
         "expiration_date": "24-may-2021",
+        "state": "future"
+    },
+    "wgsas.com": {
+        "epoch": 1651104000.0,
+        "expiration_date": "28-apr-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "whackedmedia.com": {
