@@ -231,8 +231,9 @@
         "state": "future"
     },
     "2o7.net": {
-        "epoch": 1601337600.0,
-        "expiration_date": "29-sep-2020",
+        "epoch": 1632873600.0,
+        "expiration_date": "29-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "2parale.ro": {
@@ -251,8 +252,9 @@
         "state": "future"
     },
     "33across.com": {
-        "epoch": 1601337600.0,
-        "expiration_date": "29-sep-2020",
+        "epoch": 1664409600.0,
+        "expiration_date": "29-sep-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "360.cn": {
@@ -3437,8 +3439,9 @@
         "state": "future"
     },
     "baynote.net": {
-        "epoch": 1601337600.0,
-        "expiration_date": "29-sep-2020",
+        "epoch": 1664409600.0,
+        "expiration_date": "29-sep-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "baywttgdhe.download": {
@@ -3554,10 +3557,10 @@
         "state": "future"
     },
     "beencounter.com": {
-        "epoch": 1601251200.0,
-        "expiration_date": "28-sep-2020",
+        "epoch": 1632787200.0,
+        "expiration_date": "28-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "beenetworks.net": {
         "epoch": 1605052800.0,
@@ -6748,8 +6751,9 @@
         "state": "future"
     },
     "counterviews.net": {
-        "epoch": 1601424000.0,
-        "expiration_date": "30-sep-2020",
+        "epoch": 1632960000.0,
+        "expiration_date": "30-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "counthis.com": {
@@ -7433,6 +7437,12 @@
         "expiration_date": "07-apr-2023",
         "state": "future"
     },
+    "datadsk.com": {
+        "epoch": 1618358400.0,
+        "expiration_date": "14-apr-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "datafeedfile.com": {
         "epoch": 1615075200.0,
         "expiration_date": "07-mar-2021",
@@ -7475,8 +7485,9 @@
         "state": "future"
     },
     "dataxpand.com": {
-        "epoch": 1601510400.0,
-        "expiration_date": "01-oct-2020",
+        "epoch": 1633046400.0,
+        "expiration_date": "01-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "datehookup.com": {
@@ -8787,8 +8798,9 @@
         "state": "future"
     },
     "edigitalsurvey.com": {
-        "epoch": 1601424000.0,
-        "expiration_date": "30-sep-2020",
+        "epoch": 1632960000.0,
+        "expiration_date": "30-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "editeurjavascript.com": {
@@ -11154,6 +11166,12 @@
         "server": "whois.nic.co",
         "state": "future"
     },
+    "g4159771035.co": {
+        "epoch": 1623110400.0,
+        "expiration_date": "08-jun-2021",
+        "server": "whois.nic.co",
+        "state": "future"
+    },
     "gaconnector.com": {
         "epoch": 1800403200.0,
         "expiration_date": "20-jan-2027",
@@ -12713,8 +12731,9 @@
         "state": "future"
     },
     "hlserve.com": {
-        "epoch": 1601337600.0,
-        "expiration_date": "29-sep-2020",
+        "epoch": 1632873600.0,
+        "expiration_date": "29-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "hmstats.com": {
@@ -22859,8 +22878,9 @@
         "state": "future"
     },
     "remarketingpixel.com": {
-        "epoch": 1601337600.0,
-        "expiration_date": "29-sep-2020",
+        "epoch": 1632873600.0,
+        "expiration_date": "29-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "remarketstats.com": {
@@ -23390,8 +23410,9 @@
         "state": "future"
     },
     "roiservice.com": {
-        "epoch": 1601510400.0,
-        "expiration_date": "01-oct-2020",
+        "epoch": 1633046400.0,
+        "expiration_date": "01-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "roispy.com": {
