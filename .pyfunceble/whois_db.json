@@ -31005,8 +31005,9 @@
         "state": "future"
     },
     "webtutoriaux.com": {
-        "epoch": 1601424000.0,
-        "expiration_date": "30-sep-2020",
+        "epoch": 1632960000.0,
+        "expiration_date": "30-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "webutation.net": {
@@ -32221,8 +32222,9 @@
         "state": "future"
     },
     "zdcommerce.io": {
-        "epoch": 1601424000.0,
-        "expiration_date": "30-sep-2020",
+        "epoch": 1632960000.0,
+        "expiration_date": "30-sep-2021",
+        "server": "whois.nic.io",
         "state": "future"
     },
     "zdnet.com": {
