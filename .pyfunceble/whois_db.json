@@ -1182,8 +1182,9 @@
         "state": "future"
     },
     "adpick.co.kr": {
-        "epoch": 1601510400.0,
-        "expiration_date": "01-oct-2020",
+        "epoch": 1664582400.0,
+        "expiration_date": "01-oct-2022",
+        "server": "whois.kr",
         "state": "future"
     },
     "adpies.com": {
@@ -3637,7 +3638,8 @@
     "best-top.ro": {
         "epoch": 1601337600.0,
         "expiration_date": "29-sep-2020",
-        "state": "future"
+        "server": "whois.rotld.ro",
+        "state": "past"
     },
     "bestcoinsignals.com": {
         "epoch": 1584489600.0,
@@ -4246,7 +4248,8 @@
     "bobparsons.com": {
         "epoch": 1601510400.0,
         "expiration_date": "01-oct-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "boilingbeetle.com": {
         "epoch": 1603238400.0,
@@ -8574,10 +8577,10 @@
         "state": "future"
     },
     "e-kaiseki.com": {
-        "epoch": 1601251200.0,
-        "expiration_date": "28-sep-2020",
+        "epoch": 1632787200.0,
+        "expiration_date": "28-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "e-kuzbass.ru": {
         "epoch": 1611792000.0,
@@ -17998,8 +18001,9 @@
         "state": "future"
     },
     "msecnd.net": {
-        "epoch": 1601337600.0,
-        "expiration_date": "29-sep-2020",
+        "epoch": 1632873600.0,
+        "expiration_date": "29-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "msecure108.com": {
@@ -20784,8 +20788,9 @@
         "state": "future"
     },
     "photobox.com": {
-        "epoch": 1601424000.0,
-        "expiration_date": "30-sep-2020",
+        "epoch": 1632960000.0,
+        "expiration_date": "30-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "photobucket.com": {
@@ -24742,8 +24747,9 @@
         "state": "future"
     },
     "sifomedia.se": {
-        "epoch": 1601337600.0,
-        "expiration_date": "29-sep-2020",
+        "epoch": 1632873600.0,
+        "expiration_date": "29-sep-2021",
+        "server": "whois.iis.se",
         "state": "future"
     },
     "sift.com": {
@@ -25260,8 +25266,9 @@
         "state": "future"
     },
     "smartnews-ads.com": {
-        "epoch": 1601510400.0,
-        "expiration_date": "01-oct-2020",
+        "epoch": 1633046400.0,
+        "expiration_date": "01-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "smartocto.com": {
@@ -31577,8 +31584,9 @@
         "state": "future"
     },
     "wwgate.ru": {
-        "epoch": 1601424000.0,
-        "expiration_date": "30-sep-2020",
+        "epoch": 1632960000.0,
+        "expiration_date": "30-sep-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "www-path.com": {
