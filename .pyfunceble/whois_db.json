@@ -1130,8 +1130,9 @@
         "state": "future"
     },
     "admo.tv": {
-        "epoch": 1601424000.0,
-        "expiration_date": "30-sep-2020",
+        "epoch": 1632960000.0,
+        "expiration_date": "30-sep-2021",
+        "server": "tvwhois.verisign-grs.com",
         "state": "future"
     },
     "admother.com": {
@@ -6160,8 +6161,9 @@
         "state": "future"
     },
     "coinnebula.com": {
-        "epoch": 1601337600.0,
-        "expiration_date": "29-sep-2020",
+        "epoch": 1632873600.0,
+        "expiration_date": "29-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "coinpot.co": {
@@ -17753,8 +17755,9 @@
         "state": "future"
     },
     "monerominer.rocks": {
-        "epoch": 1601337600.0,
-        "expiration_date": "29-sep-2020",
+        "epoch": 1632873600.0,
+        "expiration_date": "29-sep-2021",
+        "server": "whois.nic.rocks",
         "state": "future"
     },
     "moneromining.online": {
@@ -18652,7 +18655,8 @@
     "ncom.dk": {
         "epoch": 1601424000.0,
         "expiration_date": "30-sep-2020",
-        "state": "future"
+        "server": "whois.dk-hostmaster.dk",
+        "state": "past"
     },
     "ncsoft.com": {
         "epoch": 1628553600.0,
@@ -18881,7 +18885,8 @@
     "netminers.dk": {
         "epoch": 1601424000.0,
         "expiration_date": "30-sep-2020",
-        "state": "future"
+        "server": "whois.dk-hostmaster.dk",
+        "state": "past"
     },
     "netmining.com": {
         "epoch": 1641427200.0,
@@ -20379,8 +20384,9 @@
         "state": "future"
     },
     "parameter.dk": {
-        "epoch": 1601424000.0,
-        "expiration_date": "30-sep-2020",
+        "epoch": 1632960000.0,
+        "expiration_date": "30-sep-2021",
+        "server": "whois.dk-hostmaster.dk",
         "state": "future"
     },
     "parcelcreature.com": {
@@ -21422,10 +21428,10 @@
         "state": "future"
     },
     "pr-chart.com": {
-        "epoch": 1601251200.0,
-        "expiration_date": "28-sep-2020",
+        "epoch": 1632787200.0,
+        "expiration_date": "28-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "pr-update.biz": {
         "epoch": 1571097600.0,
@@ -22364,8 +22370,9 @@
         "state": "future"
     },
     "rank-power.com": {
-        "epoch": 1601337600.0,
-        "expiration_date": "29-sep-2020",
+        "epoch": 1632873600.0,
+        "expiration_date": "29-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "rankingpartner.com": {
@@ -25609,8 +25616,9 @@
         "state": "future"
     },
     "sp-prod.net": {
-        "epoch": 1601424000.0,
-        "expiration_date": "30-sep-2020",
+        "epoch": 1632960000.0,
+        "expiration_date": "30-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "spacehits.net": {
@@ -28595,8 +28603,9 @@
         "state": "future"
     },
     "trkn.us": {
-        "epoch": 1601424000.0,
-        "expiration_date": "30-sep-2020",
+        "epoch": 1664496000.0,
+        "expiration_date": "30-sep-2022",
+        "server": "whois.nic.us",
         "state": "future"
     },
     "trksrv44.com": {
@@ -31649,6 +31658,12 @@
         "expiration_date": "12-dec-2020",
         "state": "future"
     },
+    "xdisctracking.pw": {
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
+        "server": "whois.nic.pw",
+        "state": "future"
+    },
     "xfast.host": {
         "epoch": 1640822400.0,
         "expiration_date": "30-dec-2021",
@@ -31997,6 +32012,12 @@
         "expiration_date": "10-dec-2021",
         "state": "future"
     },
+    "youboranqs02.com": {
+        "epoch": 1606608000.0,
+        "expiration_date": "29-nov-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "youdao.com": {
         "epoch": 1623715200.0,
         "expiration_date": "15-jun-2021",
@@ -32073,8 +32094,9 @@
         "state": "future"
     },
     "yu987.com": {
-        "epoch": 1601510400.0,
-        "expiration_date": "01-oct-2020",
+        "epoch": 1633046400.0,
+        "expiration_date": "01-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "yuebofa.cc": {
