@@ -17192,10 +17192,10 @@
         "state": "future"
     },
     "merchantcircle.com": {
-        "epoch": 1601251200.0,
-        "expiration_date": "28-sep-2020",
+        "epoch": 1632787200.0,
+        "expiration_date": "28-sep-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "merchenta.com": {
         "epoch": 1630713600.0,
@@ -18511,8 +18511,9 @@
         "state": "future"
     },
     "naplesnews.com": {
-        "epoch": 1601510400.0,
-        "expiration_date": "01-oct-2020",
+        "epoch": 1633046400.0,
+        "expiration_date": "01-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "naptol.com": {
@@ -27452,8 +27453,9 @@
         "state": "future"
     },
     "theintercept.com": {
-        "epoch": 1601510400.0,
-        "expiration_date": "01-oct-2020",
+        "epoch": 1633046400.0,
+        "expiration_date": "01-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "thejc.com": {
