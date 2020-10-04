@@ -2288,8 +2288,9 @@
         "state": "future"
     },
     "anti-cheat.info": {
-        "epoch": 1601683200.0,
-        "expiration_date": "03-oct-2020",
+        "epoch": 1633219200.0,
+        "expiration_date": "03-oct-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "antiblock.info": {
@@ -7660,8 +7661,9 @@
         "state": "future"
     },
     "deepattention.com": {
-        "epoch": 1601683200.0,
-        "expiration_date": "03-oct-2020",
+        "epoch": 1633219200.0,
+        "expiration_date": "03-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "deepc.cc": {
@@ -7881,8 +7883,9 @@
         "state": "future"
     },
     "diffusion-tracker.com": {
-        "epoch": 1601683200.0,
-        "expiration_date": "03-oct-2020",
+        "epoch": 1633219200.0,
+        "expiration_date": "03-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "digg.com": {
@@ -9098,8 +9101,9 @@
         "state": "future"
     },
     "engine64.com": {
-        "epoch": 1601596800.0,
-        "expiration_date": "02-oct-2020",
+        "epoch": 1633132800.0,
+        "expiration_date": "02-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "enhance.com": {
@@ -9310,8 +9314,9 @@
         "state": "future"
     },
     "etp-prod.com": {
-        "epoch": 1601683200.0,
-        "expiration_date": "03-oct-2020",
+        "epoch": 1633219200.0,
+        "expiration_date": "03-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "etracker.com": {
@@ -9704,8 +9709,9 @@
         "state": "future"
     },
     "f92j5.com": {
-        "epoch": 1601683200.0,
-        "expiration_date": "03-oct-2020",
+        "epoch": 1633219200.0,
+        "expiration_date": "03-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "fabricww.com": {
@@ -11998,8 +12004,9 @@
         "state": "future"
     },
     "govmetric.com": {
-        "epoch": 1601769600.0,
-        "expiration_date": "04-oct-2020",
+        "epoch": 1633305600.0,
+        "expiration_date": "04-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "gowatchit.com": {
@@ -13078,8 +13085,9 @@
         "state": "future"
     },
     "htlbid.com": {
-        "epoch": 1601683200.0,
-        "expiration_date": "03-oct-2020",
+        "epoch": 1664755200.0,
+        "expiration_date": "03-oct-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "httdev.it": {
@@ -13629,8 +13637,9 @@
         "state": "future"
     },
     "imtwjwoasak.com": {
-        "epoch": 1601596800.0,
-        "expiration_date": "02-oct-2020",
+        "epoch": 1633132800.0,
+        "expiration_date": "02-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "inaudium.com": {
@@ -14386,8 +14395,9 @@
         "state": "future"
     },
     "iqdata.ai": {
-        "epoch": 1601683200.0,
-        "expiration_date": "03-oct-2020",
+        "epoch": 1664755200.0,
+        "expiration_date": "03-oct-2022",
+        "server": "whois.nic.ai",
         "state": "future"
     },
     "iqfp1.com": {
@@ -16200,8 +16210,9 @@
         "state": "future"
     },
     "loginfra.com": {
-        "epoch": 1601596800.0,
-        "expiration_date": "02-oct-2020",
+        "epoch": 1633132800.0,
+        "expiration_date": "02-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "loginhood.io": {
@@ -16295,8 +16306,9 @@
         "state": "future"
     },
     "loopfuse.net": {
-        "epoch": 1601769600.0,
-        "expiration_date": "04-oct-2020",
+        "epoch": 1633305600.0,
+        "expiration_date": "04-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "lopley.com": {
@@ -16520,6 +16532,12 @@
     "m-t.io": {
         "epoch": 1624406400.0,
         "expiration_date": "23-jun-2021",
+        "state": "future"
+    },
+    "m0mentum.net": {
+        "epoch": 1613520000.0,
+        "expiration_date": "17-feb-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "m1ll1c4n0.com": {
@@ -18441,8 +18459,9 @@
         "state": "future"
     },
     "n74s9.com": {
-        "epoch": 1601683200.0,
-        "expiration_date": "03-oct-2020",
+        "epoch": 1633219200.0,
+        "expiration_date": "03-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "naayna.com": {
@@ -19398,8 +19417,9 @@
         "state": "future"
     },
     "nstracking.com": {
-        "epoch": 1601683200.0,
-        "expiration_date": "03-oct-2020",
+        "epoch": 1633219200.0,
+        "expiration_date": "03-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ntlab.org": {
@@ -20184,7 +20204,8 @@
     "ournet-analytics.com": {
         "epoch": 1601769600.0,
         "expiration_date": "04-oct-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "outbid.io": {
         "epoch": 1612828800.0,
@@ -21237,6 +21258,12 @@
         "expiration_date": "18-apr-2021",
         "state": "future"
     },
+    "polarbyte.com": {
+        "epoch": 1610928000.0,
+        "expiration_date": "18-jan-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "polarcdn-pentos.com": {
         "epoch": 1618790400.0,
         "expiration_date": "19-apr-2021",
@@ -22111,7 +22138,8 @@
     "qlfsat.co.uk": {
         "epoch": 1601683200.0,
         "expiration_date": "03-oct-2020",
-        "state": "future"
+        "server": "whois.nic.uk",
+        "state": "past"
     },
     "qlitics.com": {
         "epoch": 1628121600.0,
@@ -23226,6 +23254,12 @@
     "richard-group.com": {
         "epoch": 1656633600.0,
         "expiration_date": "01-jul-2022",
+        "state": "future"
+    },
+    "richaudience.com": {
+        "epoch": 1699228800.0,
+        "expiration_date": "06-nov-2023",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "richmetrics.com": {
