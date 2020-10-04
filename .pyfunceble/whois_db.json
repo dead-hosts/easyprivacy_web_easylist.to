@@ -3279,8 +3279,9 @@
         "state": "future"
     },
     "bablace.com": {
-        "epoch": 1601683200.0,
-        "expiration_date": "03-oct-2020",
+        "epoch": 1633219200.0,
+        "expiration_date": "03-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "babyblog.ru": {
@@ -3632,8 +3633,9 @@
         "state": "future"
     },
     "besstahete.info": {
-        "epoch": 1601596800.0,
-        "expiration_date": "02-oct-2020",
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "best-top.ro": {
@@ -3704,8 +3706,9 @@
         "state": "future"
     },
     "bewaslac.com": {
-        "epoch": 1601683200.0,
-        "expiration_date": "03-oct-2020",
+        "epoch": 1633219200.0,
+        "expiration_date": "03-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "beyond.com": {
@@ -6582,8 +6585,9 @@
         "state": "future"
     },
     "copush.com": {
-        "epoch": 1601683200.0,
-        "expiration_date": "03-oct-2020",
+        "epoch": 1633219200.0,
+        "expiration_date": "03-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "copycarpenter.com": {
@@ -7062,8 +7066,9 @@
         "state": "future"
     },
     "crypto-loot.com": {
-        "epoch": 1601769600.0,
-        "expiration_date": "04-oct-2020",
+        "epoch": 1633305600.0,
+        "expiration_date": "04-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "crypto-pool.fr": {
@@ -14786,7 +14791,8 @@
     "jquery-cdn.download": {
         "epoch": 1601769600.0,
         "expiration_date": "04-oct-2020",
-        "state": "future"
+        "server": "whois.nic.download",
+        "state": "past"
     },
     "jqwww.download": {
         "epoch": 1585440000.0,
@@ -22843,8 +22849,9 @@
         "state": "future"
     },
     "refinedads.com": {
-        "epoch": 1601596800.0,
-        "expiration_date": "02-oct-2020",
+        "epoch": 1664668800.0,
+        "expiration_date": "02-oct-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "refinery29.com": {
@@ -24859,8 +24866,9 @@
         "state": "future"
     },
     "simpleheatmaps.com": {
-        "epoch": 1601769600.0,
-        "expiration_date": "04-oct-2020",
+        "epoch": 1633305600.0,
+        "expiration_date": "04-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "simplehitcounter.com": {
@@ -27367,8 +27375,9 @@
         "state": "future"
     },
     "tglyr.co": {
-        "epoch": 1601596800.0,
-        "expiration_date": "02-oct-2020",
+        "epoch": 1633132800.0,
+        "expiration_date": "02-oct-2021",
+        "server": "whois.nic.co",
         "state": "future"
     },
     "tgtag.io": {
@@ -28117,10 +28126,10 @@
         "state": "future"
     },
     "tracc.it": {
-        "epoch": 1596931200.0,
-        "expiration_date": "09-aug-2020",
+        "epoch": 1633305600.0,
+        "expiration_date": "04-oct-2021",
         "server": "whois.nic.it",
-        "state": "past"
+        "state": "future"
     },
     "tracdelight.com": {
         "epoch": 1618704000.0,
@@ -30835,8 +30844,9 @@
         "state": "future"
     },
     "webmine.cz": {
-        "epoch": 1601683200.0,
-        "expiration_date": "03-oct-2020",
+        "epoch": 1633219200.0,
+        "expiration_date": "03-oct-2021",
+        "server": "whois.nic.cz",
         "state": "future"
     },
     "webmine.pro": {
@@ -30990,8 +31000,9 @@
         "state": "future"
     },
     "webtraffiq.com": {
-        "epoch": 1601769600.0,
-        "expiration_date": "04-oct-2020",
+        "epoch": 1633305600.0,
+        "expiration_date": "04-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "webtraxs.com": {
@@ -32188,8 +32199,9 @@
         "state": "future"
     },
     "z444o.com": {
-        "epoch": 1601683200.0,
-        "expiration_date": "03-oct-2020",
+        "epoch": 1633219200.0,
+        "expiration_date": "03-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "zaehler.tv": {
