@@ -29858,8 +29858,9 @@
         "state": "future"
     },
     "vesti.ru": {
-        "epoch": 1601596800.0,
-        "expiration_date": "02-oct-2020",
+        "epoch": 1633132800.0,
+        "expiration_date": "02-oct-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "vevo.com": {
