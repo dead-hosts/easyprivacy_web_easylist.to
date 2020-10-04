@@ -530,7 +530,8 @@
     "a-counter.kiev.ua": {
         "epoch": 1601769600.0,
         "expiration_date": "04-oct-2020",
-        "state": "future"
+        "server": "whois.ua",
+        "state": "past"
     },
     "a-counters.com": {
         "epoch": 1605830400.0,
@@ -4250,10 +4251,10 @@
         "state": "future"
     },
     "bobparsons.com": {
-        "epoch": 1601510400.0,
-        "expiration_date": "01-oct-2020",
+        "epoch": 1633046400.0,
+        "expiration_date": "01-oct-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "boilingbeetle.com": {
         "epoch": 1603238400.0,
@@ -4362,8 +4363,9 @@
         "state": "future"
     },
     "brandcdn.com": {
-        "epoch": 1601769600.0,
-        "expiration_date": "04-oct-2020",
+        "epoch": 1633305600.0,
+        "expiration_date": "04-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "brandlock.io": {
@@ -7307,8 +7309,9 @@
         "state": "future"
     },
     "d-stats.com": {
-        "epoch": 1601683200.0,
-        "expiration_date": "03-oct-2020",
+        "epoch": 1633219200.0,
+        "expiration_date": "03-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "d2-apps.net": {
@@ -8952,7 +8955,8 @@
     "els-cdn.com": {
         "epoch": 1601769600.0,
         "expiration_date": "04-oct-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "elsevier.com": {
         "epoch": 1625097600.0,
@@ -9197,8 +9201,9 @@
         "state": "future"
     },
     "epromote.co.za": {
-        "epoch": 1601769600.0,
-        "expiration_date": "04-oct-2020",
+        "epoch": 1633305600.0,
+        "expiration_date": "04-oct-2021",
+        "server": "whois.registry.net.za",
         "state": "future"
     },
     "eproof.com": {
@@ -13259,8 +13264,9 @@
         "state": "future"
     },
     "i22lo.com": {
-        "epoch": 1601683200.0,
-        "expiration_date": "03-oct-2020",
+        "epoch": 1633219200.0,
+        "expiration_date": "03-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "i365.com": {
@@ -16038,6 +16044,12 @@
         "expiration_date": "15-apr-2021",
         "state": "future"
     },
+    "livelyvideo.tv": {
+        "epoch": 1621209600.0,
+        "expiration_date": "17-may-2021",
+        "server": "tvwhois.verisign-grs.com",
+        "state": "future"
+    },
     "liveperson.net": {
         "epoch": 1610582400.0,
         "expiration_date": "14-jan-2021",
@@ -17034,6 +17046,12 @@
     "mebablo.com": {
         "epoch": 1623715200.0,
         "expiration_date": "15-jun-2021",
+        "state": "future"
+    },
+    "medallia.com": {
+        "epoch": 1624838400.0,
+        "expiration_date": "28-jun-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "media-imdb.com": {
@@ -18047,8 +18065,9 @@
         "state": "future"
     },
     "mshcdn.com": {
-        "epoch": 1601683200.0,
-        "expiration_date": "03-oct-2020",
+        "epoch": 1633219200.0,
+        "expiration_date": "03-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "msn.com": {
@@ -22188,8 +22207,9 @@
         "state": "future"
     },
     "qualtrics.com": {
-        "epoch": 1601596800.0,
-        "expiration_date": "02-oct-2020",
+        "epoch": 1633132800.0,
+        "expiration_date": "02-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "quantcount.com": {
@@ -26477,8 +26497,9 @@
         "state": "future"
     },
     "stileproject.com": {
-        "epoch": 1601683200.0,
-        "expiration_date": "03-oct-2020",
+        "epoch": 1633219200.0,
+        "expiration_date": "03-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "stippleit.com": {
