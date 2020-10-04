@@ -9528,8 +9528,9 @@
         "state": "future"
     },
     "examiner.com": {
-        "epoch": 1601596800.0,
-        "expiration_date": "02-oct-2020",
+        "epoch": 1633132800.0,
+        "expiration_date": "02-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "exchangeandmart.co.uk": {
@@ -10528,8 +10529,9 @@
         "state": "future"
     },
     "fotothing.com": {
-        "epoch": 1601683200.0,
-        "expiration_date": "03-oct-2020",
+        "epoch": 1633219200.0,
+        "expiration_date": "03-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "foundry42.com": {
@@ -10674,8 +10676,9 @@
         "state": "future"
     },
     "freebase.com": {
-        "epoch": 1601683200.0,
-        "expiration_date": "03-oct-2020",
+        "epoch": 1633219200.0,
+        "expiration_date": "03-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "freebiesms.com": {
@@ -12286,6 +12289,12 @@
     "haberler.com": {
         "epoch": 1837814400.0,
         "expiration_date": "28-mar-2028",
+        "state": "future"
+    },
+    "halifax-online.co.uk": {
+        "epoch": 1619395200.0,
+        "expiration_date": "26-apr-2021",
+        "server": "whois.nic.uk",
         "state": "future"
     },
     "hallaert.online": {
@@ -16078,8 +16087,9 @@
         "state": "future"
     },
     "livestation.com": {
-        "epoch": 1601596800.0,
-        "expiration_date": "02-oct-2020",
+        "epoch": 1633132800.0,
+        "expiration_date": "02-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "livestats.fr": {
@@ -16993,8 +17003,9 @@
         "state": "future"
     },
     "mdmpix.com": {
-        "epoch": 1601683200.0,
-        "expiration_date": "03-oct-2020",
+        "epoch": 1759449600.0,
+        "expiration_date": "03-oct-2025",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mdotlabs.com": {
@@ -25198,8 +25209,9 @@
         "state": "future"
     },
     "slashdot.org": {
-        "epoch": 1601769600.0,
-        "expiration_date": "04-oct-2020",
+        "epoch": 1728000000.0,
+        "expiration_date": "04-oct-2024",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "slashgear.com": {
@@ -26585,8 +26597,9 @@
         "state": "future"
     },
     "streetdirectory.com": {
-        "epoch": 1601769600.0,
-        "expiration_date": "04-oct-2020",
+        "epoch": 1664841600.0,
+        "expiration_date": "04-oct-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "streetfire.net": {
