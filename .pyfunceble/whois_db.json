@@ -854,8 +854,9 @@
         "state": "future"
     },
     "activengage.com": {
-        "epoch": 1601856000.0,
-        "expiration_date": "05-oct-2020",
+        "epoch": 1633392000.0,
+        "expiration_date": "05-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "activeprospects.com": {
@@ -2748,8 +2749,9 @@
         "state": "future"
     },
     "asterpix.com": {
-        "epoch": 1601856000.0,
-        "expiration_date": "05-oct-2020",
+        "epoch": 1633392000.0,
+        "expiration_date": "05-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "astro-way.com": {
@@ -2848,6 +2850,12 @@
     "atticwicket.com": {
         "epoch": 1615420800.0,
         "expiration_date": "11-mar-2021",
+        "state": "future"
+    },
+    "attn.tv": {
+        "epoch": 1618012800.0,
+        "expiration_date": "10-apr-2021",
+        "server": "tvwhois.verisign-grs.com",
         "state": "future"
     },
     "attracta.com": {
@@ -3773,8 +3781,9 @@
         "state": "future"
     },
     "bid.run": {
-        "epoch": 1602028800.0,
-        "expiration_date": "07-oct-2020",
+        "epoch": 1633564800.0,
+        "expiration_date": "07-oct-2021",
+        "server": "whois.nic.run",
         "state": "future"
     },
     "bidderrtb.com": {
@@ -8969,10 +8978,10 @@
         "state": "future"
     },
     "els-cdn.com": {
-        "epoch": 1601769600.0,
-        "expiration_date": "04-oct-2020",
+        "epoch": 1633305600.0,
+        "expiration_date": "04-oct-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "elsevier.com": {
         "epoch": 1625097600.0,
@@ -14462,8 +14471,9 @@
         "state": "future"
     },
     "iryazan.ru": {
-        "epoch": 1601856000.0,
-        "expiration_date": "05-oct-2020",
+        "epoch": 1633392000.0,
+        "expiration_date": "05-oct-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "is.fi": {
@@ -21780,8 +21790,9 @@
         "state": "future"
     },
     "props.id": {
-        "epoch": 1602028800.0,
-        "expiration_date": "07-oct-2020",
+        "epoch": 1633564800.0,
+        "expiration_date": "07-oct-2021",
+        "server": "whois.id",
         "state": "future"
     },
     "prospecteye.com": {
@@ -22724,8 +22735,9 @@
         "state": "future"
     },
     "rebel.ai": {
-        "epoch": 1602028800.0,
-        "expiration_date": "07-oct-2020",
+        "epoch": 1665100800.0,
+        "expiration_date": "07-oct-2022",
+        "server": "whois.nic.ai",
         "state": "future"
     },
     "recart.com": {
