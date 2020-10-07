@@ -29283,8 +29283,9 @@
         "state": "future"
     },
     "uknetguide.co.uk": {
-        "epoch": 1601856000.0,
-        "expiration_date": "05-oct-2020",
+        "epoch": 1696464000.0,
+        "expiration_date": "05-oct-2023",
+        "server": "whois.nic.uk",
         "state": "future"
     },
     "ulclick.ru": {
