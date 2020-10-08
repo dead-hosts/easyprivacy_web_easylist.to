@@ -412,8 +412,9 @@
         "state": "future"
     },
     "56img.com": {
-        "epoch": 1602115200.0,
-        "expiration_date": "08-oct-2020",
+        "epoch": 1633651200.0,
+        "expiration_date": "08-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "591.com.tw": {
@@ -28808,8 +28809,9 @@
         "state": "future"
     },
     "trrsf.com": {
-        "epoch": 1601942400.0,
-        "expiration_date": "06-oct-2020",
+        "epoch": 1633478400.0,
+        "expiration_date": "06-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "trrsf.com.br": {
@@ -31250,6 +31252,12 @@
         "server": "whois.dk-hostmaster.dk",
         "state": "future"
     },
+    "weedmaps.com": {
+        "epoch": 1674432000.0,
+        "expiration_date": "23-jan-2023",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "weeklyblitz.net": {
         "epoch": 1695686400.0,
         "expiration_date": "26-sep-2023",
@@ -31852,8 +31860,9 @@
         "state": "future"
     },
     "xda-cdn.com": {
-        "epoch": 1602115200.0,
-        "expiration_date": "08-oct-2020",
+        "epoch": 1633651200.0,
+        "expiration_date": "08-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "xda-developers.com": {
@@ -32415,6 +32424,12 @@
     "zazzle.com": {
         "epoch": 1792454400.0,
         "expiration_date": "20-oct-2026",
+        "state": "future"
+    },
+    "zd.net": {
+        "epoch": 1652832000.0,
+        "expiration_date": "18-may-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "zdbb.net": {
