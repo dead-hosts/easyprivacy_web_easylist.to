@@ -12989,6 +12989,12 @@
         "expiration_date": "10-mar-2028",
         "state": "future"
     },
+    "hotels.com": {
+        "epoch": 1617148800.0,
+        "expiration_date": "31-mar-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "hotelscombined.com": {
         "epoch": 1635379200.0,
         "expiration_date": "28-oct-2021",
@@ -13851,8 +13857,9 @@
         "state": "future"
     },
     "infusionextreme.com": {
-        "epoch": 1601942400.0,
-        "expiration_date": "06-oct-2020",
+        "epoch": 1633478400.0,
+        "expiration_date": "06-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "infusionsoft.com": {
@@ -15323,8 +15330,9 @@
         "state": "future"
     },
     "kodakgallery.com": {
-        "epoch": 1601942400.0,
-        "expiration_date": "06-oct-2020",
+        "epoch": 1633478400.0,
+        "expiration_date": "06-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "koddi.com": {
@@ -21306,6 +21314,12 @@
         "expiration_date": "24-oct-2020",
         "state": "future"
     },
+    "pocket-lint.com": {
+        "epoch": 1830816000.0,
+        "expiration_date": "07-jan-2028",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "podfdch.com": {
         "epoch": 1614902400.0,
         "expiration_date": "05-mar-2021",
@@ -21482,8 +21496,9 @@
         "state": "future"
     },
     "potterybarn.com": {
-        "epoch": 1602028800.0,
-        "expiration_date": "07-oct-2020",
+        "epoch": 1665100800.0,
+        "expiration_date": "07-oct-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "potterybarnkids.com": {
@@ -29766,7 +29781,8 @@
     "vator.tv": {
         "epoch": 1602028800.0,
         "expiration_date": "07-oct-2020",
-        "state": "future"
+        "server": "tvwhois.verisign-grs.com",
+        "state": "past"
     },
     "vbanalytics.com": {
         "epoch": 1623801600.0,
