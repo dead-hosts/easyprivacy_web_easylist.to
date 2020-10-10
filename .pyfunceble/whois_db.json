@@ -1048,8 +1048,9 @@
         "state": "future"
     },
     "adfox.ru": {
-        "epoch": 1602201600.0,
-        "expiration_date": "09-oct-2020",
+        "epoch": 1633737600.0,
+        "expiration_date": "09-oct-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "adgjl13.com": {
@@ -4583,8 +4584,9 @@
         "state": "future"
     },
     "btserve.com": {
-        "epoch": 1602288000.0,
-        "expiration_date": "10-oct-2020",
+        "epoch": 1633824000.0,
+        "expiration_date": "10-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "btstatic.com": {
@@ -5087,6 +5089,12 @@
     "carts.guru": {
         "epoch": 1630972800.0,
         "expiration_date": "07-sep-2021",
+        "state": "future"
+    },
+    "casalemedia.com": {
+        "epoch": 1697673600.0,
+        "expiration_date": "19-oct-2023",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "cashbeet.com": {
@@ -6736,8 +6744,9 @@
         "state": "future"
     },
     "counter160.com": {
-        "epoch": 1602201600.0,
-        "expiration_date": "09-oct-2020",
+        "epoch": 1633737600.0,
+        "expiration_date": "09-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "counterbot.com": {
@@ -11584,7 +11593,8 @@
     "gez.io": {
         "epoch": 1602288000.0,
         "expiration_date": "10-oct-2020",
-        "state": "future"
+        "server": "whois.nic.io",
+        "state": "past"
     },
     "gfycat.com": {
         "epoch": 1613433600.0,
@@ -12950,8 +12960,9 @@
         "state": "future"
     },
     "hostip.info": {
-        "epoch": 1602201600.0,
-        "expiration_date": "09-oct-2020",
+        "epoch": 1633737600.0,
+        "expiration_date": "09-oct-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "hostpush.info": {
@@ -13740,6 +13751,12 @@
         "expiration_date": "22-apr-2021",
         "state": "future"
     },
+    "indexww.com": {
+        "epoch": 1679961600.0,
+        "expiration_date": "28-mar-2023",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "indiatimes.com": {
         "epoch": 1605916800.0,
         "expiration_date": "21-nov-2020",
@@ -14019,8 +14036,9 @@
         "state": "future"
     },
     "instadia.net": {
-        "epoch": 1602288000.0,
-        "expiration_date": "10-oct-2020",
+        "epoch": 1633824000.0,
+        "expiration_date": "10-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "instagram.com": {
@@ -16683,8 +16701,9 @@
         "state": "future"
     },
     "magnetmail1.net": {
-        "epoch": 1602201600.0,
-        "expiration_date": "09-oct-2020",
+        "epoch": 1633737600.0,
+        "expiration_date": "09-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "magnify.net": {
@@ -17151,8 +17170,9 @@
         "state": "future"
     },
     "mediametrics.ru": {
-        "epoch": 1602288000.0,
-        "expiration_date": "10-oct-2020",
+        "epoch": 1633824000.0,
+        "expiration_date": "10-oct-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "mediaplan.ru": {
@@ -18136,10 +18156,10 @@
         "state": "future"
     },
     "mstracker.net": {
-        "epoch": 1602028800.0,
-        "expiration_date": "07-oct-2020",
+        "epoch": 1633564800.0,
+        "expiration_date": "07-oct-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "mstrlytcs.com": {
         "epoch": 1661385600.0,
@@ -20059,8 +20079,9 @@
         "state": "future"
     },
     "openhit.com": {
-        "epoch": 1602115200.0,
-        "expiration_date": "08-oct-2020",
+        "epoch": 1633651200.0,
+        "expiration_date": "08-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "openload.co": {
@@ -21266,8 +21287,9 @@
         "state": "past"
     },
     "pm0.net": {
-        "epoch": 1602201600.0,
-        "expiration_date": "09-oct-2020",
+        "epoch": 1633737600.0,
+        "expiration_date": "09-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "pm14.com": {
@@ -21803,6 +21825,12 @@
     "properm.ru": {
         "epoch": 1622592000.0,
         "expiration_date": "02-jun-2021",
+        "state": "future"
+    },
+    "propermessage.io": {
+        "epoch": 1621036800.0,
+        "expiration_date": "15-may-2021",
+        "server": "whois.nic.io",
         "state": "future"
     },
     "props.id": {
@@ -22423,8 +22451,9 @@
         "state": "future"
     },
     "radarstats.com": {
-        "epoch": 1602288000.0,
-        "expiration_date": "10-oct-2020",
+        "epoch": 1633824000.0,
+        "expiration_date": "10-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "radarurl.com": {
@@ -22497,7 +22526,8 @@
     "rank-hits.com": {
         "epoch": 1602288000.0,
         "expiration_date": "10-oct-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "rank-power.com": {
         "epoch": 1632873600.0,
