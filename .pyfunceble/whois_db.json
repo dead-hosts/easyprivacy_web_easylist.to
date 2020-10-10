@@ -6263,8 +6263,9 @@
         "state": "future"
     },
     "comic-rocket.com": {
-        "epoch": 1602115200.0,
-        "expiration_date": "08-oct-2020",
+        "epoch": 1633651200.0,
+        "expiration_date": "08-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "commander1.com": {
@@ -9602,10 +9603,10 @@
         "state": "future"
     },
     "exe.bid": {
-        "epoch": 1595289600.0,
-        "expiration_date": "21-jul-2020",
+        "epoch": 1633651200.0,
+        "expiration_date": "08-oct-2021",
         "server": "whois.nic.bid",
-        "state": "past"
+        "state": "future"
     },
     "exelate.com": {
         "epoch": 1625184000.0,
@@ -10777,10 +10778,10 @@
         "state": "past"
     },
     "freecounter.it": {
-        "epoch": 1600819200.0,
-        "expiration_date": "23-sep-2020",
+        "epoch": 1632355200.0,
+        "expiration_date": "23-sep-2021",
         "server": "whois.nic.it",
-        "state": "past"
+        "state": "future"
     },
     "freecounter.ovh": {
         "epoch": 1603238400.0,
@@ -11657,8 +11658,9 @@
         "state": "future"
     },
     "gigya.com": {
-        "epoch": 1602288000.0,
-        "expiration_date": "10-oct-2020",
+        "epoch": 1728518400.0,
+        "expiration_date": "10-oct-2024",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "gim.co.il": {
@@ -11692,8 +11694,9 @@
         "state": "future"
     },
     "github.com": {
-        "epoch": 1602201600.0,
-        "expiration_date": "09-oct-2020",
+        "epoch": 1665273600.0,
+        "expiration_date": "09-oct-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "giveitlove.com": {
@@ -14060,7 +14063,8 @@
     "installiq.com": {
         "epoch": 1602288000.0,
         "expiration_date": "10-oct-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "instana.io": {
         "epoch": 1607644800.0,
@@ -18494,8 +18498,9 @@
         "state": "future"
     },
     "mysociety.org": {
-        "epoch": 1602201600.0,
-        "expiration_date": "09-oct-2020",
+        "epoch": 1633737600.0,
+        "expiration_date": "09-oct-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "myspace.com": {
@@ -28199,8 +28204,9 @@
         "state": "future"
     },
     "toptracker.ru": {
-        "epoch": 1602288000.0,
-        "expiration_date": "10-oct-2020",
+        "epoch": 1633824000.0,
+        "expiration_date": "10-oct-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "torbit.com": {
