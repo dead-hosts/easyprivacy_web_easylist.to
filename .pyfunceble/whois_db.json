@@ -28956,6 +28956,12 @@
         "expiration_date": "25-feb-2021",
         "state": "future"
     },
+    "trustarc.com": {
+        "epoch": 1720569600.0,
+        "expiration_date": "10-jul-2024",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "trustcommander.net": {
         "epoch": 1615507200.0,
         "expiration_date": "12-mar-2021",
@@ -31448,8 +31454,9 @@
         "state": "future"
     },
     "widgeo.net": {
-        "epoch": 1602201600.0,
-        "expiration_date": "09-oct-2020",
+        "epoch": 1633737600.0,
+        "expiration_date": "09-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "widgetbox.com": {
