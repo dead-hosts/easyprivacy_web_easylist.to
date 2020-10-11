@@ -202,8 +202,9 @@
         "state": "future"
     },
     "2ch.hk": {
-        "epoch": 1602288000.0,
-        "expiration_date": "10-oct-2020",
+        "epoch": 1633824000.0,
+        "expiration_date": "10-oct-2021",
+        "server": "whois.hkirc.hk",
         "state": "future"
     },
     "2cnt.net": {
@@ -5496,8 +5497,9 @@
         "state": "future"
     },
     "chosun.com": {
-        "epoch": 1602201600.0,
-        "expiration_date": "09-oct-2020",
+        "epoch": 1633737600.0,
+        "expiration_date": "09-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "christiantop1000.com": {
@@ -14786,8 +14788,9 @@
         "state": "future"
     },
     "jeu.net": {
-        "epoch": 1602201600.0,
-        "expiration_date": "09-oct-2020",
+        "epoch": 1633737600.0,
+        "expiration_date": "09-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "jeuxjeux2.com": {
@@ -32119,8 +32122,9 @@
         "state": "future"
     },
     "yandex.fr": {
-        "epoch": 1602288000.0,
-        "expiration_date": "10-oct-2020",
+        "epoch": 1633824000.0,
+        "expiration_date": "10-oct-2021",
+        "server": "whois.nic.fr",
         "state": "future"
     },
     "yandex.ru": {
