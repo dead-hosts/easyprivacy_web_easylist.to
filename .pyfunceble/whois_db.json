@@ -1887,8 +1887,9 @@
         "state": "future"
     },
     "allo-media.net": {
-        "epoch": 1602547200.0,
-        "expiration_date": "13-oct-2020",
+        "epoch": 1634083200.0,
+        "expiration_date": "13-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "allowmailbox.com": {
@@ -2985,8 +2986,9 @@
         "state": "future"
     },
     "authedmine.com": {
-        "epoch": 1602374400.0,
-        "expiration_date": "11-oct-2020",
+        "epoch": 1633910400.0,
+        "expiration_date": "11-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "authedwebmine.cz": {
@@ -17291,8 +17293,9 @@
         "state": "future"
     },
     "megavisites.com": {
-        "epoch": 1602460800.0,
-        "expiration_date": "12-oct-2020",
+        "epoch": 1633996800.0,
+        "expiration_date": "12-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "memecounter.com": {
@@ -20435,8 +20438,9 @@
         "state": "future"
     },
     "p2poolmining.com": {
-        "epoch": 1602374400.0,
-        "expiration_date": "11-oct-2020",
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "p2poolmining.net": {
@@ -23206,8 +23210,9 @@
         "state": "future"
     },
     "reseau-pub.com": {
-        "epoch": 1602460800.0,
-        "expiration_date": "12-oct-2020",
+        "epoch": 1633996800.0,
+        "expiration_date": "12-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "reson8.com": {
@@ -23802,7 +23807,8 @@
     "runtnc.net": {
         "epoch": 1602547200.0,
         "expiration_date": "13-oct-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "russellgrant.com": {
         "epoch": 1845417600.0,
@@ -24697,8 +24703,9 @@
         "state": "future"
     },
     "sessionstack.com": {
-        "epoch": 1602374400.0,
-        "expiration_date": "11-oct-2020",
+        "epoch": 1633910400.0,
+        "expiration_date": "11-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "sestatic.fi": {
@@ -28166,8 +28173,9 @@
         "state": "future"
     },
     "topdepo.com": {
-        "epoch": 1602460800.0,
-        "expiration_date": "12-oct-2020",
+        "epoch": 1633996800.0,
+        "expiration_date": "12-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "topix.com": {
@@ -29769,7 +29777,8 @@
     "users-api.com": {
         "epoch": 1602547200.0,
         "expiration_date": "13-oct-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "uservoice.com": {
         "epoch": 1830729600.0,
@@ -30861,7 +30870,8 @@
     "wbtrk.net": {
         "epoch": 1602547200.0,
         "expiration_date": "13-oct-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "wc4.net": {
         "epoch": 1675728000.0,
@@ -31849,8 +31859,9 @@
         "state": "future"
     },
     "wty46.com": {
-        "epoch": 1602374400.0,
-        "expiration_date": "11-oct-2020",
+        "epoch": 1633910400.0,
+        "expiration_date": "11-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "wumii.com": {
