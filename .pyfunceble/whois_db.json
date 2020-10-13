@@ -1258,8 +1258,9 @@
         "state": "future"
     },
     "adsettings.com": {
-        "epoch": 1602374400.0,
-        "expiration_date": "11-oct-2020",
+        "epoch": 1633910400.0,
+        "expiration_date": "11-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adsixmedia.fr": {
@@ -3902,8 +3903,9 @@
         "state": "future"
     },
     "birdsend.email": {
-        "epoch": 1602460800.0,
-        "expiration_date": "12-oct-2020",
+        "epoch": 1633996800.0,
+        "expiration_date": "12-oct-2021",
+        "server": "whois.nic.email",
         "state": "future"
     },
     "birthvillage.com": {
@@ -7670,7 +7672,8 @@
     "dealerfire.com": {
         "epoch": 1602547200.0,
         "expiration_date": "13-oct-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "dealnews.com": {
         "epoch": 1611100800.0,
@@ -13492,10 +13495,10 @@
         "state": "future"
     },
     "idot.cz": {
-        "epoch": 1594598400.0,
-        "expiration_date": "13-jul-2020",
+        "epoch": 1626134400.0,
+        "expiration_date": "13-jul-2021",
         "server": "whois.nic.cz",
-        "state": "past"
+        "state": "future"
     },
     "idtargeting.com": {
         "epoch": 1604275200.0,
@@ -14076,10 +14079,10 @@
         "state": "future"
     },
     "installiq.com": {
-        "epoch": 1602288000.0,
-        "expiration_date": "10-oct-2020",
+        "epoch": 1633824000.0,
+        "expiration_date": "10-oct-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "instana.io": {
         "epoch": 1607644800.0,
