@@ -1235,7 +1235,8 @@
     "adroll.com": {
         "epoch": 1602547200.0,
         "expiration_date": "13-oct-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "adrta.com": {
         "epoch": 1687392000.0,
@@ -15083,8 +15084,9 @@
         "state": "future"
     },
     "karelia.info": {
-        "epoch": 1602460800.0,
-        "expiration_date": "12-oct-2020",
+        "epoch": 1633996800.0,
+        "expiration_date": "12-oct-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "kattepush.com": {
@@ -15332,7 +15334,8 @@
     "kloth.net": {
         "epoch": 1602547200.0,
         "expiration_date": "13-oct-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "klout.com": {
         "epoch": 1616025600.0,
@@ -26812,6 +26815,12 @@
         "epoch": 1628812800.0,
         "expiration_date": "13-aug-2021",
         "server": "whois.nic.it",
+        "state": "future"
+    },
+    "stubhub.com": {
+        "epoch": 1624406400.0,
+        "expiration_date": "23-jun-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "studyisland.com": {

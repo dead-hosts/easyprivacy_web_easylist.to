@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202010132244
+! Version: 202010132320
 ! Title: EasyPrivacy
-! Last modified: 13 Oct 2020 22:44 UTC
+! Last modified: 13 Oct 2020 23:20 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -15480,6 +15480,7 @@ _mongo_stats/
 ||yopmail.com/c.swf
 ||youandyourwedding.co.uk^*/EAS_tag.
 ||youandyourwedding.co.uk^*/socialtracking/
+||youjizzlive.com/api/metrics
 ||younewstv.com/js/easyxdm.min.js
 ||youporn.com^*/tracker.js
 ||yourbittorrent.com/collect.php
@@ -17579,7 +17580,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||sealserver.trustwave.com/seal.js$domain=zoom.us
 @@||sears.com^*/analytics.sitecatalyst.js
 @@||secure.logmein.com/scripts/Tracking/$script,domain=logme.in|logmein.com
-@@||segment.com/analytics.js/*/analytics.min.js$script
+! @@||segment.com/analytics.js/*/analytics.min.js$script
 @@||segment.com/v1/projects/$xmlhttprequest,domain=benchling.com
 @@||segment.io/analytics.js/*/analytics.min.js$script
 @@||segment.io/v1/$xmlhttprequest,domain=greentoe.com
