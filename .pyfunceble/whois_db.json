@@ -3559,8 +3559,9 @@
         "state": "future"
     },
     "bebj.com": {
-        "epoch": 1602460800.0,
-        "expiration_date": "12-oct-2020",
+        "epoch": 1633996800.0,
+        "expiration_date": "12-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "becanium.com": {
@@ -4633,8 +4634,9 @@
         "state": "future"
     },
     "bunchbox.co": {
-        "epoch": 1602547200.0,
-        "expiration_date": "13-oct-2020",
+        "epoch": 1634083200.0,
+        "expiration_date": "13-oct-2021",
+        "server": "whois.nic.co",
         "state": "future"
     },
     "burnbubble.com": {
@@ -5892,8 +5894,9 @@
         "state": "future"
     },
     "clixcount.com": {
-        "epoch": 1602374400.0,
-        "expiration_date": "11-oct-2020",
+        "epoch": 1633910400.0,
+        "expiration_date": "11-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "clixpy.com": {
@@ -8018,8 +8021,9 @@
         "state": "future"
     },
     "dimestore.com": {
-        "epoch": 1602374400.0,
-        "expiration_date": "11-oct-2020",
+        "epoch": 1633910400.0,
+        "expiration_date": "11-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "dimml.io": {
@@ -8110,8 +8114,9 @@
         "state": "future"
     },
     "display.studio": {
-        "epoch": 1602460800.0,
-        "expiration_date": "12-oct-2020",
+        "epoch": 1633996800.0,
+        "expiration_date": "12-oct-2021",
+        "server": "whois.nic.studio",
         "state": "future"
     },
     "displaymarketplace.com": {
@@ -11246,6 +11251,12 @@
         "server": "whois.nic.co",
         "state": "future"
     },
+    "g4357855370.co": {
+        "epoch": 1623110400.0,
+        "expiration_date": "08-jun-2021",
+        "server": "whois.nic.co",
+        "state": "future"
+    },
     "gaconnector.com": {
         "epoch": 1800403200.0,
         "expiration_date": "20-jan-2027",
@@ -11604,10 +11615,10 @@
         "state": "past"
     },
     "gez.io": {
-        "epoch": 1602288000.0,
-        "expiration_date": "10-oct-2020",
+        "epoch": 1665360000.0,
+        "expiration_date": "10-oct-2022",
         "server": "whois.nic.io",
-        "state": "past"
+        "state": "future"
     },
     "gfycat.com": {
         "epoch": 1613433600.0,
@@ -14614,7 +14625,8 @@
     "itrackerpro.com": {
         "epoch": 1602547200.0,
         "expiration_date": "13-oct-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "itracmediav4.com": {
         "epoch": 1746662400.0,
@@ -18537,8 +18549,9 @@
         "state": "future"
     },
     "mytrack.pro": {
-        "epoch": 1602460800.0,
-        "expiration_date": "12-oct-2020",
+        "epoch": 1633996800.0,
+        "expiration_date": "12-oct-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "mytravel.co.uk": {
@@ -20811,8 +20824,9 @@
         "state": "future"
     },
     "performancerevenues.com": {
-        "epoch": 1602547200.0,
-        "expiration_date": "13-oct-2020",
+        "epoch": 1634083200.0,
+        "expiration_date": "13-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "performax.cz": {
@@ -22549,10 +22563,10 @@
         "state": "future"
     },
     "rank-hits.com": {
-        "epoch": 1602288000.0,
-        "expiration_date": "10-oct-2020",
+        "epoch": 1633824000.0,
+        "expiration_date": "10-oct-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "rank-power.com": {
         "epoch": 1632873600.0,
