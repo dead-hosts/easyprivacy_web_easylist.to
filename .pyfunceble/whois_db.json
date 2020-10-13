@@ -8703,10 +8703,10 @@
         "state": "future"
     },
     "eage.it": {
-        "epoch": 1601078400.0,
-        "expiration_date": "26-sep-2020",
+        "epoch": 1632614400.0,
+        "expiration_date": "26-sep-2021",
         "server": "whois.nic.it",
-        "state": "past"
+        "state": "future"
     },
     "early-birds.fr": {
         "epoch": 1603670400.0,
@@ -16789,8 +16789,9 @@
         "state": "future"
     },
     "makazi.com": {
-        "epoch": 1602460800.0,
-        "expiration_date": "12-oct-2020",
+        "epoch": 1633996800.0,
+        "expiration_date": "12-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "malibubright.com": {
@@ -22786,8 +22787,9 @@
         "state": "future"
     },
     "realplayer.com": {
-        "epoch": 1602460800.0,
-        "expiration_date": "12-oct-2020",
+        "epoch": 1633996800.0,
+        "expiration_date": "12-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "realtidbits.com": {
@@ -29064,8 +29066,9 @@
         "state": "future"
     },
     "tsphone.biz": {
-        "epoch": 1602374400.0,
-        "expiration_date": "11-oct-2020",
+        "epoch": 1633910400.0,
+        "expiration_date": "11-oct-2021",
+        "server": "whois.nic.biz",
         "state": "future"
     },
     "tst14netreal.com": {
