@@ -1239,10 +1239,10 @@
         "state": "future"
     },
     "adroll.com": {
-        "epoch": 1602547200.0,
-        "expiration_date": "13-oct-2020",
+        "epoch": 1634083200.0,
+        "expiration_date": "13-oct-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "adrta.com": {
         "epoch": 1687392000.0,
@@ -2257,8 +2257,9 @@
         "state": "future"
     },
     "angelfire.com": {
-        "epoch": 1602633600.0,
-        "expiration_date": "14-oct-2020",
+        "epoch": 1634169600.0,
+        "expiration_date": "14-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "angelfishstats.com": {
@@ -4049,8 +4050,9 @@
         "state": "future"
     },
     "blinkbox.com": {
-        "epoch": 1602806400.0,
-        "expiration_date": "16-oct-2020",
+        "epoch": 1634342400.0,
+        "expiration_date": "16-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "blinkist.com": {
@@ -4074,8 +4076,9 @@
         "state": "future"
     },
     "blockchain.info": {
-        "epoch": 1602720000.0,
-        "expiration_date": "15-oct-2020",
+        "epoch": 1634256000.0,
+        "expiration_date": "15-oct-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "blocket.se": {
@@ -6708,8 +6711,9 @@
         "state": "future"
     },
     "cosmopolitan.co.za": {
-        "epoch": 1602633600.0,
-        "expiration_date": "14-oct-2020",
+        "epoch": 1634169600.0,
+        "expiration_date": "14-oct-2021",
+        "server": "whois.registry.net.za",
         "state": "future"
     },
     "cosmosjackson.com": {
@@ -11988,8 +11992,9 @@
         "state": "future"
     },
     "googlelabs.com": {
-        "epoch": 1602720000.0,
-        "expiration_date": "15-oct-2020",
+        "epoch": 1634256000.0,
+        "expiration_date": "15-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "googleoptimize.com": {
@@ -12888,8 +12893,9 @@
         "state": "future"
     },
     "homeaway.com": {
-        "epoch": 1602633600.0,
-        "expiration_date": "14-oct-2020",
+        "epoch": 1634169600.0,
+        "expiration_date": "14-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "homelycrown.com": {
@@ -15350,10 +15356,10 @@
         "state": "future"
     },
     "kloth.net": {
-        "epoch": 1602547200.0,
-        "expiration_date": "13-oct-2020",
+        "epoch": 1634083200.0,
+        "expiration_date": "13-oct-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "klout.com": {
         "epoch": 1616025600.0,
@@ -15788,8 +15794,9 @@
         "state": "future"
     },
     "leadzu.com": {
-        "epoch": 1602633600.0,
-        "expiration_date": "14-oct-2020",
+        "epoch": 1634169600.0,
+        "expiration_date": "14-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "leanplum.com": {
@@ -19818,8 +19825,9 @@
         "state": "future"
     },
     "officelivecontent.com": {
-        "epoch": 1602633600.0,
-        "expiration_date": "14-oct-2020",
+        "epoch": 1634169600.0,
+        "expiration_date": "14-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "oghub.io": {
@@ -24085,8 +24093,9 @@
         "state": "future"
     },
     "sasontnwc.net": {
-        "epoch": 1602633600.0,
-        "expiration_date": "14-oct-2020",
+        "epoch": 1634169600.0,
+        "expiration_date": "14-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "savecart.pl": {
