@@ -6036,8 +6036,9 @@
         "state": "future"
     },
     "cnevids.com": {
-        "epoch": 1602806400.0,
-        "expiration_date": "16-oct-2020",
+        "epoch": 1665878400.0,
+        "expiration_date": "16-oct-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "cnhv.co": {
@@ -7681,10 +7682,10 @@
         "state": "future"
     },
     "dealerfire.com": {
-        "epoch": 1602547200.0,
-        "expiration_date": "13-oct-2020",
+        "epoch": 1634083200.0,
+        "expiration_date": "13-oct-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "dealnews.com": {
         "epoch": 1611100800.0,
@@ -12937,8 +12938,9 @@
         "state": "future"
     },
     "hornymatches.com": {
-        "epoch": 1602806400.0,
-        "expiration_date": "16-oct-2020",
+        "epoch": 1634342400.0,
+        "expiration_date": "16-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "horsenectar.com": {
@@ -16536,8 +16538,9 @@
         "state": "future"
     },
     "ltassrv.com": {
-        "epoch": 1602720000.0,
-        "expiration_date": "15-oct-2020",
+        "epoch": 1634256000.0,
+        "expiration_date": "15-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ltwebstatic.com": {
@@ -23276,8 +23279,9 @@
         "state": "future"
     },
     "retag.xyz": {
-        "epoch": 1602633600.0,
-        "expiration_date": "14-oct-2020",
+        "epoch": 1634169600.0,
+        "expiration_date": "14-oct-2021",
+        "server": "whois.nic.xyz",
         "state": "future"
     },
     "retailrocket.ru": {
@@ -29385,8 +29389,9 @@
         "state": "future"
     },
     "uarating.com": {
-        "epoch": 1602720000.0,
-        "expiration_date": "15-oct-2020",
+        "epoch": 1634256000.0,
+        "expiration_date": "15-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ub-analytics.com": {
@@ -31190,6 +31195,12 @@
     "webring.com": {
         "epoch": 1700438400.0,
         "expiration_date": "20-nov-2023",
+        "state": "future"
+    },
+    "websanalytic.com": {
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "webserviceaward.com": {
