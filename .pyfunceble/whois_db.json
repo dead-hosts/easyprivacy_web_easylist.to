@@ -7675,10 +7675,10 @@
         "state": "future"
     },
     "deagostinipassion.it": {
-        "epoch": 1601337600.0,
-        "expiration_date": "29-sep-2020",
+        "epoch": 1632873600.0,
+        "expiration_date": "29-sep-2021",
         "server": "whois.nic.it",
-        "state": "past"
+        "state": "future"
     },
     "dealer.com": {
         "epoch": 1785024000.0,
@@ -14436,8 +14436,9 @@
         "state": "future"
     },
     "iphonesoft.fr": {
-        "epoch": 1602633600.0,
-        "expiration_date": "14-oct-2020",
+        "epoch": 1634169600.0,
+        "expiration_date": "14-oct-2021",
+        "server": "whois.nic.fr",
         "state": "future"
     },
     "ipify.org": {
@@ -20296,8 +20297,9 @@
         "state": "future"
     },
     "orange.fr": {
-        "epoch": 1602633600.0,
-        "expiration_date": "14-oct-2020",
+        "epoch": 1634169600.0,
+        "expiration_date": "14-oct-2021",
+        "server": "whois.nic.fr",
         "state": "future"
     },
     "oranges88.com": {
@@ -29222,6 +29224,12 @@
     "turnto.com": {
         "epoch": 1624665600.0,
         "expiration_date": "26-jun-2021",
+        "state": "future"
+    },
+    "tuttocagliari.net": {
+        "epoch": 1611792000.0,
+        "expiration_date": "28-jan-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "tuttogratis.it": {
