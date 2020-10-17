@@ -24649,8 +24649,9 @@
         "state": "future"
     },
     "seoul.co.kr": {
-        "epoch": 1602720000.0,
-        "expiration_date": "15-oct-2020",
+        "epoch": 1634256000.0,
+        "expiration_date": "15-oct-2021",
+        "server": "whois.kr",
         "state": "future"
     },
     "separatesilver.com": {
@@ -32508,8 +32509,9 @@
         "state": "future"
     },
     "ytn.co.kr": {
-        "epoch": 1602720000.0,
-        "expiration_date": "15-oct-2020",
+        "epoch": 1697328000.0,
+        "expiration_date": "15-oct-2023",
+        "server": "whois.kr",
         "state": "future"
     },
     "yu987.com": {
