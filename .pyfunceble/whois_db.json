@@ -1322,8 +1322,9 @@
         "state": "future"
     },
     "adtive.com": {
-        "epoch": 1603065600.0,
-        "expiration_date": "19-oct-2020",
+        "epoch": 1697673600.0,
+        "expiration_date": "19-oct-2023",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adtlgc.com": {
@@ -18331,8 +18332,9 @@
         "state": "future"
     },
     "musvc2.net": {
-        "epoch": 1602892800.0,
-        "expiration_date": "17-oct-2020",
+        "epoch": 1634428800.0,
+        "expiration_date": "17-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mutinycdn.com": {
