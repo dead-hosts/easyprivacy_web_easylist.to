@@ -1865,8 +1865,9 @@
         "state": "future"
     },
     "allcarpictures.com": {
-        "epoch": 1602979200.0,
-        "expiration_date": "18-oct-2020",
+        "epoch": 1634515200.0,
+        "expiration_date": "18-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "allexperts.com": {
@@ -5646,6 +5647,12 @@
         "expiration_date": "20-feb-2021",
         "state": "future"
     },
+    "cl.ly": {
+        "epoch": 1612224000.0,
+        "expiration_date": "02-feb-2021",
+        "server": "whois.nic.ly",
+        "state": "future"
+    },
     "clarity.ms": {
         "epoch": 1617408000.0,
         "expiration_date": "03-apr-2021",
@@ -6891,8 +6898,9 @@
         "state": "future"
     },
     "coveritlive.com": {
-        "epoch": 1602979200.0,
-        "expiration_date": "18-oct-2020",
+        "epoch": 1634515200.0,
+        "expiration_date": "18-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "cpaevent.ru": {
@@ -16445,8 +16453,9 @@
         "state": "future"
     },
     "lolwot.com": {
-        "epoch": 1602979200.0,
-        "expiration_date": "18-oct-2020",
+        "epoch": 1666051200.0,
+        "expiration_date": "18-oct-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "lomadee.com": {
@@ -18405,8 +18414,9 @@
         "state": "future"
     },
     "my.com": {
-        "epoch": 1603065600.0,
-        "expiration_date": "19-oct-2020",
+        "epoch": 1855526400.0,
+        "expiration_date": "19-oct-2028",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "myaffiliateprogram.com": {
@@ -18521,8 +18531,9 @@
         "state": "future"
     },
     "mypaydayloan.com": {
-        "epoch": 1603065600.0,
-        "expiration_date": "19-oct-2020",
+        "epoch": 1634601600.0,
+        "expiration_date": "19-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mypoints.com": {
@@ -22520,6 +22531,12 @@
         "expiration_date": "01-apr-2021",
         "state": "future"
     },
+    "qwant.com": {
+        "epoch": 1666915200.0,
+        "expiration_date": "28-oct-2022",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "qz.com": {
         "epoch": 1742860800.0,
         "expiration_date": "25-mar-2025",
@@ -25008,8 +25025,9 @@
         "state": "future"
     },
     "shutterfly.com": {
-        "epoch": 1602979200.0,
-        "expiration_date": "18-oct-2020",
+        "epoch": 1666051200.0,
+        "expiration_date": "18-oct-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "shutterstock.com": {
@@ -28660,8 +28678,9 @@
         "state": "future"
     },
     "trade-it.co.uk": {
-        "epoch": 1603065600.0,
-        "expiration_date": "19-oct-2020",
+        "epoch": 1634601600.0,
+        "expiration_date": "19-oct-2021",
+        "server": "whois.nic.uk",
         "state": "future"
     },
     "tradedoubler.com": {
