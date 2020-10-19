@@ -2467,8 +2467,9 @@
         "state": "future"
     },
     "apollofind.com": {
-        "epoch": 1603065600.0,
-        "expiration_date": "19-oct-2020",
+        "epoch": 1634601600.0,
+        "expiration_date": "19-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "app.link": {
@@ -3279,10 +3280,10 @@
         "state": "future"
     },
     "b0e8.com": {
-        "epoch": 1602806400.0,
-        "expiration_date": "16-oct-2020",
+        "epoch": 1634342400.0,
+        "expiration_date": "16-oct-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "b1img.com": {
         "epoch": 1618444800.0,
@@ -3620,8 +3621,9 @@
         "state": "future"
     },
     "behavioralengine.com": {
-        "epoch": 1603065600.0,
-        "expiration_date": "19-oct-2020",
+        "epoch": 1634601600.0,
+        "expiration_date": "19-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "belicimo.pw": {
@@ -5937,8 +5939,9 @@
         "state": "future"
     },
     "cloud-exploration.com": {
-        "epoch": 1602892800.0,
-        "expiration_date": "17-oct-2020",
+        "epoch": 1634428800.0,
+        "expiration_date": "17-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "cloud-iq.com": {
@@ -6254,6 +6257,12 @@
         "expiration_date": "02-may-2021",
         "state": "future"
     },
+    "coll2onf.com": {
+        "epoch": 1636156800.0,
+        "expiration_date": "06-nov-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "collarity.com": {
         "epoch": 1630627200.0,
         "expiration_date": "03-sep-2021",
@@ -6406,7 +6415,8 @@
     "conduze.com": {
         "epoch": 1603065600.0,
         "expiration_date": "19-oct-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "confirmational.com": {
         "epoch": 1623456000.0,
@@ -6978,8 +6988,9 @@
         "state": "future"
     },
     "crazyclickstats.com": {
-        "epoch": 1602892800.0,
-        "expiration_date": "17-oct-2020",
+        "epoch": 1634428800.0,
+        "expiration_date": "17-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "crazyegg.com": {
@@ -9484,10 +9495,10 @@
         "state": "future"
     },
     "evanetpro.com": {
-        "epoch": 1602806400.0,
-        "expiration_date": "16-oct-2020",
+        "epoch": 1634342400.0,
+        "expiration_date": "16-oct-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "eventcapture03.com": {
         "epoch": 1628553600.0,
@@ -9679,8 +9690,9 @@
         "state": "future"
     },
     "experianmarketingservices.digital": {
-        "epoch": 1602892800.0,
-        "expiration_date": "17-oct-2020",
+        "epoch": 1634428800.0,
+        "expiration_date": "17-oct-2021",
+        "server": "whois.nic.digital",
         "state": "future"
     },
     "experts-exchange.com": {
@@ -9689,8 +9701,9 @@
         "state": "future"
     },
     "explore-123.com": {
-        "epoch": 1602892800.0,
-        "expiration_date": "17-oct-2020",
+        "epoch": 1634428800.0,
+        "expiration_date": "17-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "exponea.com": {
@@ -12735,8 +12748,9 @@
         "state": "future"
     },
     "hit-counts.com": {
-        "epoch": 1603065600.0,
-        "expiration_date": "19-oct-2020",
+        "epoch": 1634601600.0,
+        "expiration_date": "19-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "hit-parade.com": {
