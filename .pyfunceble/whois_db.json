@@ -7376,8 +7376,9 @@
         "state": "future"
     },
     "d-bi.fr": {
-        "epoch": 1603065600.0,
-        "expiration_date": "19-oct-2020",
+        "epoch": 1634601600.0,
+        "expiration_date": "19-oct-2021",
+        "server": "whois.nic.fr",
         "state": "future"
     },
     "d-markets.net": {
@@ -12350,8 +12351,9 @@
         "state": "future"
     },
     "gus.host": {
-        "epoch": 1602979200.0,
-        "expiration_date": "18-oct-2020",
+        "epoch": 1634515200.0,
+        "expiration_date": "18-oct-2021",
+        "server": "whois.nic.host",
         "state": "future"
     },
     "gvisit.com": {
@@ -23288,6 +23290,12 @@
         "expiration_date": "24-aug-2021",
         "state": "future"
     },
+    "resonantrock.com": {
+        "epoch": 1612569600.0,
+        "expiration_date": "06-feb-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "responsetap.com": {
         "epoch": 1728086400.0,
         "expiration_date": "05-oct-2024",
@@ -26426,8 +26434,9 @@
         "state": "future"
     },
     "statdynamic.com": {
-        "epoch": 1602979200.0,
-        "expiration_date": "18-oct-2020",
+        "epoch": 1634515200.0,
+        "expiration_date": "18-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "statesmanjournal.com": {
@@ -26542,8 +26551,9 @@
         "state": "future"
     },
     "statpipe.ru": {
-        "epoch": 1603065600.0,
-        "expiration_date": "19-oct-2020",
+        "epoch": 1634601600.0,
+        "expiration_date": "19-oct-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "statravel.co.uk": {
@@ -27933,8 +27943,9 @@
         "state": "future"
     },
     "thisisacoolthing.com": {
-        "epoch": 1602892800.0,
-        "expiration_date": "17-oct-2020",
+        "epoch": 1634428800.0,
+        "expiration_date": "17-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "thisisanothercoolthing.com": {
@@ -29918,8 +29929,9 @@
         "state": "future"
     },
     "v3cdn.net": {
-        "epoch": 1602979200.0,
-        "expiration_date": "18-oct-2020",
+        "epoch": 1634515200.0,
+        "expiration_date": "18-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "va-endpoint.com": {
@@ -31674,8 +31686,9 @@
         "state": "future"
     },
     "winitout.com": {
-        "epoch": 1602979200.0,
-        "expiration_date": "18-oct-2020",
+        "epoch": 1634515200.0,
+        "expiration_date": "18-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "wired.co.uk": {
@@ -32016,8 +32029,9 @@
         "state": "future"
     },
     "wysistat.com": {
-        "epoch": 1602892800.0,
-        "expiration_date": "17-oct-2020",
+        "epoch": 1634428800.0,
+        "expiration_date": "17-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "wywy.com": {
@@ -32047,8 +32061,9 @@
         "state": "future"
     },
     "x-traceur.com": {
-        "epoch": 1602892800.0,
-        "expiration_date": "17-oct-2020",
+        "epoch": 1634428800.0,
+        "expiration_date": "17-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "xbasfbno.info": {
@@ -32650,8 +32665,9 @@
         "state": "future"
     },
     "zdbb.net": {
-        "epoch": 1603065600.0,
-        "expiration_date": "19-oct-2020",
+        "epoch": 1634601600.0,
+        "expiration_date": "19-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "zdcommerce.io": {
@@ -32758,7 +32774,8 @@
     "zlx.com.br": {
         "epoch": 1602979200.0,
         "expiration_date": "18-oct-2020",
-        "state": "future"
+        "server": "whois.registro.br",
+        "state": "past"
     },
     "zmags.com": {
         "epoch": 1608422400.0,
