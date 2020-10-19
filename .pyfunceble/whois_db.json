@@ -21895,8 +21895,9 @@
         "state": "future"
     },
     "prompages.ru": {
-        "epoch": 1602892800.0,
-        "expiration_date": "17-oct-2020",
+        "epoch": 1634428800.0,
+        "expiration_date": "17-oct-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "promworld.ru": {
@@ -24205,8 +24206,9 @@
         "state": "future"
     },
     "schibsted.com": {
-        "epoch": 1602892800.0,
-        "expiration_date": "17-oct-2020",
+        "epoch": 1634428800.0,
+        "expiration_date": "17-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "schnaeppchenfuchs.com": {
@@ -25184,8 +25186,9 @@
         "state": "future"
     },
     "sishik.ru": {
-        "epoch": 1603065600.0,
-        "expiration_date": "19-oct-2020",
+        "epoch": 1634601600.0,
+        "expiration_date": "19-oct-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "site-submit.com.ua": {
@@ -31785,8 +31788,9 @@
         "state": "future"
     },
     "woopic.com": {
-        "epoch": 1602979200.0,
-        "expiration_date": "18-oct-2020",
+        "epoch": 1634515200.0,
+        "expiration_date": "18-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "woopra-ns.com": {
