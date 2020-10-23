@@ -1044,6 +1044,12 @@
         "expiration_date": "31-may-2021",
         "state": "future"
     },
+    "adf.ly": {
+        "epoch": 1619308800.0,
+        "expiration_date": "25-apr-2021",
+        "server": "whois.nic.ly",
+        "state": "future"
+    },
     "adform.net": {
         "epoch": 1695427200.0,
         "expiration_date": "23-sep-2023",
@@ -3932,6 +3938,12 @@
     "birthvillage.com": {
         "epoch": 1606089600.0,
         "expiration_date": "23-nov-2020",
+        "state": "future"
+    },
+    "bit.ly": {
+        "epoch": 1652745600.0,
+        "expiration_date": "17-may-2022",
+        "server": "whois.nic.ly",
         "state": "future"
     },
     "bitclouds.ru": {
@@ -17494,8 +17506,9 @@
         "state": "future"
     },
     "metabroadcast.com": {
-        "epoch": 1603411200.0,
-        "expiration_date": "23-oct-2020",
+        "epoch": 1634947200.0,
+        "expiration_date": "23-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "metacafe.com": {
