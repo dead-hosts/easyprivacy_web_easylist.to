@@ -1675,8 +1675,9 @@
         "state": "future"
     },
     "aixifan.com": {
-        "epoch": 1603324800.0,
-        "expiration_date": "22-oct-2020",
+        "epoch": 1634860800.0,
+        "expiration_date": "22-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aiya.com.cn": {
@@ -22806,7 +22807,8 @@
     "rcsmetrics.it": {
         "epoch": 1603152000.0,
         "expiration_date": "20-oct-2020",
-        "state": "future"
+        "server": "whois.nic.it",
+        "state": "past"
     },
     "rcsobjects.it": {
         "epoch": 1628121600.0,
@@ -28215,8 +28217,9 @@
         "state": "future"
     },
     "tm-awx.com": {
-        "epoch": 1603324800.0,
-        "expiration_date": "22-oct-2020",
+        "epoch": 1634860800.0,
+        "expiration_date": "22-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "tm1-001.com": {
@@ -28898,7 +28901,8 @@
     "travpan.com": {
         "epoch": 1603411200.0,
         "expiration_date": "23-oct-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "trb.com": {
         "epoch": 1618617600.0,
