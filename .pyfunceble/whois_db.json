@@ -5125,8 +5125,9 @@
         "state": "future"
     },
     "cartier.co.uk": {
-        "epoch": 1603411200.0,
-        "expiration_date": "23-oct-2020",
+        "epoch": 1634947200.0,
+        "expiration_date": "23-oct-2021",
+        "server": "whois.nic.uk",
         "state": "future"
     },
     "cartoonnetwork.com": {
@@ -10892,6 +10893,12 @@
     "freedownloadscenter.com": {
         "epoch": 1605571200.0,
         "expiration_date": "17-nov-2020",
+        "state": "future"
+    },
+    "freegames.io": {
+        "epoch": 1620259200.0,
+        "expiration_date": "06-may-2021",
+        "server": "whois.nic.io",
         "state": "future"
     },
     "freegeoip.app": {
@@ -27069,8 +27076,9 @@
         "state": "future"
     },
     "sugarvine.com": {
-        "epoch": 1603411200.0,
-        "expiration_date": "23-oct-2020",
+        "epoch": 1634947200.0,
+        "expiration_date": "23-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "sugodeku.com": {
@@ -30490,8 +30498,9 @@
         "state": "future"
     },
     "viralogy.com": {
-        "epoch": 1603238400.0,
-        "expiration_date": "21-oct-2020",
+        "epoch": 1634774400.0,
+        "expiration_date": "21-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "virgilio.it": {
