@@ -107,8 +107,9 @@
         "state": "future"
     },
     "1freecounter.com": {
-        "epoch": 1603411200.0,
-        "expiration_date": "23-oct-2020",
+        "epoch": 1634947200.0,
+        "expiration_date": "23-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "1pel.com": {
@@ -2275,8 +2276,9 @@
         "state": "future"
     },
     "angsrvr.com": {
-        "epoch": 1603238400.0,
-        "expiration_date": "21-oct-2020",
+        "epoch": 1634774400.0,
+        "expiration_date": "21-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "annoncesbateau.com": {
@@ -4551,8 +4553,9 @@
         "state": "future"
     },
     "bronto.com": {
-        "epoch": 1603238400.0,
-        "expiration_date": "21-oct-2020",
+        "epoch": 1634774400.0,
+        "expiration_date": "21-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "browsealoud.com": {
@@ -6421,10 +6424,10 @@
         "state": "future"
     },
     "conduze.com": {
-        "epoch": 1603065600.0,
-        "expiration_date": "19-oct-2020",
+        "epoch": 1634601600.0,
+        "expiration_date": "19-oct-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "confirmational.com": {
         "epoch": 1623456000.0,
@@ -8292,8 +8295,9 @@
         "state": "future"
     },
     "dmpcounter.com": {
-        "epoch": 1603238400.0,
-        "expiration_date": "21-oct-2020",
+        "epoch": 1634774400.0,
+        "expiration_date": "21-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "dmpxs.com": {
@@ -8638,8 +8642,9 @@
         "state": "future"
     },
     "dynamicyield.com": {
-        "epoch": 1603152000.0,
-        "expiration_date": "20-oct-2020",
+        "epoch": 1634688000.0,
+        "expiration_date": "20-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "dynatrace.com": {
@@ -10991,8 +10996,9 @@
         "state": "future"
     },
     "freshcounter.com": {
-        "epoch": 1603152000.0,
-        "expiration_date": "20-oct-2020",
+        "epoch": 1634688000.0,
+        "expiration_date": "20-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "freshmarketer.com": {
@@ -11306,6 +11312,18 @@
         "server": "whois.nic.co",
         "state": "future"
     },
+    "g4555939705.co": {
+        "epoch": 1623110400.0,
+        "expiration_date": "08-jun-2021",
+        "server": "whois.nic.co",
+        "state": "future"
+    },
+    "ga-analytics.com": {
+        "epoch": 1634947200.0,
+        "expiration_date": "23-oct-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "gaconnector.com": {
         "epoch": 1800403200.0,
         "expiration_date": "20-jan-2027",
@@ -11418,8 +11436,9 @@
         "state": "future"
     },
     "gbotvisit.com": {
-        "epoch": 1603152000.0,
-        "expiration_date": "20-oct-2020",
+        "epoch": 1634688000.0,
+        "expiration_date": "20-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "gcion.com": {
@@ -11536,7 +11555,8 @@
     "geolocation-db.com": {
         "epoch": 1603411200.0,
         "expiration_date": "23-oct-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "geoplugin.net": {
         "epoch": 1636156800.0,
@@ -15247,8 +15267,9 @@
         "state": "future"
     },
     "keywee.co": {
-        "epoch": 1603411200.0,
-        "expiration_date": "23-oct-2020",
+        "epoch": 1698019200.0,
+        "expiration_date": "23-oct-2023",
+        "server": "whois.nic.co",
         "state": "future"
     },
     "keyword-match.com": {
@@ -16419,8 +16440,9 @@
         "state": "future"
     },
     "lognormal.net": {
-        "epoch": 1603238400.0,
-        "expiration_date": "21-oct-2020",
+        "epoch": 1666310400.0,
+        "expiration_date": "21-oct-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "logrocket.com": {
@@ -18574,8 +18596,9 @@
         "state": "future"
     },
     "myseostats.com": {
-        "epoch": 1603152000.0,
-        "expiration_date": "20-oct-2020",
+        "epoch": 1634688000.0,
+        "expiration_date": "20-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mysitetraffic.net": {
@@ -20712,8 +20735,9 @@
         "state": "future"
     },
     "pbbl.co": {
-        "epoch": 1603411200.0,
-        "expiration_date": "23-oct-2020",
+        "epoch": 1634947200.0,
+        "expiration_date": "23-oct-2021",
+        "server": "whois.nic.co",
         "state": "future"
     },
     "pbsrc.com": {
@@ -20942,8 +20966,9 @@
         "state": "future"
     },
     "permutive.app": {
-        "epoch": 1603238400.0,
-        "expiration_date": "21-oct-2020",
+        "epoch": 1634774400.0,
+        "expiration_date": "21-oct-2021",
+        "server": "whois.nic.google",
         "state": "future"
     },
     "permutive.com": {
@@ -22194,6 +22219,12 @@
         "expiration_date": "18-mar-2021",
         "state": "future"
     },
+    "pushauction.com": {
+        "epoch": 1627603200.0,
+        "expiration_date": "30-jul-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "pushbird.com": {
         "epoch": 1604793600.0,
         "expiration_date": "08-nov-2020",
@@ -22675,8 +22706,9 @@
         "state": "future"
     },
     "rapidcounter.com": {
-        "epoch": 1603152000.0,
-        "expiration_date": "20-oct-2020",
+        "epoch": 1634688000.0,
+        "expiration_date": "20-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "rapidspike.com": {
