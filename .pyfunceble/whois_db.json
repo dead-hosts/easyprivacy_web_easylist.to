@@ -3546,8 +3546,9 @@
         "state": "past"
     },
     "bbvms.com": {
-        "epoch": 1603497600.0,
-        "expiration_date": "24-oct-2020",
+        "epoch": 1635033600.0,
+        "expiration_date": "24-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "bc0a.com": {
@@ -4303,8 +4304,9 @@
         "state": "future"
     },
     "bnpparibas.fr": {
-        "epoch": 1603584000.0,
-        "expiration_date": "25-oct-2020",
+        "epoch": 1635120000.0,
+        "expiration_date": "25-oct-2021",
+        "server": "whois.nic.fr",
         "state": "future"
     },
     "bnqt.com": {
@@ -28941,10 +28943,10 @@
         "state": "future"
     },
     "travpan.com": {
-        "epoch": 1603411200.0,
-        "expiration_date": "23-oct-2020",
+        "epoch": 1634947200.0,
+        "expiration_date": "23-oct-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "trb.com": {
         "epoch": 1618617600.0,
