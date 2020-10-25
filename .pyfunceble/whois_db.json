@@ -5246,8 +5246,9 @@
         "state": "future"
     },
     "ccrtvi.com": {
-        "epoch": 1603584000.0,
-        "expiration_date": "25-oct-2020",
+        "epoch": 1635120000.0,
+        "expiration_date": "25-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ccscserver.com": {
@@ -5490,8 +5491,9 @@
         "state": "future"
     },
     "checkout.com": {
-        "epoch": 1603584000.0,
-        "expiration_date": "25-oct-2020",
+        "epoch": 1761350400.0,
+        "expiration_date": "25-oct-2025",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "checkru.net": {
@@ -13750,7 +13752,8 @@
     "imetrix.it": {
         "epoch": 1603584000.0,
         "expiration_date": "25-oct-2020",
-        "state": "future"
+        "server": "whois.nic.it",
+        "state": "past"
     },
     "imgfarm.com": {
         "epoch": 1636675200.0,
@@ -21537,8 +21540,9 @@
         "state": "future"
     },
     "pocitadlo.cz": {
-        "epoch": 1603497600.0,
-        "expiration_date": "24-oct-2020",
+        "epoch": 1635033600.0,
+        "expiration_date": "24-oct-2021",
+        "server": "whois.nic.cz",
         "state": "future"
     },
     "pocket-lint.com": {
