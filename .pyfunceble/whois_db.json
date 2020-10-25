@@ -1422,8 +1422,9 @@
         "state": "future"
     },
     "adxadtracker.com": {
-        "epoch": 1603584000.0,
-        "expiration_date": "25-oct-2020",
+        "epoch": 1635120000.0,
+        "expiration_date": "25-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adxcel-ec2.com": {
@@ -3602,7 +3603,8 @@
     "beeftransmission.com": {
         "epoch": 1603584000.0,
         "expiration_date": "25-oct-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "beeg.com": {
         "epoch": 1660089600.0,
@@ -6109,8 +6111,9 @@
         "state": "future"
     },
     "cnxweb.com": {
-        "epoch": 1603584000.0,
-        "expiration_date": "25-oct-2020",
+        "epoch": 1635120000.0,
+        "expiration_date": "25-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "cnzz.com": {
@@ -10317,8 +10320,9 @@
         "state": "future"
     },
     "flashadengine.com": {
-        "epoch": 1603497600.0,
-        "expiration_date": "24-oct-2020",
+        "epoch": 1617148800.0,
+        "expiration_date": "31-mar-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "flashgamestats.com": {
@@ -11582,10 +11586,10 @@
         "state": "future"
     },
     "geolocation-db.com": {
-        "epoch": 1603411200.0,
-        "expiration_date": "23-oct-2020",
+        "epoch": 1634947200.0,
+        "expiration_date": "23-oct-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "geoplugin.net": {
         "epoch": 1636156800.0,
@@ -14437,8 +14441,9 @@
         "state": "future"
     },
     "ip2location.com": {
-        "epoch": 1603497600.0,
-        "expiration_date": "24-oct-2020",
+        "epoch": 1666569600.0,
+        "expiration_date": "24-oct-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ip2map.com": {
@@ -14596,8 +14601,9 @@
         "state": "future"
     },
     "ipstat.com": {
-        "epoch": 1603497600.0,
-        "expiration_date": "24-oct-2020",
+        "epoch": 1635033600.0,
+        "expiration_date": "24-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ipstatp.com": {
@@ -16005,8 +16011,9 @@
         "state": "future"
     },
     "liadm.com": {
-        "epoch": 1603584000.0,
-        "expiration_date": "25-oct-2020",
+        "epoch": 1666656000.0,
+        "expiration_date": "25-oct-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "libero.it": {
@@ -18070,8 +18077,9 @@
         "state": "future"
     },
     "monitis.com": {
-        "epoch": 1603497600.0,
-        "expiration_date": "24-oct-2020",
+        "epoch": 1635033600.0,
+        "expiration_date": "24-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "monitus.net": {
@@ -19441,8 +19449,9 @@
         "state": "future"
     },
     "nicequest.com": {
-        "epoch": 1603584000.0,
-        "expiration_date": "25-oct-2020",
+        "epoch": 1635120000.0,
+        "expiration_date": "25-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "niftyhospital.com": {
@@ -20154,8 +20163,9 @@
         "state": "future"
     },
     "onlinepbx.ru": {
-        "epoch": 1603584000.0,
-        "expiration_date": "25-oct-2020",
+        "epoch": 1635120000.0,
+        "expiration_date": "25-oct-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "onlinepizza.se": {
@@ -20983,8 +20993,9 @@
         "state": "future"
     },
     "performtracking.com": {
-        "epoch": 1603497600.0,
-        "expiration_date": "24-oct-2020",
+        "epoch": 1635033600.0,
+        "expiration_date": "24-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "perimeterx.net": {
@@ -23804,8 +23815,9 @@
         "state": "future"
     },
     "roispy.com": {
-        "epoch": 1603497600.0,
-        "expiration_date": "24-oct-2020",
+        "epoch": 1635033600.0,
+        "expiration_date": "24-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "roitesting.com": {
