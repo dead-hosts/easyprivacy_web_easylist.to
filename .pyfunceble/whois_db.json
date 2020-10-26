@@ -198,8 +198,9 @@
         "state": "future"
     },
     "24ur.com": {
-        "epoch": 1603584000.0,
-        "expiration_date": "25-oct-2020",
+        "epoch": 1635120000.0,
+        "expiration_date": "25-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "2ch.hk": {
@@ -15654,6 +15655,12 @@
     "laferia.cr": {
         "epoch": 1620604800.0,
         "expiration_date": "10-may-2021",
+        "state": "future"
+    },
+    "lalaziosiamonoi.it": {
+        "epoch": 1628035200.0,
+        "expiration_date": "04-aug-2021",
+        "server": "whois.nic.it",
         "state": "future"
     },
     "lameletters.com": {
