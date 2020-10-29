@@ -13235,8 +13235,9 @@
         "state": "future"
     },
     "howsmyssl.com": {
-        "epoch": 1603756800.0,
-        "expiration_date": "27-oct-2020",
+        "epoch": 1635292800.0,
+        "expiration_date": "27-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "howtogeek.com": {
@@ -21915,8 +21916,9 @@
         "state": "future"
     },
     "print2webcorp.com": {
-        "epoch": 1603670400.0,
-        "expiration_date": "26-oct-2020",
+        "epoch": 1635206400.0,
+        "expiration_date": "26-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "prisjakt.nu": {
@@ -27140,8 +27142,9 @@
         "state": "future"
     },
     "suedtirol.live": {
-        "epoch": 1603843200.0,
-        "expiration_date": "28-oct-2020",
+        "epoch": 1635379200.0,
+        "expiration_date": "28-oct-2021",
+        "server": "whois.nic.live",
         "state": "future"
     },
     "sugarcurtain.com": {
