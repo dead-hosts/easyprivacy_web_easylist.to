@@ -3103,10 +3103,10 @@
         "state": "future"
     },
     "autoretro.com.ua": {
-        "epoch": 1600300800.0,
-        "expiration_date": "17-sep-2020",
+        "epoch": 1634947200.0,
+        "expiration_date": "23-oct-2021",
         "server": "whois.ua",
-        "state": "past"
+        "state": "future"
     },
     "autosite.com": {
         "epoch": 1618876800.0,
@@ -10355,8 +10355,9 @@
         "state": "future"
     },
     "flashget.org": {
-        "epoch": 1603756800.0,
-        "expiration_date": "27-oct-2020",
+        "epoch": 1635292800.0,
+        "expiration_date": "27-oct-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "flashtalking.com": {
@@ -11459,8 +11460,9 @@
         "state": "future"
     },
     "gardenweb.com": {
-        "epoch": 1603756800.0,
-        "expiration_date": "27-oct-2020",
+        "epoch": 1635292800.0,
+        "expiration_date": "27-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "gasolina.ml": {
@@ -13220,8 +13222,9 @@
         "state": "future"
     },
     "houzz.com": {
-        "epoch": 1603929600.0,
-        "expiration_date": "29-oct-2020",
+        "epoch": 1635465600.0,
+        "expiration_date": "29-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "hoverstock.com": {
@@ -18745,8 +18748,9 @@
         "state": "future"
     },
     "mytravel.co.uk": {
-        "epoch": 1603929600.0,
-        "expiration_date": "29-oct-2020",
+        "epoch": 1635465600.0,
+        "expiration_date": "29-oct-2021",
+        "server": "whois.nic.uk",
         "state": "future"
     },
     "myusersonline.com": {
@@ -19416,8 +19420,9 @@
         "state": "future"
     },
     "nexon.net": {
-        "epoch": 1603929600.0,
-        "expiration_date": "29-oct-2020",
+        "epoch": 1635465600.0,
+        "expiration_date": "29-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "next.co.uk": {
@@ -26663,8 +26668,9 @@
         "state": "future"
     },
     "staticworld.net": {
-        "epoch": 1603929600.0,
-        "expiration_date": "29-oct-2020",
+        "epoch": 1635465600.0,
+        "expiration_date": "29-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "statig.com.br": {
