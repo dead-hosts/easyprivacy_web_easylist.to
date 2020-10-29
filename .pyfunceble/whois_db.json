@@ -3352,10 +3352,10 @@
         "state": "future"
     },
     "bachecaannunci.it": {
-        "epoch": 1602460800.0,
-        "expiration_date": "12-oct-2020",
+        "epoch": 1633996800.0,
+        "expiration_date": "12-oct-2021",
         "server": "whois.nic.it",
-        "state": "past"
+        "state": "future"
     },
     "bagbeam.com": {
         "epoch": 1630713600.0,
@@ -13425,8 +13425,9 @@
         "state": "future"
     },
     "huuto.net": {
-        "epoch": 1603843200.0,
-        "expiration_date": "28-oct-2020",
+        "epoch": 1635379200.0,
+        "expiration_date": "28-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "hwpub.com": {
@@ -30468,8 +30469,9 @@
         "state": "future"
     },
     "videopremium.tv": {
-        "epoch": 1603843200.0,
-        "expiration_date": "28-oct-2020",
+        "epoch": 1635379200.0,
+        "expiration_date": "28-oct-2021",
+        "server": "tvwhois.verisign-grs.com",
         "state": "future"
     },
     "videopress.com": {
@@ -32773,8 +32775,9 @@
         "state": "future"
     },
     "yuku.com": {
-        "epoch": 1603756800.0,
-        "expiration_date": "27-oct-2020",
+        "epoch": 1635292800.0,
+        "expiration_date": "27-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "yupptv.com": {
