@@ -4437,8 +4437,9 @@
         "state": "future"
     },
     "brandaffinity.net": {
-        "epoch": 1603929600.0,
-        "expiration_date": "29-oct-2020",
+        "epoch": 1635465600.0,
+        "expiration_date": "29-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "brandcdn.com": {
@@ -5222,8 +5223,9 @@
         "state": "future"
     },
     "cbsistatic.com": {
-        "epoch": 1603756800.0,
-        "expiration_date": "27-oct-2020",
+        "epoch": 1666828800.0,
+        "expiration_date": "27-oct-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "cbsnews.com": {
@@ -5533,8 +5535,9 @@
         "state": "future"
     },
     "chicoryapp.com": {
-        "epoch": 1603929600.0,
-        "expiration_date": "29-oct-2020",
+        "epoch": 1635465600.0,
+        "expiration_date": "29-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "china.com": {
@@ -11144,8 +11147,9 @@
         "state": "future"
     },
     "ftrack.ru": {
-        "epoch": 1603756800.0,
-        "expiration_date": "27-oct-2020",
+        "epoch": 1635292800.0,
+        "expiration_date": "27-oct-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "ftz.io": {
@@ -12378,8 +12382,9 @@
         "state": "future"
     },
     "gtop.ro": {
-        "epoch": 1603756800.0,
-        "expiration_date": "27-oct-2020",
+        "epoch": 1635292800.0,
+        "expiration_date": "27-oct-2021",
+        "server": "whois.rotld.ro",
         "state": "future"
     },
     "gtopstats.com": {
@@ -16570,8 +16575,9 @@
         "state": "future"
     },
     "lookit.cz": {
-        "epoch": 1603497600.0,
-        "expiration_date": "24-oct-2020",
+        "epoch": 1635033600.0,
+        "expiration_date": "24-oct-2021",
+        "server": "whois.nic.cz",
         "state": "future"
     },
     "lookmy.info": {
@@ -16868,8 +16874,9 @@
         "state": "future"
     },
     "macromill.com": {
-        "epoch": 1603843200.0,
-        "expiration_date": "28-oct-2020",
+        "epoch": 1635379200.0,
+        "expiration_date": "28-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "madnet.ru": {
@@ -19986,8 +19993,9 @@
         "state": "future"
     },
     "ohnorobot.com": {
-        "epoch": 1603843200.0,
-        "expiration_date": "28-oct-2020",
+        "epoch": 1635379200.0,
+        "expiration_date": "28-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "oidah.com": {
@@ -27249,8 +27257,9 @@
         "state": "future"
     },
     "superstat.info": {
-        "epoch": 1603670400.0,
-        "expiration_date": "26-oct-2020",
+        "epoch": 1635206400.0,
+        "expiration_date": "26-oct-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "superstats.com": {
