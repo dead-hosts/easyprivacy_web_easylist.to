@@ -941,8 +941,9 @@
         "state": "future"
     },
     "adblade.com": {
-        "epoch": 1604016000.0,
-        "expiration_date": "30-oct-2020",
+        "epoch": 1635552000.0,
+        "expiration_date": "30-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adblockmetrics.ru": {
@@ -2985,8 +2986,9 @@
         "state": "future"
     },
     "audrte.com": {
-        "epoch": 1604016000.0,
-        "expiration_date": "30-oct-2020",
+        "epoch": 1635552000.0,
+        "expiration_date": "30-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "audsp.com": {
@@ -4965,10 +4967,10 @@
         "state": "future"
     },
     "canddi.com": {
-        "epoch": 1603929600.0,
-        "expiration_date": "29-oct-2020",
+        "epoch": 1667001600.0,
+        "expiration_date": "29-oct-2022",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "candid.zone": {
         "epoch": 1608940800.0,
@@ -6349,8 +6351,9 @@
         "state": "future"
     },
     "commander1.com": {
-        "epoch": 1604016000.0,
-        "expiration_date": "30-oct-2020",
+        "epoch": 1635552000.0,
+        "expiration_date": "30-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "commentarymagazine.com": {
@@ -7488,10 +7491,10 @@
         "state": "future"
     },
     "dailycaller-alerts.com": {
-        "epoch": 1603843200.0,
-        "expiration_date": "28-oct-2020",
+        "epoch": 1635379200.0,
+        "expiration_date": "28-oct-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "dailymail.co.uk": {
         "epoch": 1844812800.0,
@@ -10113,8 +10116,9 @@
         "state": "future"
     },
     "fcs.ovh": {
-        "epoch": 1603238400.0,
-        "expiration_date": "21-oct-2020",
+        "epoch": 1634774400.0,
+        "expiration_date": "21-oct-2021",
+        "server": "whois-ovh.nic.fr",
         "state": "future"
     },
     "fdxstats.xyz": {
@@ -12913,8 +12917,9 @@
         "state": "future"
     },
     "hitslog.com": {
-        "epoch": 1604016000.0,
-        "expiration_date": "30-oct-2020",
+        "epoch": 1635552000.0,
+        "expiration_date": "30-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "hitsniffer.com": {
@@ -15211,8 +15216,9 @@
         "state": "future"
     },
     "kameleoon.com": {
-        "epoch": 1604016000.0,
-        "expiration_date": "30-oct-2020",
+        "epoch": 1667088000.0,
+        "expiration_date": "30-oct-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "kampyle.com": {
@@ -18871,6 +18877,12 @@
     "naptol.com": {
         "epoch": 1642377600.0,
         "expiration_date": "17-jan-2022",
+        "state": "future"
+    },
+    "narrativ.com": {
+        "epoch": 1621555200.0,
+        "expiration_date": "21-may-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "narutom.com": {
@@ -23552,8 +23564,9 @@
         "state": "future"
     },
     "revdn.net": {
-        "epoch": 1604016000.0,
-        "expiration_date": "30-oct-2020",
+        "epoch": 1635552000.0,
+        "expiration_date": "30-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "revenuepilot.com": {
