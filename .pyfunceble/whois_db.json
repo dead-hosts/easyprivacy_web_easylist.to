@@ -10245,8 +10245,9 @@
         "state": "future"
     },
     "filmaster.tv": {
-        "epoch": 1604016000.0,
-        "expiration_date": "30-oct-2020",
+        "epoch": 1635552000.0,
+        "expiration_date": "30-oct-2021",
+        "server": "tvwhois.verisign-grs.com",
         "state": "future"
     },
     "filmlinks4u.net": {
@@ -33009,6 +33010,12 @@
     "zillow.com": {
         "epoch": 1825891200.0,
         "expiration_date": "11-nov-2027",
+        "state": "future"
+    },
+    "zineone.com": {
+        "epoch": 1746748800.0,
+        "expiration_date": "09-may-2025",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "zipstat.dk": {
