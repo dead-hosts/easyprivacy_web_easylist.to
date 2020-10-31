@@ -8465,6 +8465,12 @@
         "expiration_date": "06-nov-2020",
         "state": "future"
     },
+    "dotaudiences.com": {
+        "epoch": 1617235200.0,
+        "expiration_date": "01-apr-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "dotmetrics.net": {
         "epoch": 1656633600.0,
         "expiration_date": "01-jul-2022",
@@ -10499,8 +10505,9 @@
         "state": "future"
     },
     "flux.com": {
-        "epoch": 1604016000.0,
-        "expiration_date": "30-oct-2020",
+        "epoch": 1635552000.0,
+        "expiration_date": "30-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "flx1.com": {
@@ -15761,8 +15768,9 @@
         "state": "future"
     },
     "laserstat.com": {
-        "epoch": 1604016000.0,
-        "expiration_date": "30-oct-2020",
+        "epoch": 1635552000.0,
+        "expiration_date": "30-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "laserveradedomaina.com": {
@@ -16554,8 +16562,9 @@
         "state": "future"
     },
     "logua.com": {
-        "epoch": 1604102400.0,
-        "expiration_date": "31-oct-2020",
+        "epoch": 1635638400.0,
+        "expiration_date": "31-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "logxp.ru": {
@@ -17265,8 +17274,9 @@
         "state": "future"
     },
     "mcloudglobal.com": {
-        "epoch": 1604102400.0,
-        "expiration_date": "31-oct-2020",
+        "epoch": 1698710400.0,
+        "expiration_date": "31-oct-2023",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mcssl.com": {
@@ -22706,6 +22716,12 @@
     "qzlog.com": {
         "epoch": 1616284800.0,
         "expiration_date": "21-mar-2021",
+        "state": "future"
+    },
+    "qzzr.com": {
+        "epoch": 1757808000.0,
+        "expiration_date": "14-sep-2025",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "r24-tech.com": {
