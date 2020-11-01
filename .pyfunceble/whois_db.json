@@ -15585,8 +15585,9 @@
         "state": "future"
     },
     "kommersant.ru": {
-        "epoch": 1604188800.0,
-        "expiration_date": "01-nov-2020",
+        "epoch": 1635724800.0,
+        "expiration_date": "01-nov-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "kommersant.uk": {
@@ -30487,7 +30488,8 @@
     "videogame.it": {
         "epoch": 1604016000.0,
         "expiration_date": "30-oct-2020",
-        "state": "future"
+        "server": "whois.nic.it",
+        "state": "past"
     },
     "videoly.co": {
         "epoch": 1625184000.0,
@@ -30984,7 +30986,8 @@
     "volkswagen-italia.it": {
         "epoch": 1604016000.0,
         "expiration_date": "30-oct-2020",
-        "state": "future"
+        "server": "whois.nic.it",
+        "state": "past"
     },
     "vologda-info.ru": {
         "epoch": 1623974400.0,
