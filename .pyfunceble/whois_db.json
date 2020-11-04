@@ -604,8 +604,9 @@
         "state": "future"
     },
     "aapsis.com": {
-        "epoch": 1604188800.0,
-        "expiration_date": "01-nov-2020",
+        "epoch": 1635724800.0,
+        "expiration_date": "01-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aaxdetect.com": {
@@ -1586,8 +1587,9 @@
         "state": "future"
     },
     "agilone.com": {
-        "epoch": 1604275200.0,
-        "expiration_date": "02-nov-2020",
+        "epoch": 1667347200.0,
+        "expiration_date": "02-nov-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "agkn.com": {
@@ -1783,8 +1785,9 @@
         "state": "future"
     },
     "alexacdn.com": {
-        "epoch": 1604361600.0,
-        "expiration_date": "03-nov-2020",
+        "epoch": 1635897600.0,
+        "expiration_date": "03-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "alexametrics.com": {
@@ -5894,8 +5897,9 @@
         "state": "future"
     },
     "clicksagent.com": {
-        "epoch": 1604188800.0,
-        "expiration_date": "01-nov-2020",
+        "epoch": 1635724800.0,
+        "expiration_date": "01-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "clicksen.se": {
@@ -7537,8 +7541,9 @@
         "state": "future"
     },
     "dapxl.com": {
-        "epoch": 1604361600.0,
-        "expiration_date": "03-nov-2020",
+        "epoch": 1635897600.0,
+        "expiration_date": "03-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "dashboard.io": {
@@ -7652,7 +7657,8 @@
     "datvantage.com": {
         "epoch": 1604448000.0,
         "expiration_date": "04-nov-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "daum.net": {
         "epoch": 1614988800.0,
@@ -9129,8 +9135,9 @@
         "state": "future"
     },
     "eluxer.net": {
-        "epoch": 1604361600.0,
-        "expiration_date": "03-nov-2020",
+        "epoch": 1635897600.0,
+        "expiration_date": "03-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "email-match.com": {
@@ -10220,8 +10227,9 @@
         "state": "future"
     },
     "fiksu.com": {
-        "epoch": 1604361600.0,
-        "expiration_date": "03-nov-2020",
+        "epoch": 1635897600.0,
+        "expiration_date": "03-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "files-hawk.co.uk": {
@@ -10830,8 +10838,9 @@
         "state": "future"
     },
     "free-website-hit-counters.com": {
-        "epoch": 1604448000.0,
-        "expiration_date": "04-nov-2020",
+        "epoch": 1635984000.0,
+        "expiration_date": "04-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "free-website-statistics.com": {
@@ -11697,7 +11706,8 @@
     "getdrip.com": {
         "epoch": 1604448000.0,
         "expiration_date": "04-nov-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "getfreebl.com": {
         "epoch": 1631145600.0,
@@ -11922,7 +11932,8 @@
     "globalviptraffic.com": {
         "epoch": 1604448000.0,
         "expiration_date": "04-nov-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "globalwebindex.net": {
         "epoch": 1765670400.0,
@@ -12850,8 +12861,9 @@
         "state": "future"
     },
     "hit-counter-download.com": {
-        "epoch": 1604448000.0,
-        "expiration_date": "04-nov-2020",
+        "epoch": 1635984000.0,
+        "expiration_date": "04-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "hit-counter.info": {
@@ -13456,8 +13468,9 @@
         "state": "future"
     },
     "hwpub.com": {
-        "epoch": 1604188800.0,
-        "expiration_date": "01-nov-2020",
+        "epoch": 1635724800.0,
+        "expiration_date": "01-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "hwscdn.com": {
@@ -13662,8 +13675,9 @@
         "state": "future"
     },
     "idtargeting.com": {
-        "epoch": 1604275200.0,
-        "expiration_date": "02-nov-2020",
+        "epoch": 1635811200.0,
+        "expiration_date": "02-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "iesnare.com": {
@@ -16035,8 +16049,9 @@
         "state": "future"
     },
     "les-experts.com": {
-        "epoch": 1604188800.0,
-        "expiration_date": "01-nov-2020",
+        "epoch": 1635724800.0,
+        "expiration_date": "01-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "letitbit.net": {
@@ -16823,16 +16838,19 @@
     "lyngro.com": {
         "epoch": 1604448000.0,
         "expiration_date": "04-nov-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "lypn.com": {
-        "epoch": 1604448000.0,
-        "expiration_date": "04-nov-2020",
+        "epoch": 1635984000.0,
+        "expiration_date": "04-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "lypn.net": {
-        "epoch": 1604448000.0,
-        "expiration_date": "04-nov-2020",
+        "epoch": 1635984000.0,
+        "expiration_date": "04-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "lytics.io": {
@@ -18187,8 +18205,9 @@
         "state": "future"
     },
     "monstat.com": {
-        "epoch": 1604361600.0,
-        "expiration_date": "03-nov-2020",
+        "epoch": 1635897600.0,
+        "expiration_date": "03-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "monstercrawler.com": {
@@ -18505,14 +18524,16 @@
         "state": "future"
     },
     "mutinyhq.io": {
-        "epoch": 1604275200.0,
-        "expiration_date": "02-nov-2020",
+        "epoch": 1635811200.0,
+        "expiration_date": "02-nov-2021",
+        "server": "whois.nic.io",
         "state": "future"
     },
     "mvilivestats.com": {
         "epoch": 1604361600.0,
         "expiration_date": "03-nov-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "mvtracker.com": {
         "epoch": 1629936000.0,
@@ -19405,8 +19426,9 @@
         "state": "future"
     },
     "newscurve.com": {
-        "epoch": 1604188800.0,
-        "expiration_date": "01-nov-2020",
+        "epoch": 1635724800.0,
+        "expiration_date": "01-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "newsdeutschland.com": {
