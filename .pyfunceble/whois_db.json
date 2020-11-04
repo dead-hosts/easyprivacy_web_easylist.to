@@ -178,8 +178,9 @@
         "state": "future"
     },
     "24log.ru": {
-        "epoch": 1604361600.0,
-        "expiration_date": "03-nov-2020",
+        "epoch": 1635897600.0,
+        "expiration_date": "03-nov-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "24option.com": {
@@ -523,7 +524,8 @@
     "9fine.ru": {
         "epoch": 1604448000.0,
         "expiration_date": "04-nov-2020",
-        "state": "future"
+        "server": "whois.tcinet.ru",
+        "state": "past"
     },
     "9juj88.com": {
         "epoch": 1609113600.0,
@@ -12596,8 +12598,9 @@
         "state": "future"
     },
     "hasbro.com": {
-        "epoch": 1604188800.0,
-        "expiration_date": "01-nov-2020",
+        "epoch": 1667260800.0,
+        "expiration_date": "01-nov-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "hashcoin.co": {
@@ -14710,8 +14713,9 @@
         "state": "future"
     },
     "irs09.com": {
-        "epoch": 1604361600.0,
-        "expiration_date": "03-nov-2020",
+        "epoch": 1667433600.0,
+        "expiration_date": "03-nov-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "iryazan.ru": {
@@ -16208,8 +16212,9 @@
         "state": "future"
     },
     "linkedin.com": {
-        "epoch": 1604275200.0,
-        "expiration_date": "02-nov-2020",
+        "epoch": 1667347200.0,
+        "expiration_date": "02-nov-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "linkifier.com": {
@@ -16285,8 +16290,9 @@
         "state": "future"
     },
     "listtop.ru": {
-        "epoch": 1604448000.0,
-        "expiration_date": "04-nov-2020",
+        "epoch": 1635984000.0,
+        "expiration_date": "04-nov-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "litix.io": {
@@ -16824,8 +16830,9 @@
         "state": "future"
     },
     "lwadm.com": {
-        "epoch": 1604188800.0,
-        "expiration_date": "01-nov-2020",
+        "epoch": 1635724800.0,
+        "expiration_date": "01-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "lxtrack.com": {
@@ -16991,8 +16998,9 @@
         "state": "future"
     },
     "mail.ru": {
-        "epoch": 1604188800.0,
-        "expiration_date": "01-nov-2020",
+        "epoch": 1635724800.0,
+        "expiration_date": "01-nov-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "mailstat.us": {
@@ -19641,8 +19649,9 @@
         "state": "future"
     },
     "nitropay.com": {
-        "epoch": 1604448000.0,
-        "expiration_date": "04-nov-2020",
+        "epoch": 1635984000.0,
+        "expiration_date": "04-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "nj.com": {
@@ -20404,8 +20413,9 @@
         "state": "future"
     },
     "opentracking.ru": {
-        "epoch": 1604448000.0,
-        "expiration_date": "04-nov-2020",
+        "epoch": 1635984000.0,
+        "expiration_date": "04-nov-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "openuniversity.co.uk": {
@@ -31256,8 +31266,9 @@
         "state": "future"
     },
     "way2traffic.com": {
-        "epoch": 1604448000.0,
-        "expiration_date": "04-nov-2020",
+        "epoch": 1635984000.0,
+        "expiration_date": "04-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "wbdx.fr": {
