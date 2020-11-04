@@ -16057,8 +16057,9 @@
         "state": "future"
     },
     "leparking.fr": {
-        "epoch": 1604275200.0,
-        "expiration_date": "02-nov-2020",
+        "epoch": 1635811200.0,
+        "expiration_date": "02-nov-2021",
+        "server": "whois.nic.fr",
         "state": "future"
     },
     "les-experts.com": {
@@ -19888,8 +19889,9 @@
         "state": "future"
     },
     "nymag.com": {
-        "epoch": 1604188800.0,
-        "expiration_date": "01-nov-2020",
+        "epoch": 1635724800.0,
+        "expiration_date": "01-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "nyse.com": {
@@ -32552,8 +32554,9 @@
         "state": "future"
     },
     "yahoo.net": {
-        "epoch": 1604361600.0,
-        "expiration_date": "03-nov-2020",
+        "epoch": 1635897600.0,
+        "expiration_date": "03-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "yahooapis.com": {
