@@ -2311,8 +2311,9 @@
         "state": "future"
     },
     "anntaylor.com": {
-        "epoch": 1604275200.0,
-        "expiration_date": "02-nov-2020",
+        "epoch": 1635811200.0,
+        "expiration_date": "02-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "anonymousdmp.com": {
@@ -2430,8 +2431,9 @@
         "state": "future"
     },
     "apartments.com": {
-        "epoch": 1604361600.0,
-        "expiration_date": "03-nov-2020",
+        "epoch": 1635897600.0,
+        "expiration_date": "03-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "apartmenttherapy.com": {
@@ -8529,8 +8531,9 @@
         "state": "future"
     },
     "dragonstatic.com": {
-        "epoch": 1604188800.0,
-        "expiration_date": "01-nov-2020",
+        "epoch": 1635724800.0,
+        "expiration_date": "01-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "dreamhost.com": {
@@ -10536,8 +10539,9 @@
         "state": "future"
     },
     "flyasiana.com": {
-        "epoch": 1604275200.0,
-        "expiration_date": "02-nov-2020",
+        "epoch": 1635811200.0,
+        "expiration_date": "02-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "flybmi.com": {
@@ -10838,8 +10842,9 @@
         "state": "future"
     },
     "free-tv-video-online.me": {
-        "epoch": 1604448000.0,
-        "expiration_date": "04-nov-2020",
+        "epoch": 1635984000.0,
+        "expiration_date": "04-nov-2021",
+        "server": "whois.nic.me",
         "state": "future"
     },
     "free-website-hit-counters.com": {
@@ -13945,8 +13950,9 @@
         "state": "future"
     },
     "independentmail.com": {
-        "epoch": 1604448000.0,
-        "expiration_date": "04-nov-2020",
+        "epoch": 1635984000.0,
+        "expiration_date": "04-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "index.ru": {
@@ -16129,8 +16135,9 @@
         "state": "future"
     },
     "life.com": {
-        "epoch": 1604188800.0,
-        "expiration_date": "01-nov-2020",
+        "epoch": 1635724800.0,
+        "expiration_date": "01-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ligatus.com": {
