@@ -25470,8 +25470,9 @@
         "state": "future"
     },
     "sitebooster.com": {
-        "epoch": 1604275200.0,
-        "expiration_date": "02-nov-2020",
+        "epoch": 1635811200.0,
+        "expiration_date": "02-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "sitebot.cn": {
@@ -32580,8 +32581,9 @@
         "state": "future"
     },
     "yandex.ru": {
-        "epoch": 1604188800.0,
-        "expiration_date": "01-nov-2020",
+        "epoch": 1635724800.0,
+        "expiration_date": "01-nov-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "yarpp.org": {

@@ -16,9 +16,16 @@ collect.*.miui.com                                                              
 collector-*.elb.amazonaws.com                                                                        SYNTAX     XXX        2020-11-04T02:11:31.442110
 collector-*.tvsquared.com                                                                            SYNTAX     XXX        2020-11-04T02:11:31.449530
 datacollect*.abtasty.com                                                                             SYNTAX     XXX        2020-11-04T02:11:32.125204
+etwun.com:8080                                                                                       SYNTAX     XXX        2020-11-04T02:57:42.565169
 facebook.com*                                                                                        SYNTAX     XXX        2020-11-04T02:11:32.618010
 hits-*.iubenda.com                                                                                   SYNTAX     XXX        2020-11-04T02:11:33.225569
 log-*.previewnetworks.com                                                                            SYNTAX     XXX        2020-11-04T02:11:33.948068
 mcdp-*.outbrain.com                                                                                  SYNTAX     XXX        2020-11-04T02:11:34.368039
 metro-trending-*.amazonaws.com                                                                       SYNTAX     XXX        2020-11-04T02:11:34.496721
+stats2.*.fdnames.com                                                                                 SYNTAX     XXX        2020-11-04T02:57:43.400908
+targeting.*.arcpublishing.com                                                                        SYNTAX     XXX        2020-11-04T02:57:39.086634
+tracker.twenga.                                                                                      SYNTAX     XXX        2020-11-04T02:57:39.548069
+tracking.*.miui.com                                                                                  SYNTAX     XXX        2020-11-04T02:57:39.581624
 tracking*.euroads.fi                                                                                 SYNTAX     XXX        2020-11-04T02:11:27.754134
+vtnlog-*.elb.amazonaws.com                                                                           SYNTAX     XXX        2020-11-04T02:57:40.399325
+yandex.*                                                                                             SYNTAX     XXX        2020-11-04T02:57:40.672054
