@@ -1799,8 +1799,8 @@
         "state": "future"
     },
     "alfemminile.com": {
-        "epoch": 1604534400.0,
-        "expiration_date": "05-nov-2020",
+        "epoch": 1636070400.0,
+        "expiration_date": "05-nov-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -10810,8 +10810,9 @@
         "state": "future"
     },
     "franceculture.fr": {
-        "epoch": 1604707200.0,
-        "expiration_date": "07-nov-2020",
+        "epoch": 1636243200.0,
+        "expiration_date": "07-nov-2021",
+        "server": "whois.nic.fr",
         "state": "future"
     },
     "frandroid.com": {
@@ -12610,7 +12611,8 @@
     "hardware-infos.com": {
         "epoch": 1604707200.0,
         "expiration_date": "07-nov-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "hardware.info": {
         "epoch": 1627689600.0,
@@ -18488,10 +18490,10 @@
         "state": "future"
     },
     "mtv.it": {
-        "epoch": 1603152000.0,
-        "expiration_date": "20-oct-2020",
+        "epoch": 1634688000.0,
+        "expiration_date": "20-oct-2021",
         "server": "whois.nic.it",
-        "state": "past"
+        "state": "future"
     },
     "mtv3.fi": {
         "epoch": 1693440000.0,

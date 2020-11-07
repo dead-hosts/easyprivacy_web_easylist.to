@@ -27,6 +27,7 @@ collector*.xhamster.                                                            
 compare.easyvoyage.                                                                                  SYNTAX     XXX        2020-11-07T01:13:50.251202
 creativefactory.zalando.                                                                             SYNTAX     XXX        2020-11-07T01:13:50.420062
 datacollect*.abtasty.com                                                                             SYNTAX     XXX        2020-11-07T00:21:21.268022
+ea.laredoute.                                                                                        SYNTAX     XXX        2020-11-07T01:35:37.590728
 encrypted.google.*                                                                                   SYNTAX     XXX        2020-11-07T01:13:51.210093
 equirodi.*                                                                                           SYNTAX     XXX        2020-11-07T01:13:51.272616
 etwun.com:8080                                                                                       SYNTAX     XXX        2020-11-07T00:49:48.445991
@@ -34,6 +35,7 @@ expedia.*                                                                       
 expedia.*                                                                                            SYNTAX     XXX        2020-11-07T01:13:51.474353
 expedia.*                                                                                            SYNTAX     XXX        2020-11-07T01:13:51.480182
 facebook.com*                                                                                        SYNTAX     XXX        2020-11-07T00:21:21.774358
+flashx.*                                                                                             SYNTAX     XXX        2020-11-07T01:35:38.493024
 fls-*.amazon.*%                                                                                      SYNTAX     XXX        2020-11-07T01:13:51.854639
 fls-*.amazon.*&                                                                                      SYNTAX     XXX        2020-11-07T01:13:51.865754
 gismeteo.*                                                                                           SYNTAX     XXX        2020-11-07T01:13:52.447400
@@ -54,6 +56,7 @@ kayak.*                                                                         
 kayak.*                                                                                              SYNTAX     XXX        2020-11-07T01:13:53.657450
 lcs.naver.                                                                                           SYNTAX     XXX        2020-11-07T01:13:53.815384
 linguee.com*                                                                                         SYNTAX     XXX        2020-11-07T01:13:53.889547
+log*.ku6.com                                                                                         SYNTAX     XXX        2020-11-07T01:35:42.251090
 log-*.previewnetworks.com                                                                            SYNTAX     XXX        2020-11-07T00:21:23.011740
 logger-*.dailymotion.com                                                                             SYNTAX     XXX        2020-11-07T01:13:54.094322
 mcdp-*.outbrain.com                                                                                  SYNTAX     XXX        2020-11-07T00:21:23.386675
@@ -62,12 +65,15 @@ metro-trending-*.amazonaws.com                                                  
 pixel.archive.                                                                                       SYNTAX     XXX        2020-11-07T01:13:56.367158
 pulsar.ebay.                                                                                         SYNTAX     XXX        2020-11-07T01:13:56.776312
 rover.ebay.                                                                                          SYNTAX     XXX        2020-11-07T01:13:57.347472
+sapo.*                                                                                               SYNTAX     XXX        2020-11-07T01:35:45.050243
+site.flashx.                                                                                         SYNTAX     XXX        2020-11-07T01:35:38.507106
 skyscanner.*                                                                                         SYNTAX     XXX        2020-11-07T01:13:58.015768
 skyscanner.*                                                                                         SYNTAX     XXX        2020-11-07T01:13:58.028773
 startpage.*                                                                                          SYNTAX     XXX        2020-11-07T01:13:59.087158
 startpage.*                                                                                          SYNTAX     XXX        2020-11-07T01:13:59.093752
 startpage.*                                                                                          SYNTAX     XXX        2020-11-07T01:13:59.100161
 startpage.*                                                                                          SYNTAX     XXX        2020-11-07T01:13:59.106812
+stat.*.v-56.com                                                                                      SYNTAX     XXX        2020-11-07T01:35:42.698497
 stats2.*.fdnames.com                                                                                 SYNTAX     XXX        2020-11-07T00:49:49.361535
 stats-*.p2pnow.ru                                                                                    SYNTAX     XXX        2020-11-07T00:49:50.533360
 t.delfi.                                                                                             SYNTAX     XXX        2020-11-07T01:13:59.778531
@@ -79,5 +85,15 @@ tracker.twenga.                                                                 
 tracking.*.miui.com                                                                                  SYNTAX     XXX        2020-11-07T00:49:45.360187
 tracking*.euroads.fi                                                                                 SYNTAX     XXX        2020-11-06T23:48:54.676782
 tracking.olx.                                                                                        SYNTAX     XXX        2020-11-07T01:14:00.992640
+tripadvisor.*                                                                                        SYNTAX     XXX        2020-11-07T01:35:33.637407
+ts.delfi.                                                                                            SYNTAX     XXX        2020-11-07T01:35:33.728105
+unagi.amazon.*                                                                                       SYNTAX     XXX        2020-11-07T01:35:33.927438
+unagi-eu.amazon.*                                                                                    SYNTAX     XXX        2020-11-07T01:35:33.921264
+vice.com*                                                                                            SYNTAX     XXX        2020-11-07T01:35:34.192199
+vice.com*                                                                                            SYNTAX     XXX        2020-11-07T01:35:34.205014
 vtnlog-*.elb.amazonaws.com                                                                           SYNTAX     XXX        2020-11-07T00:49:46.169577
+wawacity.*                                                                                           SYNTAX     XXX        2020-11-07T01:35:41.592987
+www.google.*                                                                                         SYNTAX     XXX        2020-11-07T01:35:35.022710
+www.imdb.*                                                                                           SYNTAX     XXX        2020-11-07T01:35:35.029291
 yandex.*                                                                                             SYNTAX     XXX        2020-11-07T00:49:46.487899
+yelp.*                                                                                               SYNTAX     XXX        2020-11-07T01:35:35.283578
