@@ -6498,8 +6498,9 @@
         "state": "future"
     },
     "connatix.com": {
-        "epoch": 1604620800.0,
-        "expiration_date": "06-nov-2020",
+        "epoch": 1636156800.0,
+        "expiration_date": "06-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "connectif.cloud": {
@@ -8785,8 +8786,9 @@
         "state": "future"
     },
     "e-pagerank.fr": {
-        "epoch": 1604620800.0,
-        "expiration_date": "06-nov-2020",
+        "epoch": 1636156800.0,
+        "expiration_date": "06-nov-2021",
+        "server": "whois.nic.fr",
         "state": "future"
     },
     "e-pagerank.net": {
@@ -18418,7 +18420,8 @@
     "mrwebmaster.it": {
         "epoch": 1604534400.0,
         "expiration_date": "05-nov-2020",
-        "state": "future"
+        "server": "whois.nic.it",
+        "state": "past"
     },
     "mrycrypto.com": {
         "epoch": 1620086400.0,
@@ -23000,10 +23003,10 @@
         "state": "future"
     },
     "rcsmetrics.it": {
-        "epoch": 1603152000.0,
-        "expiration_date": "20-oct-2020",
+        "epoch": 1634688000.0,
+        "expiration_date": "20-oct-2021",
         "server": "whois.nic.it",
-        "state": "past"
+        "state": "future"
     },
     "rcsobjects.it": {
         "epoch": 1628121600.0,
