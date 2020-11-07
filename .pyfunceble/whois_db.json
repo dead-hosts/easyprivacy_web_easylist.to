@@ -2191,8 +2191,9 @@
         "state": "future"
     },
     "analyticsip.net": {
-        "epoch": 1604707200.0,
-        "expiration_date": "07-nov-2020",
+        "epoch": 1636243200.0,
+        "expiration_date": "07-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "analyticson.com": {
@@ -3841,8 +3842,9 @@
         "state": "future"
     },
     "bidderrtb.com": {
-        "epoch": 1604707200.0,
-        "expiration_date": "07-nov-2020",
+        "epoch": 1611532800.0,
+        "expiration_date": "25-jan-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "bidr.io": {
@@ -14393,8 +14395,9 @@
         "state": "future"
     },
     "intergid.ru": {
-        "epoch": 1604620800.0,
-        "expiration_date": "06-nov-2020",
+        "epoch": 1636156800.0,
+        "expiration_date": "06-nov-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "intergient.com": {
@@ -16921,8 +16924,9 @@
         "state": "future"
     },
     "m30w.net": {
-        "epoch": 1604620800.0,
-        "expiration_date": "06-nov-2020",
+        "epoch": 1636156800.0,
+        "expiration_date": "06-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "m6web.fr": {
