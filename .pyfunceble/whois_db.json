@@ -2250,8 +2250,9 @@
         "state": "future"
     },
     "androidcommunity.com": {
-        "epoch": 1604534400.0,
-        "expiration_date": "05-nov-2020",
+        "epoch": 1793836800.0,
+        "expiration_date": "05-nov-2026",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "androidfilehost.com": {
@@ -5611,8 +5612,9 @@
         "state": "future"
     },
     "chud.com": {
-        "epoch": 1604707200.0,
-        "expiration_date": "07-nov-2020",
+        "epoch": 1636243200.0,
+        "expiration_date": "07-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "cifraclub.com.br": {
@@ -7921,8 +7923,9 @@
         "state": "future"
     },
     "depositfiles.com": {
-        "epoch": 1604534400.0,
-        "expiration_date": "05-nov-2020",
+        "epoch": 1636070400.0,
+        "expiration_date": "05-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "deqwas.net": {
@@ -10240,8 +10243,9 @@
         "state": "future"
     },
     "fightforthefuture.org": {
-        "epoch": 1604534400.0,
-        "expiration_date": "05-nov-2020",
+        "epoch": 1636070400.0,
+        "expiration_date": "05-nov-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "fiksu.com": {
@@ -14856,8 +14860,9 @@
         "state": "future"
     },
     "itv.com": {
-        "epoch": 1604102400.0,
-        "expiration_date": "31-oct-2020",
+        "epoch": 1635638400.0,
+        "expiration_date": "31-oct-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "itweb.co.za": {
@@ -19446,8 +19451,9 @@
         "state": "future"
     },
     "news9.com": {
-        "epoch": 1604534400.0,
-        "expiration_date": "05-nov-2020",
+        "epoch": 1699142400.0,
+        "expiration_date": "05-nov-2023",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "newsarama.com": {
@@ -20779,8 +20785,9 @@
         "state": "future"
     },
     "pages03.net": {
-        "epoch": 1604620800.0,
-        "expiration_date": "06-nov-2020",
+        "epoch": 1636156800.0,
+        "expiration_date": "06-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "pages05.net": {
@@ -27770,8 +27777,9 @@
         "state": "future"
     },
     "tcpalm.com": {
-        "epoch": 1604620800.0,
-        "expiration_date": "06-nov-2020",
+        "epoch": 1636156800.0,
+        "expiration_date": "06-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "tctm.co": {
