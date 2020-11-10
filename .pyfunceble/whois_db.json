@@ -5987,7 +5987,8 @@
     "clipsyndicate.com": {
         "epoch": 1604880000.0,
         "expiration_date": "09-nov-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "clixcount.com": {
         "epoch": 1633910400.0,
@@ -11891,8 +11892,9 @@
         "state": "future"
     },
     "giosg.com": {
-        "epoch": 1604966400.0,
-        "expiration_date": "10-nov-2020",
+        "epoch": 1636502400.0,
+        "expiration_date": "10-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "giphy.com": {
@@ -13216,8 +13218,9 @@
         "state": "past"
     },
     "hostingtoolbox.com": {
-        "epoch": 1604880000.0,
-        "expiration_date": "09-nov-2020",
+        "epoch": 1636416000.0,
+        "expiration_date": "09-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "hostip.info": {
@@ -13873,10 +13876,10 @@
         "state": "future"
     },
     "imetrix.it": {
-        "epoch": 1603584000.0,
-        "expiration_date": "25-oct-2020",
+        "epoch": 1635120000.0,
+        "expiration_date": "25-oct-2021",
         "server": "whois.nic.it",
-        "state": "past"
+        "state": "future"
     },
     "imgfarm.com": {
         "epoch": 1636675200.0,
@@ -19255,7 +19258,8 @@
     "nepohita.com": {
         "epoch": 1604880000.0,
         "expiration_date": "09-nov-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "ner-de-mi-nis-6.info": {
         "epoch": 1607040000.0,
@@ -23904,8 +23908,9 @@
         "state": "future"
     },
     "ritogaga.com": {
-        "epoch": 1604880000.0,
-        "expiration_date": "09-nov-2020",
+        "epoch": 1611792000.0,
+        "expiration_date": "28-jan-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ritzcarlton.com": {
