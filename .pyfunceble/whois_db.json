@@ -1784,7 +1784,8 @@
     "alertme.news": {
         "epoch": 1604966400.0,
         "expiration_date": "10-nov-2020",
-        "state": "future"
+        "server": "whois.nic.news",
+        "state": "past"
     },
     "alexa.com": {
         "epoch": 1721088000.0,
@@ -2811,6 +2812,12 @@
     "astrology.com": {
         "epoch": 1766361600.0,
         "expiration_date": "22-dec-2025",
+        "state": "future"
+    },
+    "aswpsdkeu.com": {
+        "epoch": 1682899200.0,
+        "expiration_date": "01-may-2023",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aswpsdkus.com": {
@@ -22483,8 +22490,9 @@
         "state": "future"
     },
     "pushbird.com": {
-        "epoch": 1604793600.0,
-        "expiration_date": "08-nov-2020",
+        "epoch": 1636329600.0,
+        "expiration_date": "08-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "pushbullet.com": {
@@ -26419,7 +26427,8 @@
     "splittag.com": {
         "epoch": 1604880000.0,
         "expiration_date": "09-nov-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "splurgi.com": {
         "epoch": 1605312000.0,
@@ -26490,7 +26499,8 @@
     "spotmx.com": {
         "epoch": 1604880000.0,
         "expiration_date": "09-nov-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "spottednoise.com": {
         "epoch": 1611619200.0,
@@ -27581,10 +27591,10 @@
         "state": "future"
     },
     "synergy-e.com": {
-        "epoch": 1604620800.0,
-        "expiration_date": "06-nov-2020",
+        "epoch": 1667692800.0,
+        "expiration_date": "06-nov-2022",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "synerise.com": {
         "epoch": 1670716800.0,
@@ -28967,6 +28977,12 @@
     "trackmethod.com": {
         "epoch": 1632268800.0,
         "expiration_date": "22-sep-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "trackmstr.com": {
+        "epoch": 1613692800.0,
+        "expiration_date": "19-feb-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -30497,6 +30513,12 @@
         "expiration_date": "28-jul-2021",
         "state": "future"
     },
+    "vercel-analytics.com": {
+        "epoch": 1631923200.0,
+        "expiration_date": "18-sep-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "verifier.live": {
         "epoch": 1624665600.0,
         "expiration_date": "26-jun-2021",
@@ -31627,7 +31649,8 @@
     "webmining.co": {
         "epoch": 1604793600.0,
         "expiration_date": "08-nov-2020",
-        "state": "future"
+        "server": "whois.nic.co",
+        "state": "past"
     },
     "webmonkey.com": {
         "epoch": 1619308800.0,
@@ -32060,8 +32083,9 @@
         "state": "future"
     },
     "wikiodeliv.com": {
-        "epoch": 1604880000.0,
-        "expiration_date": "09-nov-2020",
+        "epoch": 1636416000.0,
+        "expiration_date": "09-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "wikipedia.org": {
