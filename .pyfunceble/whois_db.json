@@ -3449,8 +3449,9 @@
         "state": "future"
     },
     "bankinter.com": {
-        "epoch": 1604880000.0,
-        "expiration_date": "09-nov-2020",
+        "epoch": 1636416000.0,
+        "expiration_date": "09-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "bankofamerica.com": {
@@ -12635,10 +12636,10 @@
         "state": "future"
     },
     "hardware-infos.com": {
-        "epoch": 1604707200.0,
-        "expiration_date": "07-nov-2020",
+        "epoch": 1636243200.0,
+        "expiration_date": "07-nov-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "hardware.info": {
         "epoch": 1627689600.0,
@@ -15122,7 +15123,8 @@
     "joka.it": {
         "epoch": 1604966400.0,
         "expiration_date": "10-nov-2020",
-        "state": "future"
+        "server": "whois.nic.it",
+        "state": "past"
     },
     "jokeroo.com": {
         "epoch": 1611014400.0,
@@ -16097,8 +16099,9 @@
         "state": "future"
     },
     "lemde.fr": {
-        "epoch": 1604966400.0,
-        "expiration_date": "10-nov-2020",
+        "epoch": 1636502400.0,
+        "expiration_date": "10-nov-2021",
+        "server": "whois.nic.fr",
         "state": "future"
     },
     "lendingtree.com": {
@@ -16114,6 +16117,12 @@
     "leokross.com": {
         "epoch": 1607126400.0,
         "expiration_date": "05-dec-2020",
+        "state": "future"
+    },
+    "leparking-moto.fr": {
+        "epoch": 1606435200.0,
+        "expiration_date": "27-nov-2020",
+        "server": "whois.nic.fr",
         "state": "future"
     },
     "leparking.fr": {
@@ -29669,10 +29678,10 @@
         "state": "future"
     },
     "tuttogratis.it": {
-        "epoch": 1603411200.0,
-        "expiration_date": "23-oct-2020",
+        "epoch": 1634947200.0,
+        "expiration_date": "23-oct-2021",
         "server": "whois.nic.it",
-        "state": "past"
+        "state": "future"
     },
     "tuttomercatoweb.com": {
         "epoch": 1608249600.0,
