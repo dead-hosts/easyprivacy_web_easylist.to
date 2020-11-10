@@ -16,6 +16,15 @@ collect.*.miui.com                                                              
 collector-*.elb.amazonaws.com                                                                        SYNTAX     XXX        2020-11-10T03:09:12.711822
 collector-*.tvsquared.com                                                                            SYNTAX     XXX        2020-11-10T03:09:12.718571
 datacollect*.abtasty.com                                                                             SYNTAX     XXX        2020-11-10T03:09:13.330072
+etwun.com:8080                                                                                       SYNTAX     XXX        2020-11-10T04:05:20.308260
 facebook.com*                                                                                        SYNTAX     XXX        2020-11-10T03:09:13.759254
 hits-*.iubenda.com                                                                                   SYNTAX     XXX        2020-11-10T03:09:14.326295
+log-*.previewnetworks.com                                                                            SYNTAX     XXX        2020-11-10T04:05:14.118822
+mcdp-*.outbrain.com                                                                                  SYNTAX     XXX        2020-11-10T04:05:14.420017
+metro-trending-*.amazonaws.com                                                                       SYNTAX     XXX        2020-11-10T04:05:14.545939
+targeting.*.arcpublishing.com                                                                        SYNTAX     XXX        2020-11-10T04:05:16.903437
+tracker.twenga.                                                                                      SYNTAX     XXX        2020-11-10T04:05:17.422552
+tracking.*.miui.com                                                                                  SYNTAX     XXX        2020-11-10T04:05:17.445126
 tracking*.euroads.fi                                                                                 SYNTAX     XXX        2020-11-10T03:09:09.428152
+vtnlog-*.elb.amazonaws.com                                                                           SYNTAX     XXX        2020-11-10T04:05:18.239577
+yandex.*                                                                                             SYNTAX     XXX        2020-11-10T04:05:18.513410

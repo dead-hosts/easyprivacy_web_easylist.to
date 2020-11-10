@@ -16313,7 +16313,8 @@
     "linkwithin.com": {
         "epoch": 1604966400.0,
         "expiration_date": "10-nov-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "linkxchanger.com": {
         "epoch": 1628208000.0,
@@ -19101,8 +19102,9 @@
         "state": "future"
     },
     "naver.net": {
-        "epoch": 1604966400.0,
-        "expiration_date": "10-nov-2020",
+        "epoch": 1762732800.0,
+        "expiration_date": "10-nov-2025",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "navigator.io": {
@@ -27897,8 +27899,9 @@
         "state": "future"
     },
     "technorati.com": {
-        "epoch": 1604966400.0,
-        "expiration_date": "10-nov-2020",
+        "epoch": 1636502400.0,
+        "expiration_date": "10-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "techtarget.com": {
