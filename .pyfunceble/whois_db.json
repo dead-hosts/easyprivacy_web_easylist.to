@@ -4540,8 +4540,9 @@
         "state": "future"
     },
     "bridgetrack.com": {
-        "epoch": 1604966400.0,
-        "expiration_date": "10-nov-2020",
+        "epoch": 1636502400.0,
+        "expiration_date": "10-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "bridgevine.com": {
@@ -7164,7 +7165,8 @@
     "crowdignite.com": {
         "epoch": 1604966400.0,
         "expiration_date": "10-nov-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "crowdscience.com": {
         "epoch": 1664496000.0,
@@ -16322,8 +16324,9 @@
         "state": "future"
     },
     "linuxtoday.com": {
-        "epoch": 1604966400.0,
-        "expiration_date": "10-nov-2020",
+        "epoch": 1636502400.0,
+        "expiration_date": "10-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "liod1ours.com": {
