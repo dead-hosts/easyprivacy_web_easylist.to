@@ -25969,8 +25969,9 @@
         "state": "future"
     },
     "smassets.net": {
-        "epoch": 1604793600.0,
-        "expiration_date": "08-nov-2020",
+        "epoch": 1667865600.0,
+        "expiration_date": "08-nov-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "smct.co": {
@@ -27125,7 +27126,8 @@
     "stickpage.com": {
         "epoch": 1604880000.0,
         "expiration_date": "09-nov-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "stiffstem.com": {
         "epoch": 1629763200.0,
