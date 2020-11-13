@@ -7166,10 +7166,10 @@
         "state": "future"
     },
     "crowdignite.com": {
-        "epoch": 1604966400.0,
-        "expiration_date": "10-nov-2020",
+        "epoch": 1636502400.0,
+        "expiration_date": "10-nov-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "crowdscience.com": {
         "epoch": 1664496000.0,
@@ -15013,7 +15013,8 @@
     "jaludo.com": {
         "epoch": 1605225600.0,
         "expiration_date": "13-nov-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "jamexistence.com": {
         "epoch": 1622332800.0,
@@ -22234,8 +22235,9 @@
         "state": "future"
     },
     "promworld.ru": {
-        "epoch": 1605139200.0,
-        "expiration_date": "12-nov-2020",
+        "epoch": 1636675200.0,
+        "expiration_date": "12-nov-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "prontohome.com": {
