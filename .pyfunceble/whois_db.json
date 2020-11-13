@@ -24287,8 +24287,9 @@
         "state": "future"
     },
     "rutube.ru": {
-        "epoch": 1605052800.0,
-        "expiration_date": "11-nov-2020",
+        "epoch": 1636588800.0,
+        "expiration_date": "11-nov-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "rvkcpqz.com": {
