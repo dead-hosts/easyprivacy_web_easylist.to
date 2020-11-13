@@ -5989,10 +5989,10 @@
         "state": "future"
     },
     "clipsyndicate.com": {
-        "epoch": 1604880000.0,
-        "expiration_date": "09-nov-2020",
+        "epoch": 1636416000.0,
+        "expiration_date": "09-nov-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "clixcount.com": {
         "epoch": 1633910400.0,
@@ -10785,8 +10785,9 @@
         "state": "future"
     },
     "foxcontent.com": {
-        "epoch": 1605225600.0,
-        "expiration_date": "13-nov-2020",
+        "epoch": 1636761600.0,
+        "expiration_date": "13-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "foxnews.com": {
@@ -13866,8 +13867,9 @@
         "state": "future"
     },
     "imageshack.us": {
-        "epoch": 1605052800.0,
-        "expiration_date": "11-nov-2020",
+        "epoch": 1636588800.0,
+        "expiration_date": "11-nov-2021",
+        "server": "whois.nic.us",
         "state": "future"
     },
     "imagetwist.com": {
@@ -19284,10 +19286,10 @@
         "state": "future"
     },
     "nepohita.com": {
-        "epoch": 1604880000.0,
-        "expiration_date": "09-nov-2020",
+        "epoch": 1636416000.0,
+        "expiration_date": "09-nov-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "ner-de-mi-nis-6.info": {
         "epoch": 1607040000.0,
