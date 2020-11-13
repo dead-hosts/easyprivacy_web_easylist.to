@@ -18276,8 +18276,9 @@
         "state": "future"
     },
     "moneysupermarket.com": {
-        "epoch": 1605052800.0,
-        "expiration_date": "11-nov-2020",
+        "epoch": 1636588800.0,
+        "expiration_date": "11-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mongoosemetrics.com": {
@@ -21086,8 +21087,9 @@
         "state": "past"
     },
     "peacocks.co.uk": {
-        "epoch": 1605052800.0,
-        "expiration_date": "11-nov-2020",
+        "epoch": 1636588800.0,
+        "expiration_date": "11-nov-2021",
+        "server": "whois.nic.uk",
         "state": "future"
     },
     "peakcounter.dk": {
@@ -25750,8 +25752,9 @@
         "state": "future"
     },
     "sk-static.com": {
-        "epoch": 1605139200.0,
-        "expiration_date": "12-nov-2020",
+        "epoch": 1668211200.0,
+        "expiration_date": "12-nov-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "sk1n.fr": {
@@ -27158,10 +27161,10 @@
         "state": "future"
     },
     "stickpage.com": {
-        "epoch": 1604880000.0,
-        "expiration_date": "09-nov-2020",
+        "epoch": 1636416000.0,
+        "expiration_date": "09-nov-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "stiffstem.com": {
         "epoch": 1629763200.0,
@@ -31416,8 +31419,9 @@
         "state": "future"
     },
     "washingtonpost.com": {
-        "epoch": 1605139200.0,
-        "expiration_date": "12-nov-2020",
+        "epoch": 1636675200.0,
+        "expiration_date": "12-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "wasm.stream": {
