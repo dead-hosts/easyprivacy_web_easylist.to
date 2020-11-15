@@ -18063,8 +18063,9 @@
         "state": "future"
     },
     "minsk-in.net": {
-        "epoch": 1605398400.0,
-        "expiration_date": "15-nov-2020",
+        "epoch": 1612051200.0,
+        "expiration_date": "31-jan-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "minutemediacdn.com": {
@@ -21616,8 +21617,9 @@
         "state": "future"
     },
     "piximedia.com": {
-        "epoch": 1605398400.0,
-        "expiration_date": "15-nov-2020",
+        "epoch": 1636934400.0,
+        "expiration_date": "15-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "pixlee.com": {
@@ -23730,8 +23732,9 @@
         "state": "future"
     },
     "retailrocket.ru": {
-        "epoch": 1605312000.0,
-        "expiration_date": "14-nov-2020",
+        "epoch": 1636848000.0,
+        "expiration_date": "14-nov-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "retargeter.com.br": {
@@ -30035,8 +30038,9 @@
         "state": "future"
     },
     "ultimedia.com": {
-        "epoch": 1605312000.0,
-        "expiration_date": "14-nov-2020",
+        "epoch": 1636848000.0,
+        "expiration_date": "14-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "umbel.com": {
