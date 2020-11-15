@@ -13267,8 +13267,9 @@
         "state": "future"
     },
     "hostpush.info": {
-        "epoch": 1605398400.0,
-        "expiration_date": "15-nov-2020",
+        "epoch": 1636934400.0,
+        "expiration_date": "15-nov-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "hot-count.com": {
@@ -14536,8 +14537,9 @@
         "state": "future"
     },
     "investhash.com": {
-        "epoch": 1605398400.0,
-        "expiration_date": "15-nov-2020",
+        "epoch": 1612137600.0,
+        "expiration_date": "01-feb-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "investingchannel.com": {
@@ -24068,8 +24070,9 @@
         "state": "future"
     },
     "rocks.io": {
-        "epoch": 1605398400.0,
-        "expiration_date": "15-nov-2020",
+        "epoch": 1636934400.0,
+        "expiration_date": "15-nov-2021",
+        "server": "whois.nic.io",
         "state": "future"
     },
     "rodale.com": {
@@ -24530,6 +24533,12 @@
     "sasontnwc.net": {
         "epoch": 1634169600.0,
         "expiration_date": "14-oct-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "satisfycork.com": {
+        "epoch": 1630368000.0,
+        "expiration_date": "31-aug-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -25558,10 +25567,10 @@
         "state": "future"
     },
     "simplycast.us": {
-        "epoch": 1605225600.0,
-        "expiration_date": "13-nov-2020",
+        "epoch": 1636761600.0,
+        "expiration_date": "13-nov-2021",
         "server": "whois.nic.us",
-        "state": "past"
+        "state": "future"
     },
     "simplyhired.com": {
         "epoch": 1648252800.0,
@@ -25714,10 +25723,10 @@
         "state": "future"
     },
     "sitereport.org": {
-        "epoch": 1605225600.0,
-        "expiration_date": "13-nov-2020",
+        "epoch": 1636761600.0,
+        "expiration_date": "13-nov-2021",
         "server": "whois.pir.org",
-        "state": "past"
+        "state": "future"
     },
     "sitescout.com": {
         "epoch": 1620777600.0,
@@ -31540,10 +31549,10 @@
         "state": "future"
     },
     "web-counter.net": {
-        "epoch": 1605139200.0,
-        "expiration_date": "12-nov-2020",
+        "epoch": 1636675200.0,
+        "expiration_date": "12-nov-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "web-soft.in": {
         "epoch": 1611100800.0,
@@ -31796,8 +31805,9 @@
         "state": "future"
     },
     "websitesampling.com": {
-        "epoch": 1605312000.0,
-        "expiration_date": "14-nov-2020",
+        "epoch": 1636848000.0,
+        "expiration_date": "14-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "websitewelcome.com": {
@@ -32805,10 +32815,10 @@
         "state": "future"
     },
     "yaudience.com": {
-        "epoch": 1605139200.0,
-        "expiration_date": "12-nov-2020",
+        "epoch": 1636675200.0,
+        "expiration_date": "12-nov-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "ybotvisit.com": {
         "epoch": 1634688000.0,
@@ -33263,6 +33273,12 @@
     "zerohedge.com": {
         "epoch": 1610323200.0,
         "expiration_date": "11-jan-2021",
+        "state": "future"
+    },
+    "zeronaught.com": {
+        "epoch": 1628985600.0,
+        "expiration_date": "15-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "zesep.com": {
