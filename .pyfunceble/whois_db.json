@@ -4024,8 +4024,9 @@
         "state": "future"
     },
     "bitrix.info": {
-        "epoch": 1605312000.0,
-        "expiration_date": "14-nov-2020",
+        "epoch": 1636848000.0,
+        "expiration_date": "14-nov-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "bizible.com": {
@@ -14245,7 +14246,8 @@
     "innogamescdn.com": {
         "epoch": 1605398400.0,
         "expiration_date": "15-nov-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "innomdc.com": {
         "epoch": 1616284800.0,
@@ -16194,6 +16196,12 @@
         "expiration_date": "07-jan-2021",
         "state": "future"
     },
+    "levelaccess.net": {
+        "epoch": 1615161600.0,
+        "expiration_date": "08-mar-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "levelbehavior.com": {
         "epoch": 1614902400.0,
         "expiration_date": "05-mar-2021",
@@ -17363,6 +17371,12 @@
     "maven.io": {
         "epoch": 1613520000.0,
         "expiration_date": "17-feb-2021",
+        "state": "future"
+    },
+    "mavencoalition.io": {
+        "epoch": 1614556800.0,
+        "expiration_date": "01-mar-2021",
+        "server": "whois.nic.io",
         "state": "future"
     },
     "maxmind.com": {
@@ -23501,8 +23515,9 @@
         "state": "future"
     },
     "reitingas.lt": {
-        "epoch": 1605312000.0,
-        "expiration_date": "14-nov-2020",
+        "epoch": 1636848000.0,
+        "expiration_date": "14-nov-2021",
+        "server": "whois.domreg.lt",
         "state": "future"
     },
     "rejectfairies.com": {
