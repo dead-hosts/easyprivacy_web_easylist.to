@@ -6487,8 +6487,9 @@
         "state": "future"
     },
     "computing.co.uk": {
-        "epoch": 1605312000.0,
-        "expiration_date": "14-nov-2020",
+        "epoch": 1636848000.0,
+        "expiration_date": "14-nov-2021",
+        "server": "whois.nic.uk",
         "state": "future"
     },
     "concert.io": {
@@ -9115,8 +9116,9 @@
         "state": "future"
     },
     "ehow.com": {
-        "epoch": 1605398400.0,
-        "expiration_date": "15-nov-2020",
+        "epoch": 1636934400.0,
+        "expiration_date": "15-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ejyymghi.com": {
@@ -15037,10 +15039,10 @@
         "state": "future"
     },
     "jaludo.com": {
-        "epoch": 1605225600.0,
-        "expiration_date": "13-nov-2020",
+        "epoch": 1636761600.0,
+        "expiration_date": "13-nov-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "jamexistence.com": {
         "epoch": 1622332800.0,
@@ -19647,8 +19649,9 @@
         "state": "future"
     },
     "next.co.uk": {
-        "epoch": 1605398400.0,
-        "expiration_date": "15-nov-2020",
+        "epoch": 1636934400.0,
+        "expiration_date": "15-nov-2021",
+        "server": "whois.nic.uk",
         "state": "future"
     },
     "nextbdom.ru": {
@@ -25191,8 +25194,9 @@
         "state": "future"
     },
     "servicetick.com": {
-        "epoch": 1605398400.0,
-        "expiration_date": "15-nov-2020",
+        "epoch": 1636934400.0,
+        "expiration_date": "15-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "serving-sys.com": {
