@@ -21,11 +21,13 @@ collector*.xhamster.
 compare.easyvoyage.
 creativefactory.zalando.
 datacollect*.abtasty.com
+ea.laredoute.
 encrypted.google.*
 equirodi.*
 etwun.com:8080
 expedia.*
 facebook.com*
+flashx.*
 fls-*.amazon.*&
 fls-*.amazon.*%
 gismeteo.*
@@ -37,6 +39,7 @@ ixquick.*
 kayak.*
 lcs.naver.
 linguee.com*
+log*.ku6.com
 log-*.previewnetworks.com
 logger-*.dailymotion.com
 mcdp-*.outbrain.com
@@ -45,6 +48,7 @@ metro-trending-*.amazonaws.com
 pixel.archive.
 pulsar.ebay.
 rover.ebay.
+site.flashx.
 skyscanner.*
 startpage.*
 stats2.*.fdnames.com
@@ -63,4 +67,8 @@ unagi.amazon.*
 unagi-eu.amazon.*
 vice.com*
 vtnlog-*.elb.amazonaws.com
+wawacity.*
+www.google.*
+www.imdb.*
 yandex.*
+yelp.*

@@ -20056,8 +20056,9 @@
         "state": "future"
     },
     "nyteknik.se": {
-        "epoch": 1605312000.0,
-        "expiration_date": "14-nov-2020",
+        "epoch": 1636848000.0,
+        "expiration_date": "14-nov-2021",
+        "server": "whois.iis.se",
         "state": "future"
     },
     "nytimes.com": {
@@ -31610,7 +31611,8 @@
     "webcamgalore.com": {
         "epoch": 1605398400.0,
         "expiration_date": "15-nov-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "webclicktracker.com": {
         "epoch": 1635552000.0,
@@ -32036,8 +32038,9 @@
         "state": "past"
     },
     "wego.com": {
-        "epoch": 1605398400.0,
-        "expiration_date": "15-nov-2020",
+        "epoch": 1700006400.0,
+        "expiration_date": "15-nov-2023",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "wellness.com": {
@@ -32425,8 +32428,9 @@
         "state": "future"
     },
     "wowwiki.com": {
-        "epoch": 1605398400.0,
-        "expiration_date": "15-nov-2020",
+        "epoch": 1700006400.0,
+        "expiration_date": "15-nov-2023",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "wowza.com": {
@@ -32729,8 +32733,9 @@
         "state": "future"
     },
     "xozilla.com": {
-        "epoch": 1605312000.0,
-        "expiration_date": "14-nov-2020",
+        "epoch": 1636848000.0,
+        "expiration_date": "14-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "xref.io": {
