@@ -26102,7 +26102,8 @@
     "smsaffari.it": {
         "epoch": 1605398400.0,
         "expiration_date": "15-nov-2020",
-        "state": "future"
+        "server": "whois.nic.it",
+        "state": "past"
     },
     "snakesworld.com": {
         "epoch": 1611964800.0,
@@ -30763,10 +30764,10 @@
         "state": "future"
     },
     "videogame.it": {
-        "epoch": 1604016000.0,
-        "expiration_date": "30-oct-2020",
+        "epoch": 1635552000.0,
+        "expiration_date": "30-oct-2021",
         "server": "whois.nic.it",
-        "state": "past"
+        "state": "future"
     },
     "videoly.co": {
         "epoch": 1625184000.0,
@@ -31262,10 +31263,10 @@
         "state": "future"
     },
     "volkswagen-italia.it": {
-        "epoch": 1604016000.0,
-        "expiration_date": "30-oct-2020",
+        "epoch": 1635552000.0,
+        "expiration_date": "30-oct-2021",
         "server": "whois.nic.it",
-        "state": "past"
+        "state": "future"
     },
     "vologda-info.ru": {
         "epoch": 1623974400.0,
