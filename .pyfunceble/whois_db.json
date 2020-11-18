@@ -2713,8 +2713,9 @@
         "state": "future"
     },
     "arsdev.net": {
-        "epoch": 1605484800.0,
-        "expiration_date": "16-nov-2020",
+        "epoch": 1637020800.0,
+        "expiration_date": "16-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "arstechnica.co.uk": {
@@ -3707,8 +3708,9 @@
         "state": "future"
     },
     "benchtag2.co": {
-        "epoch": 1605484800.0,
-        "expiration_date": "16-nov-2020",
+        "epoch": 1637020800.0,
+        "expiration_date": "16-nov-2021",
+        "server": "whois.nic.co",
         "state": "future"
     },
     "bentonow.com": {
@@ -4590,6 +4592,12 @@
         "expiration_date": "25-aug-2021",
         "state": "future"
     },
+    "brilliantcollector.com": {
+        "epoch": 1614124800.0,
+        "expiration_date": "24-feb-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "britepool.com": {
         "epoch": 1624924800.0,
         "expiration_date": "29-jun-2021",
@@ -4824,8 +4832,9 @@
         "state": "future"
     },
     "bytedance.com": {
-        "epoch": 1605484800.0,
-        "expiration_date": "16-nov-2020",
+        "epoch": 1637020800.0,
+        "expiration_date": "16-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "bytemgdd.com": {
@@ -5404,8 +5413,9 @@
         "state": "future"
     },
     "celebros-analytics.com": {
-        "epoch": 1605484800.0,
-        "expiration_date": "16-nov-2020",
+        "epoch": 1637020800.0,
+        "expiration_date": "16-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "celebrus.com": {
@@ -5811,8 +5821,9 @@
         "state": "future"
     },
     "clickalyzer.com": {
-        "epoch": 1605571200.0,
-        "expiration_date": "17-nov-2020",
+        "epoch": 1668643200.0,
+        "expiration_date": "17-nov-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "clickbrainiacs.com": {
@@ -6844,8 +6855,9 @@
         "state": "future"
     },
     "cost1action.com": {
-        "epoch": 1605657600.0,
-        "expiration_date": "18-nov-2020",
+        "epoch": 1637193600.0,
+        "expiration_date": "18-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "couchsurfing.com": {
@@ -7757,10 +7769,10 @@
         "state": "future"
     },
     "dcmn.com": {
-        "epoch": 1605398400.0,
-        "expiration_date": "15-nov-2020",
+        "epoch": 1636934400.0,
+        "expiration_date": "15-nov-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "dcmn.io": {
         "epoch": 1616284800.0,
@@ -8063,6 +8075,12 @@
     "dgmsearchlab.com": {
         "epoch": 1627084800.0,
         "expiration_date": "24-jul-2021",
+        "state": "future"
+    },
+    "di-capt.com": {
+        "epoch": 1639872000.0,
+        "expiration_date": "19-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "dialogtech.com": {
@@ -11087,8 +11105,9 @@
         "state": "future"
     },
     "freesitemapgenerator.com": {
-        "epoch": 1605571200.0,
-        "expiration_date": "17-nov-2020",
+        "epoch": 1637107200.0,
+        "expiration_date": "17-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "freestat.ws": {
@@ -11169,8 +11188,9 @@
         "state": "future"
     },
     "freshplum.com": {
-        "epoch": 1605571200.0,
-        "expiration_date": "17-nov-2020",
+        "epoch": 1637107200.0,
+        "expiration_date": "17-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "freshrefresher.com": {
@@ -11789,8 +11809,8 @@
         "state": "future"
     },
     "getconversion.net": {
-        "epoch": 1605571200.0,
-        "expiration_date": "17-nov-2020",
+        "epoch": 1637107200.0,
+        "expiration_date": "17-nov-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -13511,8 +13531,9 @@
         "state": "future"
     },
     "hudb.pl": {
-        "epoch": 1605657600.0,
-        "expiration_date": "18-nov-2020",
+        "epoch": 1637193600.0,
+        "expiration_date": "18-nov-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "hudong.com": {
@@ -15382,6 +15403,12 @@
         "epoch": 1630627200.0,
         "expiration_date": "03-sep-2021",
         "server": "whois.domreg.lt",
+        "state": "future"
+    },
+    "kaptcha.com": {
+        "epoch": 1631404800.0,
+        "expiration_date": "12-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "karelia.info": {
@@ -20165,8 +20192,9 @@
         "state": "future"
     },
     "odoscope.com": {
-        "epoch": 1605571200.0,
-        "expiration_date": "17-nov-2020",
+        "epoch": 1637107200.0,
+        "expiration_date": "17-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "oei1.gq": {
@@ -22446,8 +22474,9 @@
         "state": "future"
     },
     "pubexchange.com": {
-        "epoch": 1605571200.0,
-        "expiration_date": "17-nov-2020",
+        "epoch": 1637107200.0,
+        "expiration_date": "17-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "publicbroadcasting.net": {
