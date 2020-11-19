@@ -28238,8 +28238,9 @@
         "state": "future"
     },
     "the-group.net": {
-        "epoch": 1605744000.0,
-        "expiration_date": "19-nov-2020",
+        "epoch": 1637280000.0,
+        "expiration_date": "19-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "theadex.com": {
@@ -33154,8 +33155,9 @@
         "state": "future"
     },
     "ypcdn.com": {
-        "epoch": 1605744000.0,
-        "expiration_date": "19-nov-2020",
+        "epoch": 1637280000.0,
+        "expiration_date": "19-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "yqaywudifu.date": {
