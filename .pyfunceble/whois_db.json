@@ -994,7 +994,8 @@
     "adclear.net": {
         "epoch": 1605657600.0,
         "expiration_date": "18-nov-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "adclickstats.net": {
         "epoch": 1627257600.0,
@@ -6315,8 +6316,9 @@
         "state": "future"
     },
     "coinimp.com": {
-        "epoch": 1605744000.0,
-        "expiration_date": "19-nov-2020",
+        "epoch": 1637280000.0,
+        "expiration_date": "19-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "coinimp.net": {
@@ -16944,8 +16946,9 @@
         "state": "future"
     },
     "lumitos.com": {
-        "epoch": 1605484800.0,
-        "expiration_date": "16-nov-2020",
+        "epoch": 1637020800.0,
+        "expiration_date": "16-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "lumpylumber.com": {
@@ -25954,7 +25957,8 @@
     "slingpic.com": {
         "epoch": 1605657600.0,
         "expiration_date": "18-nov-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "sltrib.com": {
         "epoch": 1614643200.0,
@@ -26077,8 +26081,9 @@
         "state": "future"
     },
     "smartracker.net": {
-        "epoch": 1605484800.0,
-        "expiration_date": "16-nov-2020",
+        "epoch": 1637020800.0,
+        "expiration_date": "16-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "smartzonessva.com": {
@@ -26485,8 +26490,9 @@
         "state": "future"
     },
     "speed-trap.com": {
-        "epoch": 1605744000.0,
-        "expiration_date": "19-nov-2020",
+        "epoch": 1637280000.0,
+        "expiration_date": "19-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "speedcounter.net": {
@@ -26836,8 +26842,9 @@
         "state": "future"
     },
     "stadsvc.com": {
-        "epoch": 1605571200.0,
-        "expiration_date": "17-nov-2020",
+        "epoch": 1637107200.0,
+        "expiration_date": "17-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "stainlesssteel.ru": {
@@ -26913,8 +26920,9 @@
         "state": "future"
     },
     "stat24.com": {
-        "epoch": 1605484800.0,
-        "expiration_date": "16-nov-2020",
+        "epoch": 1637020800.0,
+        "expiration_date": "16-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "stat24.ru": {
@@ -28185,8 +28193,9 @@
         "state": "future"
     },
     "tget.me": {
-        "epoch": 1605484800.0,
-        "expiration_date": "16-nov-2020",
+        "epoch": 1637020800.0,
+        "expiration_date": "16-nov-2021",
+        "server": "whois.nic.me",
         "state": "future"
     },
     "tgknt.com": {
@@ -28201,8 +28210,9 @@
         "state": "future"
     },
     "tgtag.io": {
-        "epoch": 1605744000.0,
-        "expiration_date": "19-nov-2020",
+        "epoch": 1637280000.0,
+        "expiration_date": "19-nov-2021",
+        "server": "whois.nic.io",
         "state": "future"
     },
     "tgw.com": {
@@ -30317,7 +30327,8 @@
     "usa.cc": {
         "epoch": 1605571200.0,
         "expiration_date": "17-nov-2020",
-        "state": "future"
+        "server": "ccwhois.verisign-grs.com",
+        "state": "past"
     },
     "usabilitytools.com": {
         "epoch": 1623456000.0,
@@ -30362,8 +30373,9 @@
         "state": "future"
     },
     "user-api.com": {
-        "epoch": 1605571200.0,
-        "expiration_date": "17-nov-2020",
+        "epoch": 1637107200.0,
+        "expiration_date": "17-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "user-clicks.com": {
@@ -31947,8 +31959,9 @@
         "state": "future"
     },
     "webtraxs.com": {
-        "epoch": 1605744000.0,
-        "expiration_date": "19-nov-2020",
+        "epoch": 1637280000.0,
+        "expiration_date": "19-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "webtrekk-asia.net": {
