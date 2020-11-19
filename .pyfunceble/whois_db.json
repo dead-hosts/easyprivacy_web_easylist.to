@@ -4407,7 +4407,8 @@
     "bonnieradnetwork.se": {
         "epoch": 1605744000.0,
         "expiration_date": "19-nov-2020",
-        "state": "future"
+        "server": "whois.iis.se",
+        "state": "past"
     },
     "booking.com": {
         "epoch": 1618531200.0,
@@ -4798,8 +4799,9 @@
         "state": "future"
     },
     "buybox.click": {
-        "epoch": 1605484800.0,
-        "expiration_date": "16-nov-2020",
+        "epoch": 1637020800.0,
+        "expiration_date": "16-nov-2021",
+        "server": "whois.uniregistry.net",
         "state": "future"
     },
     "buzzamedia.com": {
@@ -9799,6 +9801,12 @@
         "expiration_date": "18-sep-2021",
         "state": "future"
     },
+    "excite.ie": {
+        "epoch": 1626566400.0,
+        "expiration_date": "18-jul-2021",
+        "server": "whois.weare.ie",
+        "state": "future"
+    },
     "excited.me": {
         "epoch": 1626480000.0,
         "expiration_date": "17-jul-2021",
@@ -12267,8 +12275,9 @@
         "state": "future"
     },
     "googleusercontent.com": {
-        "epoch": 1605571200.0,
-        "expiration_date": "17-nov-2020",
+        "epoch": 1637107200.0,
+        "expiration_date": "17-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "gopjn.com": {
@@ -14269,10 +14278,10 @@
         "state": "future"
     },
     "innogamescdn.com": {
-        "epoch": 1605398400.0,
-        "expiration_date": "15-nov-2020",
+        "epoch": 1636934400.0,
+        "expiration_date": "15-nov-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "innomdc.com": {
         "epoch": 1616284800.0,
@@ -17683,8 +17692,9 @@
         "state": "future"
     },
     "meebo.com": {
-        "epoch": 1605484800.0,
-        "expiration_date": "16-nov-2020",
+        "epoch": 1637020800.0,
+        "expiration_date": "16-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "meetrics.net": {
@@ -18749,8 +18759,9 @@
         "state": "future"
     },
     "mxmfb.com": {
-        "epoch": 1605744000.0,
-        "expiration_date": "19-nov-2020",
+        "epoch": 1637280000.0,
+        "expiration_date": "19-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mxpnl.com": {
@@ -24647,8 +24658,9 @@
         "state": "future"
     },
     "sblftg.com": {
-        "epoch": 1605744000.0,
-        "expiration_date": "19-nov-2020",
+        "epoch": 1637280000.0,
+        "expiration_date": "19-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "sc-static.net": {
