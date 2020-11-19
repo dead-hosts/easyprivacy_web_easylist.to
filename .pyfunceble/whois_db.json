@@ -5145,7 +5145,8 @@
     "carbon38.com": {
         "epoch": 1605744000.0,
         "expiration_date": "19-nov-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "cardomain.com": {
         "epoch": 1616716800.0,
@@ -13917,8 +13918,9 @@
         "state": "future"
     },
     "ilsole24ore.com": {
-        "epoch": 1605571200.0,
-        "expiration_date": "17-nov-2020",
+        "epoch": 1637107200.0,
+        "expiration_date": "17-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "iltrovatore.it": {
@@ -16294,6 +16296,12 @@
         "epoch": 1666656000.0,
         "expiration_date": "25-oct-2022",
         "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "liberation.fr": {
+        "epoch": 1627862400.0,
+        "expiration_date": "02-aug-2021",
+        "server": "whois.nic.fr",
         "state": "future"
     },
     "libero.it": {
@@ -20083,8 +20091,9 @@
         "state": "future"
     },
     "nwsource.com": {
-        "epoch": 1605744000.0,
-        "expiration_date": "19-nov-2020",
+        "epoch": 1637280000.0,
+        "expiration_date": "19-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "nyctrl32.com": {
@@ -25346,8 +25355,9 @@
         "state": "future"
     },
     "sfr.fr": {
-        "epoch": 1605657600.0,
-        "expiration_date": "18-nov-2020",
+        "epoch": 1637193600.0,
+        "expiration_date": "18-nov-2021",
+        "server": "whois.nic.fr",
         "state": "future"
     },
     "sh.st": {
@@ -30149,7 +30159,8 @@
     "unblog.fr": {
         "epoch": 1605744000.0,
         "expiration_date": "19-nov-2020",
-        "state": "future"
+        "server": "whois.nic.fr",
+        "state": "past"
     },
     "unequalbrake.com": {
         "epoch": 1633651200.0,
@@ -30291,8 +30302,9 @@
         "state": "future"
     },
     "upromise.com": {
-        "epoch": 1605657600.0,
-        "expiration_date": "18-nov-2020",
+        "epoch": 1668729600.0,
+        "expiration_date": "18-nov-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "upscore.com": {
@@ -30906,8 +30918,9 @@
         "state": "future"
     },
     "vidoza.net": {
-        "epoch": 1605657600.0,
-        "expiration_date": "18-nov-2020",
+        "epoch": 1637193600.0,
+        "expiration_date": "18-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "vidxden.com": {
@@ -31414,8 +31427,9 @@
         "state": "future"
     },
     "vrv.co": {
-        "epoch": 1605744000.0,
-        "expiration_date": "19-nov-2020",
+        "epoch": 1637280000.0,
+        "expiration_date": "19-nov-2021",
+        "server": "whois.nic.co",
         "state": "future"
     },
     "vs4.com": {
@@ -31693,10 +31707,10 @@
         "state": "future"
     },
     "webcamgalore.com": {
-        "epoch": 1605398400.0,
-        "expiration_date": "15-nov-2020",
+        "epoch": 1636934400.0,
+        "expiration_date": "15-nov-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "webclicktracker.com": {
         "epoch": 1635552000.0,
