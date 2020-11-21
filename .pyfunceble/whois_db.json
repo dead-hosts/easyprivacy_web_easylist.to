@@ -546,8 +546,9 @@
         "state": "past"
     },
     "a-counters.com": {
-        "epoch": 1605830400.0,
-        "expiration_date": "20-nov-2020",
+        "epoch": 1668902400.0,
+        "expiration_date": "20-nov-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "a-mo.net": {
@@ -1398,8 +1399,9 @@
         "state": "future"
     },
     "advanced-web-analytics.com": {
-        "epoch": 1605744000.0,
-        "expiration_date": "19-nov-2020",
+        "epoch": 1637280000.0,
+        "expiration_date": "19-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "advancedmp3players.co.uk": {
@@ -5233,8 +5235,9 @@
         "state": "future"
     },
     "cashburners.com": {
-        "epoch": 1605744000.0,
-        "expiration_date": "19-nov-2020",
+        "epoch": 1637280000.0,
+        "expiration_date": "19-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "cashcount.com": {
@@ -7263,8 +7266,9 @@
         "state": "future"
     },
     "crwdcntrl.net": {
-        "epoch": 1605916800.0,
-        "expiration_date": "21-nov-2020",
+        "epoch": 1668988800.0,
+        "expiration_date": "21-nov-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "cryptaloot.pro": {
@@ -11538,6 +11542,12 @@
         "server": "whois.nic.co",
         "state": "future"
     },
+    "g5150192710.co": {
+        "epoch": 1626912000.0,
+        "expiration_date": "22-jul-2021",
+        "server": "whois.nic.co",
+        "state": "future"
+    },
     "ga-analytics.com": {
         "epoch": 1634947200.0,
         "expiration_date": "23-oct-2021",
@@ -13162,8 +13172,9 @@
         "state": "future"
     },
     "hmstats.com": {
-        "epoch": 1605830400.0,
-        "expiration_date": "20-nov-2020",
+        "epoch": 1637366400.0,
+        "expiration_date": "20-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "hobsons.co.uk": {
@@ -13864,6 +13875,12 @@
         "epoch": 1630454400.0,
         "expiration_date": "01-sep-2021",
         "server": "whois.tcinet.ru",
+        "state": "future"
+    },
+    "ifvox.com": {
+        "epoch": 1608595200.0,
+        "expiration_date": "22-dec-2020",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "igaming.biz": {
@@ -17571,8 +17588,9 @@
         "state": "future"
     },
     "measured.com": {
-        "epoch": 1605830400.0,
-        "expiration_date": "20-nov-2020",
+        "epoch": 1637366400.0,
+        "expiration_date": "20-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "measuremap.com": {
@@ -20096,6 +20114,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "nxakpj4ac8gkd53.info": {
+        "epoch": 1634256000.0,
+        "expiration_date": "15-oct-2021",
+        "server": "whois.afilias.net",
+        "state": "future"
+    },
     "nyctrl32.com": {
         "epoch": 1633564800.0,
         "expiration_date": "07-oct-2021",
@@ -20596,8 +20620,9 @@
         "state": "future"
     },
     "opbandit.com": {
-        "epoch": 1605830400.0,
-        "expiration_date": "20-nov-2020",
+        "epoch": 1637366400.0,
+        "expiration_date": "20-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "open.ua": {
@@ -21160,8 +21185,9 @@
         "state": "future"
     },
     "pc1.io": {
-        "epoch": 1605744000.0,
-        "expiration_date": "19-nov-2020",
+        "epoch": 1637280000.0,
+        "expiration_date": "19-nov-2021",
+        "server": "whois.nic.io",
         "state": "future"
     },
     "pch.com": {
@@ -21833,8 +21859,9 @@
         "state": "future"
     },
     "plugin.ws": {
-        "epoch": 1605744000.0,
-        "expiration_date": "19-nov-2020",
+        "epoch": 1637280000.0,
+        "expiration_date": "19-nov-2021",
+        "server": "whois.website.ws",
         "state": "future"
     },
     "pluso.ru": {
@@ -24295,7 +24322,8 @@
     "rstg.io": {
         "epoch": 1605916800.0,
         "expiration_date": "21-nov-2020",
-        "state": "future"
+        "server": "whois.nic.io",
+        "state": "past"
     },
     "rsvpgenius.com": {
         "epoch": 1614988800.0,
@@ -24693,6 +24721,12 @@
     "sbdtds.com": {
         "epoch": 1610150400.0,
         "expiration_date": "09-jan-2021",
+        "state": "future"
+    },
+    "sbgsodufuosmmvsdf.info": {
+        "epoch": 1635897600.0,
+        "expiration_date": "03-nov-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "sblftg.com": {
@@ -33266,6 +33300,12 @@
     "yyv.co": {
         "epoch": 1606867200.0,
         "expiration_date": "02-dec-2020",
+        "state": "future"
+    },
+    "z0uolej1qnxzub1.info": {
+        "epoch": 1634256000.0,
+        "expiration_date": "15-oct-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "z444o.com": {
