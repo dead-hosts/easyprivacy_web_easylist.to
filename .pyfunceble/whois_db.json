@@ -1321,8 +1321,9 @@
         "state": "future"
     },
     "adsv7.com": {
-        "epoch": 1606003200.0,
-        "expiration_date": "22-nov-2020",
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adswizz.com": {
@@ -4418,10 +4419,10 @@
         "state": "future"
     },
     "bonnieradnetwork.se": {
-        "epoch": 1605744000.0,
-        "expiration_date": "19-nov-2020",
+        "epoch": 1637280000.0,
+        "expiration_date": "19-nov-2021",
         "server": "whois.iis.se",
-        "state": "past"
+        "state": "future"
     },
     "booking.com": {
         "epoch": 1618531200.0,
@@ -5007,8 +5008,9 @@
         "state": "future"
     },
     "calltrk.com": {
-        "epoch": 1605916800.0,
-        "expiration_date": "21-nov-2020",
+        "epoch": 1637452800.0,
+        "expiration_date": "21-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "calmcactus.com": {
@@ -5730,7 +5732,8 @@
     "citypaketet.se": {
         "epoch": 1605916800.0,
         "expiration_date": "21-nov-2020",
-        "state": "future"
+        "server": "whois.iis.se",
+        "state": "past"
     },
     "citysearch.com": {
         "epoch": 1637452800.0,
@@ -9120,8 +9123,9 @@
         "state": "future"
     },
     "efatik.me": {
-        "epoch": 1605830400.0,
-        "expiration_date": "20-nov-2020",
+        "epoch": 1637366400.0,
+        "expiration_date": "20-nov-2021",
+        "server": "whois.nic.me",
         "state": "future"
     },
     "efukt.com": {
@@ -14359,8 +14363,9 @@
         "state": "future"
     },
     "inq.com": {
-        "epoch": 1605830400.0,
-        "expiration_date": "20-nov-2020",
+        "epoch": 1637366400.0,
+        "expiration_date": "20-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "inquisitiveinvention.com": {
@@ -21890,8 +21895,9 @@
         "state": "future"
     },
     "pmbox.biz": {
-        "epoch": 1605916800.0,
-        "expiration_date": "21-nov-2020",
+        "epoch": 1637452800.0,
+        "expiration_date": "21-nov-2021",
+        "server": "whois.nic.biz",
         "state": "future"
     },
     "pmo.ee": {
@@ -26253,7 +26259,8 @@
     "snazzyspace.com": {
         "epoch": 1606003200.0,
         "expiration_date": "22-nov-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "snd.tc": {
         "epoch": 1624492800.0,
@@ -27109,8 +27116,9 @@
         "state": "future"
     },
     "statistiche-free.com": {
-        "epoch": 1605916800.0,
-        "expiration_date": "21-nov-2020",
+        "epoch": 1637452800.0,
+        "expiration_date": "21-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "statistiche-web.com": {
