@@ -923,10 +923,10 @@
         "state": "future"
     },
     "ad2links.com": {
-        "epoch": 1605744000.0,
-        "expiration_date": "19-nov-2020",
+        "epoch": 1637280000.0,
+        "expiration_date": "19-nov-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "ad5track.com": {
         "epoch": 1618444800.0,
@@ -2545,8 +2545,9 @@
         "state": "future"
     },
     "apphit.com": {
-        "epoch": 1605830400.0,
-        "expiration_date": "20-nov-2020",
+        "epoch": 1637366400.0,
+        "expiration_date": "20-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "appier.net": {
@@ -3921,8 +3922,9 @@
         "state": "future"
     },
     "bigday.ru": {
-        "epoch": 1606003200.0,
-        "expiration_date": "22-nov-2020",
+        "epoch": 1637539200.0,
+        "expiration_date": "22-nov-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "bigmining.com": {
@@ -13537,7 +13539,8 @@
     "httdev.it": {
         "epoch": 1605830400.0,
         "expiration_date": "20-nov-2020",
-        "state": "future"
+        "server": "whois.nic.it",
+        "state": "past"
     },
     "httpp.gdn": {
         "epoch": 1573257600.0,
@@ -18632,10 +18635,10 @@
         "state": "future"
     },
     "mrwebmaster.it": {
-        "epoch": 1604534400.0,
-        "expiration_date": "05-nov-2020",
+        "epoch": 1636070400.0,
+        "expiration_date": "05-nov-2021",
         "server": "whois.nic.it",
-        "state": "past"
+        "state": "future"
     },
     "mrycrypto.com": {
         "epoch": 1620086400.0,
@@ -30626,8 +30629,9 @@
         "state": "future"
     },
     "vanilladev.com": {
-        "epoch": 1605830400.0,
-        "expiration_date": "20-nov-2020",
+        "epoch": 1637366400.0,
+        "expiration_date": "20-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "vanityfair.com": {

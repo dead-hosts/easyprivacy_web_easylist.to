@@ -5,7 +5,10 @@ meetrics.netbb-
 minero-proxy-*.sh
 tracking*.euroads.fi
 activity.*.miui.com
+airbnb.*
+amazon.*
 analytics-beacon-*.amazonaws.com
+attachmate.com*
 bc.geocities.
 bin.clearspring.*
 cloudfront.net*
@@ -13,8 +16,16 @@ collect.*.miui.com
 collector-*.elb.amazonaws.com
 collector-*.tvsquared.com
 datacollect*.abtasty.com
+etwun.com:8080
 facebook.com*
 hits-*.iubenda.com
 log-*.previewnetworks.com
 mcdp-*.outbrain.com
 metro-trending-*.amazonaws.com
+stats2.*.fdnames.com
+stats-*.p2pnow.ru
+targeting.*.arcpublishing.com
+tracker.twenga.
+tracking.*.miui.com
+vtnlog-*.elb.amazonaws.com
+yandex.*
