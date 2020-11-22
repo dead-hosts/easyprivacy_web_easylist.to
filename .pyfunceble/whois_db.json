@@ -3318,8 +3318,9 @@
         "state": "future"
     },
     "azfamily.com": {
-        "epoch": 1605916800.0,
-        "expiration_date": "21-nov-2020",
+        "epoch": 1637452800.0,
+        "expiration_date": "21-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "azointel.com": {
@@ -5150,10 +5151,10 @@
         "state": "future"
     },
     "carbon38.com": {
-        "epoch": 1605744000.0,
-        "expiration_date": "19-nov-2020",
+        "epoch": 1668816000.0,
+        "expiration_date": "19-nov-2022",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "cardomain.com": {
         "epoch": 1616716800.0,
@@ -14157,8 +14158,9 @@
         "state": "future"
     },
     "indiatimes.com": {
-        "epoch": 1605916800.0,
-        "expiration_date": "21-nov-2020",
+        "epoch": 1637452800.0,
+        "expiration_date": "21-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "indicative.com": {
@@ -15625,8 +15627,9 @@
         "state": "future"
     },
     "killerstartups.com": {
-        "epoch": 1605830400.0,
-        "expiration_date": "20-nov-2020",
+        "epoch": 1637366400.0,
+        "expiration_date": "20-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "killerwebstats.com": {
@@ -17439,8 +17442,9 @@
         "state": "future"
     },
     "mate1.com": {
-        "epoch": 1605916800.0,
-        "expiration_date": "21-nov-2020",
+        "epoch": 1637452800.0,
+        "expiration_date": "21-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mateti.net": {
@@ -18717,8 +18721,9 @@
         "state": "future"
     },
     "multiply.com": {
-        "epoch": 1605830400.0,
-        "expiration_date": "20-nov-2020",
+        "epoch": 1637366400.0,
+        "expiration_date": "20-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mundanepollution.com": {
@@ -26721,8 +26726,9 @@
         "state": "future"
     },
     "sportingnews.com": {
-        "epoch": 1605916800.0,
-        "expiration_date": "21-nov-2020",
+        "epoch": 1637452800.0,
+        "expiration_date": "21-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "sportsmole.co.uk": {
@@ -30513,8 +30519,9 @@
         "state": "future"
     },
     "userfly.com": {
-        "epoch": 1606003200.0,
-        "expiration_date": "22-nov-2020",
+        "epoch": 1637539200.0,
+        "expiration_date": "22-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "userlook.com": {
