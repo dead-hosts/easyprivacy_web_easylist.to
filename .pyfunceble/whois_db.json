@@ -1190,8 +1190,9 @@
         "state": "future"
     },
     "adobedtm.com": {
-        "epoch": 1606003200.0,
-        "expiration_date": "22-nov-2020",
+        "epoch": 1637539200.0,
+        "expiration_date": "22-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "adobetag.com": {
@@ -2156,8 +2157,9 @@
         "state": "future"
     },
     "analitycs.net": {
-        "epoch": 1606003200.0,
-        "expiration_date": "22-nov-2020",
+        "epoch": 1637539200.0,
+        "expiration_date": "22-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "analoganalytics.com": {
@@ -2493,8 +2495,8 @@
         "state": "future"
     },
     "api64.com": {
-        "epoch": 1606003200.0,
-        "expiration_date": "22-nov-2020",
+        "epoch": 1637539200.0,
+        "expiration_date": "22-nov-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -3011,6 +3013,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "audio.sex": {
+        "epoch": 1630195200.0,
+        "expiration_date": "29-aug-2021",
+        "server": "whois.registrar.adult",
+        "state": "future"
+    },
     "audioarctic.com": {
         "epoch": 1616112000.0,
         "expiration_date": "19-mar-2021",
@@ -3075,8 +3083,9 @@
         "state": "future"
     },
     "auto-ping.com": {
-        "epoch": 1606089600.0,
-        "expiration_date": "23-nov-2020",
+        "epoch": 1637625600.0,
+        "expiration_date": "23-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "auto.ru": {
@@ -3853,8 +3862,9 @@
         "state": "future"
     },
     "bgpng.me": {
-        "epoch": 1606176000.0,
-        "expiration_date": "24-nov-2020",
+        "epoch": 1637712000.0,
+        "expiration_date": "24-nov-2021",
+        "server": "whois.nic.me",
         "state": "future"
     },
     "bhg.com": {
@@ -7207,8 +7217,9 @@
         "state": "future"
     },
     "crosspixel.net": {
-        "epoch": 1606176000.0,
-        "expiration_date": "24-nov-2020",
+        "epoch": 1637712000.0,
+        "expiration_date": "24-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "crosswalkmail.com": {
@@ -9613,8 +9624,9 @@
         "state": "future"
     },
     "etracker.com": {
-        "epoch": 1606003200.0,
-        "expiration_date": "22-nov-2020",
+        "epoch": 1637539200.0,
+        "expiration_date": "22-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "etrafficcounter.com": {
@@ -10420,8 +10432,9 @@
         "state": "future"
     },
     "find-ip-address.org": {
-        "epoch": 1606176000.0,
-        "expiration_date": "24-nov-2020",
+        "epoch": 1637712000.0,
+        "expiration_date": "24-nov-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "finderlocator.com": {
@@ -11385,8 +11398,9 @@
         "state": "future"
     },
     "fusestats.com": {
-        "epoch": 1606003200.0,
-        "expiration_date": "22-nov-2020",
+        "epoch": 1637539200.0,
+        "expiration_date": "22-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "futura-sciences.com": {
@@ -12954,8 +12968,9 @@
         "state": "future"
     },
     "heystaks.com": {
-        "epoch": 1606089600.0,
-        "expiration_date": "23-nov-2020",
+        "epoch": 1637625600.0,
+        "expiration_date": "23-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "hgcdn.net": {
@@ -13815,8 +13830,9 @@
         "state": "future"
     },
     "id-visitors.com": {
-        "epoch": 1606003200.0,
-        "expiration_date": "22-nov-2020",
+        "epoch": 1637539200.0,
+        "expiration_date": "22-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "id5-sync.com": {
@@ -13937,7 +13953,8 @@
     "illumenix.com": {
         "epoch": 1606089600.0,
         "expiration_date": "23-nov-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "ilogbox.com": {
         "epoch": 1636761600.0,
@@ -14868,8 +14885,9 @@
         "state": "future"
     },
     "ipstack.com": {
-        "epoch": 1606089600.0,
-        "expiration_date": "23-nov-2020",
+        "epoch": 1637625600.0,
+        "expiration_date": "23-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ipstat.com": {
@@ -17291,8 +17309,9 @@
         "state": "future"
     },
     "maploco.com": {
-        "epoch": 1606003200.0,
-        "expiration_date": "22-nov-2020",
+        "epoch": 1669075200.0,
+        "expiration_date": "22-nov-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mapmyuser.com": {
@@ -17669,7 +17688,8 @@
     "mediagauge.com": {
         "epoch": 1606176000.0,
         "expiration_date": "24-nov-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "mediaglacier.com": {
         "epoch": 1628899200.0,
@@ -19358,7 +19378,8 @@
     "ndg.io": {
         "epoch": 1606176000.0,
         "expiration_date": "24-nov-2020",
-        "state": "future"
+        "server": "whois.nic.io",
+        "state": "past"
     },
     "ndtv.com": {
         "epoch": 1695600000.0,
@@ -23157,7 +23178,8 @@
     "rampmetrics.com": {
         "epoch": 1606176000.0,
         "expiration_date": "24-nov-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "rangers.co.uk": {
         "epoch": 1613865600.0,
