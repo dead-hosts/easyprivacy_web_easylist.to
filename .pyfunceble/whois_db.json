@@ -4176,7 +4176,8 @@
     "blinkx.com": {
         "epoch": 1606176000.0,
         "expiration_date": "24-nov-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "blip.tv": {
         "epoch": 1620172800.0,
@@ -5756,10 +5757,10 @@
         "state": "future"
     },
     "citypaketet.se": {
-        "epoch": 1605916800.0,
-        "expiration_date": "21-nov-2020",
+        "epoch": 1637452800.0,
+        "expiration_date": "21-nov-2021",
         "server": "whois.iis.se",
-        "state": "past"
+        "state": "future"
     },
     "citysearch.com": {
         "epoch": 1637452800.0,
@@ -8522,7 +8523,8 @@
     "dnab.info": {
         "epoch": 1606176000.0,
         "expiration_date": "24-nov-2020",
-        "state": "future"
+        "server": "whois.afilias.net",
+        "state": "past"
     },
     "dnevnik.si": {
         "epoch": 1622937600.0,
@@ -19952,7 +19954,8 @@
     "ninestats.com": {
         "epoch": 1606176000.0,
         "expiration_date": "24-nov-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "ning.com": {
         "epoch": 1702684800.0,
@@ -23116,8 +23119,9 @@
         "state": "future"
     },
     "r24-tech.com": {
-        "epoch": 1606003200.0,
-        "expiration_date": "22-nov-2020",
+        "epoch": 1637539200.0,
+        "expiration_date": "22-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "r7.com": {
@@ -32714,7 +32718,8 @@
     "wstatslive.com": {
         "epoch": 1606176000.0,
         "expiration_date": "24-nov-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "wt-eu02.net": {
         "epoch": 1635811200.0,
