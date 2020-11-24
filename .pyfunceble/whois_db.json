@@ -1414,8 +1414,9 @@
         "state": "future"
     },
     "advancedmp3players.co.uk": {
-        "epoch": 1606176000.0,
-        "expiration_date": "24-nov-2020",
+        "epoch": 1637712000.0,
+        "expiration_date": "24-nov-2021",
+        "server": "whois.nic.uk",
         "state": "future"
     },
     "advangelists.com": {
@@ -2751,8 +2752,9 @@
         "state": "future"
     },
     "art.com": {
-        "epoch": 1606089600.0,
-        "expiration_date": "23-nov-2020",
+        "epoch": 1637625600.0,
+        "expiration_date": "23-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "arte.tv": {
@@ -4018,8 +4020,9 @@
         "state": "future"
     },
     "birthvillage.com": {
-        "epoch": 1606089600.0,
-        "expiration_date": "23-nov-2020",
+        "epoch": 1637625600.0,
+        "expiration_date": "23-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "bit.ly": {
@@ -5296,8 +5299,9 @@
         "state": "future"
     },
     "cbc.ca": {
-        "epoch": 1606176000.0,
-        "expiration_date": "24-nov-2020",
+        "epoch": 1637712000.0,
+        "expiration_date": "24-nov-2021",
+        "server": "whois.cira.ca",
         "state": "future"
     },
     "cbox.ws": {
@@ -14260,6 +14264,12 @@
         "expiration_date": "25-may-2021",
         "state": "future"
     },
+    "info.com": {
+        "epoch": 1827014400.0,
+        "expiration_date": "24-nov-2027",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "infocollect.dk": {
         "epoch": 1622419200.0,
         "expiration_date": "31-may-2021",
@@ -20822,8 +20832,9 @@
         "state": "future"
     },
     "optionsxpress.com": {
-        "epoch": 1606176000.0,
-        "expiration_date": "24-nov-2020",
+        "epoch": 1637712000.0,
+        "expiration_date": "24-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "optorb.com": {
@@ -24568,7 +24579,8 @@
     "s3wfg.com": {
         "epoch": 1606176000.0,
         "expiration_date": "24-nov-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "s7target.ru": {
         "epoch": 1617235200.0,
@@ -26052,8 +26064,9 @@
         "state": "future"
     },
     "skyrock.net": {
-        "epoch": 1606176000.0,
-        "expiration_date": "24-nov-2020",
+        "epoch": 1637712000.0,
+        "expiration_date": "24-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "skysa.com": {
