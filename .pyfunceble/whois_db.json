@@ -578,6 +578,12 @@
         "expiration_date": "15-jan-2021",
         "state": "future"
     },
+    "a4st.club": {
+        "epoch": 1611187200.0,
+        "expiration_date": "21-jan-2021",
+        "server": "whois.nic.club",
+        "state": "future"
+    },
     "a7.org": {
         "epoch": 1700870400.0,
         "expiration_date": "25-nov-2023",
@@ -4180,10 +4186,10 @@
         "state": "future"
     },
     "blinkx.com": {
-        "epoch": 1606176000.0,
-        "expiration_date": "24-nov-2020",
+        "epoch": 1637712000.0,
+        "expiration_date": "24-nov-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "blip.tv": {
         "epoch": 1620172800.0,
@@ -8563,10 +8569,10 @@
         "state": "future"
     },
     "dnab.info": {
-        "epoch": 1606176000.0,
-        "expiration_date": "24-nov-2020",
+        "epoch": 1637712000.0,
+        "expiration_date": "24-nov-2021",
         "server": "whois.afilias.net",
-        "state": "past"
+        "state": "future"
     },
     "dnevnik.si": {
         "epoch": 1622937600.0,
@@ -9883,6 +9889,12 @@
         "expiration_date": "26-jul-2021",
         "state": "future"
     },
+    "ex.co": {
+        "epoch": 1650844800.0,
+        "expiration_date": "25-apr-2022",
+        "server": "whois.nic.co",
+        "state": "future"
+    },
     "ex.ua": {
         "epoch": 1688256000.0,
         "expiration_date": "02-jul-2023",
@@ -10524,8 +10536,9 @@
         "state": "future"
     },
     "firecrux.com": {
-        "epoch": 1606262400.0,
-        "expiration_date": "25-nov-2020",
+        "epoch": 1637798400.0,
+        "expiration_date": "25-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "firefoxchina.cn": {
@@ -13288,6 +13301,12 @@
         "epoch": 1637366400.0,
         "expiration_date": "20-nov-2021",
         "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "hobbi.xyz": {
+        "epoch": 1634342400.0,
+        "expiration_date": "16-oct-2021",
+        "server": "whois.nic.xyz",
         "state": "future"
     },
     "hobsons.co.uk": {
@@ -20021,10 +20040,10 @@
         "state": "future"
     },
     "ninestats.com": {
-        "epoch": 1606176000.0,
-        "expiration_date": "24-nov-2020",
+        "epoch": 1637712000.0,
+        "expiration_date": "24-nov-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "ning.com": {
         "epoch": 1702684800.0,
@@ -25400,8 +25419,9 @@
         "state": "future"
     },
     "sensor.org.ua": {
-        "epoch": 1606262400.0,
-        "expiration_date": "25-nov-2020",
+        "epoch": 1637798400.0,
+        "expiration_date": "25-nov-2021",
+        "server": "whois.ua",
         "state": "future"
     },
     "seo-master.net": {
@@ -31425,8 +31445,9 @@
         "state": "future"
     },
     "visits.lt": {
-        "epoch": 1606435200.0,
-        "expiration_date": "27-nov-2020",
+        "epoch": 1637971200.0,
+        "expiration_date": "27-nov-2021",
+        "server": "whois.domreg.lt",
         "state": "future"
     },
     "visitstats.com": {
@@ -32848,10 +32869,10 @@
         "state": "future"
     },
     "wstatslive.com": {
-        "epoch": 1606176000.0,
-        "expiration_date": "24-nov-2020",
+        "epoch": 1637712000.0,
+        "expiration_date": "24-nov-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "wt-eu02.net": {
         "epoch": 1635811200.0,
