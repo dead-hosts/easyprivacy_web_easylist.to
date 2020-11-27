@@ -3417,8 +3417,9 @@
         "state": "future"
     },
     "babyblog.ru": {
-        "epoch": 1606348800.0,
-        "expiration_date": "26-nov-2020",
+        "epoch": 1637884800.0,
+        "expiration_date": "26-nov-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "bachecaannunci.it": {
@@ -8007,8 +8008,9 @@
         "state": "future"
     },
     "dek-d.com": {
-        "epoch": 1606262400.0,
-        "expiration_date": "25-nov-2020",
+        "epoch": 1637798400.0,
+        "expiration_date": "25-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "delegatediscussion.com": {
@@ -12938,8 +12940,9 @@
         "state": "future"
     },
     "hdslb.com": {
-        "epoch": 1606262400.0,
-        "expiration_date": "25-nov-2020",
+        "epoch": 1637798400.0,
+        "expiration_date": "25-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "hdzog.com": {
@@ -16396,7 +16399,7 @@
         "epoch": 1606435200.0,
         "expiration_date": "27-nov-2020",
         "server": "whois.nic.fr",
-        "state": "future"
+        "state": "past"
     },
     "leparking.fr": {
         "epoch": 1635811200.0,
@@ -18005,8 +18008,9 @@
         "state": "future"
     },
     "meta.ua": {
-        "epoch": 1606348800.0,
-        "expiration_date": "26-nov-2020",
+        "epoch": 1637884800.0,
+        "expiration_date": "26-nov-2021",
+        "server": "whois.ua",
         "state": "future"
     },
     "metabroadcast.com": {
@@ -22321,6 +22325,12 @@
         "expiration_date": "15-jan-2022",
         "state": "future"
     },
+    "ppcdn.it": {
+        "epoch": 1621209600.0,
+        "expiration_date": "17-may-2021",
+        "server": "whois.nic.it",
+        "state": "future"
+    },
     "ppcprotect.com": {
         "epoch": 1717718400.0,
         "expiration_date": "07-jun-2024",
@@ -24576,8 +24586,9 @@
         "state": "future"
     },
     "rtl.fr": {
-        "epoch": 1606435200.0,
-        "expiration_date": "27-nov-2020",
+        "epoch": 1637971200.0,
+        "expiration_date": "27-nov-2021",
+        "server": "whois.nic.fr",
         "state": "future"
     },
     "rtmark.net": {
