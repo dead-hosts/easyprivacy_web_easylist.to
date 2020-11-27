@@ -15821,8 +15821,9 @@
         "state": "future"
     },
     "kksou.com": {
-        "epoch": 1606262400.0,
-        "expiration_date": "25-nov-2020",
+        "epoch": 1637798400.0,
+        "expiration_date": "25-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "klangoo.com": {
@@ -21817,8 +21818,9 @@
         "state": "future"
     },
     "pinterest.com": {
-        "epoch": 1606348800.0,
-        "expiration_date": "26-nov-2020",
+        "epoch": 1669420800.0,
+        "expiration_date": "26-nov-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "pipfire.com": {
@@ -23280,8 +23282,9 @@
         "state": "future"
     },
     "radio-canada.ca": {
-        "epoch": 1606435200.0,
-        "expiration_date": "27-nov-2020",
+        "epoch": 1637971200.0,
+        "expiration_date": "27-nov-2021",
+        "server": "whois.cira.ca",
         "state": "future"
     },
     "radiotime.com": {
@@ -23305,8 +23308,9 @@
         "state": "future"
     },
     "ralphlauren.co.uk": {
-        "epoch": 1606435200.0,
-        "expiration_date": "27-nov-2020",
+        "epoch": 1637971200.0,
+        "expiration_date": "27-nov-2021",
+        "server": "whois.nic.uk",
         "state": "future"
     },
     "ralphlauren.com": {
@@ -25236,7 +25240,8 @@
     "seeclickfix.com": {
         "epoch": 1606435200.0,
         "expiration_date": "27-nov-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "seedr.cc": {
         "epoch": 1629072000.0,
@@ -29211,7 +29216,8 @@
     "torrentz.me": {
         "epoch": 1606435200.0,
         "expiration_date": "27-nov-2020",
-        "state": "future"
+        "server": "whois.nic.me",
+        "state": "past"
     },
     "toshibadirect.com": {
         "epoch": 1629331200.0,
