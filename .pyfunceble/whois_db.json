@@ -1173,8 +1173,9 @@
         "state": "future"
     },
     "admission.net": {
-        "epoch": 1606608000.0,
-        "expiration_date": "29-nov-2020",
+        "epoch": 1638144000.0,
+        "expiration_date": "29-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "admitad.com": {
@@ -11514,8 +11515,9 @@
         "state": "future"
     },
     "future-price.co.uk": {
-        "epoch": 1606521600.0,
-        "expiration_date": "28-nov-2020",
+        "epoch": 1638057600.0,
+        "expiration_date": "28-nov-2021",
+        "server": "whois.nic.uk",
         "state": "future"
     },
     "futurecdn.net": {
@@ -18798,6 +18800,12 @@
         "expiration_date": "20-jun-2021",
         "state": "future"
     },
+    "mrf.io": {
+        "epoch": 1640736000.0,
+        "expiration_date": "29-dec-2021",
+        "server": "whois.nic.io",
+        "state": "future"
+    },
     "mrwebmaster.it": {
         "epoch": 1636070400.0,
         "expiration_date": "05-nov-2021",
@@ -23788,8 +23796,9 @@
         "state": "future"
     },
     "reevoo.com": {
-        "epoch": 1606608000.0,
-        "expiration_date": "29-nov-2020",
+        "epoch": 1638144000.0,
+        "expiration_date": "29-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "reference.com": {
@@ -25672,8 +25681,9 @@
         "state": "future"
     },
     "shareholder.com": {
-        "epoch": 1606521600.0,
-        "expiration_date": "28-nov-2020",
+        "epoch": 1638057600.0,
+        "expiration_date": "28-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "shareit.com": {
@@ -30637,8 +30647,9 @@
         "state": "future"
     },
     "uptolike.com": {
-        "epoch": 1606608000.0,
-        "expiration_date": "29-nov-2020",
+        "epoch": 1638144000.0,
+        "expiration_date": "29-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "uptracs.com": {
