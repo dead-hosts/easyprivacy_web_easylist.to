@@ -733,8 +733,9 @@
         "state": "future"
     },
     "acceptableserver.com": {
-        "epoch": 1606521600.0,
-        "expiration_date": "28-nov-2020",
+        "epoch": 1613174400.0,
+        "expiration_date": "13-feb-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "acces-charme.com": {
@@ -1786,10 +1787,10 @@
         "state": "future"
     },
     "alcvid.com": {
-        "epoch": 1606348800.0,
-        "expiration_date": "26-nov-2020",
+        "epoch": 1637884800.0,
+        "expiration_date": "26-nov-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "aleinvest.xyz": {
         "epoch": 1606694400.0,
@@ -7080,8 +7081,9 @@
         "state": "future"
     },
     "countz.com": {
-        "epoch": 1606608000.0,
-        "expiration_date": "29-nov-2020",
+        "epoch": 1638144000.0,
+        "expiration_date": "29-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "coupons.com": {
@@ -11960,8 +11962,9 @@
         "state": "future"
     },
     "getclicky.com": {
-        "epoch": 1606521600.0,
-        "expiration_date": "28-nov-2020",
+        "epoch": 1638057600.0,
+        "expiration_date": "28-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "getconversion.net": {
@@ -15788,10 +15791,10 @@
         "state": "future"
     },
     "kisstesting.com": {
-        "epoch": 1606348800.0,
-        "expiration_date": "26-nov-2020",
+        "epoch": 1637884800.0,
+        "expiration_date": "26-nov-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "kitbit.net": {
         "epoch": 1620000000.0,
@@ -17673,8 +17676,9 @@
         "state": "future"
     },
     "mbotvisit.com": {
-        "epoch": 1606608000.0,
-        "expiration_date": "29-nov-2020",
+        "epoch": 1638144000.0,
+        "expiration_date": "29-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mbsvr.net": {
@@ -18770,8 +18774,9 @@
         "state": "future"
     },
     "mpstat.us": {
-        "epoch": 1606608000.0,
-        "expiration_date": "29-nov-2020",
+        "epoch": 1638144000.0,
+        "expiration_date": "29-nov-2021",
+        "server": "whois.nic.us",
         "state": "future"
     },
     "mpwe.net": {
@@ -19432,8 +19437,9 @@
         "state": "future"
     },
     "navigator.io": {
-        "epoch": 1606608000.0,
-        "expiration_date": "29-nov-2020",
+        "epoch": 1638144000.0,
+        "expiration_date": "29-nov-2021",
+        "server": "whois.nic.io",
         "state": "future"
     },
     "navilytics.com": {
@@ -20201,8 +20207,9 @@
         "state": "future"
     },
     "nrich.ai": {
-        "epoch": 1606521600.0,
-        "expiration_date": "28-nov-2020",
+        "epoch": 1669593600.0,
+        "expiration_date": "28-nov-2022",
+        "server": "whois.nic.ai",
         "state": "future"
     },
     "ns-cdn.com": {
@@ -21065,8 +21072,9 @@
         "state": "future"
     },
     "outboundlink.me": {
-        "epoch": 1606521600.0,
-        "expiration_date": "28-nov-2020",
+        "epoch": 1638057600.0,
+        "expiration_date": "28-nov-2021",
+        "server": "whois.nic.me",
         "state": "future"
     },
     "outbrain.com": {
