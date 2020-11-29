@@ -480,8 +480,9 @@
         "state": "future"
     },
     "7x5.fr": {
-        "epoch": 1606521600.0,
-        "expiration_date": "28-nov-2020",
+        "epoch": 1638057600.0,
+        "expiration_date": "28-nov-2021",
+        "server": "whois.nic.fr",
         "state": "future"
     },
     "8020solutions.net": {
@@ -7355,7 +7356,8 @@
     "crypto-coins.club": {
         "epoch": 1606608000.0,
         "expiration_date": "29-nov-2020",
-        "state": "future"
+        "server": "whois.nic.club",
+        "state": "past"
     },
     "crypto-coins.com": {
         "epoch": 1626652800.0,
@@ -12602,6 +12604,12 @@
         "expiration_date": "04-sep-2020",
         "state": "future"
     },
+    "greasysquare.com": {
+        "epoch": 1614384000.0,
+        "expiration_date": "27-feb-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "greenmangaming.com": {
         "epoch": 1622937600.0,
         "expiration_date": "06-jun-2021",
@@ -13045,8 +13053,9 @@
         "state": "future"
     },
     "heroesdom.com": {
-        "epoch": 1606521600.0,
-        "expiration_date": "28-nov-2020",
+        "epoch": 1638057600.0,
+        "expiration_date": "28-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "heroku.com": {
@@ -26177,8 +26186,9 @@
         "state": "future"
     },
     "sk1n.fr": {
-        "epoch": 1606521600.0,
-        "expiration_date": "28-nov-2020",
+        "epoch": 1638057600.0,
+        "expiration_date": "28-nov-2021",
+        "server": "whois.nic.fr",
         "state": "future"
     },
     "sk8t.fr": {
@@ -26297,10 +26307,10 @@
         "state": "future"
     },
     "sm-epsilon.com": {
-        "epoch": 1606348800.0,
-        "expiration_date": "26-nov-2020",
+        "epoch": 1637884800.0,
+        "expiration_date": "26-nov-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "smadex.com": {
         "epoch": 1641168000.0,
@@ -30801,10 +30811,10 @@
         "state": "future"
     },
     "userzoom.com": {
-        "epoch": 1606348800.0,
-        "expiration_date": "26-nov-2020",
+        "epoch": 1637884800.0,
+        "expiration_date": "26-nov-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "usesfathom.com": {
         "epoch": 1620345600.0,
@@ -31811,10 +31821,10 @@
         "state": "future"
     },
     "waframedia9.com": {
-        "epoch": 1606435200.0,
-        "expiration_date": "27-nov-2020",
+        "epoch": 1637971200.0,
+        "expiration_date": "27-nov-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "wal.co": {
         "epoch": 1663632000.0,
@@ -33435,7 +33445,7 @@
         "epoch": 1606608000.0,
         "expiration_date": "29-nov-2020",
         "server": "whois.verisign-grs.com",
-        "state": "future"
+        "state": "past"
     },
     "youdao.com": {
         "epoch": 1623715200.0,
