@@ -8927,8 +8927,9 @@
         "state": "future"
     },
     "dyo.gs": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.nic.gs",
         "state": "future"
     },
     "dzizsih.ru": {
@@ -15707,8 +15708,9 @@
         "state": "future"
     },
     "kelkoo.com": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1669766400.0,
+        "expiration_date": "30-nov-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "kelkoogroup.net": {
@@ -18315,7 +18317,8 @@
     "miniurls.co": {
         "epoch": 1606608000.0,
         "expiration_date": "29-nov-2020",
-        "state": "future"
+        "server": "whois.nic.co",
+        "state": "past"
     },
     "miniusa.com": {
         "epoch": 1614556800.0,
@@ -21032,8 +21035,9 @@
         "state": "future"
     },
     "oscars.org": {
-        "epoch": 1606521600.0,
-        "expiration_date": "28-nov-2020",
+        "epoch": 1638057600.0,
+        "expiration_date": "28-nov-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "osdata.solutions": {
@@ -24873,8 +24877,9 @@
         "state": "future"
     },
     "samsung.com": {
-        "epoch": 1606521600.0,
-        "expiration_date": "28-nov-2020",
+        "epoch": 1764288000.0,
+        "expiration_date": "28-nov-2025",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "san-spr-01.net": {
@@ -25279,10 +25284,10 @@
         "state": "future"
     },
     "seeclickfix.com": {
-        "epoch": 1606435200.0,
-        "expiration_date": "27-nov-2020",
+        "epoch": 1637971200.0,
+        "expiration_date": "27-nov-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "seedr.cc": {
         "epoch": 1629072000.0,
@@ -26968,8 +26973,9 @@
         "state": "future"
     },
     "spoonful.com": {
-        "epoch": 1606521600.0,
-        "expiration_date": "28-nov-2020",
+        "epoch": 1638057600.0,
+        "expiration_date": "28-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "sporcle.com": {
@@ -28767,7 +28773,8 @@
     "theseforums.com": {
         "epoch": 1606694400.0,
         "expiration_date": "30-nov-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "thesmokinggun.com": {
         "epoch": 1613260800.0,
@@ -29258,10 +29265,10 @@
         "state": "future"
     },
     "torrentz.me": {
-        "epoch": 1606435200.0,
-        "expiration_date": "27-nov-2020",
+        "epoch": 1637971200.0,
+        "expiration_date": "27-nov-2021",
         "server": "whois.nic.me",
-        "state": "past"
+        "state": "future"
     },
     "toshibadirect.com": {
         "epoch": 1629331200.0,
@@ -32908,7 +32915,8 @@
     "ws.md": {
         "epoch": 1606694400.0,
         "expiration_date": "30-nov-2020",
-        "state": "future"
+        "server": "whois.nic.md",
+        "state": "past"
     },
     "wsf.com": {
         "epoch": 1646697600.0,
