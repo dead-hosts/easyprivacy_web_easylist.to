@@ -1697,8 +1697,9 @@
         "state": "future"
     },
     "airfrance.com": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "airpr.com": {
@@ -2421,8 +2422,9 @@
         "state": "future"
     },
     "any.gs": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.nic.gs",
         "state": "future"
     },
     "anybest.host": {
@@ -2530,8 +2532,9 @@
         "state": "future"
     },
     "apkpure.com": {
-        "epoch": 1606521600.0,
-        "expiration_date": "28-nov-2020",
+        "epoch": 1638057600.0,
+        "expiration_date": "28-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "apnews.com": {
@@ -18429,8 +18432,9 @@
         "state": "future"
     },
     "mlt01.com": {
-        "epoch": 1606521600.0,
-        "expiration_date": "28-nov-2020",
+        "epoch": 1638057600.0,
+        "expiration_date": "28-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mm7.net": {
@@ -25513,8 +25517,9 @@
         "state": "future"
     },
     "sepyra.com": {
-        "epoch": 1606521600.0,
-        "expiration_date": "28-nov-2020",
+        "epoch": 1638057600.0,
+        "expiration_date": "28-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "serating.ru": {
@@ -25551,10 +25556,10 @@
         "state": "future"
     },
     "serverkompetenz.net": {
-        "epoch": 1606435200.0,
-        "expiration_date": "27-nov-2020",
+        "epoch": 1637971200.0,
+        "expiration_date": "27-nov-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "servestats.com": {
         "epoch": 1621036800.0,
