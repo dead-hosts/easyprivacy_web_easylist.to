@@ -652,7 +652,8 @@
     "abcstats.com": {
         "epoch": 1606780800.0,
         "expiration_date": "01-dec-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "abebooks.com": {
         "epoch": 1623024000.0,
@@ -1116,8 +1117,9 @@
         "state": "future"
     },
     "adinsight.co.kr": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1890691200.0,
+        "expiration_date": "30-nov-2029",
+        "server": "whois.kr",
         "state": "future"
     },
     "adinsight.com": {
@@ -2779,7 +2781,8 @@
     "artefact.is": {
         "epoch": 1606780800.0,
         "expiration_date": "01-dec-2020",
-        "state": "future"
+        "server": "whois.isnic.is",
+        "state": "past"
     },
     "artfut.com": {
         "epoch": 1617667200.0,
@@ -5953,8 +5956,9 @@
         "state": "future"
     },
     "clickening.com": {
-        "epoch": 1606780800.0,
-        "expiration_date": "01-dec-2020",
+        "epoch": 1638316800.0,
+        "expiration_date": "01-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "clicker.com": {
@@ -12242,8 +12246,9 @@
         "state": "future"
     },
     "globetrackr.com": {
-        "epoch": 1606867200.0,
-        "expiration_date": "02-dec-2020",
+        "epoch": 1613606400.0,
+        "expiration_date": "18-feb-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "globo.com": {
@@ -12294,8 +12299,9 @@
         "state": "future"
     },
     "go-mpulse.net": {
-        "epoch": 1606867200.0,
-        "expiration_date": "02-dec-2020",
+        "epoch": 1638403200.0,
+        "expiration_date": "02-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "go.com": {
@@ -12480,8 +12486,9 @@
         "state": "future"
     },
     "gostats.com": {
-        "epoch": 1606780800.0,
-        "expiration_date": "01-dec-2020",
+        "epoch": 1764547200.0,
+        "expiration_date": "01-dec-2025",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "gostats.org": {
@@ -13266,13 +13273,14 @@
         "state": "future"
     },
     "hitsprocessor.com": {
-        "epoch": 1606780800.0,
-        "expiration_date": "01-dec-2020",
+        "epoch": 1638316800.0,
+        "expiration_date": "01-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "hitstatus.com": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -14682,7 +14690,8 @@
     "intellimize.co": {
         "epoch": 1606867200.0,
         "expiration_date": "02-dec-2020",
-        "state": "future"
+        "server": "whois.nic.co",
+        "state": "past"
     },
     "intensedebate.com": {
         "epoch": 1643155200.0,
@@ -16024,8 +16033,9 @@
         "state": "future"
     },
     "ktxtr.com": {
-        "epoch": 1606780800.0,
-        "expiration_date": "01-dec-2020",
+        "epoch": 1638316800.0,
+        "expiration_date": "01-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ku6.com": {
@@ -17394,8 +17404,9 @@
         "state": "future"
     },
     "mailstat.us": {
-        "epoch": 1606867200.0,
-        "expiration_date": "02-dec-2020",
+        "epoch": 1669939200.0,
+        "expiration_date": "02-dec-2022",
+        "server": "whois.nic.us",
         "state": "future"
     },
     "mairdumont.com": {
@@ -20281,7 +20292,8 @@
     "nuconomy.com": {
         "epoch": 1606780800.0,
         "expiration_date": "01-dec-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "nuggad.net": {
         "epoch": 1644019200.0,
@@ -22797,8 +22809,9 @@
         "state": "future"
     },
     "publicgood.com": {
-        "epoch": 1606867200.0,
-        "expiration_date": "02-dec-2020",
+        "epoch": 1638403200.0,
+        "expiration_date": "02-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "publicidees.com": {
@@ -24258,8 +24271,9 @@
         "state": "future"
     },
     "rhinoseo.com": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ria.ru": {
@@ -24478,8 +24492,9 @@
         "state": "future"
     },
     "roia.biz": {
-        "epoch": 1606780800.0,
-        "expiration_date": "01-dec-2020",
+        "epoch": 1669852800.0,
+        "expiration_date": "01-dec-2022",
+        "server": "whois.nic.biz",
         "state": "future"
     },
     "roiservice.com": {
