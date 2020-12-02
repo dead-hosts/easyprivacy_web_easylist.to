@@ -833,8 +833,9 @@
         "state": "future"
     },
     "acridtwist.com": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "acronymfinder.com": {
@@ -1689,8 +1690,9 @@
         "state": "future"
     },
     "air360tracker.net": {
-        "epoch": 1606867200.0,
-        "expiration_date": "02-dec-2020",
+        "epoch": 1638403200.0,
+        "expiration_date": "02-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "aircanada.com": {
@@ -1798,13 +1800,14 @@
         "state": "future"
     },
     "aleinvest.xyz": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.nic.xyz",
         "state": "future"
     },
     "alemoney.xyz": {
-        "epoch": 1606780800.0,
-        "expiration_date": "01-dec-2020",
+        "epoch": 1638316800.0,
+        "expiration_date": "01-dec-2021",
         "server": "whois.nic.xyz",
         "state": "future"
     },
@@ -6397,8 +6400,9 @@
         "state": "future"
     },
     "coinhive.com": {
-        "epoch": 1606780800.0,
-        "expiration_date": "01-dec-2020",
+        "epoch": 1638316800.0,
+        "expiration_date": "01-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "coinhiveproxy.com": {
@@ -19594,8 +19598,9 @@
         "state": "future"
     },
     "neighborlywatch.com": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "nejmqianyan.cn": {
@@ -20698,6 +20703,12 @@
         "epoch": 1890345600.0,
         "expiration_date": "26-nov-2029",
         "server": "whois.nic.me",
+        "state": "future"
+    },
+    "onepush.app": {
+        "epoch": 1633651200.0,
+        "expiration_date": "08-oct-2021",
+        "server": "whois.nic.google",
         "state": "future"
     },
     "onescreen.net": {
@@ -26427,8 +26438,9 @@
         "state": "future"
     },
     "smartlook.com": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "smartname.com": {
@@ -26740,8 +26752,9 @@
         "state": "future"
     },
     "soodatmish.com": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "soonnight.com": {
@@ -27107,8 +27120,9 @@
         "state": "future"
     },
     "spylog.ru": {
-        "epoch": 1606867200.0,
-        "expiration_date": "02-dec-2020",
+        "epoch": 1638403200.0,
+        "expiration_date": "02-dec-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "spywords.com": {
@@ -28023,8 +28037,9 @@
         "state": "future"
     },
     "surfcounters.com": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "surfertracker.com": {
@@ -28346,8 +28361,9 @@
         "state": "future"
     },
     "tawdryson.com": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "tbex.ru": {
@@ -29727,8 +29743,9 @@
         "state": "future"
     },
     "tranquilside.com": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "transactionale.com": {
@@ -30222,7 +30239,8 @@
     "tvpixel.com": {
         "epoch": 1606867200.0,
         "expiration_date": "02-dec-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "tvshark.com": {
         "epoch": 1621641600.0,
@@ -30235,8 +30253,9 @@
         "state": "future"
     },
     "twcount.com": {
-        "epoch": 1606780800.0,
-        "expiration_date": "01-dec-2020",
+        "epoch": 1613692800.0,
+        "expiration_date": "19-feb-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "twcouponcenter.com": {
@@ -31537,7 +31556,8 @@
     "visto1.net": {
         "epoch": 1606867200.0,
         "expiration_date": "02-dec-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "visual.ly": {
         "epoch": 1812240000.0,
@@ -31550,8 +31570,9 @@
         "state": "future"
     },
     "visualrevenue.com": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "visualstudio.com": {
@@ -32268,7 +32289,8 @@
     "websiteceo.com": {
         "epoch": 1606867200.0,
         "expiration_date": "02-dec-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "websiteonlinecounter.com": {
         "epoch": 1621468800.0,
@@ -33481,10 +33503,10 @@
         "state": "future"
     },
     "youboranqs02.com": {
-        "epoch": 1606608000.0,
-        "expiration_date": "29-nov-2020",
+        "epoch": 1638144000.0,
+        "expiration_date": "29-nov-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "youdao.com": {
         "epoch": 1623715200.0,
