@@ -22543,8 +22543,9 @@
         "state": "future"
     },
     "privacytool.org": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "prjslxhtx003.top": {
@@ -26442,8 +26443,9 @@
         "state": "future"
     },
     "smartertravel.com": {
-        "epoch": 1606780800.0,
-        "expiration_date": "01-dec-2020",
+        "epoch": 1638316800.0,
+        "expiration_date": "01-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "smartlook.com": {
@@ -27240,8 +27242,8 @@
         "state": "future"
     },
     "stacksocialcontent.com": {
-        "epoch": 1606867200.0,
-        "expiration_date": "02-dec-2020",
+        "epoch": 1638403200.0,
+        "expiration_date": "02-dec-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
