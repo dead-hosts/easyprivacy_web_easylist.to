@@ -17902,7 +17902,8 @@
     "mediaset.it": {
         "epoch": 1606780800.0,
         "expiration_date": "01-dec-2020",
-        "state": "future"
+        "server": "whois.nic.it",
+        "state": "past"
     },
     "mediatoday.ru": {
         "epoch": 1617408000.0,
@@ -26547,10 +26548,10 @@
         "state": "past"
     },
     "smsaffari.it": {
-        "epoch": 1605398400.0,
-        "expiration_date": "15-nov-2020",
+        "epoch": 1636934400.0,
+        "expiration_date": "15-nov-2021",
         "server": "whois.nic.it",
-        "state": "past"
+        "state": "future"
     },
     "snakesworld.com": {
         "epoch": 1611964800.0,
@@ -32973,10 +32974,10 @@
         "state": "future"
     },
     "ws.md": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
         "server": "whois.nic.md",
-        "state": "past"
+        "state": "future"
     },
     "wsf.com": {
         "epoch": 1646697600.0,
@@ -33669,7 +33670,8 @@
     "yyv.co": {
         "epoch": 1606867200.0,
         "expiration_date": "02-dec-2020",
-        "state": "future"
+        "server": "whois.nic.co",
+        "state": "past"
     },
     "z0uolej1qnxzub1.info": {
         "epoch": 1634256000.0,
