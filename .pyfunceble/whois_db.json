@@ -393,8 +393,9 @@
         "state": "future"
     },
     "51network.com": {
-        "epoch": 1606780800.0,
-        "expiration_date": "01-dec-2020",
+        "epoch": 1638316800.0,
+        "expiration_date": "01-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "51yes.com": {
@@ -9248,7 +9249,8 @@
     "egmontpublishing.dk": {
         "epoch": 1606694400.0,
         "expiration_date": "30-nov-2020",
-        "state": "future"
+        "server": "whois.dk-hostmaster.dk",
+        "state": "past"
     },
     "eharmony.ca": {
         "epoch": 1659139200.0,
@@ -9822,8 +9824,9 @@
         "state": "future"
     },
     "eventful.com": {
-        "epoch": 1606867200.0,
-        "expiration_date": "02-dec-2020",
+        "epoch": 1669939200.0,
+        "expiration_date": "02-dec-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "eveonline.com": {
@@ -10326,8 +10329,9 @@
         "state": "future"
     },
     "faststart.ru": {
-        "epoch": 1606780800.0,
-        "expiration_date": "01-dec-2020",
+        "epoch": 1638316800.0,
+        "expiration_date": "01-dec-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "fastwebcounter.com": {
@@ -11900,8 +11904,9 @@
         "state": "future"
     },
     "geocontatore.com": {
-        "epoch": 1606780800.0,
-        "expiration_date": "01-dec-2020",
+        "epoch": 1638316800.0,
+        "expiration_date": "01-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "geoip-db.com": {
@@ -12277,8 +12282,9 @@
         "state": "future"
     },
     "gm-it.consulting": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.nic.consulting",
         "state": "future"
     },
     "gm99.com": {
@@ -14217,8 +14223,9 @@
         "state": "future"
     },
     "impdesk.com": {
-        "epoch": 1606780800.0,
-        "expiration_date": "01-dec-2020",
+        "epoch": 1638316800.0,
+        "expiration_date": "01-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "importedincrease.com": {
@@ -16596,7 +16603,8 @@
     "linkbucks.com": {
         "epoch": 1606867200.0,
         "expiration_date": "02-dec-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "linkconnector.com": {
         "epoch": 1632355200.0,
@@ -19804,8 +19812,9 @@
         "state": "future"
     },
     "netstats.dk": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.dk-hostmaster.dk",
         "state": "future"
     },
     "netu.tv": {
