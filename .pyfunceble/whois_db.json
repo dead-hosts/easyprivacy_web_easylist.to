@@ -3119,8 +3119,9 @@
         "state": "future"
     },
     "auto.ru": {
-        "epoch": 1606867200.0,
-        "expiration_date": "02-dec-2020",
+        "epoch": 1638403200.0,
+        "expiration_date": "02-dec-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "autoaffiliatenetwork.com": {
@@ -10367,8 +10368,9 @@
         "state": "future"
     },
     "fb.ru": {
-        "epoch": 1606867200.0,
-        "expiration_date": "02-dec-2020",
+        "epoch": 1638403200.0,
+        "expiration_date": "02-dec-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "fbgpnk.com": {
