@@ -1920,6 +1920,12 @@
         "server": "whois.tcinet.ru",
         "state": "future"
     },
+    "all3dp.com": {
+        "epoch": 1629676800.0,
+        "expiration_date": "23-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "allanalpass.com": {
         "epoch": 1628985600.0,
         "expiration_date": "15-aug-2021",
@@ -2494,7 +2500,8 @@
     "apartmenttherapy.com": {
         "epoch": 1607126400.0,
         "expiration_date": "05-dec-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "ape78cn2.com": {
         "epoch": 1624233600.0,
@@ -26076,8 +26083,9 @@
         "state": "future"
     },
     "sina.com.cn": {
-        "epoch": 1607040000.0,
-        "expiration_date": "04-dec-2020",
+        "epoch": 1638576000.0,
+        "expiration_date": "04-dec-2021",
+        "server": "whois.cnnic.cn",
         "state": "future"
     },
     "sinaimg.cn": {
@@ -33702,10 +33710,10 @@
         "state": "future"
     },
     "yyv.co": {
-        "epoch": 1606867200.0,
-        "expiration_date": "02-dec-2020",
+        "epoch": 1638403200.0,
+        "expiration_date": "02-dec-2021",
         "server": "whois.nic.co",
-        "state": "past"
+        "state": "future"
     },
     "z0uolej1qnxzub1.info": {
         "epoch": 1634256000.0,
