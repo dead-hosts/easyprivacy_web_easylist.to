@@ -2999,8 +2999,9 @@
         "state": "future"
     },
     "audible.com": {
-        "epoch": 1607040000.0,
-        "expiration_date": "04-dec-2020",
+        "epoch": 1670112000.0,
+        "expiration_date": "04-dec-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "audience.systems": {
@@ -21839,10 +21840,10 @@
         "state": "future"
     },
     "picbucks.com": {
-        "epoch": 1606867200.0,
-        "expiration_date": "02-dec-2020",
+        "epoch": 1638403200.0,
+        "expiration_date": "02-dec-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "piccy.info": {
         "epoch": 1703289600.0,
