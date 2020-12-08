@@ -2500,10 +2500,10 @@
         "state": "future"
     },
     "apartmenttherapy.com": {
-        "epoch": 1607126400.0,
-        "expiration_date": "05-dec-2020",
+        "epoch": 1638662400.0,
+        "expiration_date": "05-dec-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "ape78cn2.com": {
         "epoch": 1624233600.0,
@@ -33720,8 +33720,9 @@
         "state": "future"
     },
     "younewstv.com": {
-        "epoch": 1607385600.0,
-        "expiration_date": "08-dec-2020",
+        "epoch": 1638921600.0,
+        "expiration_date": "08-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "youporn.com": {
