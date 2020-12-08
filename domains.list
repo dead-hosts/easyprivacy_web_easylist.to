@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012080235
+! Version: 202012080404
 ! Title: EasyPrivacy
-! Last modified: 08 Dec 2020 02:35 UTC
+! Last modified: 08 Dec 2020 04:04 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5417,6 +5417,8 @@ cgi-bin/counter
 ! Notifcation scripts
 /epsilon.v2.
 /PushexSDK.
+/pushly-sdk.
+/pushly-sw.
 ! propertyguru fingerprinting
 /pg*.js?PID=$xmlhttprequest
 ! Akamai fingerprinting
@@ -7394,6 +7396,7 @@ _mongo_stats/
 ||permutive.com^$third-party
 ||personalicanvas.com^$third-party
 ||personyze.com^$third-party
+||peruse.ai^$third-party
 ||petametrics.com^$third-party
 ||pgs.io^$third-party
 ||phonalytics.com^$third-party

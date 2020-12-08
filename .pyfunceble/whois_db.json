@@ -4157,8 +4157,9 @@
         "state": "future"
     },
     "blackplanet.com": {
-        "epoch": 1607299200.0,
-        "expiration_date": "07-dec-2020",
+        "epoch": 1638835200.0,
+        "expiration_date": "07-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "blacktri.com": {
@@ -7511,8 +7512,9 @@
         "state": "future"
     },
     "ctscdn.com": {
-        "epoch": 1607385600.0,
-        "expiration_date": "08-dec-2020",
+        "epoch": 1638921600.0,
+        "expiration_date": "08-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "cttracking02.com": {
@@ -8932,8 +8934,9 @@
         "state": "future"
     },
     "dw.com": {
-        "epoch": 1607212800.0,
-        "expiration_date": "06-dec-2020",
+        "epoch": 1638748800.0,
+        "expiration_date": "06-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "dwin1.com": {
@@ -10546,8 +10549,9 @@
         "state": "future"
     },
     "filesmonster.com": {
-        "epoch": 1607212800.0,
-        "expiration_date": "06-dec-2020",
+        "epoch": 1638748800.0,
+        "expiration_date": "06-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "filesonic.com": {
@@ -15492,8 +15496,9 @@
         "state": "future"
     },
     "joins.com": {
-        "epoch": 1607212800.0,
-        "expiration_date": "06-dec-2020",
+        "epoch": 1638748800.0,
+        "expiration_date": "06-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "joka.it": {
@@ -21781,6 +21786,12 @@
         "expiration_date": "12-apr-2021",
         "state": "future"
     },
+    "peruse.ai": {
+        "epoch": 1612310400.0,
+        "expiration_date": "03-feb-2021",
+        "server": "whois.nic.ai",
+        "state": "future"
+    },
     "petametrics.com": {
         "epoch": 1641513600.0,
         "expiration_date": "07-jan-2022",
@@ -22142,8 +22153,9 @@
         "state": "future"
     },
     "playdom.com": {
-        "epoch": 1607212800.0,
-        "expiration_date": "06-dec-2020",
+        "epoch": 1638748800.0,
+        "expiration_date": "06-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "playlist.com": {
