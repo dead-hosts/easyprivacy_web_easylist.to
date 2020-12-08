@@ -1871,7 +1871,8 @@
     "alice.it": {
         "epoch": 1607212800.0,
         "expiration_date": "06-dec-2020",
-        "state": "future"
+        "server": "whois.nic.it",
+        "state": "past"
     },
     "aliexpress.com": {
         "epoch": 1618531200.0,
@@ -13770,10 +13771,10 @@
         "state": "future"
     },
     "httdev.it": {
-        "epoch": 1605830400.0,
-        "expiration_date": "20-nov-2020",
+        "epoch": 1637366400.0,
+        "expiration_date": "20-nov-2021",
         "server": "whois.nic.it",
-        "state": "past"
+        "state": "future"
     },
     "httpp.gdn": {
         "epoch": 1573257600.0,
@@ -23944,8 +23945,9 @@
         "state": "future"
     },
     "reelevant.dev": {
-        "epoch": 1607212800.0,
-        "expiration_date": "06-dec-2020",
+        "epoch": 1638748800.0,
+        "expiration_date": "06-dec-2021",
+        "server": "whois.nic.google",
         "state": "future"
     },
     "reelgood.com": {
