@@ -549,10 +549,10 @@
         "state": "future"
     },
     "a-counter.kiev.ua": {
-        "epoch": 1601769600.0,
-        "expiration_date": "04-oct-2020",
+        "epoch": 1638662400.0,
+        "expiration_date": "05-dec-2021",
         "server": "whois.ua",
-        "state": "past"
+        "state": "future"
     },
     "a-counters.com": {
         "epoch": 1668902400.0,
@@ -980,7 +980,8 @@
     "adblockmetrics.ru": {
         "epoch": 1607299200.0,
         "expiration_date": "07-dec-2020",
-        "state": "future"
+        "server": "whois.tcinet.ru",
+        "state": "past"
     },
     "adblockrelief.com": {
         "epoch": 1614729600.0,
@@ -6136,6 +6137,12 @@
         "expiration_date": "14-apr-2021",
         "state": "future"
     },
+    "clinch.co": {
+        "epoch": 1638576000.0,
+        "expiration_date": "04-dec-2021",
+        "server": "whois.nic.co",
+        "state": "future"
+    },
     "clipsyndicate.com": {
         "epoch": 1636416000.0,
         "expiration_date": "09-nov-2021",
@@ -7150,9 +7157,16 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "covery.ai": {
+        "epoch": 1645228800.0,
+        "expiration_date": "19-feb-2022",
+        "server": "whois.nic.ai",
+        "state": "future"
+    },
     "cpaevent.ru": {
-        "epoch": 1607385600.0,
-        "expiration_date": "08-dec-2020",
+        "epoch": 1638921600.0,
+        "expiration_date": "08-dec-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "cpcmanager.com": {
@@ -9226,6 +9240,12 @@
     "editeurjavascript.com": {
         "epoch": 1619049600.0,
         "expiration_date": "22-apr-2021",
+        "state": "future"
+    },
+    "edkt.io": {
+        "epoch": 1625702400.0,
+        "expiration_date": "08-jul-2021",
+        "server": "whois.nic.io",
         "state": "future"
     },
     "edmunds.com": {
@@ -11595,6 +11615,12 @@
         "epoch": 1612656000.0,
         "expiration_date": "07-feb-2021",
         "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "fw.tv": {
+        "epoch": 1650499200.0,
+        "expiration_date": "21-apr-2022",
+        "server": "tvwhois.verisign-grs.com",
         "state": "future"
     },
     "fwcdn1.com": {
@@ -14648,8 +14674,9 @@
         "state": "future"
     },
     "insnw.net": {
-        "epoch": 1607299200.0,
-        "expiration_date": "07-dec-2020",
+        "epoch": 1638835200.0,
+        "expiration_date": "07-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "inspectlet.com": {
@@ -20007,8 +20034,9 @@
         "state": "future"
     },
     "nex8.net": {
-        "epoch": 1607299200.0,
-        "expiration_date": "07-dec-2020",
+        "epoch": 1638835200.0,
+        "expiration_date": "07-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "nexeps.com": {
@@ -20354,8 +20382,8 @@
         "state": "future"
     },
     "nsdsvc.com": {
-        "epoch": 1607212800.0,
-        "expiration_date": "06-dec-2020",
+        "epoch": 1638748800.0,
+        "expiration_date": "06-dec-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -22539,6 +22567,12 @@
         "expiration_date": "12-feb-2021",
         "state": "future"
     },
+    "premiumads.com.br": {
+        "epoch": 1836864000.0,
+        "expiration_date": "17-mar-2028",
+        "server": "whois.registro.br",
+        "state": "future"
+    },
     "premiumstats.xyz": {
         "epoch": 1615852800.0,
         "expiration_date": "16-mar-2021",
@@ -22946,6 +22980,12 @@
     "puffyloss.com": {
         "epoch": 1627948800.0,
         "expiration_date": "03-aug-2021",
+        "state": "future"
+    },
+    "puffypaste.com": {
+        "epoch": 1630368000.0,
+        "expiration_date": "31-aug-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "puffypull.com": {
@@ -27776,6 +27816,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "stiffgame.com": {
+        "epoch": 1630368000.0,
+        "expiration_date": "31-aug-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "stiffstem.com": {
         "epoch": 1629763200.0,
         "expiration_date": "24-aug-2021",
@@ -30599,8 +30645,8 @@
         "state": "future"
     },
     "ulclick.ru": {
-        "epoch": 1607299200.0,
-        "expiration_date": "07-dec-2020",
+        "epoch": 1638835200.0,
+        "expiration_date": "07-dec-2021",
         "server": "whois.tcinet.ru",
         "state": "future"
     },
