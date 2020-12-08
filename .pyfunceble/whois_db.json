@@ -4014,8 +4014,9 @@
         "state": "future"
     },
     "bikepasture.com": {
-        "epoch": 1607212800.0,
-        "expiration_date": "06-dec-2020",
+        "epoch": 1638748800.0,
+        "expiration_date": "06-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "bildirt.com": {
@@ -4823,6 +4824,12 @@
     "bugherd.com": {
         "epoch": 1625011200.0,
         "expiration_date": "30-jun-2021",
+        "state": "future"
+    },
+    "bugsnag.com": {
+        "epoch": 1818547200.0,
+        "expiration_date": "18-aug-2027",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "bulgari.com": {
@@ -5953,8 +5960,9 @@
         "state": "future"
     },
     "clickclick.net": {
-        "epoch": 1607299200.0,
-        "expiration_date": "07-dec-2020",
+        "epoch": 1638835200.0,
+        "expiration_date": "07-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "clickconversion.net": {
@@ -7147,8 +7155,9 @@
         "state": "future"
     },
     "cpcmanager.com": {
-        "epoch": 1607299200.0,
-        "expiration_date": "07-dec-2020",
+        "epoch": 1638835200.0,
+        "expiration_date": "07-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "cphalk.com": {
@@ -8635,7 +8644,8 @@
     "doclix.com": {
         "epoch": 1607385600.0,
         "expiration_date": "08-dec-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "docstoc.com": {
         "epoch": 1637107200.0,
@@ -9915,7 +9925,8 @@
     "ewebanalytics.com": {
         "epoch": 1607385600.0,
         "expiration_date": "08-dec-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "ewebcounter.com": {
         "epoch": 1632528000.0,
@@ -10996,6 +11007,12 @@
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
+    "fouanalytics.com": {
+        "epoch": 1637366400.0,
+        "expiration_date": "20-nov-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "foundry42.com": {
         "epoch": 1621641600.0,
         "expiration_date": "22-may-2021",
@@ -11518,8 +11535,9 @@
         "state": "future"
     },
     "funstage.com": {
-        "epoch": 1607212800.0,
-        "expiration_date": "06-dec-2020",
+        "epoch": 1638748800.0,
+        "expiration_date": "06-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "furk.net": {
@@ -21596,8 +21614,9 @@
         "state": "future"
     },
     "percentmobile.com": {
-        "epoch": 1607212800.0,
-        "expiration_date": "06-dec-2020",
+        "epoch": 1670284800.0,
+        "expiration_date": "06-dec-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "percycle.com": {
