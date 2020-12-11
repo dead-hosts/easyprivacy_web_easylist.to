@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012080404
+! Version: 202012110001
 ! Title: EasyPrivacy
-! Last modified: 08 Dec 2020 04:04 UTC
+! Last modified: 11 Dec 2020 00:01 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1404,6 +1404,7 @@
 /compile/AppMeasurement.
 /comscore-min.js
 /comscore.
+/comscore.min.js
 /comscore/pageview_
 /comscore/streamsense.
 /comscore?
@@ -2294,6 +2295,7 @@
 /hlog.asp
 /hm.pl?p=
 /hmapxy.js
+/hnpprivacy-min.
 /home/Analytic?
 /homeCounter.
 /homepage/analytics.
@@ -5880,6 +5882,7 @@ _mongo_stats/
 ||anti-cheat.info^$third-party
 ||antiblock.info^$third-party
 ||anura.io^$third-party
+||anymind360.com^$third-party
 ||ape78cn2.com^$third-party
 ||apexstats.com^$third-party
 ||apextag.com^$third-party
@@ -6836,6 +6839,7 @@ _mongo_stats/
 ||infopro-insight.com^$third-party
 ||infoprodata.com^$third-party
 ||informz.net^$third-party
+||ingage.tech^$third-party
 ||inimbus.com.au^$third-party
 ||inmoment.com^$third-party
 ||innomdc.com^$third-party
@@ -7523,6 +7527,7 @@ _mongo_stats/
 ||questradeaffiliates.com^$third-party
 ||quillion.com^$third-party
 ||quintelligence.com^$third-party
+||quintesse.io^$third-party
 ||quitsnap-blue.com^$third-party
 ||qzlog.com^$third-party
 ||r7ls.net^$third-party
@@ -9501,6 +9506,7 @@ _mongo_stats/
 ||logly.co.jp^$third-party
 ||mediav.com^$third-party
 ||miaozhen.com^$third-party
+||mmstat.com^$third-party
 ||oadz.com^$third-party
 ||p0y.cn^$third-party
 ||phpstat.com^$third-party
@@ -12385,6 +12391,7 @@ _mongo_stats/
 ||d.omsnative.de^
 ||data.econa.com^
 ||datacomm.ch^*/count.cgi?
+||datalayer.p7s1.io^
 ||et.twyn.com^
 ||events.kaloo.ga^$third-party
 ||export.newscube.de^$~subdocument
@@ -12645,6 +12652,7 @@ _mongo_stats/
 ||dup.baidustatic.com^
 ||epro.sogou.com^
 ||etwun.com:8080/counter.php?
+||fourier.taobao.com^
 ||g.yccdn.com^
 ||haostat.qihoo.com^
 ||hudong.com/flux.js
@@ -15730,6 +15738,16 @@ _mongo_stats/
 ||zylom.com^*/global_tracking.jsp?
 ||zylom.com^*/tracking_spotlight.js
 ||zytpirwai.net/track/
+! first-party tracking
+||as01.overbuff.com^
+||gk3o.trackdota.com^
+||k9v7.dotabuff.com^
+||mqzy.dotabuff.com^
+||nj1r.valorbuff.com^
+||nkeq.speedrun.com^
+||nvea.valorbuff.com^
+||pqoz.trackdota.com^
+||uuqz.overbuff.com^
 ! Bing
 ||bing.com/fd/ls/l?IG=
 ||bing.com/fd/ls/lsp.aspx
@@ -15760,7 +15778,7 @@ _mongo_stats/
 ! genieesspv https://github.com/easylist/easylist/issues/6471
 /^https?:\/\/js.*\/t\/[0-9]{3}\/[0-9]{3}\/[a-z0-9]{7,8}\.js/$script,third-party
 ! Fingerprint
-/^https?:\/\/www\.halifax-online\.co\.uk\/assets\/[0-9a-z]{25,}/$script,domain=halifax-online.co.uk
+/^https?:\/\/www\.halifax-online\.co\.uk\/bundles\/[a-z0-9]{15,}/$script,domain=halifax-online.co.uk
 /^https?:\/\/www\.imperva\.com\/[0-9a-f]{30,}\?/$script,xmlhttprequest,domain=imperva.com
 /^https?:\/\/www\.mouser\.com\/[a-z]{25,}.js/$script,xmlhttprequest,domain=mouser.com
 /^https?:\/\/www\.mouser\.com\/static\/[a-z0-9]{30,}/$script,domain=mouser.com
@@ -16190,9 +16208,9 @@ _mongo_stats/
 ://media.*/misites/$script,~third-party,domain=bellinghamherald.com|bnd.com|bradenton.com|centredaily.com|charlotteobserver.com|elnuevoherald.com|fresnobee.com|heraldonline.com|heraldsun.com|idahostatesman.com|islandpacket.com|kansas.com|kansascity.com|kentucky.com|ledger-enquirer.com|macon.com|mcclatchydc.com|mercedsunstar.com|miamiherald.com|modbee.com|myrtlebeachonline.com|newsobserver.com|sacbee.com|sanluisobispo.com|star-telegram.com|sunherald.com|thenewstribune.com|theolympian.com|thestate.com|tri-cityherald.com
 ! Fingerprintjs
 /^https?:\/\/.*\.corsair\.(fr|ci|ca|gp|mq|re)\/[a-z0-9]{19,}\?/$script,xmlhttprequest
+/^https?:\/\/.*bhphotovideo\.com\/[a-z]{10,14}\-.*/$script,xmlhttprequest,domain=bhphotovideo.com
 ||aerlingus.com/ahktqsewxjhguuxe.js
 ||aerlingus.com/ahktqsewxjhguuxexhr.js
-||bhphotovideo.com/otohphnbwww-
 ||greenmangaming.com/omnopfddrdlevbbh.js
 ||gumtree.com/ycxwzbcsxennhrkc.js
 ||gumtree.com/ycxwzbcsxennhrkcxhr.js
@@ -17139,7 +17157,6 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||log.suumo.jp^
 ||logql.yahoo.co.jp^
 ||measure.ameblo.jp^
-||mmstat.com^$image,ping
 ||mtc.nhk.or.jp^
 ||nhk.or.jp^*/bc.js
 ||ppf.rakuten.co.jp^$~script
@@ -17668,7 +17685,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||google-analytics.com/plugins/ua/ec.js$script,domain=health2000.co.nz
 @@||google.com/js/gweb/analytics/autotrack.js$domain=gradleplease.appspot.com|www.google.com
 @@||googletagmanager.com/gtag/js$script,domain=ally.com|anchor.fm|foxnews.com|gamespot.com|m.putlocker.how|neighborhoodpostcards.com|playphrase.me|ryanair.com
-@@||googletagmanager.com/gtm.js$domain=action.com|ads.spotify.com|adsoup.com|aim.steelseries.com|airasia.com|asus.com|bhaskar.com|broadcom.com|bsa-whitelabel.com|chipotle.com|complex.com|computerworlduk.com|coolermaster.com|cyclingnews.com|desigual.com|drumstick.com|ebuyer.com|elevationscu.com|fortune.com|foxnews.com|gamepix.com|git-tower.com|google.com|health2000.co.nz|indy100.com|insideevs.com|itv.com|jobs.net|keygames.com|magicjack.com|moviefone.com|nestio.com|newsarama.com|newsletter.co.uk|newsy.com|nfl.com|nflgamepass.com|onesignal.com|optus.com.au|overwatchleague.com|poliigon.com|porsche.com|postable.com|readyrefresh.com|realestate.co.nz|rebtel.com|redbull.com|rockstargames.com|rollingstone.com|royalbank.com|rozetka.com.ua|scotsman.com|sixflags.com|starbucks.ca|support.amd.com|talktalk.co.uk|techradar.com|theta.tv|toto.co.jp|toysrus.ca|trademe.nz|usmagazine.com|weightwatchers.com|woodlanddirect.com|wwe.com
+@@||googletagmanager.com/gtm.js$domain=action.com|ads.spotify.com|adsoup.com|aim.steelseries.com|airasia.com|asus.com|bhaskar.com|broadcom.com|bsa-whitelabel.com|chipotle.com|complex.com|computerworlduk.com|coolermaster.com|cyclingnews.com|desigual.com|drumstick.com|ebuyer.com|elevationscu.com|fortune.com|foxnews.com|gamepix.com|git-tower.com|google.com|gumtree.com|health2000.co.nz|indy100.com|insideevs.com|itv.com|jobs.net|keygames.com|magicjack.com|moviefone.com|nestio.com|newsarama.com|newsletter.co.uk|newsy.com|nfl.com|nflgamepass.com|onesignal.com|optus.com.au|overwatchleague.com|poliigon.com|porsche.com|postable.com|readyrefresh.com|realestate.co.nz|rebtel.com|redbull.com|rockstargames.com|rollingstone.com|royalbank.com|rozetka.com.ua|scotsman.com|sixflags.com|starbucks.ca|support.amd.com|talktalk.co.uk|techradar.com|theta.tv|toto.co.jp|toysrus.ca|trademe.nz|usmagazine.com|weightwatchers.com|woodlanddirect.com|wwe.com
 @@||gov.au/Scripts/ga.js$script,~third-party
 @@||guce.advertising.com/collectIdentifiers$domain=guce.advertising.com
 @@||hearstapps.com/static/comscore.$script,domain=womenshealthmag.com
@@ -17758,7 +17775,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||nike.com/assets/measure/data-capture/analytics-client.min.js$script,~third-party
 @@||nike.com^*/optimizely.browser.umd.min.js$script,~third-party
 @@||noaa.gov/maps/resources/scripts/ga.js$script,~third-party
-@@||nyt.com/analytics/json-kidd.min.js$script,domain=nytimes.com
+@@||nyt.com/analytics/json-$script,domain=nytimes.com
 @@||nyt.com/bi/js/tagx/tagx.js$domain=nytimes.com
 @@||nytimes.com^*/EventTracker.js
 @@||oakley.com^*/tealium.js
