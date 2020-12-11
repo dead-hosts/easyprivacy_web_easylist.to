@@ -22353,8 +22353,9 @@
         "state": "future"
     },
     "pokernews.com": {
-        "epoch": 1607472000.0,
-        "expiration_date": "09-dec-2020",
+        "epoch": 1639008000.0,
+        "expiration_date": "09-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "poki.com": {
