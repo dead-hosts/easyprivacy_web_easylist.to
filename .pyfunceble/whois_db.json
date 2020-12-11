@@ -6428,8 +6428,9 @@
         "state": "future"
     },
     "coincheck.com": {
-        "epoch": 1607558400.0,
-        "expiration_date": "10-dec-2020",
+        "epoch": 1639094400.0,
+        "expiration_date": "10-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "coinerra.com": {
@@ -6462,8 +6463,9 @@
         "state": "future"
     },
     "coinimp.net": {
-        "epoch": 1607472000.0,
-        "expiration_date": "09-dec-2020",
+        "epoch": 1639008000.0,
+        "expiration_date": "09-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "coinlab.biz": {
@@ -6619,8 +6621,9 @@
         "state": "future"
     },
     "compteur.com": {
-        "epoch": 1607558400.0,
-        "expiration_date": "10-dec-2020",
+        "epoch": 1639094400.0,
+        "expiration_date": "10-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "compteur.org": {
@@ -13020,8 +13023,9 @@
         "state": "past"
     },
     "hashing.win": {
-        "epoch": 1607558400.0,
-        "expiration_date": "10-dec-2020",
+        "epoch": 1639094400.0,
+        "expiration_date": "10-dec-2021",
+        "server": "whois.nic.win",
         "state": "future"
     },
     "hashnest.com": {
@@ -14164,8 +14168,9 @@
         "state": "future"
     },
     "igrid.org": {
-        "epoch": 1607644800.0,
-        "expiration_date": "11-dec-2020",
+        "epoch": 1614470400.0,
+        "expiration_date": "28-feb-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "iheart.com": {
@@ -27265,8 +27270,9 @@
         "state": "future"
     },
     "spring-tns.net": {
-        "epoch": 1607472000.0,
-        "expiration_date": "09-dec-2020",
+        "epoch": 1639008000.0,
+        "expiration_date": "09-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "springmetrics.com": {
@@ -27511,10 +27517,10 @@
         "state": "future"
     },
     "stat08.com": {
-        "epoch": 1607299200.0,
-        "expiration_date": "07-dec-2020",
+        "epoch": 1638835200.0,
+        "expiration_date": "07-dec-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "stat24.com": {
         "epoch": 1637020800.0,
@@ -28412,8 +28418,9 @@
         "state": "future"
     },
     "tagcommander.com": {
-        "epoch": 1607472000.0,
-        "expiration_date": "09-dec-2020",
+        "epoch": 1639008000.0,
+        "expiration_date": "09-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "taggstar.com": {
@@ -29050,13 +29057,15 @@
         "state": "future"
     },
     "thewhizproducts.com": {
-        "epoch": 1607558400.0,
-        "expiration_date": "10-dec-2020",
+        "epoch": 1639094400.0,
+        "expiration_date": "10-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "thewise.com": {
-        "epoch": 1607558400.0,
-        "expiration_date": "10-dec-2020",
+        "epoch": 1639094400.0,
+        "expiration_date": "10-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "thingswontend.com": {
@@ -29098,8 +29107,9 @@
         "state": "future"
     },
     "thisisanothercoolthing.com": {
-        "epoch": 1607472000.0,
-        "expiration_date": "09-dec-2020",
+        "epoch": 1639008000.0,
+        "expiration_date": "09-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "thismetric.com": {
@@ -29134,10 +29144,10 @@
         "state": "future"
     },
     "thrtle.com": {
-        "epoch": 1607385600.0,
-        "expiration_date": "08-dec-2020",
+        "epoch": 1670457600.0,
+        "expiration_date": "08-dec-2022",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "ti.com": {
         "epoch": 1748649600.0,
@@ -29344,8 +29354,9 @@
         "state": "future"
     },
     "toc.io": {
-        "epoch": 1607644800.0,
-        "expiration_date": "11-dec-2020",
+        "epoch": 1639180800.0,
+        "expiration_date": "11-dec-2021",
+        "server": "whois.nic.io",
         "state": "future"
     },
     "toecircle.com": {
@@ -29689,8 +29700,9 @@
         "state": "future"
     },
     "trackdiscovery.net": {
-        "epoch": 1607644800.0,
-        "expiration_date": "11-dec-2020",
+        "epoch": 1639180800.0,
+        "expiration_date": "11-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "trackeame.com": {
@@ -29927,8 +29939,9 @@
         "state": "future"
     },
     "trail-web.com": {
-        "epoch": 1607644800.0,
-        "expiration_date": "11-dec-2020",
+        "epoch": 1639180800.0,
+        "expiration_date": "11-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "trailheadapp.com": {
@@ -31627,8 +31640,9 @@
         "state": "future"
     },
     "virgul.com": {
-        "epoch": 1607472000.0,
-        "expiration_date": "09-dec-2020",
+        "epoch": 1639008000.0,
+        "expiration_date": "09-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "virool.com": {
@@ -32166,8 +32180,9 @@
         "state": "future"
     },
     "wasm.stream": {
-        "epoch": 1607558400.0,
-        "expiration_date": "10-dec-2020",
+        "epoch": 1639094400.0,
+        "expiration_date": "10-dec-2021",
+        "server": "whois.nic.stream",
         "state": "future"
     },
     "watchmouse.com": {
@@ -32287,8 +32302,9 @@
         "state": "future"
     },
     "webassembly.stream": {
-        "epoch": 1607558400.0,
-        "expiration_date": "10-dec-2020",
+        "epoch": 1639094400.0,
+        "expiration_date": "10-dec-2021",
+        "server": "whois.nic.stream",
         "state": "future"
     },
     "webbificio.com": {
@@ -32327,7 +32343,8 @@
     "webcounter.ws": {
         "epoch": 1607644800.0,
         "expiration_date": "11-dec-2020",
-        "state": "future"
+        "server": "whois.website.ws",
+        "state": "past"
     },
     "webcrawler.com": {
         "epoch": 1612224000.0,
@@ -33464,10 +33481,10 @@
         "state": "future"
     },
     "xxxcounter.com": {
-        "epoch": 1607299200.0,
-        "expiration_date": "07-dec-2020",
+        "epoch": 1638835200.0,
+        "expiration_date": "07-dec-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "xyztraffic.com": {
         "epoch": 1620345600.0,
