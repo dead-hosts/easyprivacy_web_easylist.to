@@ -20859,8 +20859,9 @@
         "state": "future"
     },
     "onescreen.net": {
-        "epoch": 1607644800.0,
-        "expiration_date": "11-dec-2020",
+        "epoch": 1639180800.0,
+        "expiration_date": "11-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "onesignal.com": {
@@ -21866,8 +21867,9 @@
         "state": "future"
     },
     "phncdn.com": {
-        "epoch": 1607644800.0,
-        "expiration_date": "11-dec-2020",
+        "epoch": 1639180800.0,
+        "expiration_date": "11-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "phonalytics.com": {
@@ -25976,8 +25978,8 @@
         "state": "future"
     },
     "shofonline.org": {
-        "epoch": 1607558400.0,
-        "expiration_date": "10-dec-2020",
+        "epoch": 1639094400.0,
+        "expiration_date": "10-dec-2021",
         "server": "whois.pir.org",
         "state": "future"
     },
@@ -30079,7 +30081,8 @@
     "triboomedia.it": {
         "epoch": 1607558400.0,
         "expiration_date": "10-dec-2020",
-        "state": "future"
+        "server": "whois.nic.it",
+        "state": "past"
     },
     "trick17.it": {
         "epoch": 1625011200.0,
