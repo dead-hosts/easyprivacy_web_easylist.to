@@ -980,10 +980,10 @@
         "state": "future"
     },
     "adblockmetrics.ru": {
-        "epoch": 1607299200.0,
-        "expiration_date": "07-dec-2020",
+        "epoch": 1641859200.0,
+        "expiration_date": "11-jan-2022",
         "server": "whois.tcinet.ru",
-        "state": "past"
+        "state": "future"
     },
     "adblockrelief.com": {
         "epoch": 1614729600.0,
@@ -9315,10 +9315,10 @@
         "state": "future"
     },
     "egmontpublishing.dk": {
-        "epoch": 1606694400.0,
-        "expiration_date": "30-nov-2020",
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
         "server": "whois.dk-hostmaster.dk",
-        "state": "past"
+        "state": "future"
     },
     "eharmony.ca": {
         "epoch": 1659139200.0,
@@ -13131,8 +13131,9 @@
         "state": "future"
     },
     "heg-cp.com": {
-        "epoch": 1607558400.0,
-        "expiration_date": "10-dec-2020",
+        "epoch": 1639094400.0,
+        "expiration_date": "10-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "helium.com": {
@@ -22551,8 +22552,9 @@
         "state": "future"
     },
     "ppdb.pl": {
-        "epoch": 1607644800.0,
-        "expiration_date": "11-dec-2020",
+        "epoch": 1639180800.0,
+        "expiration_date": "11-dec-2021",
+        "server": "whois.dns.pl",
         "state": "future"
     },
     "ppstatic.pl": {
@@ -25681,8 +25683,9 @@
         "state": "future"
     },
     "seo-master.net": {
-        "epoch": 1607558400.0,
-        "expiration_date": "10-dec-2020",
+        "epoch": 1639094400.0,
+        "expiration_date": "10-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "seomonitor.ro": {
@@ -29391,8 +29394,9 @@
         "state": "future"
     },
     "top-ro.ro": {
-        "epoch": 1607558400.0,
-        "expiration_date": "10-dec-2020",
+        "epoch": 1639094400.0,
+        "expiration_date": "10-dec-2021",
+        "server": "whois.rotld.ro",
         "state": "future"
     },
     "top.zp.ua": {
