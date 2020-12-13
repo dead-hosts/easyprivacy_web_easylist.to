@@ -196,8 +196,9 @@
         "state": "future"
     },
     "24smi.net": {
-        "epoch": 1607731200.0,
-        "expiration_date": "12-dec-2020",
+        "epoch": 1639267200.0,
+        "expiration_date": "12-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "24ur.com": {
@@ -763,8 +764,9 @@
         "state": "future"
     },
     "accesstrade.net": {
-        "epoch": 1607817600.0,
-        "expiration_date": "13-dec-2020",
+        "epoch": 1639353600.0,
+        "expiration_date": "13-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "accountnow.com": {
@@ -2495,7 +2497,8 @@
     "aolanswers.com": {
         "epoch": 1607817600.0,
         "expiration_date": "13-dec-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "aolcdn.com": {
         "epoch": 1609804800.0,
@@ -13169,8 +13172,9 @@
         "state": "future"
     },
     "heraldandtimeslabs.com": {
-        "epoch": 1607731200.0,
-        "expiration_date": "12-dec-2020",
+        "epoch": 1639267200.0,
+        "expiration_date": "12-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "heraldtimesonline.com": {
@@ -16506,8 +16510,9 @@
         "state": "future"
     },
     "legenhit.com": {
-        "epoch": 1607731200.0,
-        "expiration_date": "12-dec-2020",
+        "epoch": 1639267200.0,
+        "expiration_date": "12-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "legolas-media.com": {
@@ -23806,8 +23811,9 @@
         "state": "future"
     },
     "realist.gen.tr": {
-        "epoch": 1607817600.0,
-        "expiration_date": "13-dec-2020",
+        "epoch": 1639353600.0,
+        "expiration_date": "13-dec-2021",
+        "server": "whois.nic.tr",
         "state": "future"
     },
     "realitytvworld.com": {
@@ -27660,7 +27666,8 @@
     "statistiche.it": {
         "epoch": 1607731200.0,
         "expiration_date": "12-dec-2020",
-        "state": "future"
+        "server": "whois.nic.it",
+        "state": "past"
     },
     "statistiche.ws": {
         "epoch": 1626220800.0,
@@ -27668,8 +27675,9 @@
         "state": "future"
     },
     "statistichegratis.net": {
-        "epoch": 1607817600.0,
-        "expiration_date": "13-dec-2020",
+        "epoch": 1639353600.0,
+        "expiration_date": "13-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "statistics.ro": {
