@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012110905
+! Version: 202012131529
 ! Title: EasyPrivacy
-! Last modified: 11 Dec 2020 09:05 UTC
+! Last modified: 13 Dec 2020 15:29 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1412,6 +1412,7 @@
 /comscore_beacon/*
 /comscore_engine.
 /comscore_pageview
+/comscore_ping
 /comscore_stats.
 /comscorebeacon.
 /comscorepageviewcomscorekw=
@@ -2238,6 +2239,7 @@
 /gtm.js
 /gtm.min.js
 /gtm/gtm-
+/gtmProd.
 /gtmTracking.
 /gtrack.
 /gujTracker.
@@ -2324,6 +2326,7 @@
 /i/i.gif?
 /i2a.js
 /i2yesCounter.js
+/i?_SB_stm=
 /i?e=*&page=*&cookie=
 /i?redir=*&page=*&cookie=
 /i?siteid=
@@ -2796,6 +2799,7 @@
 /logvisit?visitedurl=
 /logwebhit.
 /logwriter.php
+/loi/imp?
 /lotame_audiences.
 /loyalty-tracking-
 /ls.gif?
@@ -4115,6 +4119,7 @@
 /stdlog?
 /store-uniq-client-id?bomuuid=
 /storeAdvImpression.
+/stp.gif?
 /stracking.js
 /sTrackStats.
 /stream/log.html?
@@ -5196,6 +5201,7 @@
 ://track.*/visitor/
 ://tracker.*/pageview
 ://tracking.*/beacon/
+://tracking.*/event
 ://tracking.*/tr.js
 ://utm.$domain=~utm.arc.nasa.gov|~utm.edu|~utm.io|~utm.md|~utm.pansa.pl|~utm.pharos360.com|~utoronto.ca
 ;1x1inv=
@@ -5607,6 +5613,7 @@ _sdcTrackingCode.
 /ab_track.
 /adb.policy.js
 /adblock?action=
+/adblocker-check.
 /adblocker/pixel.
 /adblockLogger/*
 /iab-adblockDetector.
@@ -7334,6 +7341,7 @@ _mongo_stats/
 ||openstat.net^$third-party
 ||opentracker.net^$third-party
 ||openvenue.com^$third-party
+||openxcdn.net^$third-party
 ||oproi.com^$third-party
 ||opstag.com^$third-party
 ||optify.net^$third-party
@@ -10313,6 +10321,7 @@ _mongo_stats/
 ||ask.com^*/i.gif?
 ||assoc-amazon.*^e/ir?t=$image
 ||asterpix.com/tagcloudview/
+||at.cbsi.com^*/event?
 ||atcdn.co.uk/frostbite/
 ||atdmt.com/action/
 ||atdmt.com/iaction/
@@ -11373,6 +11382,7 @@ _mongo_stats/
 ||naver.net/wcslog.js
 ||navlink.com/__utmala.js
 ||nbcudigitaladops.com/hosted/housepix.gif
+||nbcudigitaladops.com/hosted/util/geo_data.js
 ||needle.com/pageload?
 ||needle.com/pageupdate?
 ||neocounter.neoworx-blog-tools.net^
@@ -12378,6 +12388,7 @@ _mongo_stats/
 ||clipkit.de/metrics?
 ||cloudfront.net/customers/24868.min.js
 ||cnt2.stroeerdp.de^
+||collector.rn.de^
 ||com.econa.com^
 ||counter.1i.kz^
 ||counter.blogoscoop.net^
@@ -12889,6 +12900,8 @@ _mongo_stats/
 ||rd.rakuten.co.jp^$script
 ||rlog.popin.cc^
 ||s.yimg.jp/images/listing/tool/cv/ytag.js
+||sankei-digital.co.jp/log?
+||sankei.co.jp/js/privacy/sando.js
 ||seesaa.jp/ot_square.pl?
 ||shinobi.jp/track?
 ||shinobi.jp/zen?
@@ -13651,6 +13664,7 @@ _mongo_stats/
 ||dainikbhaskar.com/tracking/
 ||data.mic.com^
 ||data.ninemsn.com.au/*GetAdCalls
+||data.webullfintech.com/event/
 ||data.younow.com^
 ||datehookup.com/strk/dateadvertreg?
 ||daum.net^*/dwi.js
@@ -14070,6 +14084,7 @@ _mongo_stats/
 ||hotpads.com/node/api/comscore
 ||hotstar.com^*/identify
 ||hotstar.com^*/track
+||houzz.com/hsc/aetrk/
 ||houzz.com/js/log?
 ||hoverstock.com/boomerang?
 ||howcast.com/images/h.gif
@@ -14079,6 +14094,7 @@ _mongo_stats/
 ||hrblock.com/includes/pixel/
 ||hrum.hotelsapi.io^
 ||hsn.com/code/pix.aspx
+||html5games.com/event/
 ||huawei.com/hwa-c/
 ||hubpages.com/c/*.gif?
 ||huffpost.com/ping?
@@ -14266,6 +14282,8 @@ _mongo_stats/
 ||list.ru/counter?
 ||live.com/handlers/watson.mvc?
 ||livedoor.com/counter/
+||livehdcams.com/api/events
+||livehdcams.com/api/metrics
 ||livejournal.com/ljcounter/?
 ||liveperson.net/hc/*/?visitor=
 ||livestation.com^*/akamaimediaanalytics.swf
@@ -14689,6 +14707,8 @@ _mongo_stats/
 ||poptropica.com/brain/track.php?
 ||porndoo.com/lib/ajax/track.php
 ||pornhd.com/api/user/tracking
+||pornhublive.com/api/events
+||pornhublive.com/api/metrics
 ||porntube.com^*/track
 ||potterybarn.com/pbimgs/*/external/thirdparty.js
 ||potterybarnkids.com/pkimgs/*/external/thirdparty.js
@@ -15237,6 +15257,7 @@ _mongo_stats/
 ||telemetry.art19.com^
 ||telemetry.tradingview.com^
 ||telerium.net/geo.php
+||tellerreport.com/react/pixel
 ||tempo.inc.com^
 ||tesco.com/cgi-bin3/buyrate?type=
 ||tfl.gov.uk/tfl-global/scripts/stats-config.js
@@ -17652,7 +17673,6 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||events-collector.spot.im/api/$xmlhttprequest
 @@||evestment.com/api/analytics/$domain=evestment.com
 @@||evil-inc.com/comic/advertising-age/$~third-party,xmlhttprequest
-@@||ezodn.com/detroitchicago/dayton.js$script
 @@||fccbrea.org^*/swfaddress.js
 @@||fifa.com^*/webanalytics.js?
 @@||files.mycloud.com/js/analytics/google_analytics.js
@@ -17762,9 +17782,11 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||mywebar.com/js/tracking_worker.js$~third-party
 @@||nintendo.com/apps/noa/scripts/analytics.js
 @@||ssl-images-amazon.com^*/satelliteLib-$script,domain=audible.com
+@@||static.amazon.jobs/assets/analytics-$script,domain=amazon.jobs
 @@||stats.pusher.com/timeline/$script,domain=bringatrailer.com
 @@||tracking.narvar.com/tracking/$~third-party
 @@||tracking.narvar.com/trackinginfo/$~third-party
+@@||uid.mavencoalition.io^$xmlhttprequest,domain=fashionista.com
 @@||where2getit.com/traderjoes/rest/clicktrack?$domain=traderjoes.com
 @@||yottaa.com/rapid.min.js$script,domain=wineenthusiast.com
 ! @@||ncbi.nlm.nih.gov/stat?
