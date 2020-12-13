@@ -3813,8 +3813,8 @@
         "state": "future"
     },
     "besstahete.info": {
-        "epoch": 1607731200.0,
-        "expiration_date": "12-dec-2020",
+        "epoch": 1639267200.0,
+        "expiration_date": "12-dec-2021",
         "server": "whois.afilias.net",
         "state": "future"
     },
@@ -7473,8 +7473,9 @@
         "state": "future"
     },
     "cryptonoter.com": {
-        "epoch": 1607731200.0,
-        "expiration_date": "12-dec-2020",
+        "epoch": 1614384000.0,
+        "expiration_date": "27-feb-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "csbew.com": {
@@ -18313,8 +18314,9 @@
         "state": "future"
     },
     "miaozhen.com": {
-        "epoch": 1607817600.0,
-        "expiration_date": "13-dec-2020",
+        "epoch": 1639353600.0,
+        "expiration_date": "13-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "mibatech.com": {
@@ -20095,7 +20097,7 @@
         "epoch": 1607817600.0,
         "expiration_date": "13-dec-2020",
         "server": "whois.verisign-grs.com",
-        "state": "future"
+        "state": "past"
     },
     "nexon.net": {
         "epoch": 1635465600.0,
@@ -21933,8 +21935,9 @@
         "state": "future"
     },
     "phpstat.com": {
-        "epoch": 1607731200.0,
-        "expiration_date": "12-dec-2020",
+        "epoch": 1639267200.0,
+        "expiration_date": "12-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "phrasetech.com": {
@@ -25730,7 +25733,8 @@
     "seoradar.ro": {
         "epoch": 1607731200.0,
         "expiration_date": "12-dec-2020",
-        "state": "future"
+        "server": "whois.rotld.ro",
+        "state": "past"
     },
     "seoul.co.kr": {
         "epoch": 1634256000.0,
@@ -32365,10 +32369,10 @@
         "state": "future"
     },
     "webcounter.ws": {
-        "epoch": 1607644800.0,
-        "expiration_date": "11-dec-2020",
+        "epoch": 1639180800.0,
+        "expiration_date": "11-dec-2021",
         "server": "whois.website.ws",
-        "state": "past"
+        "state": "future"
     },
     "webcrawler.com": {
         "epoch": 1612224000.0,
@@ -33401,8 +33405,8 @@
         "state": "future"
     },
     "xdisctracking.pw": {
-        "epoch": 1607731200.0,
-        "expiration_date": "12-dec-2020",
+        "epoch": 1639267200.0,
+        "expiration_date": "12-dec-2021",
         "server": "whois.nic.pw",
         "state": "future"
     },
@@ -34206,8 +34210,9 @@
         "state": "future"
     },
     "ztcadx.com": {
-        "epoch": 1607731200.0,
-        "expiration_date": "12-dec-2020",
+        "epoch": 1639267200.0,
+        "expiration_date": "12-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "ztsrv.com": {
