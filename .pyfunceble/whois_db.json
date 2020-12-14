@@ -4026,7 +4026,8 @@
     "bigvoy.com": {
         "epoch": 1607817600.0,
         "expiration_date": "13-dec-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "bikepasture.com": {
         "epoch": 1638748800.0,
@@ -11145,8 +11146,9 @@
         "state": "future"
     },
     "frandroid.com": {
-        "epoch": 1607731200.0,
-        "expiration_date": "12-dec-2020",
+        "epoch": 1639267200.0,
+        "expiration_date": "12-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "franecki.net": {
