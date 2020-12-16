@@ -2260,8 +2260,9 @@
         "state": "future"
     },
     "analyticson.com": {
-        "epoch": 1607990400.0,
-        "expiration_date": "15-dec-2020",
+        "epoch": 1639526400.0,
+        "expiration_date": "15-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "analyticswizard.com": {
@@ -3731,8 +3732,9 @@
         "state": "future"
     },
     "beemray.com": {
-        "epoch": 1608076800.0,
-        "expiration_date": "16-dec-2020",
+        "epoch": 1639612800.0,
+        "expiration_date": "16-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "beemrdwn.com": {
@@ -5585,8 +5587,9 @@
         "state": "future"
     },
     "centraltag.com": {
-        "epoch": 1607904000.0,
-        "expiration_date": "14-dec-2020",
+        "epoch": 1639440000.0,
+        "expiration_date": "14-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "centrpush.com": {
@@ -6533,8 +6536,9 @@
         "state": "future"
     },
     "collecting.click": {
-        "epoch": 1607904000.0,
-        "expiration_date": "14-dec-2020",
+        "epoch": 1639440000.0,
+        "expiration_date": "14-dec-2021",
+        "server": "whois.uniregistry.net",
         "state": "future"
     },
     "collegehumor.com": {
@@ -8739,8 +8743,9 @@
         "state": "future"
     },
     "donreach.com": {
-        "epoch": 1608076800.0,
-        "expiration_date": "16-dec-2020",
+        "epoch": 1639612800.0,
+        "expiration_date": "16-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "dotaki.com": {
@@ -11796,6 +11801,12 @@
         "server": "whois.nic.co",
         "state": "future"
     },
+    "g5546361380.co": {
+        "epoch": 1626912000.0,
+        "expiration_date": "22-jul-2021",
+        "server": "whois.nic.co",
+        "state": "future"
+    },
     "ga-analytics.com": {
         "epoch": 1634947200.0,
         "expiration_date": "23-oct-2021",
@@ -13135,7 +13146,8 @@
     "heatmap.it": {
         "epoch": 1607904000.0,
         "expiration_date": "14-dec-2020",
-        "state": "future"
+        "server": "whois.nic.it",
+        "state": "past"
     },
     "heatmap.services": {
         "epoch": 1618876800.0,
@@ -14527,8 +14539,9 @@
         "state": "future"
     },
     "infoprodata.com": {
-        "epoch": 1607904000.0,
-        "expiration_date": "14-dec-2020",
+        "epoch": 1639440000.0,
+        "expiration_date": "14-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "infoq.com": {
@@ -15305,8 +15318,9 @@
         "state": "future"
     },
     "itracker360.com": {
-        "epoch": 1607904000.0,
-        "expiration_date": "14-dec-2020",
+        "epoch": 1639440000.0,
+        "expiration_date": "14-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "itrackerpro.com": {
@@ -17299,8 +17313,9 @@
         "state": "future"
     },
     "lucidel.com": {
-        "epoch": 1607990400.0,
-        "expiration_date": "15-dec-2020",
+        "epoch": 1639526400.0,
+        "expiration_date": "15-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "luckyorange.com": {
@@ -22034,8 +22049,9 @@
         "state": "future"
     },
     "ping-fast.com": {
-        "epoch": 1608076800.0,
-        "expiration_date": "16-dec-2020",
+        "epoch": 1639612800.0,
+        "expiration_date": "16-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "pingagenow.com": {
