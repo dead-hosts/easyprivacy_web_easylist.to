@@ -858,6 +858,12 @@
         "expiration_date": "10-apr-2021",
         "state": "future"
     },
+    "acsbapp.com": {
+        "epoch": 1691452800.0,
+        "expiration_date": "08-aug-2023",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "actionallocator.com": {
         "epoch": 1610668800.0,
         "expiration_date": "15-jan-2021",
@@ -23602,8 +23608,9 @@
         "state": "future"
     },
     "rackcdn.com": {
-        "epoch": 1607990400.0,
-        "expiration_date": "15-dec-2020",
+        "epoch": 1639526400.0,
+        "expiration_date": "15-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "radarstats.com": {
@@ -24843,6 +24850,12 @@
     "rottentomatoes.com": {
         "epoch": 1620950400.0,
         "expiration_date": "14-may-2021",
+        "state": "future"
+    },
+    "routeapp.io": {
+        "epoch": 1641859200.0,
+        "expiration_date": "11-jan-2022",
+        "server": "whois.nic.io",
         "state": "future"
     },
     "royalecms.com": {
@@ -30918,6 +30931,12 @@
     "united.com": {
         "epoch": 1671148800.0,
         "expiration_date": "16-dec-2022",
+        "state": "future"
+    },
+    "unity3d.com": {
+        "epoch": 1664582400.0,
+        "expiration_date": "01-oct-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "universaltrackingcontainer.com": {
