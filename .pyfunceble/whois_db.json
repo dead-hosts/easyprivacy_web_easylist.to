@@ -5150,7 +5150,8 @@
     "canalstat.com": {
         "epoch": 1608076800.0,
         "expiration_date": "16-dec-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "canddi.com": {
         "epoch": 1667001600.0,
@@ -6612,8 +6613,9 @@
         "state": "future"
     },
     "compteur-fr.com": {
-        "epoch": 1607990400.0,
-        "expiration_date": "15-dec-2020",
+        "epoch": 1639526400.0,
+        "expiration_date": "15-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "compteur-gratuit.org": {
@@ -20130,10 +20132,10 @@
         "state": "future"
     },
     "nexioniect.com": {
-        "epoch": 1607817600.0,
-        "expiration_date": "13-dec-2020",
+        "epoch": 1639353600.0,
+        "expiration_date": "13-dec-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "nexon.net": {
         "epoch": 1635465600.0,
@@ -20282,7 +20284,8 @@
     "nimpool.io": {
         "epoch": 1608163200.0,
         "expiration_date": "17-dec-2020",
-        "state": "future"
+        "server": "whois.nic.io",
+        "state": "past"
     },
     "ninestats.com": {
         "epoch": 1637712000.0,
@@ -20373,8 +20376,9 @@
         "state": "future"
     },
     "notmining.org": {
-        "epoch": 1607990400.0,
-        "expiration_date": "15-dec-2020",
+        "epoch": 1639526400.0,
+        "expiration_date": "15-dec-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "nouvelobs.com": {
@@ -21398,8 +21402,8 @@
         "state": "future"
     },
     "p2poolmining.com": {
-        "epoch": 1608076800.0,
-        "expiration_date": "16-dec-2020",
+        "epoch": 1639612800.0,
+        "expiration_date": "16-dec-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -22621,6 +22625,12 @@
         "server": "whois.dns.pl",
         "state": "future"
     },
+    "pphwrevr.com": {
+        "epoch": 1639267200.0,
+        "expiration_date": "12-dec-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "ppstatic.pl": {
         "epoch": 1618531200.0,
         "expiration_date": "16-apr-2021",
@@ -22934,6 +22944,18 @@
     "prosper.com": {
         "epoch": 1651017600.0,
         "expiration_date": "27-apr-2022",
+        "state": "future"
+    },
+    "protectcrev.com": {
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "protectsubrev.com": {
+        "epoch": 1638230400.0,
+        "expiration_date": "30-nov-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "provenpixel.com": {
@@ -24426,6 +24448,12 @@
         "expiration_date": "03-apr-2021",
         "state": "future"
     },
+    "revcatch.com": {
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "revdn.net": {
         "epoch": 1635552000.0,
         "expiration_date": "30-oct-2021",
@@ -24468,6 +24496,12 @@
     "revolvermaps.com": {
         "epoch": 1626739200.0,
         "expiration_date": "20-jul-2021",
+        "state": "future"
+    },
+    "revprotect.com": {
+        "epoch": 1625184000.0,
+        "expiration_date": "02-jul-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "revsw.net": {
@@ -27928,7 +27962,8 @@
     "stetic.com": {
         "epoch": 1608076800.0,
         "expiration_date": "16-dec-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "stgy.ovh": {
         "epoch": 1626652800.0,
@@ -28134,8 +28169,9 @@
         "state": "future"
     },
     "submitnet.net": {
-        "epoch": 1607904000.0,
-        "expiration_date": "14-dec-2020",
+        "epoch": 1639440000.0,
+        "expiration_date": "14-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "subsequentswim.com": {
@@ -29827,8 +29863,9 @@
         "state": "future"
     },
     "trackingpro.pro": {
-        "epoch": 1607904000.0,
-        "expiration_date": "14-dec-2020",
+        "epoch": 1639440000.0,
+        "expiration_date": "14-dec-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "trackjs.com": {
@@ -29901,7 +29938,8 @@
     "trackword.biz": {
         "epoch": 1608076800.0,
         "expiration_date": "16-dec-2020",
-        "state": "future"
+        "server": "whois.nic.biz",
+        "state": "past"
     },
     "trackyourstats.com": {
         "epoch": 1669248000.0,
@@ -30278,8 +30316,9 @@
         "state": "future"
     },
     "trtl.ws": {
-        "epoch": 1608076800.0,
-        "expiration_date": "16-dec-2020",
+        "epoch": 1639612800.0,
+        "expiration_date": "16-dec-2021",
+        "server": "whois.website.ws",
         "state": "future"
     },
     "tru.am": {
@@ -33947,6 +33986,12 @@
     "yusercontent.com": {
         "epoch": 1604448000.0,
         "expiration_date": "04-nov-2020",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
+    "ywxi.net": {
+        "epoch": 1618617600.0,
+        "expiration_date": "17-apr-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
