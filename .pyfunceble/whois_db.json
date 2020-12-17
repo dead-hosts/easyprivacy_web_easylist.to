@@ -5609,8 +5609,9 @@
         "state": "future"
     },
     "certifica.com": {
-        "epoch": 1608076800.0,
-        "expiration_date": "16-dec-2020",
+        "epoch": 1639612800.0,
+        "expiration_date": "16-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "cetrk.com": {
@@ -10929,8 +10930,9 @@
         "state": "future"
     },
     "followistic.com": {
-        "epoch": 1607990400.0,
-        "expiration_date": "15-dec-2020",
+        "epoch": 1639526400.0,
+        "expiration_date": "15-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "fonderredd.info": {
@@ -21387,8 +21389,9 @@
         "state": "future"
     },
     "p0.com": {
-        "epoch": 1608076800.0,
-        "expiration_date": "16-dec-2020",
+        "epoch": 1639612800.0,
+        "expiration_date": "16-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "p071qmn.com": {
@@ -23085,8 +23088,9 @@
         "state": "future"
     },
     "publish-int.se": {
-        "epoch": 1607990400.0,
-        "expiration_date": "15-dec-2020",
+        "epoch": 1639526400.0,
+        "expiration_date": "15-dec-2021",
+        "server": "whois.iis.se",
         "state": "future"
     },
     "publish0x.com": {
@@ -24996,8 +25000,9 @@
         "state": "future"
     },
     "rutarget.ru": {
-        "epoch": 1607904000.0,
-        "expiration_date": "14-dec-2020",
+        "epoch": 1639440000.0,
+        "expiration_date": "14-dec-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "ruthlessdegree.com": {
@@ -33163,8 +33168,9 @@
         "state": "future"
     },
     "wonder-ma.com": {
-        "epoch": 1607990400.0,
-        "expiration_date": "15-dec-2020",
+        "epoch": 1639526400.0,
+        "expiration_date": "15-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "wonderpush.com": {
