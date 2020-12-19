@@ -6746,8 +6746,9 @@
         "state": "future"
     },
     "consensu.org": {
-        "epoch": 1608249600.0,
-        "expiration_date": "18-dec-2020",
+        "epoch": 1639785600.0,
+        "expiration_date": "18-dec-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "consultant.ru": {
