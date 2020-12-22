@@ -2424,8 +2424,9 @@
         "state": "future"
     },
     "antiblock.info": {
-        "epoch": 1608508800.0,
-        "expiration_date": "21-dec-2020",
+        "epoch": 1640044800.0,
+        "expiration_date": "21-dec-2021",
+        "server": "whois.afilias.net",
         "state": "future"
     },
     "antvoice.com": {
@@ -4137,8 +4138,9 @@
         "state": "future"
     },
     "bizo.com": {
-        "epoch": 1608422400.0,
-        "expiration_date": "20-dec-2020",
+        "epoch": 1671494400.0,
+        "expiration_date": "20-dec-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "bizrate-images.co.uk": {
@@ -5785,8 +5787,9 @@
         "state": "future"
     },
     "christmalicious.com": {
-        "epoch": 1608422400.0,
-        "expiration_date": "20-dec-2020",
+        "epoch": 1639958400.0,
+        "expiration_date": "20-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "chron.com": {
@@ -7900,8 +7903,9 @@
         "state": "future"
     },
     "dataperforma.com": {
-        "epoch": 1608508800.0,
-        "expiration_date": "21-dec-2020",
+        "epoch": 1671580800.0,
+        "expiration_date": "21-dec-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "datasecu.download": {
@@ -9350,10 +9354,10 @@
         "state": "future"
     },
     "eggplant.cloud": {
-        "epoch": 1608336000.0,
-        "expiration_date": "19-dec-2020",
+        "epoch": 1639872000.0,
+        "expiration_date": "19-dec-2021",
         "server": "whois.nic.cloud",
-        "state": "past"
+        "state": "future"
     },
     "egmontpublishing.dk": {
         "epoch": 1638230400.0,
@@ -14218,8 +14222,8 @@
         "state": "future"
     },
     "ifvox.com": {
-        "epoch": 1608595200.0,
-        "expiration_date": "22-dec-2020",
+        "epoch": 1640131200.0,
+        "expiration_date": "22-dec-2021",
         "server": "whois.verisign-grs.com",
         "state": "future"
     },
@@ -14813,8 +14817,9 @@
         "state": "future"
     },
     "instant.page": {
-        "epoch": 1608422400.0,
-        "expiration_date": "20-dec-2020",
+        "epoch": 1639958400.0,
+        "expiration_date": "20-dec-2021",
+        "server": "whois.nic.google",
         "state": "future"
     },
     "instapage.com": {
@@ -16037,6 +16042,12 @@
     "kiwari.com": {
         "epoch": 1656979200.0,
         "expiration_date": "05-jul-2022",
+        "state": "future"
+    },
+    "kiwihk.net": {
+        "epoch": 1630800000.0,
+        "expiration_date": "05-sep-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "kk-resources.com": {
@@ -17476,7 +17487,8 @@
     "lytiks.com": {
         "epoch": 1608595200.0,
         "expiration_date": "22-dec-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "m-brain.fi": {
         "epoch": 1630368000.0,
@@ -21275,8 +21287,9 @@
         "state": "future"
     },
     "orcapia.com": {
-        "epoch": 1608508800.0,
-        "expiration_date": "21-dec-2020",
+        "epoch": 1640044800.0,
+        "expiration_date": "21-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "org-dot-com.com": {
@@ -24462,8 +24475,9 @@
         "state": "future"
     },
     "retentionscience.com": {
-        "epoch": 1608422400.0,
-        "expiration_date": "20-dec-2020",
+        "epoch": 1639958400.0,
+        "expiration_date": "20-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "retrevo.com": {
@@ -24931,8 +24945,9 @@
         "state": "future"
     },
     "rs6.net": {
-        "epoch": 1608508800.0,
-        "expiration_date": "21-dec-2020",
+        "epoch": 1671580800.0,
+        "expiration_date": "21-dec-2022",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "rsscache.com": {
