@@ -7223,8 +7223,9 @@
         "state": "future"
     },
     "courierpress.com": {
-        "epoch": 1608681600.0,
-        "expiration_date": "23-dec-2020",
+        "epoch": 1640217600.0,
+        "expiration_date": "23-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "coursehero.com": {
@@ -18587,8 +18588,9 @@
         "state": "future"
     },
     "military.com": {
-        "epoch": 1608681600.0,
-        "expiration_date": "23-dec-2020",
+        "epoch": 1640217600.0,
+        "expiration_date": "23-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "millioncounter.com": {
@@ -24076,8 +24078,9 @@
         "state": "future"
     },
     "real.com": {
-        "epoch": 1608681600.0,
-        "expiration_date": "23-dec-2020",
+        "epoch": 1640217600.0,
+        "expiration_date": "23-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "real5traf.ru": {
@@ -26192,6 +26195,12 @@
         "expiration_date": "29-jan-2021",
         "state": "future"
     },
+    "sexu.com": {
+        "epoch": 1616112000.0,
+        "expiration_date": "19-mar-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "sexystat.com": {
         "epoch": 1615852800.0,
         "expiration_date": "16-mar-2021",
@@ -26375,8 +26384,9 @@
         "state": "future"
     },
     "shoutcast.com": {
-        "epoch": 1608681600.0,
-        "expiration_date": "23-dec-2020",
+        "epoch": 1640217600.0,
+        "expiration_date": "23-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "showheroes.com": {
