@@ -1006,7 +1006,8 @@
     "adc-srv.net": {
         "epoch": 1608681600.0,
         "expiration_date": "23-dec-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "adchemix.com": {
         "epoch": 1639267200.0,
@@ -1880,10 +1881,10 @@
         "state": "future"
     },
     "alice.it": {
-        "epoch": 1607212800.0,
-        "expiration_date": "06-dec-2020",
+        "epoch": 1638748800.0,
+        "expiration_date": "06-dec-2021",
         "server": "whois.nic.it",
-        "state": "past"
+        "state": "future"
     },
     "aliexpress.com": {
         "epoch": 1618531200.0,
@@ -11300,8 +11301,9 @@
         "state": "future"
     },
     "free.fr": {
-        "epoch": 1608681600.0,
-        "expiration_date": "23-dec-2020",
+        "epoch": 1640217600.0,
+        "expiration_date": "23-dec-2021",
+        "server": "whois.nic.fr",
         "state": "future"
     },
     "freean.us": {
@@ -14427,8 +14429,9 @@
         "state": "future"
     },
     "imgsmail.ru": {
-        "epoch": 1608595200.0,
-        "expiration_date": "22-dec-2020",
+        "epoch": 1640131200.0,
+        "expiration_date": "22-dec-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "imgur.com": {
@@ -26565,8 +26568,9 @@
         "state": "future"
     },
     "sinajs.cn": {
-        "epoch": 1608422400.0,
-        "expiration_date": "20-dec-2020",
+        "epoch": 1639958400.0,
+        "expiration_date": "20-dec-2021",
+        "server": "whois.cnnic.cn",
         "state": "future"
     },
     "sinceresubstance.com": {
@@ -29884,8 +29888,9 @@
         "state": "future"
     },
     "torrentprotect.com": {
-        "epoch": 1608681600.0,
-        "expiration_date": "23-dec-2020",
+        "epoch": 1640217600.0,
+        "expiration_date": "23-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "torrentz.in": {
@@ -33722,8 +33727,9 @@
         "state": "future"
     },
     "wymiana.org": {
-        "epoch": 1608508800.0,
-        "expiration_date": "21-dec-2020",
+        "epoch": 1640044800.0,
+        "expiration_date": "21-dec-2021",
+        "server": "whois.pir.org",
         "state": "future"
     },
     "wysistat.com": {
@@ -34520,8 +34526,9 @@
         "state": "future"
     },
     "zmags.com": {
-        "epoch": 1608422400.0,
-        "expiration_date": "20-dec-2020",
+        "epoch": 1639958400.0,
+        "expiration_date": "20-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "zmctrack.net": {
