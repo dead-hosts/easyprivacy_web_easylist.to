@@ -5072,8 +5072,9 @@
         "state": "future"
     },
     "caanalytics.com": {
-        "epoch": 1608595200.0,
-        "expiration_date": "22-dec-2020",
+        "epoch": 1640131200.0,
+        "expiration_date": "22-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "cache.am": {
@@ -5844,8 +5845,9 @@
         "state": "future"
     },
     "chtah.net": {
-        "epoch": 1608508800.0,
-        "expiration_date": "21-dec-2020",
+        "epoch": 1640044800.0,
+        "expiration_date": "21-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "chud.com": {
@@ -7988,8 +7990,9 @@
         "state": "future"
     },
     "daxab.com": {
-        "epoch": 1608422400.0,
-        "expiration_date": "20-dec-2020",
+        "epoch": 1734652800.0,
+        "expiration_date": "20-dec-2024",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "daylogs.com": {
@@ -8241,8 +8244,9 @@
         "state": "future"
     },
     "desert.ru": {
-        "epoch": 1608422400.0,
-        "expiration_date": "20-dec-2020",
+        "epoch": 1639958400.0,
+        "expiration_date": "20-dec-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "designtaxi.com": {
@@ -21202,6 +21206,12 @@
         "expiration_date": "29-jan-2021",
         "state": "future"
     },
+    "ontraport.com": {
+        "epoch": 1623024000.0,
+        "expiration_date": "07-jun-2021",
+        "server": "whois.verisign-grs.com",
+        "state": "future"
+    },
     "onvid.club": {
         "epoch": 1571529600.0,
         "expiration_date": "20-oct-2019",
@@ -21258,6 +21268,12 @@
     "openload.co": {
         "epoch": 1595980800.0,
         "expiration_date": "29-jul-2020",
+        "state": "future"
+    },
+    "openlog.in": {
+        "epoch": 1635552000.0,
+        "expiration_date": "30-oct-2021",
+        "server": "whois.registry.in",
         "state": "future"
     },
     "openstat.net": {
@@ -23565,6 +23581,12 @@
     "qcloud.com": {
         "epoch": 1784851200.0,
         "expiration_date": "24-jul-2026",
+        "state": "future"
+    },
+    "qflm.net": {
+        "epoch": 1620259200.0,
+        "expiration_date": "06-may-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "qhimg.com": {
@@ -29543,7 +29565,8 @@
     "tidningsnatet.se": {
         "epoch": 1608595200.0,
         "expiration_date": "22-dec-2020",
-        "state": "future"
+        "server": "whois.iis.se",
+        "state": "past"
     },
     "tiktok.com": {
         "epoch": 1626739200.0,
