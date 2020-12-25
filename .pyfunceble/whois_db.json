@@ -11938,10 +11938,10 @@
         "state": "future"
     },
     "gallupnet.fi": {
-        "epoch": 1606348800.0,
-        "expiration_date": "26-nov-2020",
+        "epoch": 1640476800.0,
+        "expiration_date": "26-dec-2021",
         "server": "whois.fi",
-        "state": "past"
+        "state": "future"
     },
     "gameanalytics.com": {
         "epoch": 1688169600.0,
@@ -12686,7 +12686,8 @@
     "goprediction.com": {
         "epoch": 1608854400.0,
         "expiration_date": "25-dec-2020",
-        "state": "future"
+        "server": "whois.verisign-grs.com",
+        "state": "past"
     },
     "goredirect.party": {
         "epoch": 1584316800.0,
@@ -32620,8 +32621,9 @@
         "state": "future"
     },
     "warlog.ru": {
-        "epoch": 1608854400.0,
-        "expiration_date": "25-dec-2020",
+        "epoch": 1640390400.0,
+        "expiration_date": "25-dec-2021",
+        "server": "whois.tcinet.ru",
         "state": "future"
     },
     "washingtonpost.com": {
@@ -34113,8 +34115,9 @@
         "state": "future"
     },
     "yigao.com": {
-        "epoch": 1608768000.0,
-        "expiration_date": "24-dec-2020",
+        "epoch": 1640304000.0,
+        "expiration_date": "24-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "yigouw.com": {
