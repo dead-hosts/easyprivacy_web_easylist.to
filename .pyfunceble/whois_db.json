@@ -6763,8 +6763,9 @@
         "state": "future"
     },
     "confirmit.com": {
-        "epoch": 1608681600.0,
-        "expiration_date": "23-dec-2020",
+        "epoch": 1640217600.0,
+        "expiration_date": "23-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "connatix.com": {
@@ -9075,8 +9076,9 @@
         "state": "future"
     },
     "dynatrace.com": {
-        "epoch": 1608681600.0,
-        "expiration_date": "23-dec-2020",
+        "epoch": 1640217600.0,
+        "expiration_date": "23-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "dynatracesaas.com": {
@@ -9218,8 +9220,9 @@
         "state": "future"
     },
     "easycounter.com": {
-        "epoch": 1608854400.0,
-        "expiration_date": "25-dec-2020",
+        "epoch": 1640390400.0,
+        "expiration_date": "25-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "easydmp.net": {
@@ -12903,6 +12906,12 @@
         "expiration_date": "10-jun-2023",
         "state": "future"
     },
+    "growthrx.in": {
+        "epoch": 1612828800.0,
+        "expiration_date": "09-feb-2021",
+        "server": "whois.registry.in",
+        "state": "future"
+    },
     "grumrt.com": {
         "epoch": 1668556800.0,
         "expiration_date": "16-nov-2022",
@@ -14839,8 +14848,9 @@
         "state": "future"
     },
     "insightgrit.com": {
-        "epoch": 1608681600.0,
-        "expiration_date": "23-dec-2020",
+        "epoch": 1640217600.0,
+        "expiration_date": "23-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "insigit.com": {
@@ -15258,8 +15268,9 @@
         "state": "future"
     },
     "iplist.cc": {
-        "epoch": 1608854400.0,
-        "expiration_date": "25-dec-2020",
+        "epoch": 1640390400.0,
+        "expiration_date": "25-dec-2021",
+        "server": "ccwhois.verisign-grs.com",
         "state": "future"
     },
     "iplocationtools.com": {
@@ -17586,10 +17597,10 @@
         "state": "future"
     },
     "lytiks.com": {
-        "epoch": 1608595200.0,
-        "expiration_date": "22-dec-2020",
+        "epoch": 1640131200.0,
+        "expiration_date": "22-dec-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "m-brain.fi": {
         "epoch": 1630368000.0,
@@ -21981,8 +21992,9 @@
         "state": "future"
     },
     "perfectaudience.com": {
-        "epoch": 1608768000.0,
-        "expiration_date": "24-dec-2020",
+        "epoch": 1640304000.0,
+        "expiration_date": "24-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "perfectmarket.com": {

@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202012230057
+! Version: 202012252224
 ! Title: EasyPrivacy
-! Last modified: 23 Dec 2020 00:57 UTC
+! Last modified: 25 Dec 2020 22:24 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -915,6 +915,7 @@
 /athena.gif?
 /athenastgbeacon.
 /atlas_track.
+/atr_events_
 /atrk.gif?
 /atrk.js
 /ats/lib/*
@@ -1623,6 +1624,7 @@
 /detm_adobe.
 /device-fingerprint.
 /dfp-gpt.
+/dfpsvc?
 /di-tealium.
 /Diagnostics?hit=
 /didna-pixel-
@@ -3462,6 +3464,7 @@
 /public/analytics.js
 /public/visitor.json?
 /public/visitor/create?
+/publisher:getClientId?key=
 /publishertag.js
 /pubstats.
 /pubtag.js?
@@ -6720,6 +6723,7 @@ _mongo_stats/
 ||grepdata.com^$third-party
 ||grmtech.net^$third-party
 ||group-ib.ru^$third-party
+||growthrx.in^$third-party
 ||grumrt.com^$third-party
 ||gsecondscreen.com^$third-party
 ||gsimedia.net^$third-party
@@ -7282,6 +7286,7 @@ _mongo_stats/
 ||nicequest.com^$third-party
 ||niftymaps.com^$third-party
 ||nik.io^$third-party
+||nitropay.com^$third-party
 ||noibu.com^$third-party
 ||noowho.com^$third-party
 ||nordicresearch.com^$third-party
@@ -12084,6 +12089,7 @@ _mongo_stats/
 ||tracking.quisma.com^
 ||tracking.rapidape.com^
 ||tracking.rightmessage.com^
+||tracking.scenepass.com^
 ||tracking.searchmarketing.com^
 ||tracking.sembox.it^$third-party
 ||tracking.skyword.com^$third-party
@@ -17674,7 +17680,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 @@||cdn-ds.com/analytics/dfa.js$script,domain=tuttleclickgenesis.com
 @@||cdn-ds.com/analytics/sockjs.js$script,domain=tuttleclickgenesis.com
 @@||cdn-net.com/cc.js$script,domain=uber.com|ubereats.com
-@@||cdn.optimizely.com/js/*.js$domain=compassion.com|creditsesame.com|freeshipping.com|heroku.com|imageshack.com
+@@||cdn.optimizely.com/js/*.js$domain=compassion.com|creditsesame.com|freeshipping.com|heroku.com|historyvault.com|imageshack.com
 @@||certona.net^*/scripts/resonance.js$script,domain=canadiantire.ca
 @@||changenow.io/js/tracking.js$script
 @@||chasecdn.com^*/@ccb-blueanalytics/$script,domain=chase.com
