@@ -1004,10 +1004,10 @@
         "state": "future"
     },
     "adc-srv.net": {
-        "epoch": 1608681600.0,
-        "expiration_date": "23-dec-2020",
+        "epoch": 1640217600.0,
+        "expiration_date": "23-dec-2021",
         "server": "whois.verisign-grs.com",
-        "state": "past"
+        "state": "future"
     },
     "adchemix.com": {
         "epoch": 1639267200.0,
@@ -30495,10 +30495,10 @@
         "state": "future"
     },
     "triboomedia.it": {
-        "epoch": 1607558400.0,
-        "expiration_date": "10-dec-2020",
+        "epoch": 1639094400.0,
+        "expiration_date": "10-dec-2021",
         "server": "whois.nic.it",
-        "state": "past"
+        "state": "future"
     },
     "trick17.it": {
         "epoch": 1625011200.0,
