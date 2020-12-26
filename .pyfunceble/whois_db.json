@@ -15702,10 +15702,10 @@
         "state": "future"
     },
     "joka.it": {
-        "epoch": 1604966400.0,
-        "expiration_date": "10-nov-2020",
+        "epoch": 1640390400.0,
+        "expiration_date": "25-dec-2021",
         "server": "whois.nic.it",
-        "state": "past"
+        "state": "future"
     },
     "jokeroo.com": {
         "epoch": 1611014400.0,
