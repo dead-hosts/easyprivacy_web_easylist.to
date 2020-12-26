@@ -4666,8 +4666,9 @@
         "state": "future"
     },
     "branica.com": {
-        "epoch": 1608768000.0,
-        "expiration_date": "24-dec-2020",
+        "epoch": 1640304000.0,
+        "expiration_date": "24-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "brat-online.ro": {
@@ -16313,8 +16314,9 @@
         "state": "future"
     },
     "krakenlyrics.com": {
-        "epoch": 1608768000.0,
-        "expiration_date": "24-dec-2020",
+        "epoch": 1640304000.0,
+        "expiration_date": "24-dec-2021",
+        "server": "whois.verisign-grs.com",
         "state": "future"
     },
     "krxd.net": {
