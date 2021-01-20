@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101200738
+! Version: 202101200755
 ! Title: EasyPrivacy
-! Last modified: 20 Jan 2021 07:38 UTC
+! Last modified: 20 Jan 2021 07:55 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -220,6 +220,7 @@
 .do_tracking&
 .drive-analytics.
 .eloqua.js
+.emltrk.com/
 .emsecure.min.js
 .EventTracking.
 .EventTrackingPlugins.
@@ -300,9 +301,11 @@
 .png?cpn=
 .png?uid=*&tag=
 .pt/n.gif?
+.publish0x.com/t/
 .redux-logger-
 .ro/c.gif?
 .ru/0.gif?
+.sendcloud.net/track/
 .sharecounter.$third-party
 .sitecatalyst.js
 .siteclarity.
@@ -310,6 +313,7 @@
 .skimlinks.js
 .snowplowanalytics.$domain=~snowplowanalytics.com
 .social_tracking.
+.spotify.com/ss/
 .statData-eup.
 .stats?action=
 .svc/?tracking_id=
@@ -333,9 +337,12 @@
 .v4.analytics.
 .vn/0.gif?
 .vsTracking.
+.webex.com/q/
 .webmetrics.js
 .webstats.
+.wix.com/_api/ping/
 .wxAdTargeting.
+.zalando.com/images/probe.png
 /!crd_prm!.
 //feedproxy.*/~r/*$image
 /0.png?ver=
@@ -1872,6 +1879,7 @@
 /exelator.
 /exittracker.
 /exittraffic.
+/exmo.email/open.html
 /expcount/*
 /experiment/impressions.js
 /expose.gif?
