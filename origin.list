@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101200755
+! Version: 202101200814
 ! Title: EasyPrivacy
-! Last modified: 20 Jan 2021 07:55 UTC
+! Last modified: 20 Jan 2021 08:14 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -105,6 +105,7 @@
 -stats/imr.
 -stats/metrica.
 -track-ati.
+-track-email-open?
 -track-inview.
 -tracker-geoip.
 -tracking-pixel.
@@ -217,6 +218,7 @@
 .de/l.gif?
 .de/o.gif?
 .de/z.gif?
+.demdex.net/event?
 .do_tracking&
 .drive-analytics.
 .eloqua.js
@@ -224,6 +226,7 @@
 .emsecure.min.js
 .EventTracking.
 .EventTrackingPlugins.
+.flipboard.com/usage?
 .fr/z.gif?
 .gatracker.
 .gatracking.js
@@ -245,6 +248,7 @@
 .googleanalytics.prod.
 .GoogleAnalytics/
 .gov/stat?
+.hootsuite.com/trk?
 .htm?imprId=
 .html?wpl=
 .idge/js/analytics/
@@ -314,6 +318,7 @@
 .snowplowanalytics.$domain=~snowplowanalytics.com
 .social_tracking.
 .spotify.com/ss/
+.starbucks.com/a/
 .statData-eup.
 .stats?action=
 .svc/?tracking_id=
@@ -356,6 +361,7 @@
 /1x1.png?
 /1x1_akamai.gif
 /1x1_imp.gif?
+/1x1_usermatch.gif?
 /1x1p.gif?
 /1x1tracker.
 /247px.js
@@ -1766,6 +1772,7 @@
 /elqtracking.
 /elt.gif?
 /eluminate?
+/email-pixel?
 /email/track/*$image
 /email/tracking?
 /EmailOpenTrackLog.aspx?$image
@@ -1788,6 +1795,7 @@
 /entry.count?
 /entry_stats?
 /envoy.sb?sbaid
+/eo?_t=$image
 /epf_v1_95.js
 /epvplytics.
 /error/*.gif?msg=
