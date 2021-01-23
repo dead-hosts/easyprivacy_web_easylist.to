@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202101231147
+! Version: 202101231203
 ! Title: EasyPrivacy
-! Last modified: 23 Jan 2021 11:47 UTC
+! Last modified: 23 Jan 2021 12:03 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -817,6 +817,7 @@
 /analytics_v2.js
 /analytics_wbc.
 /analytics_www.
+/analyticsConfig?
 /AnalyticsDataLayer.
 /AnalyticsEvent.
 /analyticsfeed.ashx?
@@ -6956,6 +6957,7 @@ _mongo_stats/
 ||io1g.net^$third-party
 ||iocnt.net^$third-party
 ||iotechnologies.com^$third-party
+||iovation.com^$third-party
 ||ip-api.com^$third-party
 ||ip-label.net^$third-party
 ||ip2location.com^$third-party
@@ -17548,6 +17550,7 @@ $csp=worker-src 'none',domain=alltube.pl|alltube.tv|animeteatr.ru|annuaire-bleu.
 ||olx.com.br^*/lurker.
 ||sapo.*/clk?u=
 ||sl.pt/wa.gif?
+||tags.globo.com^
 ||tm.jsuol.com.br^
 ||tm.uol.com.br^
 ||tracker.bt.uol.com.br^
