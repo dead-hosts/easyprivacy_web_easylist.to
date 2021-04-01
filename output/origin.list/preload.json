@@ -2,14 +2,14 @@
     "abs_source": "/home/runner/work/easyprivacy_web_easylist.to/easyprivacy_web_easylist.to/origin.list",
     "checker_type": "AVAILABILITY",
     "destination": "origin.list",
-    "hash": "5b0a9e956c3f18400c8235f84ff0b0e6f4e52ba6150c06a29d8991e5",
-    "line_number": 10957,
+    "hash": "361c1f3ad41e57eb9b5a07d2a906fee103d53b6d6b538ca81551918b",
+    "line_number": 11325,
     "output_dir": "/home/runner/work/easyprivacy_web_easylist.to/easyprivacy_web_easylist.to/output/origin.list",
     "previous_hash": null,
     "rel_source": "origin.list",
     "session_id": "bfe0f174c172ca0b69f3075d",
-    "source": "/home/runner/work/easyprivacy_web_easylist.to/easyprivacy_web_easylist.to/origin.list",
-    "subject": "/home/runner/work/easyprivacy_web_easylist.to/easyprivacy_web_easylist.to/origin.list",
+    "source": "origin.list",
+    "subject": "origin.list",
     "subject_type": "domain",
     "type": "file"
 }

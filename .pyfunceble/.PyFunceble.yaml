@@ -15,6 +15,7 @@ cli_testing:
         end_command: hash dead_hosts_launcher && dead_hosts_launcher --end
         end_commit_message: '[Final/Result][Dead-Hosts::easyprivacy_web_easylist.to]'
         max_exec_minutes: 20
+    cidr_expand: false
     complements: false
     cooldown_time: 3.25
     days_between:
@@ -56,10 +57,12 @@ debug:
     active: false
     level: info
 dns:
+    follow_server_order: true
     protocol: UDP
     server:
     - 8.8.8.8
     - 8.8.4.4
+    trust_server: false
 http_codes:
     list:
         potentially_down:
@@ -129,7 +132,7 @@ http_codes:
 inactive_database: false
 links:
     api_date_format: https://pyfunceble.funilrys.com/api/date-format
-    api_no_referer: https://pyfunceble.funilrys.com/api/no-referer
+    api_no_referrer: https://pyfunceble.funilrys.com/api/no-referrer
 lookup:
     dns: true
     http_status_code: true
