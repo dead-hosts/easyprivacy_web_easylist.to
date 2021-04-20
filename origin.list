@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202104192214
+! Version: 202104192344
 ! Title: EasyPrivacy
-! Last modified: 19 Apr 2021 22:14 UTC
+! Last modified: 19 Apr 2021 23:44 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3705,6 +3705,7 @@
 /roitracker.
 /roitracker2.
 /roiTrax.
+/rollbar-snippet.
 /rollbar.js
 /rollbar.min.js
 /rolluptracker_
@@ -7838,6 +7839,7 @@ _mongo_stats/
 ||roiservice.com^$third-party
 ||roispy.com^$third-party
 ||roitesting.com^$third-party
+||rollbar.com^$third-party
 ||rollingcounters.com^$third-party
 ||roosterfirework.com^$third-party
 ||rp-rep.net^$third-party
