@@ -1556,6 +1556,8 @@
         "deno.dev",
         "fly.dev",
         "gateway.dev",
+        "github.dev",
+        "githubpreview.dev",
         "iserv.dev",
         "lcl.dev",
         "lclstage.dev",
@@ -7702,7 +7704,8 @@
         "store.st"
     ],
     "store": [
-        "shopware.store"
+        "shopware.store",
+        "storebase.store"
     ],
     "su": [
         "abkhazia.su",
@@ -8026,7 +8029,6 @@
         "lutsk.ua",
         "lv.ua",
         "lviv.ua",
-        "mk.ua",
         "mykolaiv.ua",
         "net.ua",
         "nikolaev.ua",
@@ -8310,6 +8312,7 @@
         "me.us",
         "mi.us",
         "mircloud.us",
+        "mk.ua",
         "mn.us",
         "mo.us",
         "ms.us",
