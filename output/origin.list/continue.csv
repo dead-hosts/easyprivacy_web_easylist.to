@@ -14206,5 +14206,9 @@ https://d3ward.github.io/toolz/src/adblock.html,AVAILABILITY,origin.list,origin.
 01:37,AVAILABILITY,origin.list,origin.list,2001-04-28 02:22:15.672927,bfe0f174c172ca0b69f3075d
 /pageviews/*$domain=~pageviews.toolforge.org|~tools.wmflabs.org|~wikimedia.org|~wikipedia.org,AVAILABILITY,origin.list,origin.list,2001-04-28 02:23:43.156114,bfe0f174c172ca0b69f3075d
 ||analytics.dev.htmedia.in^,AVAILABILITY,origin.list,origin.list,2001-04-28 02:35:16.943059,bfe0f174c172ca0b69f3075d
-202104280303,AVAILABILITY,origin.list,origin.list,2001-04-28 03:14:58.366848,bfe0f174c172ca0b69f3075d
-03:03,AVAILABILITY,origin.list,origin.list,2001-04-28 03:14:59.114394,bfe0f174c172ca0b69f3075d
+||ad.mail.ru^$image,AVAILABILITY,origin.list,origin.list,2001-04-28 03:08:07.642295,bfe0f174c172ca0b69f3075d
+||cnt.nov.ru^,AVAILABILITY,origin.list,origin.list,2001-04-28 03:08:10.148897,bfe0f174c172ca0b69f3075d
+202104280335,AVAILABILITY,origin.list,origin.list,2001-04-28 03:39:37.611048,bfe0f174c172ca0b69f3075d
+03:35,AVAILABILITY,origin.list,origin.list,2001-04-28 03:39:38.289726,bfe0f174c172ca0b69f3075d
+||g8121457735.co^,AVAILABILITY,origin.list,origin.list,2001-04-28 03:45:04.513877,bfe0f174c172ca0b69f3075d
+||g8319542070.co^,AVAILABILITY,origin.list,origin.list,2001-04-28 03:45:04.764552,bfe0f174c172ca0b69f3075d
