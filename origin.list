@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202105040450
+! Version: 202105040523
 ! Title: EasyPrivacy
-! Last modified: 04 May 2021 04:50 UTC
+! Last modified: 04 May 2021 05:23 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1571,6 +1571,7 @@
 /csp_204?
 /csp_log?
 /csp_report.gne?
+/cta-loaded.js
 /ctd-sourcepoint.
 /ctd-tealium.
 /ctr_tracker.
@@ -2711,6 +2712,7 @@
 /log.php?id
 /log.php?owa_timestamp=
 /log/1.gif?
+/log/?pixel=
 /log/ad-
 /log/analytics
 /log/browser/event
@@ -10490,6 +10492,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.tout.com^
 ||analytics.tribeca.vidavee.com^
 ||analytics.unibuddy.co^
+||analytics.unilogcorp.com^
 ||analytics.urx.io^
 ||analytics.vanillaforums.com^
 ||analytics.vendemore.com^
@@ -11026,6 +11029,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||diagnose.igstatic.com^
 ||digimedia.com/pageviews.php?
 ||digitalgov.gov/Universal-Federated-Analytics-Min.js
+||digitaloceanspaces.com/pixel/
 ||directnews.co.uk/feedtrack/
 ||dirt.dennis.co.uk^
 ||discovery.com^*/events
@@ -11377,6 +11381,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ipapi.tmbi.com^
 ||ipstatp.com/growth/fe_sdk/reportsdk/$third-party
 ||ipstatp.com/static_magic/pgc/tech/collect/$third-party
+||iq.sixaxisllc.com^
 ||irqs.ioam.de^
 ||isacglobal.com/sa.js
 ||isitelab.io/ite_sitecomV1ANA.min.js
@@ -12245,6 +12250,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tracker.icerocket.com^
 ||tracker.keywordintent.com^
 ||tracker.marinsoftware.com^
+||tracker.mrpfd.com^
 ||tracker.roitesting.com^
 ||tracker.softcube.com^
 ||tracker.timesgroup.com^
