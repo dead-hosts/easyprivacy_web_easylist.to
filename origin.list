@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202105040407
+! Version: 202105040450
 ! Title: EasyPrivacy
-! Last modified: 04 May 2021 04:07 UTC
+! Last modified: 04 May 2021 04:50 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2103,6 +2103,7 @@
 /gatrackthis.
 /gatrackwww.
 /gb-tracker-
+/gc?id=*&refurl=
 /gciAnalytics.
 /gClickTracking.
 /gcount.pl?
@@ -5868,9 +5869,11 @@ _mongo_stats/
 ||g7329120395.co^
 ||g7527204730.co^
 ||g7725289065.co^
+||g792337340.co^
 ||g7923373400.co^
 ||g8121457735.co^
 ||g8319542070.co^
+||lltrck.com^
 ||mors22.com^
 ||nxakpj4ac8gkd53.info^
 ||propeller-tracking.com^
@@ -6800,6 +6803,7 @@ _mongo_stats/
 ||fueldeck.com^$third-party
 ||fuelx.com^$third-party
 ||fugetech.com^$third-party
+||fullcircleinsights.com^$third-party
 ||funneld.com^$third-party
 ||funstage.com^$third-party
 ||fuse-data.com^$third-party
@@ -7153,6 +7157,7 @@ _mongo_stats/
 ||keywee.co^$third-party
 ||keywordmax.com^$third-party
 ||keywordstrategy.org^$third-party
+||kickfire.com^$third-party
 ||kieden.com^$third-party
 ||killerwebstats.com^$third-party
 ||kilometrix.de^$third-party
@@ -10493,6 +10498,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.wildtangent.com^
 ||analytics.witglobal.net^
 ||analytics.worldtable.co^
+||analytics.yext-static.com^
 ||analytics.yola.net^
 ||analytics.yolacdn.net^
 ||analytics.ziftsolutions.com^

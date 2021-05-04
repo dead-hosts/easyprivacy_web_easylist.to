@@ -14410,6 +14410,11 @@ may,AVAILABILITY,origin.list,origin.list,2001-05-01 04:01:32.019649,bfe0f174c172
 01:17,AVAILABILITY,origin.list,origin.list,2001-05-04 01:48:12.349762,bfe0f174c172ca0b69f3075d
 202105040156,AVAILABILITY,origin.list,origin.list,2001-05-04 02:37:22.803580,bfe0f174c172ca0b69f3075d
 01:56,AVAILABILITY,origin.list,origin.list,2001-05-04 02:37:23.655250,bfe0f174c172ca0b69f3075d
-202105040407,AVAILABILITY,origin.list,origin.list,2001-05-04 04:15:52.979251,bfe0f174c172ca0b69f3075d
-04:07,AVAILABILITY,origin.list,origin.list,2001-05-04 04:15:53.751050,bfe0f174c172ca0b69f3075d
-/fpTracker/*,AVAILABILITY,origin.list,origin.list,2001-05-04 04:16:37.352272,bfe0f174c172ca0b69f3075d
+202105040450,AVAILABILITY,origin.list,origin.list,2001-05-04 04:59:54.368152,bfe0f174c172ca0b69f3075d
+/fpTracker/*,AVAILABILITY,origin.list,origin.list,2001-05-04 05:00:36.791541,bfe0f174c172ca0b69f3075d
+/gc?id=*&refurl=,AVAILABILITY,origin.list,origin.list,2001-05-04 05:00:41.734294,bfe0f174c172ca0b69f3075d
+||g792337340.co^,AVAILABILITY,origin.list,origin.list,2001-05-04 05:05:19.411971,bfe0f174c172ca0b69f3075d
+||lltrck.com^,AVAILABILITY,origin.list,origin.list,2001-05-04 05:05:20.373473,bfe0f174c172ca0b69f3075d
+||fullcircleinsights.com^$third-party,AVAILABILITY,origin.list,origin.list,2001-05-04 05:07:00.356848,bfe0f174c172ca0b69f3075d
+||kickfire.com^$third-party,AVAILABILITY,origin.list,origin.list,2001-05-04 05:07:44.286718,bfe0f174c172ca0b69f3075d
+||analytics.yext-static.com^,AVAILABILITY,origin.list,origin.list,2001-05-04 05:16:12.945369,bfe0f174c172ca0b69f3075d
