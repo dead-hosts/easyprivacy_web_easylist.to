@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202105050833
+! Version: 202105050855
 ! Title: EasyPrivacy
-! Last modified: 05 May 2021 08:33 UTC
+! Last modified: 05 May 2021 08:55 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -10472,6 +10472,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.pointdrive.linkedin.com^
 ||analytics.prezly.com^
 ||analytics.prod.aws.ecnext.net^
+||analytics.qualityunit.com^
 ||analytics.radiatemedia.com^
 ||analytics.recruitics.com^
 ||analytics.reyrey.net^
@@ -11708,6 +11709,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pagesocket.glam.com^
 ||pageturnpro.com/tracker.aspx?
 ||pair.com/itero/tracker_ftc/
+||pap.qualityunit.com^
 ||parsely.com/keys/$script,third-party
 ||parsely.com/plogger/
 ||partner.cynapse.com^
@@ -20683,7 +20685,6 @@ ytics.disneyplus.com^
 ||marketing.net.home24.de^
 ||marketing.net.home24.fr^
 ||marketing.net.home24.nl^
-||marketing.net.jumia.com.eg^
 ||marketing.net.jumia.ma^
 ||marketing.net.kredito24.ru^
 ||marketing.net.occhiali24.it^
@@ -23141,7 +23142,6 @@ ytics.disneyplus.com^
 ||ablink.book.omio.com^
 ||ablink.c.grubhub.com^
 ||ablink.care.sanvello.com^
-||ablink.click.depop.com^
 ||ablink.comms.hipages.com.au^
 ||ablink.comms.trainline.com^
 ||ablink.commsinfo.trainline.com^
