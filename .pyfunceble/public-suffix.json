@@ -1409,7 +1409,6 @@
         "writesthisblog.com",
         "x.mythic-beasts.com",
         "xen.prgmr.com",
-        "xn--j1adp.xn--p1acf",
         "xnbay.com",
         "yali.mythic-beasts.com",
         "yolasite.com",
@@ -1505,6 +1504,7 @@
         "dyn.home-webserver.de",
         "dynamisches-dns.de",
         "dyndns.ddnss.de",
+        "dyndns1.de",
         "dynvpn.de",
         "firewall-gateway.de",
         "fuettertdasnetz.de",
@@ -2155,7 +2155,6 @@
         "drud.io",
         "dyn53.io",
         "dyndns.dappnode.io",
-        "dyndns1.de",
         "editorx.io",
         "enonic.io",
         "fh-muenster.io",
@@ -8460,11 +8459,8 @@
         "edu.ws",
         "gov.ws",
         "mypets.ws",
-        "net.ws"
-    ],
-    "xn--j6w193g": [
-        "org.ws",
-        "xn--uc0atv.xn--j6w193g"
+        "net.ws",
+        "org.ws"
     ],
     "xyz": [
         "blogsite.xyz",
