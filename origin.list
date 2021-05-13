@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202105130206
+! Version: 202105130445
 ! Title: EasyPrivacy
-! Last modified: 13 May 2021 02:06 UTC
+! Last modified: 13 May 2021 04:45 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -9919,7 +9919,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||d-markets.net^$third-party
 ||d2-apps.net^$third-party
 ||deteql.net^$third-party
-||digitiminimi.com^$third-party
 ||docodoco.jp^$third-party
 ||e-click.jp^$third-party
 ||e-kaiseki.com^$third-party
@@ -9965,7 +9964,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||rentracks.jp^$third-party
 ||research-artisan.com^$third-party
 ||rtoaster.jp^$third-party
-||seesaa.jp^$third-party
 ||segs.jp^$third-party
 ||sibulla.com^$third-party
 ||smart-bdash.com^$third-party
@@ -13627,6 +13625,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.chase.com^
 ||analytics.ecosia.org^
 ||analytics.eip.telegraph.co.uk^
+||analytics.faceitanalytics.com^
 ||analytics.footballdb.com^
 ||analytics.getshogun.com^
 ||analytics.ghostery.com^$subdocument,domain=www.ghostery.com
@@ -15550,6 +15549,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stats.paste2.org^
 ||stats.piaggio.com^
 ||stats.propublica.org^
+||stats.pstream.net^
 ||stats.searchftps.net^
 ||stats.searchftps.org^
 ||stats.shoppydoo.com^
