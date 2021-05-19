@@ -1301,7 +1301,6 @@
         "s3-us-east-2.amazonaws.com",
         "s3-us-gov-west-1.amazonaws.com",
         "s3-us-west-1.amazonaws.com",
-        "s3-us-west-2.amazonaws.com",
         "s3-website-ap-northeast-1.amazonaws.com",
         "s3-website-ap-southeast-1.amazonaws.com",
         "s3-website-ap-southeast-2.amazonaws.com",
@@ -1535,6 +1534,7 @@
         "my-vigor.de",
         "my-wan.de",
         "myhome-server.de",
+        "s3-us-west-2.amazonaws.com",
         "schulserver.de",
         "spdns.de",
         "square7.de",
@@ -7475,7 +7475,6 @@
         "org.ru",
         "pp.ru",
         "pyatigorsk.ru",
-        "ra-ru.ru",
         "ras.ru",
         "spb.ru",
         "spectrum.myjino.ru",
@@ -7483,8 +7482,7 @@
         "vladikavkaz.ru",
         "vladimir.ru",
         "vps.mcdir.ru",
-        "vps.myjino.ru",
-        "zsew.ru"
+        "vps.myjino.ru"
     ],
     "run": [
         "code.run",
