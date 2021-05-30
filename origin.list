@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202105300103
+! Version: 202105300141
 ! Title: EasyPrivacy
-! Last modified: 30 May 2021 01:03 UTC
+! Last modified: 30 May 2021 01:41 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -25351,6 +25351,7 @@ ytics.disneyplus.com^
 @@||cm-beacon.nakanohito.jp/cm/comment_count/$xmlhttprequest
 @@||cm-widget.nakanohito.jp/cm/$script,stylesheet
 @@||cm-widget.nakanohito.jp/img/$image
+@@||dev.visualwebsiteoptimizer.com^$script,domain=internetorder.dominos.jp
 @@||disneyplus.disney.co.jp/view/vendor/analytics/$~third-party
 @@||dev.visualwebsiteoptimizer.com^$script,domain=internetorder.dominos.jp
 @@||e-stat.go.jp/modules/custom/retrieve/src/js/stat.js?$script,~third-party
