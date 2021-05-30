@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202105300338
+! Version: 202105300513
 ! Title: EasyPrivacy
-! Last modified: 30 May 2021 03:38 UTC
+! Last modified: 30 May 2021 05:13 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7637,6 +7637,7 @@ _mongo_stats/
 ||pendo.io^$third-party
 ||percentmobile.com^$third-party
 ||perf-serving.com^$third-party
+||perfalytics.com^$third-party
 ||perfdrive.com^$third-party
 ||perfectaudience.com^$third-party
 ||perfiliate.com^$third-party
@@ -11211,6 +11212,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||exitintel.com/log/$third-party
 ||experience.contextly.com^
 ||f.email.bjs.com^*/1x2.gif
+||f-log-at.grammarly.io^
+||f-log-test.grammarly.io^
 ||facebook.com*/impression.php
 ||facebook.com/adnw_request?
 ||facebook.com/ai.php?
