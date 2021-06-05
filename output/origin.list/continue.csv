@@ -15275,3 +15275,6 @@ https://publicwww.com/websites/%22cloudfront.net%2Fscript.js%22/,AVAILABILITY,or
 12:18,AVAILABILITY,origin.list,origin.list,2001-06-05 12:43:36.189147,bfe0f174c172ca0b69f3075d
 202106051306,AVAILABILITY,origin.list,origin.list,2001-06-05 13:57:17.932123,bfe0f174c172ca0b69f3075d
 13:06,AVAILABILITY,origin.list,origin.list,2001-06-05 13:57:18.733047,bfe0f174c172ca0b69f3075d
+202106051817,AVAILABILITY,origin.list,origin.list,2001-06-05 18:35:09.267113,bfe0f174c172ca0b69f3075d
+18:17,AVAILABILITY,origin.list,origin.list,2001-06-05 18:35:10.107496,bfe0f174c172ca0b69f3075d
+/events/track/*,AVAILABILITY,origin.list,origin.list,2001-06-05 18:35:55.274465,bfe0f174c172ca0b69f3075d
