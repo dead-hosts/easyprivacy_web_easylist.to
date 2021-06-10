@@ -15387,3 +15387,5 @@ https://publicwww.com/websites/%22cloudfront.net%2Fscript.js%22/,AVAILABILITY,or
 ://stats.*/script.js,AVAILABILITY,origin.list,origin.list,2001-06-10 07:59:23.392953,bfe0f174c172ca0b69f3075d
 ||basis.net/assets/up.js,AVAILABILITY,origin.list,origin.list,2001-06-10 08:13:00.568760,bfe0f174c172ca0b69f3075d
 ||proxy.dzeio.com^,AVAILABILITY,origin.list,origin.list,2001-06-10 09:39:50.268132,bfe0f174c172ca0b69f3075d
+://fathom.$domain=~fathomdelivers.com|~fathomseo.com|~usesfathom.com,AVAILABILITY,origin.list,origin.list,2001-06-10 09:54:01.272179,bfe0f174c172ca0b69f3075d
+||porpoise.azettl.net^,AVAILABILITY,origin.list,origin.list,2001-06-10 10:09:42.196438,bfe0f174c172ca0b69f3075d
