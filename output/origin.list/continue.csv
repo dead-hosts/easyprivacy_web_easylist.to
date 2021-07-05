@@ -27264,3 +27264,5 @@ easylist:easyprivacy/easyprivacy_general.txt,AVAILABILITY,origin.list,origin.lis
 /events?_trigger=,AVAILABILITY,origin.list,origin.list,2021-07-04 00:25:28.219312,bfe0f174c172ca0b69f3075d
 /events?data=,AVAILABILITY,origin.list,origin.list,2021-07-04 00:25:31.510233,bfe0f174c172ca0b69f3075d
 /events?rpId=,AVAILABILITY,origin.list,origin.list,2021-07-04 00:25:34.802587,bfe0f174c172ca0b69f3075d
+/trackingEventsBlocks/*,AVAILABILITY,origin.list,origin.list,2001-07-04 23:56:44.463879,bfe0f174c172ca0b69f3075d
+/vendor/analytics.,AVAILABILITY,origin.list,origin.list,2001-07-04 23:57:03.542598,bfe0f174c172ca0b69f3075d
