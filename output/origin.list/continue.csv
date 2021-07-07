@@ -27277,3 +27277,4 @@ easylist:easyprivacy/easyprivacy_general.txt,AVAILABILITY,origin.list,origin.lis
 /t.paypal.com/*$image,AVAILABILITY,origin.list,origin.list,2001-07-06 09:02:19.683461,bfe0f174c172ca0b69f3075d
 ||xp.apple.com^,AVAILABILITY,origin.list,origin.list,2001-07-06 09:16:19.682744,bfe0f174c172ca0b69f3075d
 ||antillephone.com^$third-party,AVAILABILITY,origin.list,origin.list,2001-07-07 07:10:57.359068,bfe0f174c172ca0b69f3075d
+||ria.ru/counter?,AVAILABILITY,origin.list,origin.list,2001-07-07 16:35:55.103571,bfe0f174c172ca0b69f3075d
