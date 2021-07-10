@@ -27285,3 +27285,5 @@ easylist:easyprivacy/easyprivacy_general.txt,AVAILABILITY,origin.list,origin.lis
 /google-analytics/*$domain=~webapps.stackexchange.com,AVAILABILITY,origin.list,origin.list,2001-07-10 04:00:18.761693,bfe0f174c172ca0b69f3075d
 ||t.pointandplace.com^,AVAILABILITY,origin.list,origin.list,2001-07-10 05:19:58.180719,bfe0f174c172ca0b69f3075d
 ||facebook.com/platform/scribe_endpoint.php/,AVAILABILITY,origin.list,origin.list,2001-07-10 06:44:36.584090,bfe0f174c172ca0b69f3075d
+/google-analytics/*$domain=~stackexchange.com|~superuser.com,AVAILABILITY,origin.list,origin.list,2001-07-10 10:28:12.240003,bfe0f174c172ca0b69f3075d
+/google-tag-manager/*$domain=~stackexchange.com|~superuser.com,AVAILABILITY,origin.list,origin.list,2001-07-10 10:28:12.717645,bfe0f174c172ca0b69f3075d
