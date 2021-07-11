@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107110954
+! Version: 202107111007
 ! Title: EasyPrivacy
-! Last modified: 11 Jul 2021 09:54 UTC
+! Last modified: 11 Jul 2021 10:07 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -14580,6 +14580,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||hitweb2.chosun.com^
 ||hltv.org/scripts/hltv-tracking.js
 ||hobsons.co.uk^*/WebBeacon.aspx?
+||hog.tv/api/events|
 ||holiday-rentals.co.uk/thirdparty/tag
 ||holiday-rentals.co.uk^*/tracking-home.html
 ||homeaway.com^*/tracking-home.html
