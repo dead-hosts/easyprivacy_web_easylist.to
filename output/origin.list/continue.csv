@@ -27288,3 +27288,4 @@ easylist:easyprivacy/easyprivacy_general.txt,AVAILABILITY,origin.list,origin.lis
 /google-analytics/*$domain=~stackexchange.com|~superuser.com,AVAILABILITY,origin.list,origin.list,2001-07-10 10:28:12.240003,bfe0f174c172ca0b69f3075d
 /google-tag-manager/*$domain=~stackexchange.com|~superuser.com,AVAILABILITY,origin.list,origin.list,2001-07-10 10:28:12.717645,bfe0f174c172ca0b69f3075d
 ://temptation.*/temptation.js,AVAILABILITY,origin.list,origin.list,2001-07-10 11:37:45.227721,bfe0f174c172ca0b69f3075d
+||a-reporting.nytimes.com^,AVAILABILITY,origin.list,origin.list,2001-07-11 07:14:50.586538,bfe0f174c172ca0b69f3075d
