@@ -27293,3 +27293,5 @@ easylist:easyprivacy/easyprivacy_general.txt,AVAILABILITY,origin.list,origin.lis
 /log/page-view,AVAILABILITY,origin.list,origin.list,2001-07-12 12:36:43.442440,bfe0f174c172ca0b69f3075d
 ://fathom.$domain=~fathom.video|~fathomdelivers.com|~fathomseo.com|~usesfathom.com,AVAILABILITY,origin.list,origin.list,2001-07-12 12:39:51.473275,bfe0f174c172ca0b69f3075d
 ||abcnews.com/assets/dtci/js/at.js,AVAILABILITY,origin.list,origin.list,2001-07-12 17:11:20.518569,bfe0f174c172ca0b69f3075d
+||iterable.com/analytics.js,AVAILABILITY,origin.list,origin.list,2001-07-13 01:13:42.608174,bfe0f174c172ca0b69f3075d
+||vuukle.com/getGeo,AVAILABILITY,origin.list,origin.list,2001-07-13 01:16:53.845485,bfe0f174c172ca0b69f3075d
