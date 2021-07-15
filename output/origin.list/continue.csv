@@ -27299,3 +27299,5 @@ easylist:easyprivacy/easyprivacy_general.txt,AVAILABILITY,origin.list,origin.lis
 /roverclk/*,AVAILABILITY,origin.list,origin.list,2001-07-14 05:06:05.497477,bfe0f174c172ca0b69f3075d
 /roverimp/*,AVAILABILITY,origin.list,origin.list,2001-07-14 05:06:05.910895,bfe0f174c172ca0b69f3075d
 /roversync/?,AVAILABILITY,origin.list,origin.list,2001-07-14 05:06:06.327383,bfe0f174c172ca0b69f3075d
+||acstat.com^$third-party,AVAILABILITY,origin.list,origin.list,2001-07-15 03:13:57.199988,bfe0f174c172ca0b69f3075d
+||get4click.ru^$third-party,AVAILABILITY,origin.list,origin.list,2001-07-15 03:24:07.189585,bfe0f174c172ca0b69f3075d
