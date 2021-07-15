@@ -27301,3 +27301,4 @@ easylist:easyprivacy/easyprivacy_general.txt,AVAILABILITY,origin.list,origin.lis
 /roversync/?,AVAILABILITY,origin.list,origin.list,2001-07-14 05:06:06.327383,bfe0f174c172ca0b69f3075d
 ||acstat.com^$third-party,AVAILABILITY,origin.list,origin.list,2001-07-15 03:13:57.199988,bfe0f174c172ca0b69f3075d
 ||get4click.ru^$third-party,AVAILABILITY,origin.list,origin.list,2001-07-15 03:24:07.189585,bfe0f174c172ca0b69f3075d
+||xp.apple.com^$~ping,AVAILABILITY,origin.list,origin.list,2001-07-15 07:33:13.224164,bfe0f174c172ca0b69f3075d
