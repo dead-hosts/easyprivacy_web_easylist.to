@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107180359
+! Version: 202107180426
 ! Title: EasyPrivacy
-! Last modified: 18 Jul 2021 03:59 UTC
+! Last modified: 18 Jul 2021 04:26 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3727,6 +3727,7 @@
 /rum.gif?
 /rum.js/*
 /rum.min.
+/rum/events
 /rum/id?
 /rum_cmp?
 /rumstat.
@@ -4072,6 +4073,7 @@
 /StatisticService.m?
 /statisticsv2/*
 /statlogger.
+/StatRecorder.asp?
 /stats-amp.
 /stats-collect
 /stats-dc1.
@@ -7575,6 +7577,7 @@ _mongo_stats/
 ||r7ls.net^$third-party
 ||radarstats.com^$third-party
 ||radarurl.com^$third-party
+||radiateb2b.com^$third-party
 ||rampanel.com^$third-party
 ||rampmetrics.com^$third-party
 ||rank-hits.com^$third-party
@@ -16186,6 +16189,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ralphlauren.co.uk^*/init.js
 ||ralphlauren.de^*/init.js
 ||ralphlauren.fr^*/init.js
+||seekingalpha.com/xgCxM9By/init.js
 ||skechers.com/dL6GOSf9/init.js
 ||sweetwater.com/p2TBVNJZ/init.js
 ||therealreal.com/ev56mY37/init.js
