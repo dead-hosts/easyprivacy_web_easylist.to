@@ -27308,3 +27308,5 @@ easylist:easyprivacy/easyprivacy_general.txt,AVAILABILITY,origin.list,origin.lis
 /msa-vowels/1/OP/*,AVAILABILITY,origin.list,origin.list,2001-07-16 08:41:27.304790,bfe0f174c172ca0b69f3075d
 ||script-api.kinja.com/script?,AVAILABILITY,origin.list,origin.list,2001-07-17 04:03:19.498523,bfe0f174c172ca0b69f3075d
 ||salsify-ecdn.com^$third-party,AVAILABILITY,origin.list,origin.list,2001-07-17 06:07:27.848791,bfe0f174c172ca0b69f3075d
+/wxhawkeye.js,AVAILABILITY,origin.list,origin.list,2001-07-18 01:39:51.245001,bfe0f174c172ca0b69f3075d
+||loloclicks.biz^,AVAILABILITY,origin.list,origin.list,2001-07-18 01:41:00.664177,bfe0f174c172ca0b69f3075d
