@@ -27317,3 +27317,8 @@ easylist:easyprivacy/easyprivacy_general.txt,AVAILABILITY,origin.list,origin.lis
 ://ensighten.,AVAILABILITY,origin.list,origin.list,2001-07-18 06:03:37.367613,bfe0f174c172ca0b69f3075d
 ||havasedge.com^$third-party,AVAILABILITY,origin.list,origin.list,2001-07-18 06:06:49.318770,bfe0f174c172ca0b69f3075d
 ||branch.io^$third-party,AVAILABILITY,origin.list,origin.list,2001-07-18 07:35:52.871231,bfe0f174c172ca0b69f3075d
+/adobe-analytics-,AVAILABILITY,origin.list,origin.list,2001-07-18 08:26:35.372128,bfe0f174c172ca0b69f3075d
+/LogImpressions.,AVAILABILITY,origin.list,origin.list,2001-07-18 08:27:39.789001,bfe0f174c172ca0b69f3075d
+/newrelic/*,AVAILABILITY,origin.list,origin.list,2001-07-18 08:27:51.237757,bfe0f174c172ca0b69f3075d
+||sendtonews.com/stn_trk.gif?,AVAILABILITY,origin.list,origin.list,2001-07-18 08:44:20.114015,bfe0f174c172ca0b69f3075d
+||vwonwkaqvq-a.global.ssl.fastly.net^,AVAILABILITY,origin.list,origin.list,2001-07-18 08:46:25.034371,bfe0f174c172ca0b69f3075d

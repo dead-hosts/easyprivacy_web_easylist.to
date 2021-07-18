@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107180758
+! Version: 202107180818
 ! Title: EasyPrivacy
-! Last modified: 18 Jul 2021 07:58 UTC
+! Last modified: 18 Jul 2021 08:18 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -435,6 +435,7 @@
 /admantx/*
 /admonitoring.
 /admp-
+/adobe-analytics-
 /adobe-analytics.
 /adobe-analytics/*
 /adobe-prd/*
@@ -2786,6 +2787,7 @@
 /logHandler.
 /LogImpression.
 /LogImpression?
+/LogImpressions.
 /logImpressions?
 /logjs.php
 /logLoad/?
@@ -3041,6 +3043,7 @@
 /newrelic.iframe.
 /newrelic.js
 /newrelic.min.js
+/newrelic/*
 /newrelicKpis-
 /newrelicKpisFooter-
 /newscount/*
