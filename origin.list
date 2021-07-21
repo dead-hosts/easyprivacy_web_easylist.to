@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107210159
+! Version: 202107210209
 ! Title: EasyPrivacy
-! Last modified: 21 Jul 2021 01:59 UTC
+! Last modified: 21 Jul 2021 02:09 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -8301,6 +8301,7 @@ _mongo_stats/
 ||wishloop.com^$third-party
 ||withcubed.com^$third-party
 ||wizaly.com^$third-party
+||wmcdp.io^$third-party
 ||womtp.com^$third-party
 ||woopra-ns.com^$third-party
 ||woopra.com^$third-party
@@ -8837,6 +8838,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||bawdybalance.com^$third-party
 ||boilingbeetle.com^$third-party
 ||borderbrush.com^$third-party
+||boredcrown.com^
 ||breakfastboat.com^$third-party
 ||broadcastbed.com^$third-party
 ||broaddoor.com^$third-party
@@ -11321,7 +11323,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||logs-api.shoprunner.com^
 ||logs.datadoghq.com^$domain=~app.datadoghq.com
 ||logs.datadoghq.eu^$domain=~app.datadoghq.eu
-||logs.psm.wmcdp.io^
 ||logs.spilgames.com^
 ||logs.thebloggernetwork.com^
 ||logs.viadata.store^
@@ -11590,6 +11591,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pixel.roymorgan.com^
 ||pixel.s3xified.com^
 ||pixel.safe-installation.com^
+||pixel.snapsmedia.io^
 ||pixel.solvemedia.com^
 ||pixel.sprinklr.com^
 ||pixel.tree.com^
@@ -11994,7 +11996,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||technorati.com/technoratimedia-pixel.js
 ||techweb.com/beacon/
 ||telemetrics.klaviyo.com^
-||telemetry.api.wmcdp.io^
 ||telemetry.reembed.com^
 ||telemetry.soundcloud.com^
 ||telemetry.tableausoftware.com^
@@ -14514,12 +14515,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||neowin.net/ws/$websocket
 ||net-a-porter.com/intl/trackpage.nap?
 ||net.haier.com^
-||netflix.com/beacons?*&ssizeCat=*&vsizeCat=
-||netflix.com/customerevents/
-||netflix.com/EpicCounter?
-||netflix.com/ichnaea/log
-||netflix.com/LogCustomerEvent?
-||netflix.com/RegisterActionImpression?
+||netflix.com/msl/playapi/cadmium/logblob/
 ||netlog.com/track
 ||netmag.co.uk/matchbox/traffic/
 ||netu.tv/js/netu_counters.js
@@ -14556,7 +14552,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||nj.com/cgi-bin/stats/
 ||nj.com/dhtml/stats/
 ||nm.newegg.com^
-||nmtracking.netflix.com^
 ||noip.com/images/em.php?$image
 ||nola.com/cgi-bin/stats/
 ||nola.com/content/*/tracklinks.js
@@ -14726,7 +14721,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||potterybarn.com/pbimgs/*/external/thirdparty.js
 ||potterybarnkids.com/pkimgs/*/external/thirdparty.js
 ||powerreviews.com^*/ph.gif?
-||presentationtracking.netflix.com^
 ||presstv.ir/stat/
 ||prezi.com/log/
 ||pricegrabber.com/analytics.php
