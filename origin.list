@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107220235
+! Version: 202107220246
 ! Title: EasyPrivacy
-! Last modified: 22 Jul 2021 02:35 UTC
+! Last modified: 22 Jul 2021 02:46 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4143,6 +4143,7 @@
 /t/event.js?
 /t/event?
 /t?referer=
+/t?tcid=
 /tablytics.
 /tacoda.
 /tacoda_
@@ -5600,6 +5601,7 @@ _mongo_stats/
 ! *** easylist:easyprivacy/easyprivacy_trackingservers.txt ***
 ! Revolving trackers
 ||apxl.io^
+||bydst.com^
 ||cloudwp.io^
 ||g2178927685.co^
 ||g2377012020.co^
@@ -10794,6 +10796,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||data.imakenews.com^$third-party
 ||data.microsoft.com/OneCollector/
 ||data.minute.ly^
+||data.nexxt.com^
 ||data.queryly.com^
 ||data.studybreakmedia.com^
 ||data.woosmap.com^
@@ -11156,6 +11159,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||informer.yandex.ru^
 ||infosniper.net/locate-ip-on-map.php
 ||infusionsoft.com^*/getTrackingCode?
+||ingest.make.rvapps.io^
 ||innogamescdn.com/media/js/metrics-
 ||inphonic.com/tracking/
 ||inq.com^*/onEvent?_
