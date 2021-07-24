@@ -27409,6 +27409,6 @@ _social_tracking.js,AVAILABILITY,origin.list,origin.list,2001-07-20 11:05:03.599
 /bootstrap/metrics.,AVAILABILITY,origin.list,origin.list,2001-07-24 00:44:44.416536,bfe0f174c172ca0b69f3075d
 /dlpageping?,AVAILABILITY,origin.list,origin.list,2001-07-24 00:45:02.665423,bfe0f174c172ca0b69f3075d
 ||id.google.com/verify/,AVAILABILITY,origin.list,origin.list,2001-07-24 01:04:02.132036,bfe0f174c172ca0b69f3075d
-/run/perf,AVAILABILITY,origin.list,origin.list,2001-07-24 06:01:54.691697,bfe0f174c172ca0b69f3075d
-||r42tag.com^,AVAILABILITY,origin.list,origin.list,2001-07-24 06:05:08.820637,bfe0f174c172ca0b69f3075d
-||events.mapbox.com^,AVAILABILITY,origin.list,origin.list,2001-07-24 06:18:18.835085,bfe0f174c172ca0b69f3075d
+/run/perf,AVAILABILITY,origin.list,origin.list,2001-07-24 05:23:42.783589,bfe0f174c172ca0b69f3075d
+||events.mapbox.com^,AVAILABILITY,origin.list,origin.list,2001-07-24 05:37:19.075709,bfe0f174c172ca0b69f3075d
+||r42tag.com^,AVAILABILITY,origin.list,origin.list,2001-07-24 06:29:51.162311,bfe0f174c172ca0b69f3075d
