@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202107301510
+! Version: 202107301547
 ! Title: EasyPrivacy
-! Last modified: 30 Jul 2021 15:10 UTC
+! Last modified: 30 Jul 2021 15:47 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -12073,6 +12073,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||track.qoof.com^
 ||track.realtimeboard.com^
 ||track.searchignite.com^
+||track.searchiq.co^
 ||track.securedvisit.com^
 ||track.shop2market.com^
 ||track.sitetag.us^
@@ -14114,7 +14115,9 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||target.nejm.org^
 ||targeting.washpost.nile.works^
 ||ted.dailymail.co.uk^
+||telegraph.co.uk/pageview?
 ||telemetry.api.playstation.com^
+||telemetry.tradingview.com^
 ||tellerreport.com/react/pixel
 ||tgt.maep.ibm.com^
 ||thdstatic.com/data-collection/$domain=homedepot.com
@@ -14137,6 +14140,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||track.netzero.net^
 ||track.thesaurus.com^
 ||track.totalav.com^$script
+||tracker.jawcloud.co^
 ||tracker.nbcuas.com^
 ||tracker.shopclues.com^
 ||tracker.uprinting.com^
@@ -14156,10 +14160,12 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tspmagic.tumblr.com^
 ||tube8live.com/api/metrics
 ||tubepornstars.com/js/analytics
+||tumblr.com/impixu?
 ||tunein.com/api/v1/log/
 ||tweakers.net/ajax/$ping
 ||twitter.com/1.1/jot/client_event.json
 ||twitter.com/9/measurement/
+||twitter.com/i/csp_report?
 ||twitter.com/i/jot
 ||typepad.com/t/stats?
 ||u47.pnc.com^
@@ -24133,6 +24139,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=extratorrent.cd|sky
 ! Arabic
 ||cdn.mosoah.com/analytics.js
 ||ratteb.com/js.js
+||tags.aljazeera.net^
 ||tracking.alarabiya.net^
 ! Persian / Farsi
 ||footprint.anetwork.ir^
