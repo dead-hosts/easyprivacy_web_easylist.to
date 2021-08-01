@@ -27474,7 +27474,7 @@ _social_tracking.js,AVAILABILITY,origin.list,origin.list,2001-07-20 11:05:03.599
 /unagi.amazon.,AVAILABILITY,origin.list,origin.list,2001-07-31 06:07:31.938001,bfe0f174c172ca0b69f3075d
 ||cloudflare.com/cdn-cgi/trace,AVAILABILITY,origin.list,origin.list,2001-07-31 08:00:58.211214,bfe0f174c172ca0b69f3075d
 "||cloudflare.com/cdn-cgi/trace$third-party,domain=~isbgpsafeyet.com",AVAILABILITY,origin.list,origin.list,2001-07-31 09:55:32.516221,bfe0f174c172ca0b69f3075d
-/batch/action/_:,AVAILABILITY,origin.list,origin.list,2001-08-01 04:20:29.376590,bfe0f174c172ca0b69f3075d
-/sensor.modern.ncl.,AVAILABILITY,origin.list,origin.list,2001-08-01 04:23:01.832196,bfe0f174c172ca0b69f3075d
-/session/referer,AVAILABILITY,origin.list,origin.list,2001-08-01 04:23:04.330940,bfe0f174c172ca0b69f3075d
-||ptadsrv.de^$third-party,AVAILABILITY,origin.list,origin.list,2001-08-01 04:35:18.824960,bfe0f174c172ca0b69f3075d
+/sensor.modern.ncl.,AVAILABILITY,origin.list,origin.list,2001-08-01 04:01:49.341069,bfe0f174c172ca0b69f3075d
+/session/referer,AVAILABILITY,origin.list,origin.list,2001-08-01 04:01:51.632805,bfe0f174c172ca0b69f3075d
+||ptadsrv.de^$third-party,AVAILABILITY,origin.list,origin.list,2001-08-01 04:13:08.567589,bfe0f174c172ca0b69f3075d
+/batch/action/_:,AVAILABILITY,origin.list,origin.list,2001-08-01 05:05:47.793185,bfe0f174c172ca0b69f3075d
