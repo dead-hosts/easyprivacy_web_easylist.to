@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202108040712
+! Version: 202108040925
 ! Title: EasyPrivacy
-! Last modified: 04 Aug 2021 07:12 UTC
+! Last modified: 04 Aug 2021 09:25 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -13781,6 +13781,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||modanisa.com/al/j/analytics.js
 ||moneycontrol.com/news/services/get_comscore_pageview/
 ||monitor.channel4.com^
+||mps.nbcuni.com/request/page/json/params/*&adunits=$xmlhttprequest
 ||msn.com/collect/
 ||msn.com/OneCollector/
 ||my.com/v1/hit/
@@ -14420,6 +14421,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||contentexchange.me^$domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
 ||contentspread.net^$domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
 ||cpx.to^$domain=quoka.de
+||criteo.com^$domain=spiegel.de
 ||crwdcntrl.net^$domain=disqus.com
 ||cxense.com^$domain=focus.de
 ||disqus.com/api/ping?$domain=autobild.de
