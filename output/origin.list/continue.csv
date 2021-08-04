@@ -27505,3 +27505,6 @@ _social_tracking.js,AVAILABILITY,origin.list,origin.list,2001-07-20 11:05:03.599
 /stats/api/collect,AVAILABILITY,origin.list,origin.list,2001-08-03 18:09:11.530151,bfe0f174c172ca0b69f3075d
 ||log.cpex.cz^,AVAILABILITY,origin.list,origin.list,2001-08-03 19:40:57.713525,bfe0f174c172ca0b69f3075d
 ||r2b2.cz/events.php?,AVAILABILITY,origin.list,origin.list,2001-08-03 19:40:58.452810,bfe0f174c172ca0b69f3075d
+||blockdetector.org^$third-party,AVAILABILITY,origin.list,origin.list,2001-08-04 05:46:47.507008,bfe0f174c172ca0b69f3075d
+||provify.io^$third-party,AVAILABILITY,origin.list,origin.list,2001-08-04 05:49:40.403624,bfe0f174c172ca0b69f3075d
+||analytics.disneyinternational.com^,AVAILABILITY,origin.list,origin.list,2001-08-04 05:56:32.691154,bfe0f174c172ca0b69f3075d
