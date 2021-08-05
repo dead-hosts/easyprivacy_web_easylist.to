@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202108050255
+! Version: 202108050324
 ! Title: EasyPrivacy
-! Last modified: 05 Aug 2021 02:55 UTC
+! Last modified: 05 Aug 2021 03:24 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4258,6 +4258,7 @@
 /track.aspx?
 /track.cgi?
 /track.gif^
+/track.php?domain=
 /track.php?referrer=
 /track.png?
 /track.srv.
@@ -5627,6 +5628,7 @@ _mongo_stats/
 ||g8715710740.co^
 ||g8913795075.co^
 ||g9111879410.co^
+||irs01.com^
 ||ldnlyap.com^
 ||liveyield.com^
 ||lltrck.com^
@@ -10338,6 +10340,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||bacon.getcarro.com^
 ||bacon.section.io^
 ||baidu.com/pixel?
+||baidu.com/push.js
 ||bamgrid.com/dust
 ||bamgrid.com/telemetry
 ||bango.net/exid/*.gif?
@@ -12844,6 +12847,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pstatp.com^*/raven.js
 ||pstatp.com^*/ttstatistics.
 ||pv.hd.sohu.com^
+||pv.kuaizhan.com^
 ||pv.sohu.com^
 ||px.effirst.com^
 ||qbox.me/vds.js
@@ -23719,6 +23723,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||btrace.qq.com^
 ||cherry.le.com^
 ||click.gamersky.com^
+||cmstool.youku.com^
 ||collect.tianya.cn^
 ||count5.pconline.com.cn^
 ||counter.people.cn^
