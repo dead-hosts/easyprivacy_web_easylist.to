@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202108051200
+! Version: 202108051703
 ! Title: EasyPrivacy
-! Last modified: 05 Aug 2021 12:00 UTC
+! Last modified: 05 Aug 2021 17:03 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5269,6 +5269,7 @@ cgi-bin/counter
 .members.babbel.com/mo/
 .mjt.lu/oo/$image
 .mkt2684.com/eos/
+.mozilla.org/eos/$image
 .ne16.com/do/
 .oculus.com/collect/
 .pstmrk.it/open/
@@ -5280,6 +5281,7 @@ cgi-bin/counter
 .smartrmail.co/o/$image
 .sparkpostmail2.com/q/$image
 .spmailtechnolo.com/q/$image
+.spreadshirt.net/mo/$image
 .starbucks.com/a/
 .substack.com/o/$image
 .theatlantic.com/email.gif?
@@ -13490,6 +13492,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cheezburger.com/api/visitor
 ||cl.canva.com^
 ||clancy.spiceworks.com^
+||click.aliexpress.com^$image
 ||click.oneplus.com^
 ||click.sinx.com^
 ||click.udimg.com^
@@ -13526,6 +13529,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||crayfish.thingelstad.com^
 ||creately.com/static/js/creately-analytics-
 ||crta.metro.co.uk^
+||cstats.sankakucomplex.com^
 ||cultofmac.com/djrxqhzkbsgf.js
 ||d.cdngeek.com^$domain=edugeek.net
 ||d.skk.moe^
