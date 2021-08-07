@@ -1583,8 +1583,7 @@
         "stg.dev",
         "stgstage.dev",
         "vercel.dev",
-        "webhare.dev",
-        "workers.dev"
+        "webhare.dev"
     ],
     "digital": [
         "cloudapps.digital",
@@ -2471,7 +2470,6 @@
         "nuoro.it",
         "og.it",
         "ogliastra.it",
-        "ojiya.niigata.jp",
         "olbia-tempio.it",
         "olbiatempio.it",
         "or.it",
@@ -3802,6 +3800,7 @@
         "oita.oita.jp",
         "oizumi.gunma.jp",
         "oji.nara.jp",
+        "ojiya.niigata.jp",
         "okagaki.fukuoka.jp",
         "okawa.fukuoka.jp",
         "okawa.kochi.jp",
@@ -7005,6 +7004,7 @@
         "webredirect.org",
         "wmcloud.org",
         "wmflabs.org",
+        "workers.dev",
         "za.org",
         "zapto.org"
     ],
