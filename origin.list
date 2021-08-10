@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202108100410
+! Version: 202108100456
 ! Title: EasyPrivacy
-! Last modified: 10 Aug 2021 04:10 UTC
+! Last modified: 10 Aug 2021 04:56 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1625,7 +1625,7 @@
 /DynamicAnalytics.
 /dynamictag.
 /dynamicyield/*
-/dynatrace-
+/dynatrace-$domain=~dynatrace.com
 /dynaTraceMonitor^
 /dynimpression?rkey=
 /e.gif?
@@ -9511,6 +9511,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ipinyou.com^$third-party
 ||irs09.com^$third-party
 ||jiankongbao.com^$third-party
+||jpush.cn^$third-party
 ||lndata.com^$third-party
 ||logly.co.jp^$third-party
 ||mediav.com^$third-party
@@ -11576,7 +11577,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pixel.roymorgan.com^
 ||pixel.s3xified.com^
 ||pixel.safe-installation.com^
-||pixel.snapsmedia.io^
 ||pixel.solvemedia.com^
 ||pixel.sprinklr.com^
 ||pixel.tree.com^
@@ -12890,6 +12890,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||toruk.tanx.com^
 ||tr.n2.hk^
 ||track.ra.icast.cn^
+||track.tomwx.net^
 ||tracking.cat898.com^
 ||union.360.cn/1899.js
 ||useg.nextdigital.com.hk^
@@ -23731,6 +23732,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||tracking.alarabiya.net^
 ! Bulgarian
 ! Chinese
+||104.com.tw/log/
 ||17173.com/ping.js
 ||17173.com/pv?
 ||55bbs.com/east.html
@@ -23766,6 +23768,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||hdslb.com/images/isptrack.js
 ||his.tv.sohu.com/his/ping.do?
 ||hisense.com/ta.js
+||i-cable.com/ci/tracking/
 ||ifeng.com/i?p=
 ||imgstat.baidu.com^
 ||jcm.jd.com^$script,third-party
