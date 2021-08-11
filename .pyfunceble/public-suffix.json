@@ -415,7 +415,6 @@
         "gouv.bj"
     ],
     "bm": [
-        "bolivia.bo",
         "com.bm",
         "edu.bm",
         "gov.bm",
@@ -708,7 +707,6 @@
     ],
     "bz": [
         "com.bz",
-        "dynu.net",
         "edu.bz",
         "gov.bz",
         "gsj.bz",
@@ -5647,6 +5645,7 @@
         "dsmynas.net",
         "dynalias.net",
         "dynathome.net",
+        "dynu.net",
         "dynv6.net",
         "eastasia.azurestaticapps.net",
         "eastus2.azurestaticapps.net",
@@ -6541,7 +6540,6 @@
         "vang.no",
         "vanylven.no",
         "vardo.no",
-        "vardø.no",
         "varggat.no",
         "varoy.no",
         "vefsn.no",
@@ -6732,7 +6730,6 @@
         "xn--tysvr-vra.no",
         "xn--unjrga-rta.no",
         "xn--vads-jra.no",
-        "xn--vard-jra.no",
         "xn--vegrshei-c0a.no",
         "xn--vestvgy-ixa6o.no",
         "xn--vg-yiab.no",
@@ -7851,7 +7848,8 @@
         "nic.tj",
         "org.tj",
         "test.tj",
-        "web.tj"
+        "web.tj",
+        "xn--vard-jra.no"
     ],
     "tl": [
         "gov.tl"
