@@ -27553,4 +27553,9 @@ _social_tracking.js,AVAILABILITY,origin.list,origin.list,2001-07-20 11:05:03.599
 ||yimg.com/cx/vzm/cs.js,AVAILABILITY,origin.list,origin.list,2001-08-11 10:21:22.592682,bfe0f174c172ca0b69f3075d
 ||enthusiastgaming.net^,AVAILABILITY,origin.list,origin.list,2001-08-11 10:59:16.348347,bfe0f174c172ca0b69f3075d
 ||q20jqurls0y7gk8.info^,AVAILABILITY,origin.list,origin.list,2001-08-12 11:20:16.117554,bfe0f174c172ca0b69f3075d
-/dynatrace-$domain=~dynatrace.com|~github.com,AVAILABILITY,origin.list,origin.list,2001-08-13 00:29:25.139733,bfe0f174c172ca0b69f3075d
+/dynatrace-$domain=~dynatrace.com|~github.com,AVAILABILITY,origin.list,origin.list,2001-08-13 01:27:42.099785,bfe0f174c172ca0b69f3075d
+||compteur.fr^$third-party,AVAILABILITY,origin.list,origin.list,2001-08-13 01:34:09.473409,bfe0f174c172ca0b69f3075d
+||web-stat.fr^$third-party,AVAILABILITY,origin.list,origin.list,2001-08-13 01:38:39.267093,bfe0f174c172ca0b69f3075d
+||webstat.fr^$third-party,AVAILABILITY,origin.list,origin.list,2001-08-13 01:38:42.422299,bfe0f174c172ca0b69f3075d
+||webtrackingservices.com^$third-party,AVAILABILITY,origin.list,origin.list,2001-08-13 01:38:43.472460,bfe0f174c172ca0b69f3075d
+||wts2.one^$third-party,AVAILABILITY,origin.list,origin.list,2001-08-13 01:38:51.757641,bfe0f174c172ca0b69f3075d
