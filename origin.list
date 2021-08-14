@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202108140730
+! Version: 202108140800
 ! Title: EasyPrivacy
-! Last modified: 14 Aug 2021 07:30 UTC
+! Last modified: 14 Aug 2021 08:00 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1747,6 +1747,7 @@
 /event?client=$websocket
 /event?eventType=
 /event?pmo=
+/event?ref=
 /event?stat_
 /event?t=*&__seed=
 /event?t=view&
@@ -4907,6 +4908,7 @@
 /wdg_tracking-
 /web-analytics.
 /web-api/log/*
+/web-vitals.
 /web-vitals/*
 /web.gif?*&referral_
 /web/analytics.$script
@@ -6174,6 +6176,7 @@ _mongo_stats/
 ||clickzs.com^$third-party
 ||clickzzs.nl^$third-party
 ||clientgear.com^$third-party
+||clipcentric.com^$third-party
 ||clixcount.com^$third-party
 ||clixgalore.com^$third-party
 ||clixpy.com^$third-party
