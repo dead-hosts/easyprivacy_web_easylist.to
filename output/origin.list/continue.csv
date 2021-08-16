@@ -27582,8 +27582,10 @@ _social_tracking.js,AVAILABILITY,origin.list,origin.list,2001-07-20 11:05:03.599
 ://analytics.*/impression,AVAILABILITY,origin.list,origin.list,2001-08-15 13:29:25.710634,bfe0f174c172ca0b69f3075d
 ||analytics.webpushr.com^,AVAILABILITY,origin.list,origin.list,2001-08-15 13:39:59.802624,bfe0f174c172ca0b69f3075d
 ||techtarget.com^*/GetCookiesWithCallback?,AVAILABILITY,origin.list,origin.list,2001-08-15 13:44:57.322749,bfe0f174c172ca0b69f3075d
-/client_204?,AVAILABILITY,origin.list,origin.list,2001-08-16 02:07:27.961519,bfe0f174c172ca0b69f3075d
-/csi_204?,AVAILABILITY,origin.list,origin.list,2001-08-16 02:07:28.425101,bfe0f174c172ca0b69f3075d
-/gen_204?,AVAILABILITY,origin.list,origin.list,2001-08-16 02:07:28.867855,bfe0f174c172ca0b69f3075d
-/generate_204,AVAILABILITY,origin.list,origin.list,2001-08-16 02:07:29.333677,bfe0f174c172ca0b69f3075d
-||googletagmanager.com^$third-party,AVAILABILITY,origin.list,origin.list,2001-08-16 02:09:32.897552,bfe0f174c172ca0b69f3075d
+/?fp=*&prvtof=,AVAILABILITY,origin.list,origin.list,2001-08-16 02:24:41.925654,bfe0f174c172ca0b69f3075d
+/js/tracking?,AVAILABILITY,origin.list,origin.list,2001-08-16 02:26:00.601868,bfe0f174c172ca0b69f3075d
+/client_204?,AVAILABILITY,origin.list,origin.list,2001-08-16 02:30:27.376099,bfe0f174c172ca0b69f3075d
+/csi_204?,AVAILABILITY,origin.list,origin.list,2001-08-16 02:30:27.902835,bfe0f174c172ca0b69f3075d
+/gen_204?,AVAILABILITY,origin.list,origin.list,2001-08-16 02:30:28.425059,bfe0f174c172ca0b69f3075d
+/generate_204,AVAILABILITY,origin.list,origin.list,2001-08-16 02:30:28.955461,bfe0f174c172ca0b69f3075d
+||googletagmanager.com^$third-party,AVAILABILITY,origin.list,origin.list,2001-08-16 02:32:45.852946,bfe0f174c172ca0b69f3075d
