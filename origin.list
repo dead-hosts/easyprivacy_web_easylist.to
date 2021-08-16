@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202108160246
+! Version: 202108160316
 ! Title: EasyPrivacy
-! Last modified: 16 Aug 2021 02:46 UTC
+! Last modified: 16 Aug 2021 03:16 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -11764,6 +11764,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||shopify.com/s/javascripts/tricorder/$script
 ||shoplocal.com/it.ashx?
 ||shopnetic.com^$third-party
+||shorthand.com/analytics/
 ||sig.atdmt.com^
 ||sinajs.cn/open/analytics/
 ||sitebooster.com/sb/wix/p?$third-party
@@ -12222,6 +12223,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||webworx24.co.uk/123trace.php
 ||webzel.com/counter/
 ||wetpaint.com^*/track?
+||whooshkaa.com/identify
 ||whooshkaa.com/listen/track
 ||whosread.com/counter/
 ||widgeo.net/compteur.php?
@@ -13743,6 +13745,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||namethatporn.com/assets/imgs/1x1.gif
 ||nature.com/platform/track/
 ||naukrigulf.com/ni/nibms/bms_display.php
+||nbcnews.com/_next/static/chunks/ads.$script,domain=msnbc.com|nbcnews.com
 ||ncbi.nlm.nih.gov/core/pinger
 ||neatorama.com/story/view/
 ||neowin.net/ws/$websocket
