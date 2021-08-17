@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202108172222
+! Version: 202108172309
 ! Title: EasyPrivacy
-! Last modified: 17 Aug 2021 22:22 UTC
+! Last modified: 17 Aug 2021 23:09 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7327,6 +7327,7 @@ _mongo_stats/
 ||ownpage.fr^$third-party
 ||ox-bio.com^$third-party
 ||oxidy.com^$third-party
+||p-analytics.life^$third-party
 ||p-td.com^$third-party
 ||p.raasnet.com^$third-party
 ||p0.raasnet.com^$third-party
@@ -13576,7 +13577,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||flipboard.com/usage?
 ||flipkart.com/api/3/data/collector/
 ||flirt4free.com/pixel/
-||flyasiana.com/wlo/
 ||flyasiana.com/ykjEIhcZLYg2zoOOoA/
 ||foodcouture.net/public_html/ra/script.php
 ||foxsports.com.au/akam/
@@ -23627,6 +23627,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||batiactu.com/cap_
 ||compteur.developpez.com^
 ||developpez.com/public/js/track.js
+||ecranlarge.com/stat
 ||franceculture.fr/static/js/xtcore-
 ||fsm.lapresse.ca^
 ||gamergen.com/ajax/actualites/addVue
