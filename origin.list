@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202108170148
+! Version: 202108170331
 ! Title: EasyPrivacy
-! Last modified: 17 Aug 2021 01:48 UTC
+! Last modified: 17 Aug 2021 03:31 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -12988,6 +12988,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||counter2.blog.livedoor.com^
 ||delivery.satr.jp^
 ||estore.jp/beacon/
+||ev.tpocdm.com^
 ||future-shop.jp/rview.gif?
 ||imgstat.ameba.jp^$third-party
 ||ip2c.landscape.co.jp^
@@ -24643,6 +24644,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||nintendo.com/apps/noa/scripts/analytics.js$~third-party
 @@||noaa.gov/maps/resources/scripts/ga.js$script,~third-party
 @@||noodid.ee/chordQuiz/$~third-party
+@@||nsfw.xxx/vendor/fingerprint/fingerprint2.min.js$script,~third-party
 @@||nyt.com/analytics/json-$script,domain=nytimes.com
 @@||nyt.com/bi/js/tagx/tagx.js$domain=nytimes.com
 @@||nytimes.com^*/EventTracker.js$~third-party
