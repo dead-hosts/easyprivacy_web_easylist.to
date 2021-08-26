@@ -27620,3 +27620,5 @@ _social_tracking.js,AVAILABILITY,origin.list,origin.list,2001-07-20 11:05:03.599
 ||api.blink.net/a/,AVAILABILITY,origin.list,origin.list,2001-08-24 05:16:29.174539,bfe0f174c172ca0b69f3075d
 "/webtracking/*$~subdocument,domain=~wwwapps.ups.com",AVAILABILITY,origin.list,origin.list,2001-08-24 14:05:59.905108,bfe0f174c172ca0b69f3075d
 ||dcdn.lt/g.js,AVAILABILITY,origin.list,origin.list,2001-08-25 07:26:37.437243,bfe0f174c172ca0b69f3075d
+;type=eligibleimpression;,AVAILABILITY,origin.list,origin.list,2001-08-26 01:28:43.190481,bfe0f174c172ca0b69f3075d
+;type=pixel;,AVAILABILITY,origin.list,origin.list,2001-08-26 01:28:43.609756,bfe0f174c172ca0b69f3075d
