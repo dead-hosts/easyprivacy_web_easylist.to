@@ -2189,7 +2189,6 @@
         "ngrok.io",
         "nid.io",
         "nodum.io",
-        "of.je",
         "on-k3s.io",
         "on-rio.io",
         "paas.beebyte.io",
@@ -2691,6 +2690,7 @@
     "je": [
         "co.je",
         "net.je",
+        "of.je",
         "org.je"
     ],
     "jm": [
