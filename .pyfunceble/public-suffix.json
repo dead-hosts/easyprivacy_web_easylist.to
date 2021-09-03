@@ -201,6 +201,7 @@
         "in-addr.arpa",
         "ip6.arpa",
         "iris.arpa",
+        "mil.cn",
         "uri.arpa",
         "urn.arpa"
     ],
@@ -4851,7 +4852,6 @@
         "mcdir.me",
         "mcpe.me",
         "myds.me",
-        "nctu.me",
         "net.me",
         "nohost.me",
         "noip.me",
