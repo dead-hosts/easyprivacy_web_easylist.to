@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202109060225
+! Version: 202109060242
 ! Title: EasyPrivacy
-! Last modified: 06 Sep 2021 02:25 UTC
+! Last modified: 06 Sep 2021 02:42 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -12244,6 +12244,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||yimg.com/aaq/vzm/$script,domain=news.yahoo.com
 ||yimg.com/cx/vzm/cs.js
 ||yimg.com/ss/vops.js
+||yimg.com/wi/ytc.js
 ||yottaa.com/rapid.min.js
 ||z.opmnstr.com^$xmlhttprequest
 ||zapcdn.space/zapret.js
@@ -13837,6 +13838,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||rumble.com/l/
 ||rv.modanisa.com^$script
 ||s.infogram.com^
+||sciencechannel.com/events/
 ||scoot.co.uk/ajax/log_
 ||search.aol.com/beacon/
 ||search.ch/audit/
@@ -13974,6 +13976,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||spanishdict.com/page-view-metadata
 ||speed.cloudflare.com/__log
 ||squirrel.ethanelientz.com^
+||squirrel.honeysqueeze.app^
+||squirrel.malaynahocker.com^
 ||srtb.msn.com^
 ||ssc.api.bbc.com^
 ||stan.xing.com^
@@ -23538,6 +23542,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||responder.wt.heise.de^
 ||rt.bunte.de^
 ||schnaeppchenfuchs.com/js/default-
+||squirrel.cividi.ch^
 ||statistics.riskommunal.net^
 ||statistik.mitmischen.de^
 ||stats.autoscout24.ch^
