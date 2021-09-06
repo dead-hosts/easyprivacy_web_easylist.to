@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202109060246
+! Version: 202109060322
 ! Title: EasyPrivacy
-! Last modified: 06 Sep 2021 02:46 UTC
+! Last modified: 06 Sep 2021 03:22 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3620,6 +3620,7 @@
 /rum.min.
 /rum/events
 /rum/id?
+/rum/performance
 /rum_cmp?
 /rumstat.
 /rumtag.
@@ -7547,6 +7548,7 @@ _mongo_stats/
 ||requestmetrics.com^$third-party
 ||res-x.com^$third-party
 ||research-tool.com^$third-party
+||researchintel.com^$third-party
 ||researchnow.co.uk^$third-party,domain=~dynata.com
 ||reson8.com^$third-party
 ||responsetap.com^$third-party
@@ -11659,47 +11661,29 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||reports-api.sqreen.io^
 ||reports.pagesuite-professional.co.uk^
 ||res.rbl.ms^
-||researchintel.com^$third-party
 ||response.pure360.com^
 ||rest.wildstar-online.com^
 ||reverbnation.com/widgets/trk/
-||rhapsody.com^*/pixel?
 ||ria.ru/counter?
 ||richrelevance.com/rrserver/tracking?
 ||rlinks.one.in^
 ||rodale.com/ga/
-||rodalenl.com/imp?$third-party
-||rokt.com/pixel/
-||routeapp.io/route-analytics/
-||royalecms.com/statistics.php?
 ||rs.sinajs.cn^
-||rss.tmgrup.com.tr^
 ||rt.flix360.com^
-||rtg-endpoint.global.ssl.fastly.net^
-||rtt.campanja.com^
-||ru4.com/click?
 ||rum.azion.com^
 ||rum.azioncdn.net^
-||rum.conde.io^
 ||rum.ingress.layer0.co^
 ||rum.layer0.co^
-||rum.minutemediaservices.com^
 ||rum.nccgroup-webperf.com^
 ||rum.perfops.net^
-||rum.uptime.com^$third-party
-||rum.vhwrz.net^
-||rva.outbrain.com^
+||rum.uptime.com^
 ||s-microsoft.com/mscc/$~stylesheet
-||s-vop.sundaysky.com^$third-party
 ||s.beop.io^
 ||s.clickability.com^
 ||s.clickiocdn.com^
 ||s.pinimg.com/ct/core.js
 ||s.sniphub.com^
 ||s.srvsynd.com^
-||s24cloud.net/log^
-||s24cloud.net/metrics/
-||sadv.dadapro.com^$third-party
 ||sail-horizon.com/horizon/$third-party
 ||sail-horizon.com/spm/
 ||sailthru.com/img/$image,third-party
