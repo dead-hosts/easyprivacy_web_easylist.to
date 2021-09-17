@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202109171057
+! Version: 202109171128
 ! Title: EasyPrivacy
-! Last modified: 17 Sep 2021 10:57 UTC
+! Last modified: 17 Sep 2021 11:28 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -394,6 +394,7 @@
 /adobe/VisitorAPI-
 /adobeAnalytics/*
 /AdobeAnalyticsAndTargetOverwrites.
+/AdobeAnalyticsBundle.
 /AdobeAnalyticsEvent.
 /AdobeAnalyticsSDK.
 /AdobeCustomVideoMeasurement.swf
@@ -8777,6 +8778,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||absorbingcorn.com^$third-party
 ||absorbingprison.com^$third-party
 ||abstractedamount.com^$third-party
+||abstractedauthority.com^
 ||absurdapple.com^$third-party
 ||acidpigs.com^$third-party
 ||acridtwist.com^$third-party
@@ -10178,6 +10180,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.chegg.com^
 ||analytics.cincopa.com^
 ||analytics.clickpathmedia.com^
+||analytics.cmn.com^
 ||analytics.codigo.se^
 ||analytics.cohesionapps.com^
 ||analytics.convertlanguage.com^
