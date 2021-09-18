@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202109182017
+! Version: 202109182049
 ! Title: EasyPrivacy
-! Last modified: 18 Sep 2021 20:17 UTC
+! Last modified: 18 Sep 2021 20:49 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4671,6 +4671,7 @@
 /tzr.fcgi?
 /u.gif?
 /uchkr.swf
+/uclick.php?add_event2=
 /ucount.php?
 /udctrack.
 /uds/stats?
@@ -8121,6 +8122,7 @@ _mongo_stats/
 ||upapi.net^$third-party
 ||uplift-platform.com^$third-party
 ||upscore.com^$third-party
+||upsellit.com^$third-party
 ||upstats.ru^$third-party
 ||uptain.de^$third-party
 ||uptracs.com^$third-party
@@ -10648,6 +10650,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ct.thegear-box.com^$third-party
 ||cts.businesswire.com^$third-party
 ||cts.vresp.com^$third-party
+||cube.tv/live/statistics/
 ||cumulus-cloud.com/trackers/
 ||curated.fieldtest.cc^
 ||custom.search.yahoo.co.jp/images/window/*.gif
@@ -11327,6 +11330,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||mbsvr.net/js/tracker/
 ||mc.webvisor.com^
 ||mc.webvisor.org^
+||mc.yandex.com^
 ||mc.yandex.ru^
 ||mcdp-*.outbrain.com^
 ||mcs-va.tiktok.com^
@@ -12058,6 +12062,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||trap.skype.com^
 ||traq.li/tracker/
 ||travel-assets.com/datacapture/
+||travix.com/log
 ||travpan.com/out/$third-party
 ||trc.pushnami.com^
 ||tremorhub.com^
@@ -14088,6 +14093,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||udemy.com/api-2.0/visits/me/funnel-logs/
 ||uie.data.cbc.ca^
 ||ulogin.ru/stats.html
+||ultimate-guitar.com/components/ab/event?
 ||ultimedia.com/deliver/statistiques/
 ||umami.wakarimasen.moe^
 ||urs.metacritic.com^
