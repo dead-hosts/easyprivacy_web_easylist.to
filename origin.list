@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202109190020
+! Version: 202109190100
 ! Title: EasyPrivacy
-! Last modified: 19 Sep 2021 00:20 UTC
+! Last modified: 19 Sep 2021 01:00 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3179,6 +3179,7 @@
 /pcookie_get_key
 /pcount.asp
 /pdst-events-prod-sink
+/peach-collector.min.js
 /Peermap/Log/*
 /pepperjam.js
 /perf-beacon-
@@ -5545,6 +5546,7 @@ _sdcTrackingCode.
 /csi_204?$image,other,ping,script
 /gen_204?$image,other,ping,script
 /generate_204$image,other,ping,script
+||google.com/gen_204?
 ||googleapis.com^*/gen_204?
 ||gstatic.com/gen_204?
 ! Adblock tracking
@@ -23583,12 +23585,14 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||developpez.com/public/js/track.js
 ||ecranlarge.com/stat
 ||franceculture.fr/static/js/xtcore-
+||franceinter.fr/vendor/track.js
 ||fsm.lapresse.ca^
 ||gamergen.com/ajax/actualites/addVue
 ||ianimes.org/img/tracker.gif
 ||jeu.net/hits.js
 ||jscrambler.com^$script,domain=airfrance.fr
 ||k.kolplay.com^
+||l.franceculture.fr^
 ||lardennais.fr/sites/all/themes/enabootstrap/js/stat-callback.js
 ||lecho.be/fb2?
 ||lecho.be/track/
