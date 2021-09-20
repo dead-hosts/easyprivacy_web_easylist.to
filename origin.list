@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202109200352
+! Version: 202109200412
 ! Title: EasyPrivacy
-! Last modified: 20 Sep 2021 03:52 UTC
+! Last modified: 20 Sep 2021 04:12 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5589,7 +5589,9 @@ _mongo_stats/
 ||demdex.net^
 ||e1e.io^
 ||enthusiastgaming.net^
+||everesttech.net^
 ||experianmatch.info^
+||ezodn.com^
 ||faster-trk.com^
 ||g2178927685.co^
 ||g2377012020.co^
@@ -5629,7 +5631,9 @@ _mongo_stats/
 ||g8913795075.co^
 ||g9111879410.co^
 ||glimr.io^
+||go-mpulse.net^
 ||i218435.net^
+||id5-sync.com^
 ||impactcdn.com^
 ||imrworldwide.com^
 ||innerskinresearch.com^
@@ -5645,9 +5649,11 @@ _mongo_stats/
 ||omtrdc.net^
 ||p2r14.com^
 ||pdflive.org^
+||permutive.app^
 ||pixrealm.com^
 ||progmxs.com^
 ||propeller-tracking.com^
+||quantserve.com^
 ||r42tag.com^
 ||rezync.com^
 ||s-onetag.com^
@@ -6470,7 +6476,6 @@ _mongo_stats/
 ||europuls.eu^$third-party
 ||europuls.net^$third-party
 ||everestjs.net^$third-party
-||everesttech.net^$third-party
 ||evergage.com^$third-party
 ||evisitanalyst.com^$third-party
 ||evyy.net^$third-party
@@ -6494,7 +6499,6 @@ _mongo_stats/
 ||eyein.com^$third-party
 ||eyereturn.com^$third-party
 ||ezec.co.uk^$third-party
-||ezodn.com^$third-party
 ||ezytrack.com^$third-party
 ||f92j5.com^$third-party
 ||fabricww.com^$third-party
@@ -6661,7 +6665,6 @@ _mongo_stats/
 ||globel.co.uk^$third-party
 ||globetrackr.com^$third-party
 ||gnpge.com^$third-party
-||go-mpulse.net^$third-party
 ||go2link.net^$third-party
 ||goadservices.com^$third-party
 ||goatcounter.com^$third-party
@@ -6786,7 +6789,6 @@ _mongo_stats/
 ||ics0.com^$third-party
 ||icstats.nl^$third-party
 ||id-visitors.com^$third-party
-||id5-sync.com^$third-party
 ||ideoclick.com^$third-party
 ||idio.co^$third-party
 ||idtargeting.com^$third-party
@@ -7394,7 +7396,6 @@ _mongo_stats/
 ||perimeterx.net^$third-party
 ||perion.com^$third-party
 ||perljs.com^$third-party
-||permutive.app^$third-party
 ||permutive.com^$third-party
 ||personalicanvas.com^$third-party
 ||personyze.com^$third-party
@@ -7518,7 +7519,6 @@ _mongo_stats/
 ||quadran.eu^$third-party
 ||qualaroo.com^$third-party
 ||quantcount.com^$third-party
-||quantserve.com^$third-party
 ||quantummetric.com^$third-party
 ||quartic.pl^$third-party
 ||qubitproducts.com^$third-party
@@ -12340,8 +12340,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||vwonwkaqvq-a.global.ssl.fastly.net^
 ! CPU abuse
 ! https://publicwww.com/websites/%22cloudfront.net%2Fscript.js%22/
-||cloudfront.net./script.js$script,third-party
-||cloudfront.net/script.js$script,third-party
+||cloudfront.net./script.js
+||cloudfront.net/script.js
 ! Seals, Websecurity, Protection etc. Unnecessary third-party scripts
 ||beyondsecurity.com^$third-party
 ||cyveillance.com^$third-party
