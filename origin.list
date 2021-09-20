@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202109200515
+! Version: 202109200550
 ! Title: EasyPrivacy
-! Last modified: 20 Sep 2021 05:15 UTC
+! Last modified: 20 Sep 2021 05:50 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5575,6 +5575,7 @@ _mongo_stats/
 ! *** easylist:easyprivacy/easyprivacy_trackingservers.txt ***
 ! Non-flagged (Generic blocks)
 ||adnext.co^
+||advertising.com^
 ||affvantage.com^
 ||altopd.com^
 ||analysis.fi^
@@ -5586,10 +5587,12 @@ _mongo_stats/
 ||bounceexchange.com^
 ||bydst.com^
 ||cloudwp.io^
+||crwdcntrl.net^
 ||cxense.com^
 ||cxt.ms^
 ||demdex.net^
 ||districtm.io^
+||dm-event.net^
 ||e1e.io^
 ||emxdgt.com^
 ||enthusiastgaming.net^
@@ -5634,8 +5637,10 @@ _mongo_stats/
 ||g8715710740.co^
 ||g8913795075.co^
 ||g9111879410.co^
+||geoedge.be^
 ||glimr.io^
 ||go-mpulse.net^
+||googletagmanager.com^
 ||i218435.net^
 ||id5-sync.com^
 ||impactcdn.com^
@@ -5651,6 +5656,7 @@ _mongo_stats/
 ||mors22.com^
 ||mt48.net^
 ||nxakpj4ac8gkd53.info^
+||omappapi.com^
 ||omtrdc.net^
 ||p2r14.com^
 ||pdflive.org^
@@ -5680,6 +5686,7 @@ _mongo_stats/
 ||videoplayerhub.com^
 ||wknd.ai^
 ||z0uolej1qnxzub1.info^
+||zdbb.net^
 ||zqtk.net^
 ! Third-party
 ||0emm.com^$third-party
@@ -5815,7 +5822,6 @@ _mongo_stats/
 ||advanced-web-analytics.com^$third-party
 ||advangelists.com^$third-party
 ||advconversion.com^$third-party
-||advertising.com^$third-party
 ||adways.com^$third-party
 ||adwstats.com^$third-party
 ||adxadtracker.com^$third-party
@@ -6285,7 +6291,6 @@ _mongo_stats/
 ||crowdtwist.com^$third-party
 ||crsspxl.com^$third-party
 ||crtx.info^$third-party
-||crwdcntrl.net^$third-party
 ||csdata1.com^$third-party
 ||ctnsnet.com^$third-party
 ||cttracking02.com^$third-party
@@ -6361,7 +6366,6 @@ _mongo_stats/
 ||distiltag.com^$third-party
 ||distralytics.com^$third-party
 ||djers.com^$third-party
-||dm-event.net^$third-party
 ||dmanalytics1.com^$third-party
 ||dmclick.cn^$third-party
 ||dmd53.com^$third-party
@@ -6627,7 +6631,6 @@ _mongo_stats/
 ||genieesspv.jp^$third-party
 ||geo-targetly.com^$third-party
 ||geobytes.com^$third-party
-||geoedge.be^$third-party
 ||geoip-db.com^$third-party
 ||geoip-js.com^$third-party
 ||geojs.io^$third-party
@@ -6681,7 +6684,6 @@ _mongo_stats/
 ||googleadservices.com^$third-party
 ||googleoptimize.com^$third-party
 ||googlerank.info^$third-party
-||googletagmanager.com^$third-party
 ||gooo.al^$third-party
 ||gopjn.com^$third-party
 ||gostats.com^$third-party
@@ -7307,7 +7309,6 @@ _mongo_stats/
 ||ojrq.net^$third-party
 ||okt.to^$third-party
 ||oktopost.com^$third-party
-||omappapi.com^$third-party
 ||omarsys.com^$third-party
 ||ometria.com^$third-party
 ||omguk.com^$third-party
@@ -8359,7 +8360,6 @@ _mongo_stats/
 ||zanox-affiliate.de^$third-party
 ||zanox.com^$third-party
 ||zarget.com^$third-party
-||zdbb.net^$third-party
 ||zdtag.com^$third-party
 ||zedwhyex.com^$third-party
 ||zeerat.com^$third-party
@@ -9028,7 +9028,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||satisfycork.com^$third-party
 ||savoryorange.com^$third-party
 ||scaredsnake.com^$third-party
-||scientificshirt.com^$third-party
+||scientificshirt.com^
 ||scintillatingscissors.com^$third-party
 ||scintillatingsilver.com^
 ||scintillatingspace.com^$third-party
