@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202109201053
+! Version: 202109201114
 ! Title: EasyPrivacy
-! Last modified: 20 Sep 2021 10:53 UTC
+! Last modified: 20 Sep 2021 11:14 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5116,6 +5116,7 @@
 ://geoip.*/country.json
 ://ivwextern.
 ://lightning.*/launch/
+://matomo.
 ://metrika.*/analytics.
 ://mint.*/?js
 ://piwik.$domain=~matomo.org|~piwik.pro
@@ -5644,6 +5645,8 @@ _mongo_stats/
 ||glimr.io^
 ||go-mpulse.net^
 ||googletagmanager.com^
+||hs-analytics.net^
+||hsadspixel.net^
 ||i218435.net^
 ||id5-sync.com^
 ||impactcdn.com^
@@ -6770,8 +6773,6 @@ _mongo_stats/
 ||hotjar.com^$third-party
 ||hotjar.io^$third-party
 ||hotlog.ru^$third-party
-||hs-analytics.net^$third-party
-||hsadspixel.net^$third-party
 ||hscta.net^$third-party
 ||htlbid.com^$third-party
 ||hubvisor.io^$third-party
