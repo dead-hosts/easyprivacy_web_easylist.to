@@ -521,6 +521,7 @@
         "cim.br",
         "cng.br",
         "cnt.br",
+        "co.education",
         "com.br",
         "contagem.br",
         "coop.br",
@@ -1662,9 +1663,6 @@
     ],
     "edu": [
         "git-pages.rit.edu"
-    ],
-    "education": [
-        "co.education"
     ],
     "ee": [
         "aip.ee",
