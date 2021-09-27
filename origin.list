@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202109272148
+! Version: 202109272241
 ! Title: EasyPrivacy
-! Last modified: 27 Sep 2021 21:48 UTC
+! Last modified: 27 Sep 2021 22:41 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -13915,6 +13915,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stats.vk-portal.net^
 ||stats.wordpress.com^
 ||stats.wwitv.com^
+||streamstats.prd.dlive.tv^
 ||strtapeadblock.club/stat/
 ||stubhub.com/bfx/api/logging
 ||substack.com/api/v1/firehose?
@@ -24288,6 +24289,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||o2.cz^*-ga_o2cz_bundle.js?
 ||report.novinky.cz^
 ||stat.novinky.cz^
+||stat.super.cz^
 ! Dutch
 ||analytics.rambla.be^
 ||bol.com/tracking/
