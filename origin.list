@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202109272241
+! Version: 202109272259
 ! Title: EasyPrivacy
-! Last modified: 27 Sep 2021 22:41 UTC
+! Last modified: 27 Sep 2021 22:59 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3551,6 +3551,7 @@
 /reporting.do?
 /reporting/analytics.js
 /reporting/campaignresolution/?
+/reporting/metrics
 /request_tracker+
 /RequestTrackerServlet?
 /resmeter.js
@@ -5669,6 +5670,7 @@ _mongo_stats/
 ||progmxs.com^
 ||propeller-tracking.com^
 ||quantserve.com^
+||quickanalytics.ca^
 ||r42tag.com^
 ||rezync.com^
 ||rkdms.com^
@@ -13325,6 +13327,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||colvk.viki.io^
 ||confiant.msn.com^
 ||consent.ghostery.com/v1.js
+||contents2.00110.citi.com^
 ||count.rin.ru^
 ||coursehero.com/v1/data-tracking
 ||cpt.itv.com^
