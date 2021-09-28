@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202109280104
+! Version: 202109280137
 ! Title: EasyPrivacy
-! Last modified: 28 Sep 2021 01:04 UTC
+! Last modified: 28 Sep 2021 01:37 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5580,6 +5580,7 @@ _mongo_stats/
 ||adnext.co^
 ||adrtx.net^
 ||affvantage.com^
+||agkn.com^
 ||altopd.com^
 ||analysis.fi^
 ||apxl.io^
@@ -5661,6 +5662,7 @@ _mongo_stats/
 ||liveyield.com^
 ||lltrck.com^
 ||loloclicks.biz^
+||matheranalytics.com^
 ||mors22.com^
 ||mt48.net^
 ||ns1p.net^
@@ -5681,6 +5683,7 @@ _mongo_stats/
 ||rlcdn.com^
 ||s-onetag.com^
 ||sbgsodufuosmmvsdf.info^
+||sc-static.net^
 ||seadform.net^
 ||seoab.io^
 ||site24x7rum.eu^
@@ -5855,7 +5858,6 @@ _mongo_stats/
 ||agentinteractive.com^$third-party
 ||agilecrm.com^$third-party
 ||agilone.com^$third-party
-||agkn.com^$third-party
 ||agrvt.com^$third-party
 ||aidata.io^$third-party
 ||aimediagroup.com^$third-party
@@ -7072,7 +7074,6 @@ _mongo_stats/
 ||marketshot.fr^$third-party
 ||maropost.com^$third-party
 ||masterstats.com^$third-party
-||matheranalytics.com^$third-party
 ||mathtag.com^$third-party
 ||matomo.cloud^$third-party
 ||matterlytics.com^$third-party
@@ -7651,7 +7652,6 @@ _mongo_stats/
 ||sas15k01.com^$third-party
 ||sayutracking.co.uk^$third-party
 ||sbbanalytics.com^$third-party
-||sc-static.net^$third-party
 ||scaledb.com^$third-party
 ||scarabresearch.com^$third-party
 ||schoolyeargo.com^$third-party
@@ -8387,7 +8387,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||alertme.news^$third-party
 ||amazonaws.com/cdn.aimtell.com/
 ||aswpsdkeu.com^$third-party
-||aswpsdkus.com^$third-party
+||aswpsdkus.com^
 ||bildirt.com^$third-party
 ||bmfeed.ru^$third-party
 ||bosspush.com^$third-party
@@ -8448,7 +8448,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||subscribers.com^$third-party
 ||truenat.bid^$third-party
 ||truepush.com^$third-party
-||urbanairship.com^$third-party
+||urbanairship.com^
 ||viapush.com^$third-party
 ||webpu.sh^$third-party
 ||whiteclick.biz^$third-party
@@ -8952,7 +8952,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||placidperson.com^$third-party
 ||plantdigestion.com^$third-party
 ||pleasantpump.com^$third-party
-||plotrabbit.com^$third-party
+||plotrabbit.com^
 ||pluckypocket.com^
 ||prepareplanes.com^$third-party
 ||pricklydebt.com^
@@ -11450,7 +11450,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||perf.dugout.com^
 ||perfops.net/rom3/
 ||performgroup.com/metrics/
-||perr.h-cdn.com^$third-party
+||perr.h-cdn.com^
 ||perso.aws.arc.pub^
 ||photobox.com/event
 ||photobox.com/logs
