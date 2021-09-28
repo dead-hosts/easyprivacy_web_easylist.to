@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202109280001
+! Version: 202109280104
 ! Title: EasyPrivacy
-! Last modified: 28 Sep 2021 00:01 UTC
+! Last modified: 28 Sep 2021 01:04 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5592,6 +5592,8 @@ _mongo_stats/
 ||bounceexchange.com^
 ||bydst.com^
 ||cloudwp.io^
+||cpx.to^
+||crsspxl.com^
 ||crwdcntrl.net^
 ||cxt.ms^
 ||demdex.net^
@@ -5649,6 +5651,7 @@ _mongo_stats/
 ||i218435.net^
 ||id5-sync.com^
 ||impactcdn.com^
+||impactradius-event.com^
 ||imrworldwide.com^
 ||innerskinresearch.com^
 ||irs01.com^
@@ -5660,6 +5663,7 @@ _mongo_stats/
 ||loloclicks.biz^
 ||mors22.com^
 ||mt48.net^
+||ns1p.net^
 ||nxakpj4ac8gkd53.info^
 ||omappapi.com^
 ||omtrdc.net^
@@ -5689,6 +5693,7 @@ _mongo_stats/
 ||the-ozone-project.com^
 ||trackclicks.info^
 ||trkbc.com^
+||tru.am^
 ||truffle.bid^
 ||tvpixel.com^
 ||ugdturner.com^
@@ -6273,7 +6278,6 @@ _mongo_stats/
 ||cpcmanager.com^$third-party
 ||cphalk.com^$third-party
 ||cpmstar.com^$third-party
-||cpx.to^$third-party
 ||cqcounter.com^$third-party
 ||cquotient.com^$third-party
 ||craftkeys.com^$third-party
@@ -6289,7 +6293,6 @@ _mongo_stats/
 ||crosswalkmail.com^$third-party
 ||crowdscience.com^$third-party
 ||crowdtwist.com^$third-party
-||crsspxl.com^$third-party
 ||crtx.info^$third-party
 ||csdata1.com^$third-party
 ||ctnsnet.com^$third-party
@@ -6796,7 +6799,6 @@ _mongo_stats/
 ||ilogbox.com^$third-party
 ||imhd.io^$third-party
 ||immanalytics.com^$third-party
-||impactradius-event.com^$third-party
 ||impression.link^$third-party
 ||imrtrack.com^$third-party
 ||imtwjwoasak.com^$third-party
@@ -7264,7 +7266,6 @@ _mongo_stats/
 ||nr-data.net^$third-party
 ||nr7.us^$third-party
 ||nrich.ai^$third-party
-||ns1p.net^$third-party
 ||ns8.com^$third-party
 ||ns8ds.com^$third-party
 ||nstracking.com^$third-party
@@ -8063,7 +8064,6 @@ _mongo_stats/
 ||trs.cn^$third-party
 ||trstplse.com^$third-party
 ||trtl.ws^$third-party
-||tru.am^$third-party
 ||truconversion.com^$third-party
 ||truehits.in.th^$third-party
 ||truehits1.gits.net.th^$third-party
@@ -8757,7 +8757,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||abstractedamount.com^$third-party
 ||abstractedauthority.com^
 ||absurdapple.com^$third-party
-||acidpigs.com^$third-party
+||acidpigs.com^
 ||acridtwist.com^$third-party
 ||additionant.com^$third-party
 ||afraidlanguage.com^$third-party
@@ -13253,7 +13253,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||arstechnica.com/keys/arstechnica.com/p.js
 ||atrack.allposters.com^
 ||ats.alot.com^
-||auth1-eng.spankbang.com^
+||auth2-eng.spankbang.com^
 ||avitop.com/aviation/hitlist.asp
 ||baidu.com^*/mwb2.gif?
 ||baidu.com^*/wb.gif?
