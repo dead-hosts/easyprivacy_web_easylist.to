@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202109280137
+! Version: 202109280155
 ! Title: EasyPrivacy
-! Last modified: 28 Sep 2021 01:37 UTC
+! Last modified: 28 Sep 2021 01:55 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5599,6 +5599,7 @@ _mongo_stats/
 ||cxt.ms^
 ||demdex.net^
 ||dm-event.net^
+||dmpxs.com^
 ||e1e.io^
 ||enthusiastgaming.net^
 ||everesttech.net^
@@ -5646,6 +5647,7 @@ _mongo_stats/
 ||geoedge.be^
 ||glimr.io^
 ||go-mpulse.net^
+||googleoptimize.com^
 ||googletagmanager.com^
 ||hs-analytics.net^
 ||hsadspixel.net^
@@ -6377,7 +6379,6 @@ _mongo_stats/
 ||dmd53.com^$third-party
 ||dmpcounter.com^$third-party
 ||dmpprof.com^$third-party
-||dmpxs.com^$third-party
 ||dmtracker.com^$third-party
 ||dmtry.com^$third-party
 ||dmxleo.com^$third-party
@@ -6682,7 +6683,6 @@ _mongo_stats/
 ||goodmeasure.io^$third-party
 ||google-analytics.com^$third-party
 ||googleadservices.com^$third-party
-||googleoptimize.com^$third-party
 ||googlerank.info^$third-party
 ||gooo.al^$third-party
 ||gopjn.com^$third-party
@@ -8874,7 +8874,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||frailoffer.com^$third-party
 ||futuristicapparatus.com^
 ||futuristicfifth.com^$third-party
-||fuzzybasketball.com^$third-party
+||fuzzybasketball.com^
 ||gammamaximum.com^$third-party
 ||giddycoat.com^$third-party
 ||giraffepiano.com^$third-party
@@ -8989,7 +8989,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||rusticprice.com^
 ||ruthlessdegree.com^$third-party
 ||sablesong.com^$third-party
-||satisfycork.com^$third-party
+||satisfycork.com^
 ||savoryorange.com^$third-party
 ||scaredsnake.com^$third-party
 ||scientificshirt.com^
