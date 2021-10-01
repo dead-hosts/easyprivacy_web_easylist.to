@@ -1880,4 +1880,4 @@ easylist:easyprivacy/easyprivacy_general.txt                                    
 /events?_trigger=                                                                                    INVALID     SYNTAX     Unknown           Unknown    AVAILABILITY 
 /events?data=                                                                                        INVALID     SYNTAX     Unknown           Unknown    AVAILABILITY 
 /events?rpId=                                                                                        INVALID     SYNTAX     Unknown           Unknown    AVAILABILITY 
-/hit?time=                                                                                           INVALID     SYNTAX     Unknown           Unknown    AVAILABILITY 
+/hit?time=                                                                                           INVALID     COLLECTION Unknown           Unknown    AVAILABILITY 
