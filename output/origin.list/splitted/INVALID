@@ -1882,3 +1882,4 @@ easylist:easyprivacy/easyprivacy_general.txt                                    
 /events?rpId=                                                                                        INVALID     SYNTAX     Unknown           Unknown    AVAILABILITY 
 /hit?time=                                                                                           INVALID     COLLECTION Unknown           Unknown    AVAILABILITY 
 /analyticcdn.                                                                                        INVALID     COLLECTION Unknown           Unknown    AVAILABILITY 
+/click-logger.$image,script                                                                          INVALID     SYNTAX     Unknown           Unknown    AVAILABILITY 
