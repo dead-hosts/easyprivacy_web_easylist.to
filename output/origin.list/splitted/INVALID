@@ -1883,3 +1883,4 @@ easylist:easyprivacy/easyprivacy_general.txt                                    
 /hit?time=                                                                                           INVALID     COLLECTION Unknown           Unknown    AVAILABILITY 
 /analyticcdn.                                                                                        INVALID     COLLECTION Unknown           Unknown    AVAILABILITY 
 /click-logger.$image,script                                                                          INVALID     SYNTAX     Unknown           Unknown    AVAILABILITY 
+/analytics/layer                                                                                     INVALID     SYNTAX     Unknown           Unknown    AVAILABILITY 
