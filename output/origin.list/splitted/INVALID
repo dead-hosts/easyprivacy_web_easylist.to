@@ -3224,3 +3224,6 @@ $ping,third-party                                                               
 ||surveymonkey.com/resp/api/metrics                                                                  INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||t.91syun.com^                                                                                      INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||t.irtyc.com^                                                                                       INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||surveymonkey.com/resp/api/metrics                                                                  INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||swarm.video/track/                                                                                 INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||t.91syun.com^                                                                                      INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
