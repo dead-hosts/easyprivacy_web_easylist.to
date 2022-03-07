@@ -3247,3 +3247,4 @@ $ping,third-party                                                               
 ||phenompeople.com^$third-party                                                                      INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||recapture.io^$third-party                                                                          INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||8672.site^                                                                                         INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+/google-analytics.$~image,$third-party,domain=~comed.com|~secure.exeloncorp.com                      INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 

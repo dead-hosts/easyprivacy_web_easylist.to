@@ -3245,3 +3245,4 @@ $ping,third-party
 ||phenompeople.com^$third-party
 ||recapture.io^$third-party
 ||8672.site^
+/google-analytics.$~image,$third-party,domain=~comed.com|~secure.exeloncorp.com
