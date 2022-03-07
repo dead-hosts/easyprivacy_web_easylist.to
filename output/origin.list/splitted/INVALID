@@ -3243,3 +3243,6 @@ $ping,third-party                                                               
 ||tracking.chilipiper.com^                                                                           INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||tracking.graphly.io^                                                                               INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||tracksmart.se^$third-party                                                                         INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||madkudu.com^$third-party                                                                           INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||phenompeople.com^$third-party                                                                      INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||recapture.io^$third-party                                                                          INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
