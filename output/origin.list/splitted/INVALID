@@ -3249,3 +3249,10 @@ $ping,third-party                                                               
 ||8672.site^                                                                                         INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 /google-analytics.$~image,$third-party,domain=~comed.com|~secure.exeloncorp.com                      INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||pgs.io^$third-party,domain=~publicgood.com                                                         INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||trickyrock.com/redirect.aspx?pid=*&bid=$subdocument,third-party                                    INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||trustcommander.net/privacy/$third-party                                                            INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||unibet.de/stan/campaign.do?*&affiliateId=$subdocument,third-party                                  INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||virtuoussoftware.com/tracker/                                                                      INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||vortex.data.microsoft.com^                                                                         INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||websdk.appsflyer.com^                                                                              INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||webcare.byside.com^                                                                                INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 

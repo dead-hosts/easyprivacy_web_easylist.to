@@ -3247,3 +3247,10 @@ $ping,third-party
 ||8672.site^
 /google-analytics.$~image,$third-party,domain=~comed.com|~secure.exeloncorp.com
 ||pgs.io^$third-party,domain=~publicgood.com
+||trickyrock.com/redirect.aspx?pid=*&bid=$subdocument,third-party
+||trustcommander.net/privacy/$third-party
+||unibet.de/stan/campaign.do?*&affiliateId=$subdocument,third-party
+||virtuoussoftware.com/tracker/
+||vortex.data.microsoft.com^
+||websdk.appsflyer.com^
+||webcare.byside.com^

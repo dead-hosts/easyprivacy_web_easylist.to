@@ -3163,3 +3163,9 @@ _event_tracking?,AVAILABILITY,origin.list,2022-03-07 05:20:10.588557
 ||8672.site^,AVAILABILITY,origin.list,2022-03-07 20:52:09.615184
 "/google-analytics.$~image,$third-party,domain=~comed.com|~secure.exeloncorp.com",AVAILABILITY,origin.list,2022-03-07 21:10:38.856029
 "||pgs.io^$third-party,domain=~publicgood.com",AVAILABILITY,origin.list,2022-03-08 00:21:52.377052
+"||trickyrock.com/redirect.aspx?pid=*&bid=$subdocument,third-party",AVAILABILITY,origin.list,2022-03-08 03:37:06.450729
+||trustcommander.net/privacy/$third-party,AVAILABILITY,origin.list,2022-03-08 03:37:07.198384
+"||unibet.de/stan/campaign.do?*&affiliateId=$subdocument,third-party",AVAILABILITY,origin.list,2022-03-08 03:37:09.329167
+||virtuoussoftware.com/tracker/,AVAILABILITY,origin.list,2022-03-08 03:37:13.321230
+||vortex.data.microsoft.com^,AVAILABILITY,origin.list,2022-03-08 03:37:15.314870
+||websdk.appsflyer.com^,AVAILABILITY,origin.list,2022-03-08 03:37:17.153249
