@@ -3248,3 +3248,4 @@ $ping,third-party                                                               
 ||recapture.io^$third-party                                                                          INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||8672.site^                                                                                         INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 /google-analytics.$~image,$third-party,domain=~comed.com|~secure.exeloncorp.com                      INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||pgs.io^$third-party,domain=~publicgood.com                                                         INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 

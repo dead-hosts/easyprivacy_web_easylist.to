@@ -3246,3 +3246,4 @@ $ping,third-party
 ||recapture.io^$third-party
 ||8672.site^
 /google-analytics.$~image,$third-party,domain=~comed.com|~secure.exeloncorp.com
+||pgs.io^$third-party,domain=~publicgood.com

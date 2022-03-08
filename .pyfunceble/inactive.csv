@@ -3162,3 +3162,4 @@ _event_tracking?,AVAILABILITY,origin.list,2022-03-07 05:20:10.588557
 ||recapture.io^$third-party,AVAILABILITY,origin.list,2022-03-07 18:08:22.644160
 ||8672.site^,AVAILABILITY,origin.list,2022-03-07 20:52:09.615184
 "/google-analytics.$~image,$third-party,domain=~comed.com|~secure.exeloncorp.com",AVAILABILITY,origin.list,2022-03-07 21:10:38.856029
+"||pgs.io^$third-party,domain=~publicgood.com",AVAILABILITY,origin.list,2022-03-08 00:21:52.377052
