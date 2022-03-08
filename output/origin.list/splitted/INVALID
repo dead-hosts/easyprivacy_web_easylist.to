@@ -3256,4 +3256,4 @@ $ping,third-party                                                               
 ||vortex.data.microsoft.com^                                                                         INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||websdk.appsflyer.com^                                                                              INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||webcare.byside.com^                                                                                INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
-://matomo.$domain=~matomo.org                                                                        INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+://matomo.$domain=~matomo.org                                                                        INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
