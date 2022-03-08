@@ -3170,3 +3170,7 @@ _event_tracking?,AVAILABILITY,origin.list,2022-03-07 05:20:10.588557
 ||vortex.data.microsoft.com^,AVAILABILITY,origin.list,2022-03-08 03:37:15.314870
 ||websdk.appsflyer.com^,AVAILABILITY,origin.list,2022-03-08 03:37:17.153249
 ://matomo.$domain=~matomo.org,AVAILABILITY,origin.list,2022-03-08 22:23:27.475487
+||webcare.byside.com^,AVAILABILITY,origin.list,2022-03-08 23:41:19.392149
+||workers.dev/js/script.js,AVAILABILITY,origin.list,2022-03-08 23:41:22.761355
+||workers.dev/api/event,AVAILABILITY,origin.list,2022-03-08 23:41:22.991609
+||wp.com/wp-content/js/bilmur.min.js,AVAILABILITY,origin.list,2022-03-08 23:41:23.507730

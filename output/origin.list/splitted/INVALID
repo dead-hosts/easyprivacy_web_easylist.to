@@ -3257,3 +3257,8 @@ $ping,third-party                                                               
 ||websdk.appsflyer.com^                                                                              INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||webcare.byside.com^                                                                                INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ://matomo.$domain=~matomo.org                                                                        INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||webcare.byside.com^                                                                                INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||workers.dev/js/script.js                                                                           INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||workers.dev/api/event                                                                              INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||wp.com/wp-content/js/bilmur.min.js                                                                 INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||yahoo.com/sync/casale/                                                                             INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 

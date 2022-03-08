@@ -3255,3 +3255,8 @@ $ping,third-party
 ||websdk.appsflyer.com^
 ||webcare.byside.com^
 ://matomo.$domain=~matomo.org
+||webcare.byside.com^
+||workers.dev/js/script.js
+||workers.dev/api/event
+||wp.com/wp-content/js/bilmur.min.js
+||yahoo.com/sync/casale/
