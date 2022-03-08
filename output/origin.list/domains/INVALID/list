@@ -3254,3 +3254,4 @@ $ping,third-party
 ||vortex.data.microsoft.com^
 ||websdk.appsflyer.com^
 ||webcare.byside.com^
+://matomo.$domain=~matomo.org

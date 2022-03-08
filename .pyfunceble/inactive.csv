@@ -3169,3 +3169,4 @@ _event_tracking?,AVAILABILITY,origin.list,2022-03-07 05:20:10.588557
 ||virtuoussoftware.com/tracker/,AVAILABILITY,origin.list,2022-03-08 03:37:13.321230
 ||vortex.data.microsoft.com^,AVAILABILITY,origin.list,2022-03-08 03:37:15.314870
 ||websdk.appsflyer.com^,AVAILABILITY,origin.list,2022-03-08 03:37:17.153249
+://matomo.$domain=~matomo.org,AVAILABILITY,origin.list,2022-03-08 22:08:57.622506
