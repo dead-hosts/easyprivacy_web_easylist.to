@@ -3266,6 +3266,6 @@ $ping,third-party                                                               
 ||appspot.com/event?                                                                                 INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||brontops.com^                                                                                      INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||capturehighered.net^                                                                               INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-||addwish.com^$third-party                                                                           INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||addwish.com^$third-party                                                                           INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||campaignmonitor.com^$third-party                                                                   INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-||clerk.io^$third-party                                                                              INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||clerk.io^$third-party                                                                              INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
