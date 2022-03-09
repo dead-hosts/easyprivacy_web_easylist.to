@@ -3262,4 +3262,4 @@ $ping,third-party                                                               
 ||workers.dev/api/event                                                                              INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||wp.com/wp-content/js/bilmur.min.js                                                                 INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||yahoo.com/sync/casale/                                                                             INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
-/ga-tracker-                                                                                         INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+/ga-tracker-                                                                                         INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
