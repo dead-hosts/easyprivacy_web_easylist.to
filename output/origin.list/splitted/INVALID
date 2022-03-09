@@ -3264,3 +3264,6 @@ $ping,third-party                                                               
 ||yahoo.com/sync/casale/                                                                             INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 /ga-tracker-                                                                                         INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||appspot.com/event?                                                                                 INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||brontops.com^                                                                                      INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||capturehighered.net^                                                                               INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||campaignmonitor.com^$third-party                                                                   INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
