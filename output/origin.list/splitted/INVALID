@@ -3274,3 +3274,4 @@ $ping,third-party                                                               
 ||leadsleap.com^$third-party                                                                         INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||yahoo.com/sync/casale/                                                                             INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||tracking.sexcash.com^                                                                              INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||clerk.io/static/clerk.js                                                                           INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
