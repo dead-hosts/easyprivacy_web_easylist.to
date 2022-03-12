@@ -3276,3 +3276,5 @@ $ping,third-party                                                               
 ||tracking.sexcash.com^                                                                              INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||clerk.io/static/clerk.js                                                                           INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||dratingmaject.com^                                                                                 INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+/linkpulse.js                                                                                        INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||browser-intake-datadoghq.com^                                                                      INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
