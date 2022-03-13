@@ -3191,4 +3191,8 @@ _event_tracking?,AVAILABILITY,origin.list,2022-03-07 05:20:10.588557
 /linkpulse.js,AVAILABILITY,origin.list,2022-03-12 11:42:31.495496
 ||browser-intake-datadoghq.com^,AVAILABILITY,origin.list,2022-03-12 12:14:35.095247
 /talpa-analytics/*,AVAILABILITY,origin.list,2022-03-13 11:36:46.712349
-||enviou.com.br^$third-party,AVAILABILITY,origin.list,2022-03-13 15:45:02.788613
+||raac33.net^,AVAILABILITY,origin.list,2022-03-13 15:47:56.896428
+||widgetbe.com^,AVAILABILITY,origin.list,2022-03-13 15:48:04.621277
+||leadspace.com^$third-party,AVAILABILITY,origin.list,2022-03-13 15:49:28.066653
+||enviou.com.br^$third-party,AVAILABILITY,origin.list,2022-03-13 15:56:05.826786
+||pmweb.com.br^$third-party,AVAILABILITY,origin.list,2022-03-13 15:56:06.235122

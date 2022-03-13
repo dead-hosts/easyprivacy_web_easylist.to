@@ -3278,4 +3278,8 @@ $ping,third-party
 /linkpulse.js
 ||browser-intake-datadoghq.com^
 /talpa-analytics/*
+||raac33.net^
+||widgetbe.com^
+||leadspace.com^$third-party
 ||enviou.com.br^$third-party
+||pmweb.com.br^$third-party
