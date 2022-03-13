@@ -3279,3 +3279,4 @@ $ping,third-party                                                               
 /linkpulse.js                                                                                        INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||browser-intake-datadoghq.com^                                                                      INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /talpa-analytics/*                                                                                   INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||enviou.com.br^$third-party                                                                         INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
