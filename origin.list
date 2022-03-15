@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202203150452
+! Version: 202203150507
 ! Title: EasyPrivacy
-! Last modified: 15 Mar 2022 04:52 UTC
+! Last modified: 15 Mar 2022 05:07 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1363,6 +1363,7 @@
 /collect_stat.
 /collect_v3.
 /collection.php?data=
+/collector-*/event
 /collector.php?
 /collector/beacon
 /collector/hit?
@@ -3763,6 +3764,7 @@
 /scriptAnalytics.
 /scripts.kissmetrics.com/*
 /scripts/analitics.
+/scripts/analytics-
 /scripts/analytics.
 /scripts/analytics_
 /scripts/clickjs.php

@@ -3201,3 +3201,5 @@ _event_tracking?,AVAILABILITY,origin.list,2022-03-07 05:20:10.588557
 ||d15kdaxu5c0hfw.cloudfront.net^,AVAILABILITY,origin.list,2022-03-14 15:42:38.026961
 ||d2zjlj1vewrxcj.cloudfront.net^,AVAILABILITY,origin.list,2022-03-14 15:42:43.283188
 ||d3qztsm17pgxue.cloudfront.net^,AVAILABILITY,origin.list,2022-03-14 15:42:45.738131
+/collector-*/event,AVAILABILITY,origin.list,2022-03-15 05:18:30.337226
+/scripts/analytics-,AVAILABILITY,origin.list,2022-03-15 05:22:07.182918

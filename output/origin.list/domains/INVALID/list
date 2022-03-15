@@ -3292,3 +3292,5 @@ $ping,third-party
 ||d2zjlj1vewrxcj.cloudfront.net^
 ||d3qztsm17pgxue.cloudfront.net^
 ||d3plfjw9uod7ab.cloudfront.net^
+/collector-*/event
+/scripts/analytics-
