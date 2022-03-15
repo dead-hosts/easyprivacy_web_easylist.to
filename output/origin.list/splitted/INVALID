@@ -3290,5 +3290,5 @@ $ping,third-party                                                               
 ||d2zjlj1vewrxcj.cloudfront.net^                                                                     INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||d3qztsm17pgxue.cloudfront.net^                                                                     INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||d3plfjw9uod7ab.cloudfront.net^                                                                     INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
-/collector-*/event                                                                                   INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
-/scripts/analytics-                                                                                  INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+/collector-*/event                                                                                   INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+/scripts/analytics-                                                                                  INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
