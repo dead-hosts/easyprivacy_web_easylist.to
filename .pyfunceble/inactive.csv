@@ -3212,5 +3212,6 @@ _event_tracking?,AVAILABILITY,origin.list,2022-03-07 05:20:10.588557
 ||di2xwvxz1jrvu.cloudfront.net^,AVAILABILITY,origin.list,2022-03-16 07:20:41.902296
 ||du8783wkf05yr.cloudfront.net^,AVAILABILITY,origin.list,2022-03-16 07:20:43.180927
 "||uptolike.com^$third-party,domain=~uptolike.ru",AVAILABILITY,origin.list,2022-03-16 11:20:38.619467
-||click360.io^,AVAILABILITY,origin.list,2022-03-16 19:36:35.414385
-||click360v2-ingest.azurewebsites.net^,AVAILABILITY,origin.list,2022-03-16 19:45:06.845309
+||click360.io^,AVAILABILITY,origin.list,2022-03-16 19:40:43.559597
+||idx.lat^,AVAILABILITY,origin.list,2022-03-16 19:40:57.431567
+||cloud-iq.com.au^$third-party,AVAILABILITY,origin.list,2022-03-16 19:41:51.226046

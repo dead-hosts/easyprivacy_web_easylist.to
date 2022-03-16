@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202203161918
+! Version: 202203161923
 ! Title: EasyPrivacy
-! Last modified: 16 Mar 2022 19:18 UTC
+! Last modified: 16 Mar 2022 19:23 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5834,6 +5834,7 @@ _mongo_stats/
 ||hsadspixel.net^
 ||i218435.net^
 ||id5-sync.com^
+||idx.lat^
 ||impactcdn.com^
 ||impactradius-event.com^
 ||imrworldwide.com^
@@ -6425,6 +6426,7 @@ _mongo_stats/
 ||clixgalore.com^$third-party
 ||clixpy.com^$third-party
 ||cloud-exploration.com^$third-party
+||cloud-iq.com.au^$third-party
 ||cloud-iq.com^$third-party
 ||cloudtracer101.com^$third-party
 ||cmcore.com^$third-party
