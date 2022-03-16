@@ -3223,3 +3223,6 @@ _event_tracking?,AVAILABILITY,origin.list,2022-03-07 05:20:10.588557
 ||educationdynamics.com^$third-party,AVAILABILITY,origin.list,2022-03-16 20:23:27.836818
 ||thunderhead.com^$third-party,AVAILABILITY,origin.list,2022-03-16 20:25:13.418658
 ||eqy.link^,AVAILABILITY,origin.list,2022-03-16 20:45:12.739763
+||analytics.formstack.com^,AVAILABILITY,origin.list,2022-03-16 21:29:55.553477
+||formstack.com/forms/analytics.php,AVAILABILITY,origin.list,2022-03-16 21:31:01.173073
+||formstack.com/forms/js/*/analytics_,AVAILABILITY,origin.list,2022-03-16 21:31:01.395481
