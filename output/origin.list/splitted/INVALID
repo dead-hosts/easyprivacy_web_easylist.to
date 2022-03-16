@@ -3293,4 +3293,4 @@ $ping,third-party                                                               
 /collector-*/event                                                                                   INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /scripts/analytics-                                                                                  INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||streamtheworld.com/imp?                                                                            INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
-/prod/ping?                                                                                          INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+/prod/ping?                                                                                          INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
