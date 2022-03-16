@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202203161939
+! Version: 202203161949
 ! Title: EasyPrivacy
-! Last modified: 16 Mar 2022 19:39 UTC
+! Last modified: 16 Mar 2022 19:49 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6350,6 +6350,7 @@ _mongo_stats/
 ||capturly.com^$third-party
 ||carambo.la^$third-party
 ||caramel.press^$third-party
+||cartstack.com^$third-party
 ||casalemedia.com^$third-party
 ||cashburners.com^$third-party
 ||cashcount.com^$third-party
@@ -8194,6 +8195,7 @@ _mongo_stats/
 ||thoughtmetric.io^$third-party
 ||threat-analytics.com^$third-party
 ||thrtle.com^$third-party
+||thunderhead.com^$third-party
 ||tinb.net^$third-party
 ||tinycounter.com^$third-party
 ||tiser.com.au^$third-party
