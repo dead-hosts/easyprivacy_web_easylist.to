@@ -3314,7 +3314,7 @@ $ping,third-party                                                               
 ||educationdynamics.com^$third-party                                                                 INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||thunderhead.com^$third-party                                                                       INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||eqy.link^                                                                                          INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||analytics.formstack.com^                                                                           INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||formstack.com/forms/analytics.php                                                                  INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||formstack.com/forms/js/*/analytics_                                                                INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||pijper.io^                                                                                         INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-||analytics.formstack.com^                                                                           INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-||formstack.com/forms/js/*/analytics_                                                                INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-||formstack.com/forms/analytics.php                                                                  INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
