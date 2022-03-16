@@ -3301,3 +3301,5 @@ $ping,third-party                                                               
 ||di2xwvxz1jrvu.cloudfront.net^                                                                      INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||du8783wkf05yr.cloudfront.net^                                                                      INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||uptolike.com^$third-party,domain=~uptolike.ru                                                      INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||click360.io^                                                                                       INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||click360v2-ingest.azurewebsites.net^                                                               INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
