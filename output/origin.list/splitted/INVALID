@@ -3294,3 +3294,9 @@ $ping,third-party                                                               
 /scripts/analytics-                                                                                  INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||streamtheworld.com/imp?                                                                            INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 /prod/ping?                                                                                          INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||tritondigital.com/ondemand/impression?                                                             INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||d3plfjw9uod7ab.cloudfront.net^                                                                     INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||ddrvjrfwnij7n.cloudfront.net^                                                                      INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||dkupaw9ae63a8.cloudfront.net^                                                                      INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||di2xwvxz1jrvu.cloudfront.net^                                                                      INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||du8783wkf05yr.cloudfront.net^                                                                      INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
