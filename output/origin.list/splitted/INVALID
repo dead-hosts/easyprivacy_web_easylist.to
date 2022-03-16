@@ -3311,3 +3311,7 @@ $ping,third-party                                                               
 ||educationdynamics.com^$third-party                                                                 INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||thunderhead.com^$third-party                                                                       INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||click360v2-ingest.azurewebsites.net^                                                               INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||cartstack.com^$third-party                                                                         INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||cloudiq.com^$third-party                                                                           INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||educationdynamics.com^$third-party                                                                 INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||thunderhead.com^$third-party                                                                       INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
