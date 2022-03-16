@@ -3323,3 +3323,6 @@ $ping,third-party
 ||thunderhead.com^$third-party
 ||eqy.link^
 ||pijper.io^
+||analytics.formstack.com^
+||formstack.com/forms/js/*/analytics_
+||formstack.com/forms/analytics.php
