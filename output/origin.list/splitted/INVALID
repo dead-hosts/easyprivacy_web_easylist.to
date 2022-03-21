@@ -3322,3 +3322,4 @@ $ping,third-party                                                               
 /push-analytics.js                                                                                   INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /ph-tracking-                                                                                        INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /api_ip_info.                                                                                        INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+/in/multy?*&event_id=                                                                                INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
