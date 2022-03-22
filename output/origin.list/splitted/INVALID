@@ -3323,4 +3323,4 @@ $ping,third-party                                                               
 /ph-tracking-                                                                                        INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /api_ip_info.                                                                                        INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /in/multy?*&event_id=                                                                                INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-||analytics.contentexchange.me^                                                                      INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||analytics.contentexchange.me^                                                                      INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
