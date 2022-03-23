@@ -3326,3 +3326,4 @@ $ping,third-party                                                               
 ||analytics.contentexchange.me^                                                                      INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||awfonts.com^$script,third-party                                                                    INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||perf.hsforms.com^                                                                                  INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||capturehighered.net^$third-party                                                                   INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
