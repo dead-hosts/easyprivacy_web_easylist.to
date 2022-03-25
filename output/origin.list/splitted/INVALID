@@ -3329,3 +3329,4 @@ $ping,third-party                                                               
 ||capturehighered.net^$third-party                                                                   INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 /client-tracking-sync.                                                                               INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 /links1.strava.com/*$image                                                                           INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||test.vast^                                                                                         INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
