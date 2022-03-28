@@ -3331,3 +3331,4 @@ $ping,third-party                                                               
 /links1.strava.com/*$image                                                                           INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||test.vast^                                                                                         INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||catsys.jp^$third-party                                                                             INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||getsentry.com^$third-party,domain=~sentry.dev|~sentry.io                                           INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 

@@ -3339,3 +3339,4 @@ $ping,third-party
 /links1.strava.com/*$image
 ||test.vast^
 ||catsys.jp^$third-party
+||getsentry.com^$third-party,domain=~sentry.dev|~sentry.io
