@@ -3342,3 +3342,4 @@ $ping,third-party
 ||getsentry.com^$third-party,domain=~sentry.dev|~sentry.io
 ||fpaxu.net^
 ||fast.fonts.net/jsapi/core/mt.js
+||connext-cdn.azureedge.net^

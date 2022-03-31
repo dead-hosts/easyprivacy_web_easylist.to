@@ -3243,3 +3243,4 @@ _event_tracking?,AVAILABILITY,origin.list,2022-03-07 05:20:10.588557
 "||getsentry.com^$third-party,domain=~sentry.dev|~sentry.io",AVAILABILITY,origin.list,2022-03-28 21:38:52.497583
 ||fpaxu.net^,AVAILABILITY,origin.list,2022-03-29 02:46:29.681827
 ||fast.fonts.net/jsapi/core/mt.js,AVAILABILITY,origin.list,2022-03-29 14:12:17.470228
+||connext-cdn.azureedge.net^,AVAILABILITY,origin.list,2022-03-31 08:02:27.415468
