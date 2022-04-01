@@ -3345,3 +3345,4 @@ $ping,third-party
 ||connext-cdn.azureedge.net^
 /sentry.unit-
 /bili-collect.
+/metrics/metrics$domain=~docs.datadoghq.com|~spatineo.com

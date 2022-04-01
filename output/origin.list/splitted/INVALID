@@ -3337,3 +3337,4 @@ $ping,third-party                                                               
 ||connext-cdn.azureedge.net^                                                                         INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 /sentry.unit-                                                                                        INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /bili-collect.                                                                                       INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+/metrics/metrics$domain=~docs.datadoghq.com|~spatineo.com                                            INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
