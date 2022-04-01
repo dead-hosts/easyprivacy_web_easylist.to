@@ -3246,4 +3246,4 @@ _event_tracking?,AVAILABILITY,origin.list,2022-03-07 05:20:10.588557
 ||connext-cdn.azureedge.net^,AVAILABILITY,origin.list,2022-03-31 08:02:27.415468
 /sentry.unit-,AVAILABILITY,origin.list,2022-03-31 19:27:19.879175
 /bili-collect.,AVAILABILITY,origin.list,2022-04-01 02:17:03.354415
-/metrics/metrics$domain=~docs.datadoghq.com|~spatineo.com,AVAILABILITY,origin.list,2022-04-01 03:14:58.085640
+/metrics/metrics$domain=~docs.datadoghq.com|~spatineo.com,AVAILABILITY,origin.list,2022-04-01 03:19:44.159668
