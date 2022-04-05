@@ -72,7 +72,6 @@ dns:
     - 8.8.8.8
     - 8.8.4.4
     trust_server: false
-hois: true
 http_codes:
     list:
         potentially_down:
@@ -152,6 +151,19 @@ lookup:
     special: true
     timeout: 5
     whois: true
+max_http_retries: 3
+proxy:
+    global:
+        http: null
+        https: null
+    rules: []
+share_logs: false
+user_agent:
+    browser: chrome
+    custom: null
+    platform: linux
+verify_ssl_certificate: false
+hois: true
 max_http_retries: 3
 proxy:
     global:
