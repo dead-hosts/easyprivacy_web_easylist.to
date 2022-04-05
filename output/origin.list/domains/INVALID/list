@@ -3348,3 +3348,4 @@ $ping,third-party
 /metrics/metrics$domain=~docs.datadoghq.com|~spatineo.com
 ||th.bing.com/th/*&riu=$image,third-party
 /T/OFC4/*$image
+.informz.net/z/$image
