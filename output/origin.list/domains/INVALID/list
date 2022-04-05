@@ -3347,3 +3347,4 @@ $ping,third-party
 /bili-collect.
 /metrics/metrics$domain=~docs.datadoghq.com|~spatineo.com
 ||th.bing.com/th/*&riu=$image,third-party
+/T/OFC4/*$image
