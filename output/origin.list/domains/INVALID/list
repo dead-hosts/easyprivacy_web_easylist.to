@@ -3359,3 +3359,5 @@ $ping,third-party
 /newsletter/read?s=$image
 /gridinbound.blob.core.
 /newsletter/log/*$image
+/eventing.coursera.org/img/*
+/link.theatlantic.com/img/*
