@@ -3347,5 +3347,5 @@ $ping,third-party                                                               
 ||syteapi.com/et?                                                                                    INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 .warehousefashion.com/warehouse/e/$image                                                             INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /gridinbound.blob.core.                                                                              INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-/newsletter/log/*$image                                                                              INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+/newsletter/log/*$image                                                                              INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /newsletter/read?s=$image                                                                            INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
