@@ -3351,4 +3351,4 @@ $ping,third-party                                                               
 /newsletter/log/*$image                                                                              INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /eventing.coursera.org/img/*                                                                         INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /link.theatlantic.com/img/*                                                                          INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-/p/rp/*?mi_u=*=&sap_id=$image                                                                        INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+/p/rp/*?mi_u=*=&sap_id=$image                                                                        INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
