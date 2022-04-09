@@ -3269,3 +3269,4 @@ _event_tracking?,AVAILABILITY,origin.list,2022-03-07 05:20:10.588557
 /rrweb/*,AVAILABILITY,origin.list,2022-04-09 05:09:25.757307
 "/dynatrace-$~image,domain=~dynatrace.com|~github.com|~github.io",AVAILABILITY,origin.list,2022-04-09 05:31:04.170116
 ||dynatrace-managed.com^,AVAILABILITY,origin.list,2022-04-09 13:25:16.199161
+/collectsysteminfo?,AVAILABILITY,origin.list,2022-04-09 17:06:42.735698
