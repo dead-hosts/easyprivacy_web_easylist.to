@@ -3266,4 +3266,5 @@ _event_tracking?,AVAILABILITY,origin.list,2022-03-07 05:20:10.588557
 /rrweb.min.js,AVAILABILITY,origin.list,2022-04-09 04:47:15.955906
 /rrweb.js,AVAILABILITY,origin.list,2022-04-09 04:47:15.962507
 /rrweb-script.,AVAILABILITY,origin.list,2022-04-09 04:47:15.956408
-/rrweb/*,AVAILABILITY,origin.list,2022-04-09 05:09:25.757307
+"/dynatrace-$~image,domain=~dynatrace.com|~github.com|~github.io",AVAILABILITY,origin.list,2022-04-09 05:12:50.388747
+/rrweb/*,AVAILABILITY,origin.list,2022-04-09 05:16:59.091054
