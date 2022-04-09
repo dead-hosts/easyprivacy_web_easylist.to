@@ -3372,3 +3372,4 @@ $ping,third-party
 /rrweb-script.
 /dynatrace-$~image,domain=~dynatrace.com|~github.com|~github.io
 /rrweb/*
+/dynatrace-$~image,domain=~dynatrace.com|~github.com|~github.io
