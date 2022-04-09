@@ -3373,3 +3373,4 @@ $ping,third-party
 /dynatrace-$~image,domain=~dynatrace.com|~github.com|~github.io
 /rrweb/*
 /dynatrace-$~image,domain=~dynatrace.com|~github.com|~github.io
+||dynatrace-managed.com^
