@@ -3354,8 +3354,7 @@ $ping,third-party                                                               
 /p/rp/*?mi_u=*=&sap_id=$image                                                                        INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||h-cast.jp^$third-party                                                                             INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||trx-hub.com^                                                                                       INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
-/dynatrace-$~image,domain=~dynatrace.com|~github.com|~github.io                                      INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
-/rrweb/*                                                                                             INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
-/rrweb-script.                                                                                       INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-/rrweb.min.js                                                                                        INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-/rrweb.js                                                                                            INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+/rrweb.min.js                                                                                        INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+/rrweb.js                                                                                            INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+/rrweb-script.                                                                                       INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+/rrweb/*                                                                                             INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
