@@ -3364,6 +3364,8 @@ $ping,third-party
 /p/rp/*?mi_u=*=&sap_id=$image
 ||h-cast.jp^$third-party
 ||trx-hub.com^
+/dynatrace-$~image,domain=~dynatrace.com|~github.com|~github.io
+/rrweb/*
+/rrweb-script.
 /rrweb.min.js
 /rrweb.js
-/rrweb-script.
