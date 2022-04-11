@@ -3365,4 +3365,4 @@ $ping,third-party                                                               
 /video.counters.                                                                                     INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /cdn-cgi/beacon/*                                                                                    INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||roistat.com^$third-party                                                                           INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-||hsleadflows.net^$third-party                                                                       INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||hsleadflows.net^$third-party                                                                       INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
