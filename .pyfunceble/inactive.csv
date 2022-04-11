@@ -3271,4 +3271,5 @@ _event_tracking?,AVAILABILITY,origin.list,2022-03-07 05:20:10.588557
 ||dynatrace-managed.com^,AVAILABILITY,origin.list,2022-04-09 13:25:16.199161
 /collectsysteminfo?,AVAILABILITY,origin.list,2022-04-09 17:18:49.007054
 /video.counters.,AVAILABILITY,origin.list,2022-04-09 17:44:22.876119
-/cdn-cgi/beacon/*,AVAILABILITY,origin.list,2022-04-11 00:42:28.099816
+/cdn-cgi/beacon/*,AVAILABILITY,origin.list,2022-04-11 00:24:44.989419
+||roistat.com^$third-party,AVAILABILITY,origin.list,2022-04-11 00:58:51.192386
