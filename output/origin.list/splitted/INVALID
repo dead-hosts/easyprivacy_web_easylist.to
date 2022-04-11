@@ -3363,4 +3363,5 @@ $ping,third-party                                                               
 ||dynatrace-managed.com^                                                                             INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /collectsysteminfo?                                                                                  INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /video.counters.                                                                                     INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-/cdn-cgi/beacon/*                                                                                    INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+/cdn-cgi/beacon/*                                                                                    INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||roistat.com^$third-party                                                                           INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
