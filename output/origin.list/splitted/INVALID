@@ -3366,4 +3366,4 @@ $ping,third-party                                                               
 /cdn-cgi/beacon/*                                                                                    INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||roistat.com^$third-party                                                                           INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||hsleadflows.net^$third-party                                                                       INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-/bytro/logs/*                                                                                        INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+/bytro/logs/*                                                                                        INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
