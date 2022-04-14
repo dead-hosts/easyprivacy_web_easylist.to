@@ -3367,4 +3367,4 @@ $ping,third-party                                                               
 ||roistat.com^$third-party                                                                           INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||hsleadflows.net^$third-party                                                                       INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /bytro/logs/*                                                                                        INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-/cohesion-latest.                                                                                    INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+/cohesion-latest.                                                                                    INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
