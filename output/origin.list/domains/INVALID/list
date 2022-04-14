@@ -3379,3 +3379,4 @@ $ping,third-party
 /cdn-cgi/beacon/*
 ||roistat.com^$third-party
 ||hsleadflows.net^$third-party
+/bytro/logs/*
