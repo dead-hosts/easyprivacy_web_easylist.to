@@ -3275,4 +3275,5 @@ _event_tracking?,AVAILABILITY,origin.list,2022-03-07 05:20:10.588557
 ||roistat.com^$third-party,AVAILABILITY,origin.list,2022-04-11 00:58:51.192386
 ||hsleadflows.net^$third-party,AVAILABILITY,origin.list,2022-04-11 08:26:18.473576
 /bytro/logs/*,AVAILABILITY,origin.list,2022-04-14 10:27:46.151479
-/cohesion-latest.,AVAILABILITY,origin.list,2022-04-14 23:07:17.759086
+||dgcollector.evidon.com^,AVAILABILITY,origin.list,2022-04-14 23:07:38.365938
+/cohesion-latest.,AVAILABILITY,origin.list,2022-04-14 23:13:42.204013
