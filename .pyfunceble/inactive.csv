@@ -3281,6 +3281,6 @@ _event_tracking?,AVAILABILITY,origin.list,2022-03-07 05:20:10.588557
 /adobe-analytics2.,AVAILABILITY,origin.list,2022-04-15 02:21:45.908309
 /web-js-telemetry-service/*,AVAILABILITY,origin.list,2022-04-15 02:29:59.159202
 ||0.0.0.1^,AVAILABILITY,origin.list,2022-04-15 22:31:51.067540
-/magento2.,AVAILABILITY,origin.list,2022-04-15 22:55:18.414754
-/tccl.min.js,AVAILABILITY,origin.list,2022-04-15 23:16:03.464538
-||mm-api.agency^,AVAILABILITY,origin.list,2022-04-15 23:18:07.590426
+/magento2.,AVAILABILITY,origin.list,2022-04-15 22:58:26.624447
+||mm-api.agency^,AVAILABILITY,origin.list,2022-04-15 23:01:45.103276
+/tccl.min.js,AVAILABILITY,origin.list,2022-04-15 23:19:52.393944
