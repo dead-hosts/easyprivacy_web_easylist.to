@@ -3374,4 +3374,3 @@ $ping,third-party                                                               
 /web-js-telemetry-service/*                                                                          INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||0.0.0.1^                                                                                           INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /magento2.                                                                                           INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-||mm-api.agency^                                                                                     INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
