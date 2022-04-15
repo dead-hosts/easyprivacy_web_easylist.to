@@ -3373,6 +3373,6 @@ $ping,third-party                                                               
 /adobe-analytics2.                                                                                   INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /web-js-telemetry-service/*                                                                          INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||0.0.0.1^                                                                                           INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-/magento2.                                                                                           INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
-/tccl.min.js                                                                                         INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+/magento2.                                                                                           INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+/tccl.min.js                                                                                         INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||mm-api.agency^                                                                                     INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
