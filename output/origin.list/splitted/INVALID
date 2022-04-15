@@ -3372,3 +3372,4 @@ $ping,third-party                                                               
 ||turnto.com/event                                                                                   INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 /adobe-analytics2.                                                                                   INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /web-js-telemetry-service/*                                                                          INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||0.0.0.1^                                                                                           INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
