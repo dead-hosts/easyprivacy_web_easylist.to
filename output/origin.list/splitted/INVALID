@@ -3370,3 +3370,5 @@ $ping,third-party                                                               
 ||dgcollector.evidon.com^                                                                            INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 /cohesion-latest.                                                                                    INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||turnto.com/event                                                                                   INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+/adobe-analytics2.                                                                                   INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+/web-js-telemetry-service/*                                                                          INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
