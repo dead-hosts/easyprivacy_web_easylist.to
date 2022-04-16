@@ -3382,3 +3382,4 @@ $ping,third-party                                                               
 /web-vitals-                                                                                         INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||reallyfreegeoip.org^$third-party                                                                   INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||fast.wistia.net/assets/external/googleAds.js                                                       INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||a.getflowbox.com^                                                                                  INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
