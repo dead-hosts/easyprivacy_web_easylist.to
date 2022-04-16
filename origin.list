@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202204152330
+! Version: 202204152342
 ! Title: EasyPrivacy
-! Last modified: 15 Apr 2022 23:30 UTC
+! Last modified: 15 Apr 2022 23:42 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5889,6 +5889,7 @@ _mongo_stats/
 ||mt48.net^
 ||n0909.com^
 ||niblewren.co^
+||nigelmidnightrappers.com^
 ||nimblebird.co^
 ||nimbleswan.io^
 ||ns1p.net^
@@ -13493,7 +13494,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||frog.wix.com/hls2?
 ||frog.wix.com/p?
 ||frog.wix.com/pre?
-||frog.wix.com^$ping,xmlhttprequest
+||frog.wix.com^$image,ping,xmlhttprequest
 ! Fingerprinting
 ||cloudfront.net/js/grin-sdk.js
 ||dingxiang-inc.com/ctu-group/constid-js/index.js
