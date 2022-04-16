@@ -3384,5 +3384,5 @@ $ping,third-party                                                               
 ||fast.wistia.net/assets/external/googleAds.js                                                       INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||a.getflowbox.com^                                                                                  INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||ezstat.ru^                                                                                         INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-||altmetric.com^$third-party                                                                         INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
-||dimensions.ai^$third-party                                                                         INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||altmetric.com^$third-party                                                                         INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||dimensions.ai^$third-party                                                                         INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
