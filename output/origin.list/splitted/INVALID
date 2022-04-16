@@ -3376,5 +3376,6 @@ $ping,third-party                                                               
 /magento2.                                                                                           INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /tccl.min.js                                                                                         INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||mm-api.agency^                                                                                     INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-||nigelmidnightrappers.com^                                                                          INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||nigelmidnightrappers.com^                                                                          INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||unbounce.com^$third-party                                                                          INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||cloudfront.net/uba.js                                                                              INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
