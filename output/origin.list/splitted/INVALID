@@ -3392,3 +3392,4 @@ $ping,third-party                                                               
 /dh-analytics-                                                                                       INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /ga-tracking.                                                                                        INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||sitealyse.de^$third-party                                                                          INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||klaviyo.com/onsite/js/sentry.                                                                      INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
