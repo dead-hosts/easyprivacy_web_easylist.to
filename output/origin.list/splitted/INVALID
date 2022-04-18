@@ -3400,3 +3400,5 @@ $ping,third-party                                                               
 ||sdtagging.azureedge.net^                                                                           INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /lc-sentry.                                                                                          INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 /assets/smarttag-$script                                                                             INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+/get-pro/*&fingerprint=                                                                              INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||2022welcome.com^                                                                                   INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
