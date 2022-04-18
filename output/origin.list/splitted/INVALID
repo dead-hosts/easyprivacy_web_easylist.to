@@ -3398,4 +3398,4 @@ $ping,third-party                                                               
 /visitor_info?                                                                                       INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||sd-tagging.azurefd.net^                                                                            INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||sdtagging.azureedge.net^                                                                           INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-/lc-sentry.                                                                                          INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+/lc-sentry.                                                                                          INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
