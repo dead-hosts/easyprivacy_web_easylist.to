@@ -3396,3 +3396,5 @@ $ping,third-party                                                               
 ||arcpublishing.com/i.png                                                                            INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /async~sentry-                                                                                       INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /visitor_info?                                                                                       INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||sd-tagging.azurefd.net^                                                                            INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||sdtagging.azureedge.net^                                                                           INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
