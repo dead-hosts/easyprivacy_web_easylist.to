@@ -3394,5 +3394,5 @@ $ping,third-party                                                               
 ||sitealyse.de^$third-party                                                                          INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||klaviyo.com/onsite/js/sentry.                                                                      INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||arcpublishing.com/i.png                                                                            INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-/async~sentry-                                                                                       INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+/async~sentry-                                                                                       INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 /visitor_info?                                                                                       INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
