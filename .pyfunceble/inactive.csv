@@ -3307,9 +3307,9 @@ _event_tracking?,AVAILABILITY,origin.list,2022-03-07 05:20:10.588557
 /visitor_info?,AVAILABILITY,origin.list,2022-04-18 13:05:28.630840
 ||sd-tagging.azurefd.net^,AVAILABILITY,origin.list,2022-04-18 14:13:12.735863
 ||sdtagging.azureedge.net^,AVAILABILITY,origin.list,2022-04-18 14:13:12.960848
-/lc-sentry.,AVAILABILITY,origin.list,2022-04-18 23:27:39.416285
-/assets/smarttag-$script,AVAILABILITY,origin.list,2022-04-18 23:43:33.619177
-/get-pro/*&fingerprint=,AVAILABILITY,origin.list,2022-04-19 00:08:28.622644
-/tracklib.min.js,AVAILABILITY,origin.list,2022-04-19 00:10:53.659693
-/trackui.min.js,AVAILABILITY,origin.list,2022-04-19 00:10:55.555589
-||2022welcome.com^,AVAILABILITY,origin.list,2022-04-19 00:12:20.866336
+/assets/smarttag-$script,AVAILABILITY,origin.list,2022-04-18 23:27:05.163875
+/lc-sentry.,AVAILABILITY,origin.list,2022-04-18 23:31:38.959260
+/get-pro/*&fingerprint=,AVAILABILITY,origin.list,2022-04-18 23:51:50.132867
+||2022welcome.com^,AVAILABILITY,origin.list,2022-04-18 23:55:31.301926
+/tracklib.min.js,AVAILABILITY,origin.list,2022-04-19 00:15:30.783508
+/trackui.min.js,AVAILABILITY,origin.list,2022-04-19 00:15:32.840374
