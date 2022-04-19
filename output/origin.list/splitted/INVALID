@@ -3401,6 +3401,6 @@ $ping,third-party                                                               
 /lc-sentry.                                                                                          INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 /assets/smarttag-$script                                                                             INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /get-pro/*&fingerprint=                                                                              INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-/tracklib.min.js                                                                                     INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
-/trackui.min.js                                                                                      INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+/tracklib.min.js                                                                                     INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+/trackui.min.js                                                                                      INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||2022welcome.com^                                                                                   INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
