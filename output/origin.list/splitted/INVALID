@@ -3406,3 +3406,4 @@ $ping,third-party                                                               
 ||2022welcome.com^                                                                                   INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /tracklib.min.js                                                                                     INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /trackui.min.js                                                                                      INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||pingometer.com^$third-party                                                                        INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
