@@ -6,7 +6,7 @@ cli_decoding:
     wildcard: false
 cli_testing:
     autocontinue: true
-    chancy_tester: false
+    chancy_tester: true
     ci:
         active: true
         branch: master
@@ -46,7 +46,7 @@ cli_testing:
     hosts_ip: 0.0.0.0
     inactive_db: true
     local_network: false
-    max_workers: null
+    max_workers: 5
     mining: false
     preload_file: false
     sorting_mode:
