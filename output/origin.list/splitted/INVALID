@@ -3399,4 +3399,5 @@ $ping,third-party                                                               
 ||sd-tagging.azurefd.net^                                                                            INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||sdtagging.azureedge.net^                                                                           INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /lc-sentry.                                                                                          INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-/assets/smarttag-$script                                                                             INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+/get-pro/*&fingerprint=                                                                              INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||2022welcome.com^                                                                                   INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
