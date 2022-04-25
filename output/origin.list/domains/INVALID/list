@@ -3435,3 +3435,5 @@ $ping,third-party
 /livecounter.php?wid=
 ||opti-digital.com^
 ||analytics.pop2watch.com^
+/measure/pixel/*
+||dvnfo.com^$third-party

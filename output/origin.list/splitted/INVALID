@@ -3420,3 +3420,5 @@ $ping,third-party                                                               
 /livecounter.php?wid=                                                                                INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||opti-digital.com^                                                                                  INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||analytics.pop2watch.com^                                                                           INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+/measure/pixel/*                                                                                     INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||dvnfo.com^$third-party                                                                             INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
