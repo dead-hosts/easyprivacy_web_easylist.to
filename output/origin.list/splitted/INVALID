@@ -3423,5 +3423,5 @@ $ping,third-party                                                               
 /measure/pixel/*                                                                                     INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||dvnfo.com^$third-party                                                                             INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /ping.gif?$domain=~mega689.com                                                                       INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-/api/pageactivity                                                                                    INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
-/api/pagevisits                                                                                      INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+/api/pageactivity                                                                                    INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+/api/pagevisits                                                                                      INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
