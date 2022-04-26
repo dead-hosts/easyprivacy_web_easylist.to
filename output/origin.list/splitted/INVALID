@@ -3425,3 +3425,4 @@ $ping,third-party                                                               
 /ping.gif?$domain=~mega689.com                                                                       INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /api/pageactivity                                                                                    INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /api/pagevisits                                                                                      INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||reports.sdiapi.com^                                                                                INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
