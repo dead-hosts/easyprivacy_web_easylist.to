@@ -3437,3 +3437,4 @@ $ping,third-party
 ||analytics.pop2watch.com^
 /measure/pixel/*
 ||dvnfo.com^$third-party
+/ping.gif?$domain=~mega689.com
