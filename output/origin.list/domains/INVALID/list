@@ -3438,5 +3438,5 @@ $ping,third-party
 /measure/pixel/*
 ||dvnfo.com^$third-party
 /ping.gif?$domain=~mega689.com
-/api/pageactivity
 /api/pagevisits
+/api/pageactivity
