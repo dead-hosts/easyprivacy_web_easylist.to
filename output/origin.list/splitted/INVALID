@@ -3441,3 +3441,5 @@ $ping,third-party                                                               
 ||event.mrtnsvr.com^                                                                                 INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||p.placed.com^                                                                                      INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||blink.net/e/                                                                                       INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||pixel.locker2.com^                                                                                 INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||stat.mydaddy.cc^                                                                                   INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
