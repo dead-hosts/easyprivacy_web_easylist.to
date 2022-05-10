@@ -4,7 +4,7 @@ cli_decoding:
     rpz: false
     wildcard: false
 cli_testing:
-    autocontinue: false
+    autocontinue: true
     chancy_tester: false
     ci:
         active: false
