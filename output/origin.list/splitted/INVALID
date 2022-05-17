@@ -3450,3 +3450,5 @@ $ping,third-party                                                               
 ||analytics.fabricators.ltd^$third-party                                                             INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||esputnik.com^$third-party                                                                          INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||adbp.online^                                                                                       INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+/click?track=                                                                                        INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+/stats/transp.bmp                                                                                    INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
