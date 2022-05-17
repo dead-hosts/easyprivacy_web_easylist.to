@@ -3451,4 +3451,5 @@ $ping,third-party                                                               
 ||esputnik.com^$third-party                                                                          INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||adbp.online^                                                                                       INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /click?track=                                                                                        INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+/prebid/ad.gif?                                                                                      INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /stats/transp.bmp                                                                                    INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
