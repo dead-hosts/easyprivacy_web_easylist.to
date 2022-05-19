@@ -3460,3 +3460,4 @@ $ping,third-party                                                               
 ||ea.youmaker.com^                                                                                   INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||arcpublishing.com/beacon                                                                           INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||flowerstreatment.com^                                                                              INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||flixcar.com/*/tracking/                                                                            INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
