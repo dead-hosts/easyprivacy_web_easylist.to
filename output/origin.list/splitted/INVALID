@@ -3464,5 +3464,5 @@ $ping,third-party                                                               
 ||fpxau.net^                                                                                         INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||flixcar.com/*/tracking/                                                                            INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||flixgvid.flix360.io^                                                                               INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
-/cnt.php?id=                                                                                         INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
-||agilesrv.com^$third-party                                                                          INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+/cnt.php?id=                                                                                         INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||agilesrv.com^$third-party                                                                          INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
