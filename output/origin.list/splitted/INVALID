@@ -3466,5 +3466,5 @@ $ping,third-party                                                               
 ||flixgvid.flix360.io^                                                                               INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 /cnt.php?id=                                                                                         INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||agilesrv.com^$third-party                                                                          INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-/pv_beacon.gif?                                                                                      INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
-||push7.jp^$third-party                                                                              INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+/pv_beacon.gif?                                                                                      INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||push7.jp^$third-party                                                                              INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
