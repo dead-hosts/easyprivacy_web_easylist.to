@@ -4,8 +4,8 @@ cli_decoding:
     rpz: false
     wildcard: false
 cli_testing:
-    autocontinue: false
-    chancy_tester: false
+    autocontinue: true
+    chancy_tester: true
     ci:
         active: false
         branch: master
@@ -45,7 +45,7 @@ cli_testing:
     hosts_ip: 0.0.0.0
     inactive_db: true
     local_network: false
-    max_workers: null
+    max_workers: 5
     mining: false
     preload_file: false
     sorting_mode:
