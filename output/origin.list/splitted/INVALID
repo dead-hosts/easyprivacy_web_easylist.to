@@ -3474,4 +3474,4 @@ $ping,third-party                                                               
 /rntracking.                                                                                         INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||dbfocus.jp^$third-party                                                                            INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||timber.sendtonews.com^                                                                             INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
-/clicks.*/q/*$image                                                                                  INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+/clicks.*/q/*$image                                                                                  INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
