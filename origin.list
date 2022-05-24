@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202205242247
+! Version: 202205242312
 ! Title: EasyPrivacy
-! Last modified: 24 May 2022 22:47 UTC
+! Last modified: 24 May 2022 23:12 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5846,6 +5846,7 @@ _mongo_stats/
 ||demdex.net^
 ||dispatchunique.com^
 ||dispatchvegasplus.com^
+||dlxpix.net^
 ||dm-event.net^
 ||dmpxs.com^
 ||dratingmaject.com^
@@ -15176,6 +15177,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||overstock.com/dlp?
 ||p.ctpost.com/article?
 ||pac.thesun.co.uk^
+||pagesix.com/blaize/datalayer
 ||pardot.com/pd.js
 ||paypal.com/platform/tealeaftarget
 ||pcgamesn.com/cdn-cgi/trace
