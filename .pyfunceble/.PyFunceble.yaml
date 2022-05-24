@@ -72,6 +72,7 @@ dns:
     - 8.8.8.8
     - 8.8.4.4
     trust_server: false
+hois: true
 http_codes:
     list:
         potentially_down:
