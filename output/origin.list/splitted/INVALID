@@ -3475,3 +3475,4 @@ $ping,third-party                                                               
 ||dbfocus.jp^$third-party                                                                            INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||timber.sendtonews.com^                                                                             INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 /clicks.*/q/*$image                                                                                  INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+/__rmn.gif?                                                                                          INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
