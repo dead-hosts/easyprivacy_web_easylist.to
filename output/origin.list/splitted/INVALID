@@ -3480,7 +3480,9 @@ $ping,third-party                                                               
 ||dlxpix.net^                                                                                        INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /api/video/stats/*$xmlhttprequest                                                                    INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||ele26126.jscrambler.com^                                                                           INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-/bb-analytics-                                                                                       INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-/pxrc.php                                                                                            INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
-||analytics.ynap.biz^                                                                                INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
-||cnstrc.com/behavior?                                                                               INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+/bb-analytics-                                                                                       INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||cnstrc.com/behavior?                                                                               INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||dynamicyield.com/uia?                                                                              INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||dynamicyield.com/var?                                                                              INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+/pxrc.php                                                                                            INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||analytics.ynap.biz^                                                                                INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
