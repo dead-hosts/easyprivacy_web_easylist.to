@@ -3496,3 +3496,4 @@ $ping,third-party
 ||acsbapp.com^
 /api/video/stats/*$xmlhttprequest
 ||dlxpix.net^
+/api/video/stats/*$xmlhttprequest
