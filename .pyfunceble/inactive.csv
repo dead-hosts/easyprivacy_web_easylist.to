@@ -3386,8 +3386,9 @@ _event_tracking?,AVAILABILITY,origin.list,2022-03-07 05:20:10.588557
 ||acsbapp.com^,AVAILABILITY,origin.list,2022-05-24 10:24:26.994576
 ||dlxpix.net^,AVAILABILITY,origin.list,2022-05-24 23:49:10.879460
 /api/video/stats/*$xmlhttprequest,AVAILABILITY,origin.list,2022-05-25 00:00:39.020409
-||ele26126.jscrambler.com^,AVAILABILITY,origin.list,2022-05-25 00:55:53.244428
-/bb-analytics-,AVAILABILITY,origin.list,2022-05-25 01:04:21.238176
-||cnstrc.com/behavior?,AVAILABILITY,origin.list,2022-05-25 01:40:52.434612
-||dynamicyield.com/var?,AVAILABILITY,origin.list,2022-05-25 01:41:09.340953
-||dynamicyield.com/uia?,AVAILABILITY,origin.list,2022-05-25 01:41:09.436938
+||ele26126.jscrambler.com^,AVAILABILITY,origin.list,2022-05-25 00:38:41.780087
+||metrics.kmsmep.com^,AVAILABILITY,origin.list,2022-05-25 01:03:19.189986
+/bb-analytics-,AVAILABILITY,origin.list,2022-05-25 01:10:23.985876
+||cnstrc.com/behavior?,AVAILABILITY,origin.list,2022-05-25 01:46:37.925847
+||dynamicyield.com/uia?,AVAILABILITY,origin.list,2022-05-25 01:46:56.377365
+||dynamicyield.com/var?,AVAILABILITY,origin.list,2022-05-25 01:46:56.584949
