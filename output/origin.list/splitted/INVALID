@@ -3483,4 +3483,7 @@ $ping,third-party                                                               
 /bb-analytics-                                                                                       INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||cnstrc.com/behavior?                                                                               INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||dynamicyield.com/uia?                                                                              INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||dynamicyield.com/var?                                                                              INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /pxrc.php                                                                                            INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+/statistic/pixel?                                                                                    INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||analytics.ynap.biz^                                                                                INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
