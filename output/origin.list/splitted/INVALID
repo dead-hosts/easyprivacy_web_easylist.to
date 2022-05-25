@@ -3488,5 +3488,4 @@ $ping,third-party                                                               
 /statistic/pixel?                                                                                    INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||analytics.ynap.biz^                                                                                INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||metrics.kmsmep.com^                                                                                INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-/resxclsx.js                                                                                         INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
-||jcpclick.com^                                                                                      INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+/resxclsx.js                                                                                         INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
