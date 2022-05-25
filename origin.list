@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202205250333
+! Version: 202205250346
 ! Title: EasyPrivacy
-! Last modified: 25 May 2022 03:33 UTC
+! Last modified: 25 May 2022 03:46 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5810,6 +5810,7 @@ _mongo_stats/
 ! *** easylist:easyprivacy/easyprivacy_trackingservers.txt ***
 ! Non-flagged (Generic blocks)
 ||2022welcome.com^
+||31daa5lnq.de^
 ||520886.xyz^
 ||8672.site^
 ||a1webstrategy.com^
@@ -12305,6 +12306,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||keyword.daumdn.com^
 ||kiwari.com^*/impressions.asp?
 ||kiwi.mdldb.net^
+||kiwisizing.com/api/log
 ||kk-resources.com/ks.js
 ||klarnaservices.com/lib.js
 ||klarnaservices.com^$image,third-party
