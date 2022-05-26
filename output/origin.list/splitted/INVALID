@@ -3495,4 +3495,4 @@ $ping,third-party                                                               
 ||bqstreamer.com^                                                                                    INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||wazimo.com^$third-party                                                                            INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||exacttarget.com^$~subdocument,third-party                                                          INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
-||altruja.de^$third-party                                                                            INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||altruja.de^$third-party                                                                            INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
