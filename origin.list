@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202205270711
+! Version: 202205280453
 ! Title: EasyPrivacy
-! Last modified: 27 May 2022 07:11 UTC
+! Last modified: 28 May 2022 04:53 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3827,6 +3827,7 @@
 /sdctag1.js
 /sdctag2.js
 /sdcTrackingCode.
+/sdk/impressions
 /sdp-tagcollector.
 /sdxp1/dru4/meta?_hc=
 /search-cookie.aspx?$image
@@ -5876,6 +5877,7 @@ _mongo_stats/
 ||fasttiger.io^
 ||fn-pz.com^
 ||fpaux.net^
+||fpavx.net^
 ||fpaxu.net^
 ||fpxau.net^
 ||g11686975765.co^
@@ -5997,6 +5999,7 @@ _mongo_stats/
 ||tvpixel.com^
 ||ugdturner.com^
 ||v1sts.me^
+||venusrevival.com^
 ||videoplayerhub.com^
 ||vkanalytics.net^
 ||widgetbe.com^
@@ -13260,6 +13263,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tritondigital.com/ondemand/impression?
 ||trk.techtarget.com^
 ||tru.webelapp.com^
+||trustarc.com/cap?
 ||trustarc.com/log?
 ||trustcommander.net/iab-tcfapi/
 ||trustcommander.net/privacy/$third-party
@@ -26399,6 +26403,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||api.ipinfodb.com^$xmlhttprequest,domain=management30.com
 @@||api.ipstack.com/check$domain=blockfi.com|get-in.com|withpersona.com
 @@||api.perfops.net^$script,xmlhttprequest,domain=cdnperf.com|dnsperf.com
+@@||apikey.wrld3d.com/generate_204/$xmlhttprequest,domain=maps.wrld3d.com
 @@||appboycdn.com^*/appboy.min.js$script,domain=bakkt.com
 @@||appspot.com/static/js/tracker/$script,domain=bugs.avm99963.com
 @@||aramex.co.nz/Umbraco/Api/Tracking/$~third-party
