@@ -3509,3 +3509,4 @@ $ping,third-party                                                               
 ||beginnerpancake.com^                                                                               INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 /beacon/receive                                                                                      INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 /web_logger/*                                                                                        INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+/generate_204$~xmlhttprequest                                                                        INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
