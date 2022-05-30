@@ -3507,3 +3507,4 @@ $ping,third-party                                                               
 ||sdiapi.com/reporter/                                                                               INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||studiostack.com^$third-party                                                                       INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||beginnerpancake.com^                                                                               INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+/beacon/receive                                                                                      INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
