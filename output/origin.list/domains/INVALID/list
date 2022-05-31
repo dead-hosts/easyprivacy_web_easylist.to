@@ -3532,3 +3532,5 @@ $ping,third-party
 /beacon/receive
 /web_logger/*
 /generate_204$~xmlhttprequest
+||cardinalcommerce.com/prod/log
+||checkout.com/logging

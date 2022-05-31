@@ -3416,4 +3416,6 @@ _event_tracking?,AVAILABILITY,origin.list,2022-03-07 05:20:10.588557
 ||beginnerpancake.com^,AVAILABILITY,origin.list,2022-05-30 00:30:18.744559
 /beacon/receive,AVAILABILITY,origin.list,2022-05-30 00:58:42.929496
 /web_logger/*,AVAILABILITY,origin.list,2022-05-30 08:19:13.376299
-/generate_204$~xmlhttprequest,AVAILABILITY,origin.list,2022-05-30 23:50:22.213014
+/generate_204$~xmlhttprequest,AVAILABILITY,origin.list,2022-05-30 23:54:09.267256
+||cardinalcommerce.com/prod/log,AVAILABILITY,origin.list,2022-05-31 00:03:45.940702
+||checkout.com/logging,AVAILABILITY,origin.list,2022-05-31 00:03:49.041904
