@@ -3523,3 +3523,8 @@ $ping,third-party                                                               
 ||ma.logsss.com^                                                                                     INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||s.logsss.com^                                                                                      INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 /log.php?referrer=                                                                                   INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||ad-fam.com^$third-party                                                                            INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||ad-track.jp^$third-party                                                                           INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||canem-auris.com^$third-party                                                                       INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||d2c.ne.jp^$third-party                                                                             INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||zucks.net^$third-party                                                                             INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 

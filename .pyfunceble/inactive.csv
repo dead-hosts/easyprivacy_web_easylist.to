@@ -3430,3 +3430,8 @@ _event_tracking?,AVAILABILITY,origin.list,2022-03-07 05:20:10.588557
 ||ma.logsss.com^,AVAILABILITY,origin.list,2022-06-01 17:12:20.133514
 ||s.logsss.com^,AVAILABILITY,origin.list,2022-06-01 17:53:43.246689
 /log.php?referrer=,AVAILABILITY,origin.list,2022-06-01 20:06:22.242929
+||ad-fam.com^$third-party,AVAILABILITY,origin.list,2022-06-01 20:38:03.761503
+||ad-track.jp^$third-party,AVAILABILITY,origin.list,2022-06-01 20:38:03.774629
+||canem-auris.com^$third-party,AVAILABILITY,origin.list,2022-06-01 20:38:06.121106
+||d2c.ne.jp^$third-party,AVAILABILITY,origin.list,2022-06-01 20:38:07.446173
+||zucks.net^$third-party,AVAILABILITY,origin.list,2022-06-01 20:38:13.066573
