@@ -3423,3 +3423,6 @@ _event_tracking?,AVAILABILITY,origin.list,2022-03-07 05:20:10.588557
 ||service.trustpid.com^,AVAILABILITY,origin.list,2022-05-31 16:00:57.814174
 /dynatrace.$domain=~dynatrace.com|~github.com|~github.io,AVAILABILITY,origin.list,2022-06-01 02:22:15.905051
 ||holdonstranger.com^$third-party,AVAILABILITY,origin.list,2022-06-01 02:48:40.629139
+.acemlna.com/Prod/link-tracker?$image,AVAILABILITY,origin.list,2022-06-01 16:41:41.691691
+.acemlnb.com/Prod/link-tracker?$image,AVAILABILITY,origin.list,2022-06-01 16:41:41.783810
+/link-tracker?*&l=open&,AVAILABILITY,origin.list,2022-06-01 16:41:59.219451

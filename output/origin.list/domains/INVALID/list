@@ -3538,3 +3538,6 @@ $ping,third-party
 ||service.trustpid.com^
 /dynatrace.$domain=~dynatrace.com|~github.com|~github.io
 ||holdonstranger.com^$third-party
+.acemlna.com/Prod/link-tracker?$image
+.acemlnb.com/Prod/link-tracker?$image
+/link-tracker?*&l=open&

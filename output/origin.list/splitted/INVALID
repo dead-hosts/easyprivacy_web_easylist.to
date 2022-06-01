@@ -3516,3 +3516,6 @@ $ping,third-party                                                               
 ||service.trustpid.com^                                                                              INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 /dynatrace.$domain=~dynatrace.com|~github.com|~github.io                                             INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||holdonstranger.com^$third-party                                                                    INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+.acemlna.com/Prod/link-tracker?$image                                                                INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+.acemlnb.com/Prod/link-tracker?$image                                                                INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+/link-tracker?*&l=open&                                                                              INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
