@@ -3514,5 +3514,5 @@ $ping,third-party                                                               
 ||checkout.com/logging                                                                               INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||poool.fr/api/v3/access/event                                                                       INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||service.trustpid.com^                                                                              INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
-/dynatrace.$domain=~dynatrace.com|~github.com|~github.io                                             INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-||holdonstranger.com^$third-party                                                                    INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+/dynatrace.$domain=~dynatrace.com|~github.com|~github.io                                             INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||holdonstranger.com^$third-party                                                                    INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 

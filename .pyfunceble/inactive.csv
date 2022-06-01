@@ -3421,5 +3421,5 @@ _event_tracking?,AVAILABILITY,origin.list,2022-03-07 05:20:10.588557
 ||checkout.com/logging,AVAILABILITY,origin.list,2022-05-31 00:19:51.730228
 ||poool.fr/api/v3/access/event,AVAILABILITY,origin.list,2022-05-31 14:38:21.081769
 ||service.trustpid.com^,AVAILABILITY,origin.list,2022-05-31 16:00:57.814174
-/dynatrace.$domain=~dynatrace.com|~github.com|~github.io,AVAILABILITY,origin.list,2022-06-01 02:29:28.068856
-||holdonstranger.com^$third-party,AVAILABILITY,origin.list,2022-06-01 02:35:34.284514
+/dynatrace.$domain=~dynatrace.com|~github.com|~github.io,AVAILABILITY,origin.list,2022-06-01 02:22:15.905051
+||holdonstranger.com^$third-party,AVAILABILITY,origin.list,2022-06-01 02:48:40.629139
