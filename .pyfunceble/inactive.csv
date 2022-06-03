@@ -3437,3 +3437,4 @@ _event_tracking?,AVAILABILITY,origin.list,2022-03-07 05:20:10.588557
 ||zucks.net^$third-party,AVAILABILITY,origin.list,2022-06-01 20:38:13.066573
 ||pix.pub^,AVAILABILITY,origin.list,2022-06-02 01:41:48.259924
 ||californiatimes.com/privacy/$image,AVAILABILITY,origin.list,2022-06-02 03:54:44.861791
+/dynatrace.$domain=~dynatrace.com|~dynatrace.udemy.com|~github.com|~github.io,AVAILABILITY,origin.list,2022-06-03 08:00:43.230015

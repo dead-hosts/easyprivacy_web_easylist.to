@@ -3530,3 +3530,4 @@ $ping,third-party                                                               
 ||zucks.net^$third-party                                                                             INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||pix.pub^                                                                                           INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||californiatimes.com/privacy/$image                                                                 INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+/dynatrace.$domain=~dynatrace.com|~dynatrace.udemy.com|~github.com|~github.io                        INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
