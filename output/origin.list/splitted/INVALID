@@ -3533,4 +3533,4 @@ $ping,third-party                                                               
 /dynatrace.$domain=~dynatrace.com|~dynatrace.udemy.com|~github.com|~github.io                        INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||recurly.com/js/v1/events                                                                           INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||rltd.io/tags/                                                                                      INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
-/events/view?                                                                                        INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+/events/view?                                                                                        INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
