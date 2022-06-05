@@ -3440,3 +3440,4 @@ _event_tracking?,AVAILABILITY,origin.list,2022-03-07 05:20:10.588557
 /dynatrace.$domain=~dynatrace.com|~dynatrace.udemy.com|~github.com|~github.io,AVAILABILITY,origin.list,2022-06-03 08:00:43.230015
 ||recurly.com/js/v1/events,AVAILABILITY,origin.list,2022-06-05 06:32:05.997865
 ||rltd.io/tags/,AVAILABILITY,origin.list,2022-06-05 06:32:10.149237
+/events/view?,AVAILABILITY,origin.list,2022-06-05 10:48:33.716704
