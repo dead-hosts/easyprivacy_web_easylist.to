@@ -3531,3 +3531,5 @@ $ping,third-party                                                               
 ||pix.pub^                                                                                           INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||californiatimes.com/privacy/$image                                                                 INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 /dynatrace.$domain=~dynatrace.com|~dynatrace.udemy.com|~github.com|~github.io                        INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||recurly.com/js/v1/events                                                                           INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||rltd.io/tags/                                                                                      INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 

@@ -3553,3 +3553,5 @@ $ping,third-party
 ||pix.pub^
 ||californiatimes.com/privacy/$image
 /dynatrace.$domain=~dynatrace.com|~dynatrace.udemy.com|~github.com|~github.io
+||recurly.com/js/v1/events
+||rltd.io/tags/
