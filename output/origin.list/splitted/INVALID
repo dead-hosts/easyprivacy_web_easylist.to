@@ -3535,3 +3535,4 @@ $ping,third-party                                                               
 ||rltd.io/tags/                                                                                      INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 /events/view?                                                                                        INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /public/visit/record                                                                                 INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+/v1/stats/track                                                                                      INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
