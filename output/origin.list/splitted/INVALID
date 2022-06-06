@@ -3538,4 +3538,4 @@ $ping,third-party                                                               
 /v1/stats/track                                                                                      INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||allvideometrika.com^                                                                               INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /logging/ClientEvent                                                                                 INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-/stattag.js                                                                                          INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+/stattag.js                                                                                          INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
