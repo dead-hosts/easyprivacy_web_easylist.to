@@ -3537,3 +3537,4 @@ $ping,third-party                                                               
 /public/visit/record                                                                                 INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /v1/stats/track                                                                                      INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||allvideometrika.com^                                                                               INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+/logging/ClientEvent                                                                                 INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
