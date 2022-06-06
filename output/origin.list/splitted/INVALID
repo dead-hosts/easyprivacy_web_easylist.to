@@ -3534,4 +3534,4 @@ $ping,third-party                                                               
 ||recurly.com/js/v1/events                                                                           INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||rltd.io/tags/                                                                                      INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 /events/view?                                                                                        INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-/public/visit/record                                                                                 INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+/public/visit/record                                                                                 INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
