@@ -3544,3 +3544,5 @@ $ping,third-party                                                               
 ||cedexis.net^$script,third-party                                                                    INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||customfingerprints.bablosoft.com^                                                                  INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||internal-matomo.                                                                                   INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+/dynatrace-$~image,domain=~dynatrace-managed.com|~dynatrace.com|~github.com|~github.io               INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||dynatrace-managed.com^$third-party                                                                 INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 

@@ -3566,3 +3566,5 @@ $ping,third-party
 ||cedexis.net^$script,third-party
 ||customfingerprints.bablosoft.com^
 ||internal-matomo.
+/dynatrace-$~image,domain=~dynatrace-managed.com|~dynatrace.com|~github.com|~github.io
+||dynatrace-managed.com^$third-party
