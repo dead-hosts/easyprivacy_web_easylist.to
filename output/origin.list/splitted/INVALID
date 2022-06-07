@@ -3539,6 +3539,6 @@ $ping,third-party                                                               
 ||allvideometrika.com^                                                                               INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /logging/ClientEvent                                                                                 INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /stattag.js                                                                                          INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-||datatechonert.com^                                                                                 INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
-||tzegilo.com^                                                                                       INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
-||cedexis.net^$script,third-party                                                                    INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||datatechonert.com^                                                                                 INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||tzegilo.com^                                                                                       INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||cedexis.net^$script,third-party                                                                    INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
