@@ -3568,3 +3568,4 @@ $ping,third-party
 ||internal-matomo.
 /dynatrace-$~image,domain=~dynatrace-managed.com|~dynatrace.com|~github.com|~github.io
 ||dynatrace-managed.com^$third-party
+/b.banners.impress.
