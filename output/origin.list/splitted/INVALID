@@ -3548,4 +3548,4 @@ $ping,third-party                                                               
 ||dynatrace-managed.com^$third-party                                                                 INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /b.banners.impress.                                                                                  INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||chingovernment.com^                                                                                INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-||lokalleads-cci.com^$third-party                                                                    INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||lokalleads-cci.com^$third-party                                                                    INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
