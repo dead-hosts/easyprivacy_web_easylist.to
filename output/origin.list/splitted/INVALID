@@ -3547,4 +3547,4 @@ $ping,third-party                                                               
 /dynatrace-$~image,domain=~dynatrace-managed.com|~dynatrace.com|~github.com|~github.io               INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||dynatrace-managed.com^$third-party                                                                 INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /b.banners.impress.                                                                                  INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-||chingovernment.com^                                                                                INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||chingovernment.com^                                                                                INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
