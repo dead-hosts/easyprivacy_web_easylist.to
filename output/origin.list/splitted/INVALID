@@ -3550,4 +3550,4 @@ $ping,third-party                                                               
 ||chingovernment.com^                                                                                INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||lokalleads-cci.com^$third-party                                                                    INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /dynatrace.$~third-party,domain=~dynatrace.com|~dynatrace.udemy.com|~github.com|~github.io           INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-_track_pixel.gif?                                                                                    INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+_track_pixel.gif?                                                                                    INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
