@@ -3553,3 +3553,4 @@ $ping,third-party                                                               
 _track_pixel.gif?                                                                                    INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||ustat.info^                                                                                        INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /dynatrace.$~third-party,domain=~dynatrace.com|~dynatrace.jbhunt.com|~dynatrace.udemy.com|~dynatrace.zoom.us|~github.com|~github.io INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||fleraprt.com^                                                                                      INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
