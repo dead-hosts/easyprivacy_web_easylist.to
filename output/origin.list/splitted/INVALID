@@ -3552,4 +3552,4 @@ $ping,third-party                                                               
 /dynatrace.$~third-party,domain=~dynatrace.com|~dynatrace.udemy.com|~github.com|~github.io           INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 _track_pixel.gif?                                                                                    INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||ustat.info^                                                                                        INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-/dynatrace.$~third-party,domain=~dynatrace.com|~dynatrace.jbhunt.com|~dynatrace.udemy.com|~dynatrace.zoom.us|~github.com|~github.io INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+/dynatrace.$~third-party,domain=~dynatrace.com|~dynatrace.jbhunt.com|~dynatrace.udemy.com|~dynatrace.zoom.us|~github.com|~github.io INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
