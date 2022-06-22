@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202206220131
+! Version: 202206220200
 ! Title: EasyPrivacy
-! Last modified: 22 Jun 2022 01:31 UTC
+! Last modified: 22 Jun 2022 02:00 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -13123,6 +13123,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tags.cdn.circlesix.co^
 ||tags.clickagy.com^
 ||tags.creativille.co.uk^
+||tags.fullcontact.com^
 ||tags.master-perf-tools.com^
 ||tags.newscgp.com^
 ||tags.refinery89.com^
@@ -27176,6 +27177,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||collectandgo.be^*/utag.sync.js
 @@||d2zv6vzmaqao5e.cloudfront.net/css/foodticket/*_google_analytics.js
 @@||googletagmanager.com/gtm.js$script,domain=beterbed.nl|finanzen.ch|mediamarkt.nl
+@@||marketingautomation.services^$script,domain=leeuwerik.nl
 @@||optimizely.addmilk.nl^$image,domain=simyo.nl
 @@||stock.skoda.be/assets/scripts/analytics/$script,~third-party
 @@||travelbags.nl^*/web-vitals.$~third-party
