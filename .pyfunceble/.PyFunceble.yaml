@@ -1,3 +1,4 @@
+ate: false
 cli_decoding:
     adblock: false
     adblock_aggressive: false
@@ -69,7 +70,6 @@ dns:
     protocol: UDP
     server: null
     trust_server: false
-hois: true
 http_codes:
     list:
         potentially_down:
