@@ -3591,4 +3591,5 @@ _track_pixel.gif?                                                               
 ||loader-cdn.azureedge.net^                                                                          INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||olytics.omeda.com^                                                                                 INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 /metric/?wid=                                                                                        INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-/analytics/collect|                                                                                  INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+/analytics/collect|                                                                                  INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||stated.io^$third-party                                                                             INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
