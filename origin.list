@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202206230007
+! Version: 202206230457
 ! Title: EasyPrivacy
-! Last modified: 23 Jun 2022 00:07 UTC
+! Last modified: 23 Jun 2022 04:57 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -625,6 +625,7 @@
 /analytics/click?
 /analytics/cms/*
 /analytics/cnnvan/*
+/analytics/collect|
 /analytics/collect?
 /analytics/collect_
 /analytics/collector.
@@ -12470,6 +12471,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||loggingapi.spingo.com^
 ||loglady.skypicker.com^
 ||logs-api.shoprunner.com^
+||logs.animaapp.com^
 ||logs.datadoghq.com^$domain=~app.datadoghq.com
 ||logs.datadoghq.eu^$domain=~app.datadoghq.eu
 ||logs.spilgames.com^
@@ -25598,8 +25600,8 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||space-blogs.net/include/counter/
 ||stat.ouedkniss.com^
 ||stats.sexemodel.com^
-||stats.zone-annuaire.one^
-||stats.zone-telechargement.click^
+||stats.zone-annuaire.
+||stats.zone-telechargement.
 ||surace-jujitsu.fr/outils/compteur_php/
 ||t.blablacar.com^
 ||tc2.hometogo.net^
