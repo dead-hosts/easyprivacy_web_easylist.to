@@ -3623,3 +3623,4 @@ _track_pixel.gif?
 /v1/analytics/*
 /dynatrace/*$domain=~dynatrace-managed.com|~dynatrace.com|~github.com|~github.io
 ||ad1x.com^$third-party
+||pirsch.io^$third-party
