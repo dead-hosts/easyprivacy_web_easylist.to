@@ -3598,4 +3598,5 @@ _track_pixel.gif?                                                               
 /v1/analytics/*                                                                                      INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /dynatrace/*$domain=~dynatrace-managed.com|~dynatrace.com|~github.com|~github.io                     INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||ad1x.com^$third-party                                                                              INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-||pirsch.io^$third-party                                                                             INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||pirsch.io^$third-party                                                                             INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||posthog.com^$third-party                                                                           INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
