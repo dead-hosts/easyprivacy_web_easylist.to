@@ -3621,4 +3621,5 @@ _track_pixel.gif?
 ||revlifter.com/pageview
 /dynatrace/*$domain=~dynatrace-managed.com|~dynatrace.com|~github.com|~github.io
 /v1/analytics/*
+/dynatrace/*$domain=~dynatrace-managed.com|~dynatrace.com|~github.com|~github.io
 ||ad1x.com^$third-party

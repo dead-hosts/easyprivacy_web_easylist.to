@@ -3502,6 +3502,6 @@ _track_pixel.gif?,AVAILABILITY,origin.list,2022-06-09 08:41:32.825869
 ||stated.io^$third-party,AVAILABILITY,origin.list,2022-06-23 05:41:41.022940
 ||logs.animaapp.com^,AVAILABILITY,origin.list,2022-06-23 07:31:58.821937
 ||revlifter.com/pageview,AVAILABILITY,origin.list,2022-06-23 12:57:03.609790
-/dynatrace/*$domain=~dynatrace-managed.com|~dynatrace.com|~github.com|~github.io,AVAILABILITY,origin.list,2022-06-24 07:14:45.350477
-/v1/analytics/*,AVAILABILITY,origin.list,2022-06-24 07:18:16.191966
-||ad1x.com^$third-party,AVAILABILITY,origin.list,2022-06-24 07:20:27.637996
+/v1/analytics/*,AVAILABILITY,origin.list,2022-06-24 07:03:44.750645
+/dynatrace/*$domain=~dynatrace-managed.com|~dynatrace.com|~github.com|~github.io,AVAILABILITY,origin.list,2022-06-24 07:21:15.875178
+||ad1x.com^$third-party,AVAILABILITY,origin.list,2022-06-24 07:26:24.393299
