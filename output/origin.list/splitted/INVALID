@@ -3595,3 +3595,4 @@ _track_pixel.gif?                                                               
 ||stated.io^$third-party                                                                             INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||logs.animaapp.com^                                                                                 INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||revlifter.com/pageview                                                                             INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+/v1/analytics/*                                                                                      INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
