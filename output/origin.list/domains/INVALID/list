@@ -3619,4 +3619,6 @@ _track_pixel.gif?
 ||stated.io^$third-party
 ||logs.animaapp.com^
 ||revlifter.com/pageview
+/dynatrace/*$domain=~dynatrace-managed.com|~dynatrace.com|~github.com|~github.io
 /v1/analytics/*
+||ad1x.com^$third-party
