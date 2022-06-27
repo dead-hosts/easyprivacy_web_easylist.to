@@ -3642,3 +3642,4 @@ _track_pixel.gif?
 /wizrocketmail.net/r?$image
 /maillist.*/t/$image
 ||contiamo.com^$third-party
+/v1/analytics/*$domain=~platform.axway.com
