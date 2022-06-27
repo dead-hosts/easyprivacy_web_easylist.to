@@ -3613,3 +3613,7 @@ _track_pixel.gif?                                                               
 /maillist.*/t/$image                                                                                 INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||contiamo.com^$third-party                                                                          INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /v1/analytics/*$domain=~platform.axway.com                                                           INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||achieverknee.com^                                                                                  INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||pointlesspocket.com^                                                                               INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||rhetoricalveil.com^                                                                                INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||wellgroomedapparel.com^                                                                            INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
