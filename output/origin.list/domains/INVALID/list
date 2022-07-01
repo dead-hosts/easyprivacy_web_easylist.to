@@ -3660,4 +3660,6 @@ _track_pixel.gif?
 /mn-collector.
 /r.rnc?
 ||leadliaison.com/tracking_engine/
+/event?sendBeacon=
+://posthog.$domain=~posthog.com
 ||superpointlesshamsters.com^
