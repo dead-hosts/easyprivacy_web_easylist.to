@@ -3663,4 +3663,6 @@ _track_pixel.gif?
 /event?sendBeacon=
 ://posthog.$domain=~posthog.com
 ||superpointlesshamsters.com^
+/event?sendBeacon=
+://posthog.$domain=~posthog.com
 ||captcha-display.com^
