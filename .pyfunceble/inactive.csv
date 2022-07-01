@@ -3541,4 +3541,6 @@ _track_pixel.gif?,AVAILABILITY,origin.list,2022-06-09 08:41:32.825869
 ||superpointlesshamsters.com^,AVAILABILITY,origin.list,2022-07-01 02:53:31.541314
 /event?sendBeacon=,AVAILABILITY,origin.list,2022-07-01 03:09:27.364493
 ://posthog.$domain=~posthog.com,AVAILABILITY,origin.list,2022-07-01 03:12:42.322948
-||captcha-display.com^,AVAILABILITY,origin.list,2022-07-01 03:46:03.585008
+||captcha-display.com^,AVAILABILITY,origin.list,2022-07-01 03:41:45.513323
+||openfpcdn.io^,AVAILABILITY,origin.list,2022-07-01 04:03:05.532222
+||dropboxfingerprintjs.com^$third-party,AVAILABILITY,origin.list,2022-07-01 04:04:04.453159

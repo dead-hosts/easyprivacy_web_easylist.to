@@ -3633,3 +3633,5 @@ _track_pixel.gif?                                                               
 /event?sendBeacon=                                                                                   INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ://posthog.$domain=~posthog.com                                                                      INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||captcha-display.com^                                                                               INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||openfpcdn.io^                                                                                      INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||dropboxfingerprintjs.com^$third-party                                                              INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 

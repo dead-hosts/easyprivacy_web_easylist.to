@@ -3666,3 +3666,5 @@ _track_pixel.gif?
 /event?sendBeacon=
 ://posthog.$domain=~posthog.com
 ||captcha-display.com^
+||openfpcdn.io^
+||dropboxfingerprintjs.com^$third-party
