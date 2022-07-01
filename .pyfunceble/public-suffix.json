@@ -755,6 +755,7 @@
     "cc": [
         "cloudns.cc",
         "csx.cc",
+        "encr.app",
         "fantasyleague.cc",
         "ftpaccess.cc",
         "game-server.cc",
