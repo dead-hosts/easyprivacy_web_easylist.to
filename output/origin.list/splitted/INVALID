@@ -3638,3 +3638,4 @@ _track_pixel.gif?                                                               
 /egcs/v2/collect                                                                                     INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||expedia.com/vaclog/                                                                                INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 /dwell-log?                                                                                          INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+/_ga?send&                                                                                           INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
