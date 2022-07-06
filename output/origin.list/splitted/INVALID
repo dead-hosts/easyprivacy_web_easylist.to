@@ -3688,3 +3688,6 @@ _track_pixel.gif?                                                               
 ||quantcast.com/?log                                                                                 INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||zipperxray.com^                                                                                    INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||pzimff.com^                                                                                        INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+/log/businessEvent?                                                                                  INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||ciqtracking.com^                                                                                   INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||pzapi-ij.com^                                                                                      INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
