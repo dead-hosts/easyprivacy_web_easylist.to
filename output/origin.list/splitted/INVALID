@@ -3691,3 +3691,4 @@ _track_pixel.gif?                                                               
 /log/businessEvent?                                                                                  INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||ciqtracking.com^                                                                                   INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||pzapi-ij.com^                                                                                      INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||events.release.narrativ.com^$subdocument,xmlhttprequest                                            INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
