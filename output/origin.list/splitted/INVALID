@@ -3697,3 +3697,4 @@ _track_pixel.gif?                                                               
 /rainbow/track|                                                                                      INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /pageviews/*$domain=~mediawiki.org|~pageviews.wmcloud.org|~quiz.mkpo.li|~tools.wmflabs.org|~wikimedia.org|~wikipedia.org INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||blend.com/event/                                                                                   INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+/facebook/pixel.js                                                                                   INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
