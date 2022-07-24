@@ -3729,4 +3729,5 @@ _track_pixel.gif?                                                               
 ||deprecated-custom-domains.b-cdn.net^$third-party                                                   INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||speedhq.net^$third-party                                                                           INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /branchMetrics.                                                                                      INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-/counter/acnt.php?                                                                                   INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+/counter/acnt.php?                                                                                   INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||tncid.app^                                                                                         INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
