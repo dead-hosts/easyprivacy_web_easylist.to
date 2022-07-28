@@ -3734,3 +3734,5 @@ _track_pixel.gif?                                                               
 ||rfpx1.com^                                                                                         INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||sezzle.com/v1/event/log                                                                            INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 /perimeterx/*$domain=~github.com|~github.io                                                          INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||affilimate.io^$third-party                                                                         INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||affilimate.com^$third-party                                                                        INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
