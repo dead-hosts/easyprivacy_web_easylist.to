@@ -3773,5 +3773,6 @@ _track_pixel.gif?
 ||rfpx1.com^
 ||sezzle.com/v1/event/log
 /perimeterx/*$domain=~github.com|~github.io
-||affilimate.io^$third-party
+/cradleError.
 ||affilimate.com^$third-party
+||affilimate.io^$third-party
