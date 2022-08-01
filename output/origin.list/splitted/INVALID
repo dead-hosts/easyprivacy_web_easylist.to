@@ -3743,3 +3743,5 @@ _track_pixel.gif?                                                               
 ||lsdm.co^                                                                                           INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||sailthru.com^$third-party                                                                          INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||mql5.com/st?                                                                                       INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+/hit?aff_id=$xmlhttprequest                                                                          INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||unative.com^$third-party                                                                           INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
