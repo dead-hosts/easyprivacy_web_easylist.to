@@ -3746,3 +3746,4 @@ _track_pixel.gif?                                                               
 /hit?aff_id=$xmlhttprequest                                                                          INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||unative.com^$third-party                                                                           INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /onl/track.php?                                                                                      INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+/stats/v2/visit?                                                                                     INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
