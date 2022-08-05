@@ -3752,6 +3752,7 @@ _track_pixel.gif?                                                               
 /i?e=pv&url=                                                                                         INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||solutions.invocacdn.com^                                                                           INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||js-delivr.com^$third-party                                                                         INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+/analytics-reporter/*                                                                                INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 /prod-dataroid.                                                                                      INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-/webtrends/webtrends.                                                                                INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+/webtrends/webtrends.                                                                                INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||dataroid.com^$third-party                                                                          INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 

@@ -3792,6 +3792,7 @@ _track_pixel.gif?
 /i?e=pv&url=
 ||solutions.invocacdn.com^
 ||js-delivr.com^$third-party
+/analytics-reporter/*
 /prod-dataroid.
 /webtrends/webtrends.
 ||dataroid.com^$third-party
