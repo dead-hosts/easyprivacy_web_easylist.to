@@ -3798,4 +3798,7 @@ _track_pixel.gif?
 ||dataroid.com^$third-party
 /analytics-reporter/*
 ||flux-cdn.com/plugin/common/analytics/
+/ASPixel.js
+||fzlnk.com^
+||pixel-tracker.com^
 ||b8cdn.com/assets/v1/analytics-
