@@ -3820,3 +3820,6 @@ _track_pixel.gif?
 /koko-analytics/*
 /redis_stats/*
 ||leadfamly.com^$third-party
+.inxmail-commerce.com/tracking/$image
+.inxserver.com/transparent.gif
+/redir.inxmail-commerce.com/r/*$image
