@@ -3774,4 +3774,8 @@ _track_pixel.gif?                                                               
 /amp-tealium?                                                                                        INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||flipp.com/beacons                                                                                  INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||pocketfaucet.com^                                                                                  INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+/datacollectionapi-client/*                                                                          INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+/koko-analytics/*                                                                                    INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 /pageview_candidate.                                                                                 INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+/redis_stats/*                                                                                       INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||leadfamly.com^$third-party                                                                         INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 

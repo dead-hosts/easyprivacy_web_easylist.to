@@ -3813,4 +3813,8 @@ _track_pixel.gif?
 /amp-tealium?
 ||flipp.com/beacons
 ||pocketfaucet.com^
+/datacollectionapi-client/*
+/koko-analytics/*
 /pageview_candidate.
+/redis_stats/*
+||leadfamly.com^$third-party

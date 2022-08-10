@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202208100443
+! Version: 202208100452
 ! Title: EasyPrivacy
-! Last modified: 10 Aug 2022 04:43 UTC
+! Last modified: 10 Aug 2022 04:52 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1596,6 +1596,7 @@
 /data_collect.js
 /datacapture/track
 /datacollectcode?
+/datacollectionapi-client/*
 /datadome/*
 /DatazoomAnalytics.
 /DavplusAnalytics.
@@ -2643,6 +2644,7 @@
 /kiwip.js
 /klaviyo_analytics.
 /KochavaAnalytics.
+/koko-analytics/*
 /kontera.js
 /konterayahoooo.
 /kooomo.tracker.
@@ -3681,6 +3683,7 @@
 /RecordHit?
 /recstatsv2.
 /redirectexittrack.php?
+/redis_stats/*
 /reelevant.js
 /ref_analytics.
 /refer-tracking.
@@ -7386,6 +7389,7 @@ _mongo_stats/
 ||leadchampion.com^$third-party
 ||leaddyno.com^$third-party
 ||leadelephant.com^$third-party
+||leadfamly.com^$third-party
 ||leadfeeder.com^$third-party
 ||leadforce1.com^$third-party
 ||leadforensics.com^$third-party
