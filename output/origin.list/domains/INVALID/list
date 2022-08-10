@@ -3816,5 +3816,7 @@ _track_pixel.gif?
 /datacollectionapi-client/*
 /koko-analytics/*
 /pageview_candidate.
+/datacollectionapi-client/*
+/koko-analytics/*
 /redis_stats/*
 ||leadfamly.com^$third-party
