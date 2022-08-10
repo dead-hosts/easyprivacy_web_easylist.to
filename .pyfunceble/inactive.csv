@@ -3682,8 +3682,8 @@ _track_pixel.gif?,AVAILABILITY,origin.list,2022-06-09 08:41:32.825869
 /amp-tealium?,AVAILABILITY,origin.list,2022-08-09 03:04:27.054754
 ||flipp.com/beacons,AVAILABILITY,origin.list,2022-08-09 06:03:39.438309
 ||pocketfaucet.com^,AVAILABILITY,origin.list,2022-08-09 13:32:19.966159
-/pageview_candidate.,AVAILABILITY,origin.list,2022-08-10 04:56:46.394526
-/datacollectionapi-client/*,AVAILABILITY,origin.list,2022-08-10 05:15:14.051038
-/koko-analytics/*,AVAILABILITY,origin.list,2022-08-10 05:16:45.692302
-/redis_stats/*,AVAILABILITY,origin.list,2022-08-10 05:17:41.762215
-||leadfamly.com^$third-party,AVAILABILITY,origin.list,2022-08-10 05:22:14.977057
+/pageview_candidate.,AVAILABILITY,origin.list,2022-08-10 05:00:19.490791
+/datacollectionapi-client/*,AVAILABILITY,origin.list,2022-08-10 05:20:18.865104
+/koko-analytics/*,AVAILABILITY,origin.list,2022-08-10 05:22:02.676676
+/redis_stats/*,AVAILABILITY,origin.list,2022-08-10 05:23:03.689277
+||leadfamly.com^$third-party,AVAILABILITY,origin.list,2022-08-10 05:28:16.606596
