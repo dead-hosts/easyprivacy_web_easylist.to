@@ -3782,3 +3782,4 @@ _track_pixel.gif?                                                               
 .inxmail-commerce.com/tracking/$image                                                                INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 .inxserver.com/transparent.gif                                                                       INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /redir.inxmail-commerce.com/r/*$image                                                                INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+/imp?reqid=                                                                                          INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
