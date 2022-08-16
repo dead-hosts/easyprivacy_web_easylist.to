@@ -3839,3 +3839,5 @@ _track_pixel.gif?
 /add_anonymous_identifier
 ||am.i.mullvad.net^$third-party
 ||analytics.pixels.ai^
+||logs.datadoghq.com^$third-party
+||logs.datadoghq.eu^$third-party

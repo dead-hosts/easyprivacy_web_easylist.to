@@ -3706,3 +3706,5 @@ _track_pixel.gif?,AVAILABILITY,origin.list,2022-06-09 08:41:32.825869
 /add_anonymous_identifier,AVAILABILITY,origin.list,2022-08-15 04:39:48.027372
 ||am.i.mullvad.net^$third-party,AVAILABILITY,origin.list,2022-08-15 11:14:55.617721
 ||analytics.pixels.ai^,AVAILABILITY,origin.list,2022-08-16 04:20:02.793593
+||logs.datadoghq.com^$third-party,AVAILABILITY,origin.list,2022-08-16 14:02:00.664677
+||logs.datadoghq.eu^$third-party,AVAILABILITY,origin.list,2022-08-16 14:02:00.738814
