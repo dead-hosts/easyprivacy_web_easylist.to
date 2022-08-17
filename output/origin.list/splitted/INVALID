@@ -3800,3 +3800,4 @@ _track_pixel.gif?                                                               
 ||analytics.pixels.ai^                                                                               INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||logs.datadoghq.com^$third-party                                                                    INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||logs.datadoghq.eu^$third-party                                                                     INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||froomle.com^$third-party                                                                           INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
