@@ -3801,3 +3801,6 @@ _track_pixel.gif?                                                               
 ||logs.datadoghq.com^$third-party                                                                    INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||logs.datadoghq.eu^$third-party                                                                     INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||froomle.com^$third-party                                                                           INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||rtactivate.com^                                                                                    INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||resetdigital.co^$third-party                                                                       INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||stupidscene.com^                                                                                   INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
