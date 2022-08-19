@@ -3811,7 +3811,8 @@ _track_pixel.gif?                                                               
 ||automizely-analytics.com^$third-party                                                              INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /dynamic.ziftsolutions.com/*                                                                         INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||mrpdata.net^                                                                                       INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-||quesid.com^                                                                                        INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
-||rigill.com^                                                                                        INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
-||yottlyscript.com^                                                                                  INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||quesid.com^                                                                                        INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||rigill.com^                                                                                        INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||yottlyscript.com^                                                                                  INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||amp.vg^$third-party                                                                                INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||agent.contentsanalyst.com^                                                                         INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
