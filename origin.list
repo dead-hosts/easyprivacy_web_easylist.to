@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202208190119
+! Version: 202208190129
 ! Title: EasyPrivacy
-! Last modified: 19 Aug 2022 01:19 UTC
+! Last modified: 19 Aug 2022 01:29 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6055,6 +6055,7 @@ _mongo_stats/
 ||pzapi-ij.com^
 ||pzimff.com^
 ||quantserve.com^
+||quesid.com^
 ||quickanalytics.ca^
 ||quickkoala.io^
 ||r42tag.com^
@@ -6064,6 +6065,7 @@ _mongo_stats/
 ||rezync.com^
 ||rfpx1.com^
 ||rftslb.com^
+||rigill.com^
 ||rkdms.com^
 ||rlcdn.com^
 ||rtactivate.com^
@@ -6111,6 +6113,7 @@ _mongo_stats/
 ||wmgroup.us^
 ||woodpeckerlog.com^
 ||yardianalytics.com^
+||yottlyscript.com^
 ||z0uolej1qnxzub1.info^
 ||zdbb.net^
 ||zenaps.com^
@@ -12519,6 +12522,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||liverail.com/?metric=
 ||liverail.com/track/?
 ||livestats.kaltura.com^
+||livestory.io/*/collect
 ||loader-cdn.azureedge.net^
 ||loader.zeroform.com^
 ||location3.com/analytics/
@@ -13314,6 +13318,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tracker.unbxdapi.com^
 ||tracker.wigzopush.com^
 ||tracker.wpserveur.net^
+||tracker.xgen.dev^
 ||trackerapi.truste.com^
 ||trackicollect.ibase.fr^$third-party
 ||tracking.*.miui.com^
