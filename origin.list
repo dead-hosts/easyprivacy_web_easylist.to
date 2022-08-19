@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202208190400
+! Version: 202208190419
 ! Title: EasyPrivacy
-! Last modified: 19 Aug 2022 04:00 UTC
+! Last modified: 19 Aug 2022 04:19 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5924,6 +5924,7 @@ _mongo_stats/
 ||briskpelican.io^
 ||brontops.com^
 ||bydst.com^
+||cadsuta.net^
 ||captcha-display.com^
 ||cdnhst.xyz^
 ||ciqtracking.com^
@@ -6023,6 +6024,7 @@ _mongo_stats/
 ||lsdm.co^
 ||maggieeatstheangel.com^
 ||matheranalytics.com^
+||mcangelus.com^
 ||mdhv.io^
 ||mm-api.agency^
 ||mors22.com^
@@ -10609,6 +10611,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||refinedads.com^$third-party
 ||research.de.com^$third-party
 ||reshin.de^$third-party
+||retailads.net^$third-party
 ||rightstats.com^$third-party
 ||royalcount.de^$third-party
 ||scriptil.com^$third-party
@@ -27182,6 +27185,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||home.mobile.de^*/trackingService.js$script,~third-party
 @@||img.adnz.co^$image,domain=finanzen.ch
 @@||imrworldwide.com/novms/*/ggcm*.js$domain=tvnow.de
+@@||intersport.peerius.com/tracker/tracker.page$script,domain=intersport.de
 @@||kameleoon.com/geolocation.gif$domain=welt.de
 @@||kameleoon.com/ip.gif$domain=welt.de
 @@||kameleoon.eu/ip.gif$domain=welt.de
