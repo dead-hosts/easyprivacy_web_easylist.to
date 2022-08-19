@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202208190101
+! Version: 202208190111
 ! Title: EasyPrivacy
-! Last modified: 19 Aug 2022 01:01 UTC
+! Last modified: 19 Aug 2022 01:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1707,6 +1707,7 @@
 /dwanalytics.
 /dwell-log?
 /dwell/log?
+/dynamic.ziftsolutions.com/*
 /dynamic_ytrack_
 /DynamicAnalytics.
 /dynamictag.
@@ -6024,6 +6025,7 @@ _mongo_stats/
 ||mdhv.io^
 ||mm-api.agency^
 ||mors22.com^
+||mrpdata.net^
 ||mt48.net^
 ||n0909.com^
 ||native-track.com^
@@ -6303,6 +6305,7 @@ _mongo_stats/
 ||ambercrow.com^$third-party
 ||amikay.com^$third-party
 ||amnet.tw^$third-party
+||amp.vg^$third-party
 ||amplitude.com^$third-party
 ||ampush.io^$third-party
 ||amung.us^$third-party
@@ -12821,6 +12824,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||player.ooyala.com/errors/report?
 ||playtomic.com/Tracker/
 ||plista.com/activity
+||pm.boostintegrated.com^
 ||poool.fr/api/v3/access/event
 ||porpoise.azettl.net^
 ||postageapp.com/receipt/$third-party
