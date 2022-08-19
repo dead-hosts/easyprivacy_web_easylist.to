@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202208190045
+! Version: 202208190100
 ! Title: EasyPrivacy
-! Last modified: 19 Aug 2022 00:45 UTC
+! Last modified: 19 Aug 2022 01:00 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5888,6 +5888,7 @@ _mongo_stats/
 ! Non-flagged (Generic blocks)
 ||1cros.net^
 ||2022welcome.com^
+||2l6ddsmnm.de^
 ||31daa5lnq.de^
 ||520886.xyz^
 ||8672.site^
@@ -6380,6 +6381,7 @@ _mongo_stats/
 ||autoaudience.com^$third-party
 ||autoid.com^$third-party
 ||autoline-top.com^$third-party
+||automizely-analytics.com^$third-party
 ||avantlink.com^$third-party
 ||avapartner.com^$third-party
 ||avastats.com^$third-party
