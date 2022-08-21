@@ -1,34 +1,33 @@
-adblock: true
 cli_decoding:
     adblock: false
     adblock_aggressive: false
     rpz: false
     wildcard: false
 cli_testing:
-    autocontinue: true
-    chancy_tester: true
+    autocontinue: false
+    chancy_tester: false
     ci:
-        active: true
+        active: false
         branch: master
-        command: hash dead_hosts_launcher && dead_hosts_launcher --save
-        commit_message: '[Autosave][Dead-Hosts::easyprivacy_web_easylist.to]'
+        command: null
+        commit_message: PyFunceble - AutoSave
         distribution_branch: master
-        end_command: hash dead_hosts_launcher && dead_hosts_launcher --end
-        end_commit_message: '[Final/Result][Dead-Hosts::easyprivacy_web_easylist.to]'
-        max_exec_minutes: 20
+        end_command: null
+        end_commit_message: PyFunceble - Results
+        max_exec_minutes: 15
     cidr_expand: false
     complements: false
-    cooldown_time: 0.2
+    cooldown_time: 0.0
     days_between:
         db_clean: 28
         db_retest: 1
     db_type: csv
     display_mode:
-        all: true
+        all: false
         colour: true
-        dots: true
-        execution_time: true
-        less: false
+        dots: false
+        execution_time: false
+        less: true
         max_registrar: 15
         percentage: true
         quiet: false
@@ -46,7 +45,7 @@ cli_testing:
     hosts_ip: 0.0.0.0
     inactive_db: true
     local_network: false
-    max_workers: 5
+    max_workers: null
     mining: false
     preload_file: false
     sorting_mode:
@@ -59,7 +58,7 @@ cli_testing:
     whois_db: true
 collection:
     preferred_status_origin: recommended
-    push: true
+    push: false
     url_base: https://collection.dead-hosts.funilrys.com
 debug:
     active: false
@@ -68,9 +67,7 @@ dns:
     delay: 0.0
     follow_server_order: true
     protocol: UDP
-    server:
-    - 8.8.8.8
-    - 8.8.4.4
+    server: null
     trust_server: false
 http_codes:
     list:
@@ -138,12 +135,11 @@ http_codes:
         - 226
         - 429
     self_managed: false
-inactive_database: false
 links:
     api_date_format: https://pyfunceble.funilrys.com/api/date-format
     api_no_referrer: https://pyfunceble.funilrys.com/api/no-referrer
 lookup:
-    collection: true
+    collection: false
     dns: true
     http_status_code: true
     netinfo: true
@@ -151,6 +147,19 @@ lookup:
     special: true
     timeout: 5
     whois: true
+max_http_retries: 3
+proxy:
+    global:
+        http: null
+        https: null
+    rules: []
+share_logs: false
+user_agent:
+    browser: chrome
+    custom: null
+    platform: linux
+verify_ssl_certificate: false
+hois: true
 max_http_retries: 3
 proxy:
     global:
