@@ -3831,3 +3831,4 @@ _track_pixel.gif?                                                               
 /sentry-browser.                                                                                     INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||blueknow.com^$third-party                                                                          INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||adbr.io/log?                                                                                       INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+/koko-analytics/*$domain=~kokoanalytics.com                                                          INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 

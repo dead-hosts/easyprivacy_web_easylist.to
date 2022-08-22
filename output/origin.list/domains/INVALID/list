@@ -3876,3 +3876,4 @@ _track_pixel.gif?
 /sentry-browser.
 ||blueknow.com^$third-party
 ||adbr.io/log?
+/koko-analytics/*$domain=~kokoanalytics.com
