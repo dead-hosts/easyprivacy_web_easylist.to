@@ -3878,3 +3878,5 @@ _track_pixel.gif?
 ||adbr.io/log?
 /koko-analytics/*$domain=~kokoanalytics.com
 ||enhencer.com^$third-party
+/dataunlocker-prod.
+/dataunlocker.js
