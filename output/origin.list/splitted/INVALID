@@ -3838,5 +3838,5 @@ _track_pixel.gif?                                                               
 ||event-logger.tagboard.com^                                                                         INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||crta.and.co.uk^                                                                                    INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 /nsmg-tracking/*                                                                                     INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-/koko-analytics-                                                                                     INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
-/koko-analytics/*/script.js                                                                          INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+/koko-analytics-                                                                                     INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+/koko-analytics/*/script.js                                                                          INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
