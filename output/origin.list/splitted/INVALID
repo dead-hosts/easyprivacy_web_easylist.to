@@ -3843,5 +3843,6 @@ _track_pixel.gif?                                                               
 /imp_-_pixel.                                                                                        INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /YandexMetric.                                                                                       INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||monorail-edge.shopifysvc.com^                                                                      INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||clarium.io^$third-party                                                                            INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||addthis.com^$third-party                                                                           INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||addthiscdn.com^$domain=~addthis.com                                                                INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
