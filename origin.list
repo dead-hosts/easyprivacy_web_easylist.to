@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202208251208
+! Version: 202208251231
 ! Title: EasyPrivacy
-! Last modified: 25 Aug 2022 12:08 UTC
+! Last modified: 25 Aug 2022 12:31 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6597,6 +6597,7 @@ _mongo_stats/
 ||cityadstrack.com^$third-party
 ||clarity.ms^$third-party
 ||claritytag.com^$third-party
+||clarium.io^$third-party
 ||clarivoy.com^$third-party
 ||cleananalytics.com^$third-party
 ||clearbitjs.com^$third-party
@@ -8814,6 +8815,9 @@ _mongo_stats/
 $ping,third-party
 ! https://www.opensubtitles.org/
 $third-party,xmlhttprequest,domain=opensubtitles.org
+! Oracle
+||addthis.com^$third-party
+||addthiscdn.com^$domain=~addthis.com
 ! revprotect
 ||pphwrevr.com^$third-party
 ||protectcrev.com^$third-party
@@ -15409,6 +15413,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||optimize-stats.voxmedia.com^
 ||optimizely.com/js/geo.js
 ||oracle.com/visitorinfo/
+||oracleimg.com^*/metrics/
 ||outbound.io/v2/identify
 ||outbound.io/v2/track
 ||overstock.com/analytics/
