@@ -3892,3 +3892,6 @@ _track_pixel.gif?
 ||addthis.com^$third-party
 ||addthiscdn.com^$domain=~addthis.com
 ||clarium.io^$third-party
+/analytics-amplitude-
+/api/v3/getPageVisits
+/api/v3/trackSegmentEvent

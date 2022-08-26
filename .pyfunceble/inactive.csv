@@ -3754,3 +3754,6 @@ _track_pixel.gif?,AVAILABILITY,origin.list,2022-06-09 08:41:32.825869
 ||addthis.com^$third-party,AVAILABILITY,origin.list,2022-08-25 12:58:34.185932
 ||addthiscdn.com^$domain=~addthis.com,AVAILABILITY,origin.list,2022-08-25 12:58:34.249711
 ||clarium.io^$third-party,AVAILABILITY,origin.list,2022-08-25 13:15:35.416091
+/analytics-amplitude-,AVAILABILITY,origin.list,2022-08-26 23:14:13.999520
+/api/v3/getPageVisits,AVAILABILITY,origin.list,2022-08-26 23:15:02.985195
+/api/v3/trackSegmentEvent,AVAILABILITY,origin.list,2022-08-26 23:15:03.750635
