@@ -3897,3 +3897,7 @@ _track_pixel.gif?
 /api/v3/trackSegmentEvent
 ||fpapi.io^
 /analytics.prod.
+/countly.js
+/countly.min.js
+||webanalysis.dev^$third-party
+||webtemsilcisi.com^$third-party
