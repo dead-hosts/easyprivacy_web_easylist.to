@@ -3851,4 +3851,4 @@ _track_pixel.gif?                                                               
 /api/v3/getPageVisits                                                                                INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /api/v3/trackSegmentEvent                                                                            INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||fpapi.io^                                                                                          INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-/analytics.prod.                                                                                     INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+/analytics.prod.                                                                                     INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
