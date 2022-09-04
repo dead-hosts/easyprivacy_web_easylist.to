@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202209041930
+! Version: 202209041937
 ! Title: EasyPrivacy
-! Last modified: 04 Sep 2022 19:30 UTC
+! Last modified: 04 Sep 2022 19:37 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5963,6 +5963,7 @@ _mongo_stats/
 ||dttrk.com^
 ||e1e.io^
 ||efreecode.com^
+||egoi.site^
 ||emycewiw.xyz^
 ||enthusiastgaming.net^
 ||eqy.link^
@@ -8691,6 +8692,7 @@ _mongo_stats/
 ||webleads-tracker.com^$third-party
 ||webmasterplan.com^$third-party
 ||weborama.com^$third-party
+||weborama.design^$third-party
 ||website-hit-counters.com^$third-party
 ||websiteceo.com^$third-party
 ||websiteonlinecounter.com^$third-party
