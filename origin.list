@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202209041256
+! Version: 202209041849
 ! Title: EasyPrivacy
-! Last modified: 04 Sep 2022 12:56 UTC
+! Last modified: 04 Sep 2022 18:49 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -14597,6 +14597,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||hitserver.ibope.com.br^
 ||jsuol.com/rm/clicklogger_
 ||lomadee.com/loc/$third-party
+||lurker.olx.com.br^
 ||nctrk.abmail.com.br^
 ||neurotrack.neurolake.io^
 ||statig.com.br/pub/setCookie.js?
@@ -14763,6 +14764,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||mtm.qdqmedia.com^
 ||reachandrich.antevenio.com^
 ||s3wfg.com/js/vortexloader.js
+||sp.vtex.com^
 ||stats.administrarweb.es^
 ||stats.miarroba.info^
 ||stats.qdq.com^
