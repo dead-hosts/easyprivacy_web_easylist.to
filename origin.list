@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202209041918
+! Version: 202209041930
 ! Title: EasyPrivacy
-! Last modified: 04 Sep 2022 19:18 UTC
+! Last modified: 04 Sep 2022 19:30 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -225,6 +225,7 @@
 .svc/?tracking_id=
 .tealium.$domain=~tealium.co.jp|~tealium.com
 .track.actions.get?
+.track_apply_impression/
 .track_Visit?
 .trackArticleAction&
 .tracking.js?dpv=
@@ -13308,6 +13309,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||track.emerse.com^
 ||track.hubspot.com^
 ||track.juno.com^
+||track.kinetiksoft.com^
 ||track.mailerlite.com^
 ||track.mituo.cn^
 ||track.mp4.center^
@@ -15704,6 +15706,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stat.livesportbar.net^
 ||stat.pubhtml5.com^
 ||stat.tildacdn.com^
+||stat.turb.pw^
 ||stat.vulkanvegas.com^
 ||stats-jobstreet-sg-en-prod.supercharge-srp.co^$domain=jobstreet.com.sg
 ||stats.aerotime.aero^
@@ -25789,6 +25792,11 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||rel.nextinpact.com^
 ||rel2.nextinpact.com^
 ||zam.nextinpact.com^
+! Belarusian
+||c1hit.zerkalo.io^
+||s1r.zerkalo.io^
+||s3r.zerkalo.io^
+||zerkalo.io/stat/
 ! Arabic
 ||mosoah.com/analytics.js
 ||tags.aljazeera.net^
