@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202209081207
+! Version: 202209081219
 ! Title: EasyPrivacy
-! Last modified: 08 Sep 2022 12:07 UTC
+! Last modified: 08 Sep 2022 12:19 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -9256,7 +9256,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||alleyskin.com^
 ||allowmailbox.com^$third-party
 ||aloofmetal.com^
-||aloofvest.com^$third-party
+||aloofvest.com^
 ||alpineactor.com^
 ||amazingairplane.com^$third-party
 ||ambiguousalarm.com^
@@ -9525,7 +9525,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||distancefinger.com^
 ||distinctday.com^$third-party
 ||distributiontomatoes.com^$third-party
-||disturbedquiet.com^$third-party
+||disturbedquiet.com^
 ||divehope.com^$third-party
 ||divergentoffer.com^
 ||dk4ywix.com^
@@ -9679,7 +9679,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||grayreceipt.com^
 ||greasegarden.com^
 ||greasemotion.com^
-||greasysquare.com^$third-party
+||greasysquare.com^
 ||greetzebra.com^
 ||greyinstrument.com^$third-party
 ||gripcorn.com^
@@ -10024,7 +10024,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||reflectivereward.com^
 ||regularplants.com^$third-party
 ||rejectfairies.com^$third-party
-||repeatsweater.com^$third-party
+||repeatsweater.com^
 ||replaceroute.com^
 ||representativeray.com^
 ||resolutekey.com^
@@ -10057,7 +10057,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ruthlessmilk.com^
 ||ruthlessrobin.com^
 ||sablesmile.com^
-||sablesong.com^$third-party
+||sablesong.com^
 ||sailsuit.com^
 ||samestretch.com^
 ||sandinsect.com^
@@ -10073,7 +10073,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||scarecrowslope.com^
 ||scaredcomfort.com^
 ||scaredsidewalk.com^
-||scaredsnake.com^$third-party
+||scaredsnake.com^
 ||scaredsnakes.com^
 ||scaredstory.com^
 ||scaredswing.com^
@@ -10213,7 +10213,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||spysubstance.com^
 ||squashfriction.com^
 ||squeakzinc.com^$third-party
-||squealingturn.com^$third-party
+||squealingturn.com^
 ||squeamishspot.com^
 ||squirrelhands.com^$third-party
 ||stakingscrew.com^
@@ -10361,7 +10361,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ultraoranges.com^
 ||unarmedindustry.com^$third-party
 ||unbecomingbikes.com^
-||unbecominghall.com^$third-party
+||unbecominghall.com^
 ||uncoveredcircle.com^
 ||uncoveredexpert.com^
 ||understoodocean.com^
@@ -10377,7 +10377,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||unusedquestion.com^
 ||unusedstone.com^
 ||unusualtitle.com^
-||unwieldyhealth.com^$third-party
+||unwieldyhealth.com^
 ||unwrittenspot.com^
 ||usedexample.com^
 ||uttermosthobbies.com^
