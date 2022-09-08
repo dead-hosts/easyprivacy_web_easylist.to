@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202209081242
+! Version: 202209081257
 ! Title: EasyPrivacy
-! Last modified: 08 Sep 2022 12:42 UTC
+! Last modified: 08 Sep 2022 12:57 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -9266,7 +9266,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ambitiousagreement.com^
 ||amusementmorning.com^
 ||amusinggirls.com^
-||ancientact.com^$third-party
+||ancientact.com^
 ||annoyedairport.com^
 ||annoyedfifth.com^
 ||annoyingacoustics.com^
@@ -9301,7 +9301,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||awesomeattack.com^
 ||awzbijw.com^$third-party
 ||axiomaticalley.com^$third-party
-||bagbeam.com^$third-party
+||bagbeam.com^
 ||balancemailbox.com^
 ||balloonbit.com^
 ||balloontexture.com^
@@ -9671,7 +9671,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||gloriouscracker.com^
 ||glossysense.com^
 ||godlygeese.com^
-||gondolagnome.com^$third-party
+||gondolagnome.com^
 ||gorgeousground.com^$third-party
 ||gracefulsock.com^
 ||grandioseguide.com^
@@ -9766,7 +9766,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||investigatepin.com^
 ||invitesugar.com^
 ||ivykiosk.com^
-||j93557g.com^$third-party
+||j93557g.com^
 ||jadedjoke.com^
 ||jadeitite.com^$third-party
 ||jailbulb.com^
