@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202209081200
+! Version: 202209081207
 ! Title: EasyPrivacy
-! Last modified: 08 Sep 2022 12:00 UTC
+! Last modified: 08 Sep 2022 12:07 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -9442,7 +9442,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||concernedcondition.com^
 ||concerneddrink.com^
 ||conditionchange.com^
-||conditioncrush.com^$third-party
+||conditioncrush.com^
 ||confesschairs.com^$third-party
 ||consciouschairs.com^$third-party
 ||consciouscheese.com^
@@ -10169,6 +10169,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||somberstructure.com^
 ||sombersurprise.com^$third-party
 ||songssmoke.com^
+||songsterritory.com^
 ||sootheside.com^
 ||sophisticatedstory.com^
 ||sophisticatedstove.com^
@@ -10195,6 +10196,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||spirebaboon.com^
 ||spitefulstop.com^
 ||spongesalt.com^
+||spookyexchange.com^
 ||spookysleet.com^
 ||spookyslope.com^
 ||spoonsilk.com^
@@ -10230,7 +10232,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||steadfastsound.com^$third-party
 ||steadfastsystem.com^
 ||steadycopper.com^
-||steepsquirrel.com^$third-party
+||steepsquirrel.com^
 ||stepplane.com^$third-party
 ||stereoproxy.com^
 ||stereotypedclub.com^
