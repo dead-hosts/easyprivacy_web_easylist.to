@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202209081219
+! Version: 202209081240
 ! Title: EasyPrivacy
-! Last modified: 08 Sep 2022 12:19 UTC
+! Last modified: 08 Sep 2022 12:40 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5919,6 +5919,7 @@ _mongo_stats/
 ||adnext.co^
 ||adrtx.net^
 ||adscore.com^
+||adspsp.com^
 ||adstk.io^
 ||adultium.com^
 ||affvantage.com^
@@ -6285,7 +6286,6 @@ _mongo_stats/
 ||adrizer.com^$third-party
 ||adrta.com^$third-party
 ||adsensedetective.com^$third-party
-||adspsp.com^$third-party
 ||adsrvr.org^$third-party
 ||adsymptotic.com^$third-party
 ||adtarget.me^$third-party
@@ -9226,7 +9226,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||absorbingband.com^
 ||absorbingcorn.com^$third-party
 ||absorbingprison.com^$third-party
-||abstractedamount.com^$third-party
+||abstractedamount.com^
 ||abstractedauthority.com^
 ||absurdapple.com^$third-party
 ||absurdwater.com^
@@ -9244,7 +9244,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||advertisementafterthought.com^
 ||afraidlanguage.com^$third-party
 ||agreeablestew.com^
-||agreeabletouch.com^$third-party
+||agreeabletouch.com^
 ||aheadday.com^$third-party
 ||aheadmachine.com^$third-party
 ||ajaralarm.com^
@@ -9267,7 +9267,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||amusementmorning.com^
 ||amusinggirls.com^
 ||ancientact.com^$third-party
-||annoyedairport.com^$third-party
+||annoyedairport.com^
 ||annoyedfifth.com^
 ||annoyingacoustics.com^
 ||anxiousapples.com^$third-party
@@ -9465,7 +9465,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cratecamera.com^
 ||crawlclocks.com^
 ||crayoncompetition.com^
-||critictruck.com^$third-party
+||critictruck.com^
 ||crowdedmass.com^
 ||cubchannel.com^$third-party
 ||culturedcrayon.com^$third-party
@@ -9499,7 +9499,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||debonairway.com^
 ||decidedrum.com^
 ||decisivebase.com^
-||decisivedrawer.com^$third-party
+||decisivedrawer.com^
 ||decisiveducks.com^
 ||decoroustitle.com^
 ||decoycreation.com^
@@ -9692,7 +9692,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||gullibleguitar.com^
 ||h78xb.pw^
 ||habitualhumor.com^
-||haltingbadge.com^$third-party
+||haltingbadge.com^
 ||haltinggold.com^
 ||hammerhearing.com^$third-party
 ||handleteeth.com^
@@ -9894,7 +9894,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||outstandingincome.com^
 ||outstandingsnails.com^
 ||ovalweek.com^
-||overconfidentfood.com^$third-party
+||overconfidentfood.com^
 ||overratedchalk.com^
 ||owlsr.us^
 ||paddleangle.com^
@@ -9935,7 +9935,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||piquantstove.com^
 ||pizzasnut.com^
 ||placeframe.com^
-||placidperson.com^$third-party
+||placidperson.com^
 ||plainplayground.com^
 ||plainrequest.com^
 ||planesorder.com^
@@ -9990,7 +9990,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||quarterbean.com^
 ||quicksandear.com^
 ||quietknowledge.com^$third-party
-||quizzicalzephyr.com^$third-party
+||quizzicalzephyr.com^
 ||rabbitbreath.com^
 ||rabbitrifle.com^
 ||railwayrainstorm.com^
@@ -10031,7 +10031,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||resonantbrush.com^$third-party
 ||resonantrock.com^$third-party
 ||respectrain.com^
-||rhetoricalloss.com^$third-party
+||rhetoricalloss.com^
 ||rhetoricalveil.com^
 ||rhymezebra.com^
 ||rhythmmoney.com^
@@ -10252,10 +10252,10 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stretchsister.com^
 ||stringsmile.com^
 ||stripedburst.com^
-||strivesidewalk.com^$third-party
+||strivesidewalk.com^
 ||structurerod.com^
 ||stupendousselection.com^
-||stupendoussleet.com^$third-party
+||stupendoussleet.com^
 ||stupendoussnow.com^
 ||stupidscene.com^
 ||stupidsnake.com^
@@ -10385,7 +10385,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||venusgloria.com^
 ||verdantanswer.com^
 ||verifyvegetable.com^
-||verseballs.com^$third-party
+||verseballs.com^
 ||virgoplato.com^
 ||vivaciousveil.com^
 ||voicevegetable.com^
