@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202209081006
+! Version: 202209081011
 ! Title: EasyPrivacy
-! Last modified: 08 Sep 2022 10:06 UTC
+! Last modified: 08 Sep 2022 10:11 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5943,6 +5943,7 @@ _mongo_stats/
 ||briskpelican.io^
 ||brontops.com^
 ||brsrvr.com^
+||btloader.com^
 ||bydst.com^
 ||cadsuta.net^
 ||captcha-display.com^
@@ -6064,6 +6065,7 @@ _mongo_stats/
 ||mors22.com^
 ||mrpdata.net^
 ||mt48.net^
+||mxpnl.com^
 ||n0909.com^
 ||native-track.com^
 ||niblewren.co^
@@ -6546,7 +6548,6 @@ _mongo_stats/
 ||browser-update.org^$third-party
 ||bstn-14-ma.com^$third-party
 ||btbuckets.com^$third-party
-||btloader.com^$third-party
 ||btncdn.com^$third-party
 ||btstatic.com^$third-party
 ||btttag.com^$third-party
@@ -7655,7 +7656,6 @@ _mongo_stats/
 ||mvilivestats.com^$third-party
 ||mvtracker.com^$third-party
 ||mxcdn.net^$third-party
-||mxpnl.com^$third-party
 ||mxptint.net^$third-party
 ||myaffiliateprogram.com^$third-party
 ||myaudience.de^$third-party
