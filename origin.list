@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202209081219
+! Version: 202209081223
 ! Title: EasyPrivacy
-! Last modified: 08 Sep 2022 12:19 UTC
+! Last modified: 08 Sep 2022 12:23 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -9578,7 +9578,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||endurableshop.com^
 ||energeticexample.com^
 ||energeticladybug.com^
-||enormousearth.com^$third-party
+||enormousearth.com^
 ||entertainingeyes.com^
 ||enthusiasticdad.com^
 ||enthusiasticring.com^
@@ -9686,7 +9686,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||grouchypush.com^
 ||guaranteelamp.com^
 ||guardedschool.com^
-||guiltlessbasketball.com^$third-party
+||guiltlessbasketball.com^
 ||guitargrandmother.com^
 ||gulliblecamp.com^$third-party
 ||gullibleguitar.com^
@@ -9971,7 +9971,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||producecopy.com^$third-party
 ||productivepear.com^
 ||profitrumour.com^$third-party
-||profusesupport.com^$third-party
+||profusesupport.com^
 ||promopassage.com^
 ||propertypotato.com^
 ||proudprose.com^
@@ -10093,7 +10093,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||scrollservice.com^
 ||scrubswim.com^$third-party
 ||seashoresociety.com^
-||seatsmoke.com^$third-party
+||seatsmoke.com^
 ||secretivecub.com^
 ||secretspiders.com^
 ||secretturtle.com^$third-party
@@ -10221,7 +10221,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stakingsmile.com^
 ||staleseat.com^
 ||staleshow.com^$third-party
-||stalesummer.com^$third-party
+||stalesummer.com^
 ||standingnest.com^
 ||standingsack.com^
 ||standtrouble.com^
