@@ -3985,4 +3985,5 @@ _track_pixel.gif?                                                               
 ||myvisitorcounter.com^$third-party                                                                  INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||podcorn.com^$third-party                                                                           INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 /api-insights/log?                                                                                   INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+/superstats.$domain=~superstats.dk                                                                   INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||netcentric.biz^$third-party                                                                        INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
