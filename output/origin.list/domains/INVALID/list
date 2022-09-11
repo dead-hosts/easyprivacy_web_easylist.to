@@ -4038,3 +4038,4 @@ _track_pixel.gif?
 /api-insights/log?
 /superstats.$domain=~superstats.dk
 ||netcentric.biz^$third-party
+/superstats.$domain=~superstats.dk
