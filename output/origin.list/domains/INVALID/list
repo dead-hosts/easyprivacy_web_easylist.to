@@ -4033,4 +4033,5 @@ _track_pixel.gif?
 ://fathom.$domain=~fathom.fm|~fathom.info|~fathom.io|~fathom.video|~fathomdelivers.com|~fathomseo.com|~usesfathom.com
 /call.tracker.js
 ||myvisitorcounter.com^$third-party
+/api-insights/log?
 ||podcorn.com^$third-party

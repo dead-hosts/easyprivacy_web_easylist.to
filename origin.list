@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202209111031
+! Version: 202209111038
 ! Title: EasyPrivacy
-! Last modified: 11 Sep 2022 10:31 UTC
+! Last modified: 11 Sep 2022 10:38 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -778,6 +778,7 @@
 /any/*.gif?
 /anycent_tracker_
 /api-analytics.
+/api-insights/log?
 /api/0/stats
 /api/analytics/*
 /api/analytics?

@@ -3983,4 +3983,5 @@ _track_pixel.gif?                                                               
 ://fathom.$domain=~fathom.fm|~fathom.info|~fathom.io|~fathom.video|~fathomdelivers.com|~fathomseo.com|~usesfathom.com INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /call.tracker.js                                                                                     INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||myvisitorcounter.com^$third-party                                                                  INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+/api-insights/log?                                                                                   INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||podcorn.com^$third-party                                                                           INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
