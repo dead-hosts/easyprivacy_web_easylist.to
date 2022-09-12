@@ -3986,5 +3986,6 @@ _track_pixel.gif?                                                               
 ||podcorn.com^$third-party                                                                           INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||netcentric.biz^$third-party                                                                        INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /superstats.$domain=~superstats.dk                                                                   INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-||boomtrain.com^                                                                                     INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||boomtrain.com^                                                                                     INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||trkn.us^                                                                                           INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||tw.cx^                                                                                             INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
