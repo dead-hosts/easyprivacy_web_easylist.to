@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202209161124
+! Version: 202209161148
 ! Title: EasyPrivacy
-! Last modified: 16 Sep 2022 11:24 UTC
+! Last modified: 16 Sep 2022 11:48 UTC
 ! Expires: 4 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5960,6 +5960,7 @@ _mongo_stats/
 ||cbdatatracker.com^
 ||cdnhst.xyz^
 ||ciqtracking.com^
+||clarity.ms^
 ||clearbitscripts.com^
 ||click360.io^
 ||cloudwp.io^
@@ -6637,7 +6638,6 @@ _mongo_stats/
 ||chtbl.com^$script,third-party,xmlhttprequest
 ||cintnetworks.com^$third-party
 ||cityadstrack.com^$third-party
-||clarity.ms^$third-party
 ||claritytag.com^$third-party
 ||clarium.io^$third-party
 ||clarivoy.com^$third-party
@@ -9414,7 +9414,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||catschickens.com^
 ||causecherry.com^$third-party
 ||cautiouscrate.com^$third-party
-||cautiouscredit.com^$third-party
+||cautiouscredit.com^
 ||chairscrack.com^
 ||channelcamp.com^
 ||cheerfulrange.com^
@@ -10338,7 +10338,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||thinkablefloor.com^
 ||thinkablerice.com^
 ||thinkabletrick.com^
-||thirdrespect.com^$third-party
+||thirdrespect.com^
 ||thirstylettuce.com^
 ||thirstyswing.com^
 ||thirstytwig.com^$third-party
