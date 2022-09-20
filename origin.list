@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202209201052
+! Version: 202209201104
 ! Title: EasyPrivacy
-! Last modified: 20 Sep 2022 10:52 UTC
+! Last modified: 20 Sep 2022 11:04 UTC
 ! Expires: 6 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -11806,6 +11806,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||bmrg.reflected.net^
 ||bobparsons.com/image.aspx?
 ||bolt.com/v1/log?
+||booking.com/pxpixel.html
 ||botdetection.hbrsd.com^
 ||bpath.com/count.dll?
 ||branch.io^$third-party
@@ -14901,6 +14902,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||affiliates.treasureisland.com^
 ||affiliates.vpn.ht^
 ||agoda.com/api/pixel/
+||agoda.net/v2/track
 ||ai.iol.io^
 ||airtable.com/internal/$xmlhttprequest
 ||airtable.com^*/reports
@@ -15005,6 +15007,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||binocule21c.merriam-webster.com^
 ||biomedcentral.com/track/
 ||blitz-analytics-batch-server.blitz.gg^
+||booking.com/c360/v1/track
+||booking.com/collector/
 ||booking.com/logo?
 ||booking.com/navigation_times
 ||booking.com/sendlayoutevents
