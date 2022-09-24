@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202209231227
+! Version: 202209240450
 ! Title: EasyPrivacy
-! Last modified: 23 Sep 2022 12:27 UTC
+! Last modified: 24 Sep 2022 04:50 UTC
 ! Expires: 6 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6090,6 +6090,7 @@ _mongo_stats/
 ||nigelmidnightrappers.com^
 ||nimblebird.co^
 ||nimbleswan.io^
+||notifpush.com^
 ||ns1p.net^
 ||nxakpj4ac8gkd53.info^
 ||omappapi.com^
@@ -8911,7 +8912,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||najva.com^$third-party
 ||nativesubscribe.pro^$third-party
 ||notifadz.com^$third-party
-||notifpush.com^$third-party
 ||notify.solutions^$third-party
 ||notix.io^$third-party
 ||olgtex.com^$third-party
@@ -9977,6 +9977,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pocketfaucet.com^
 ||pocketsonic.com^
 ||podiumpresto.com^
+||pointlesshour.com^
 ||pointlesspocket.com^
 ||pointlessrifle.com^
 ||poisedpig.com^
@@ -10123,11 +10124,11 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||seatsmoke.com^
 ||secretivecub.com^
 ||secretspiders.com^
-||secretturtle.com^$third-party
+||secretturtle.com^
 ||seedscissors.com^
 ||selectionship.com^
 ||selectivesummer.com^$third-party
-||selfishsea.com^$third-party
+||selfishsea.com^
 ||selfishsnake.com^
 ||separateshow.com^
 ||separatesilver.com^$third-party
@@ -11698,6 +11699,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||apple.com/hvr/mw/v1/spile
 ||apple.com/mw/v1/reportAnalytics
 ||apple.www.letv.com^
+||applicationinsights.azure.com^
 ||appliedsemantics.com/images/x.gif
 ||appmifile.com^*/stat/
 ||appsolutions.com/hitme?$third-party
