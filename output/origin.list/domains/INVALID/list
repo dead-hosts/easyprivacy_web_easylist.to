@@ -4106,3 +4106,6 @@ _track_pixel.gif?
 /rpc/log/*
 /tracking/thirdpartytag.js
 ||testingmetriksbre.ru^
+/blazor-analytics.js
+/rpc/log/*
+/tracking/thirdpartytag.js
