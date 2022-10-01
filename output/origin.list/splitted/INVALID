@@ -4044,5 +4044,7 @@ _track_pixel.gif?                                                               
 ||hariken.co^$third-party                                                                            INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 -client-tracking.goodgamestudios.com/                                                                INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /initAdobeAnalytics.                                                                                 INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-/Hits/collect/*                                                                                      INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-||testingmetriksbre.ru^                                                                              INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+/blazor-analytics.js                                                                                 INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+/rpc/log/*                                                                                           INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+/tracking/thirdpartytag.js                                                                           INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||testingmetriksbre.ru^                                                                              INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 

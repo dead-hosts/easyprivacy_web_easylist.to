@@ -3929,6 +3929,9 @@ _track_pixel.gif?,AVAILABILITY,origin.list,2022-06-09 08:41:32.825869
 ?type=page&event=,AVAILABILITY,origin.list,2022-10-01 01:05:22.247094
 ||hariken.co^$third-party,AVAILABILITY,origin.list,2022-10-01 13:56:02.627118
 -client-tracking.goodgamestudios.com/,AVAILABILITY,origin.list,2022-10-01 14:19:53.932036
-/initAdobeAnalytics.,AVAILABILITY,origin.list,2022-10-01 15:32:18.069957
-/Hits/collect/*,AVAILABILITY,origin.list,2022-10-01 15:57:08.844959
-||testingmetriksbre.ru^,AVAILABILITY,origin.list,2022-10-01 16:01:39.203911
+/Hits/collect/*,AVAILABILITY,origin.list,2022-10-01 15:47:37.531560
+/initAdobeAnalytics.,AVAILABILITY,origin.list,2022-10-01 15:47:45.459684
+/blazor-analytics.js,AVAILABILITY,origin.list,2022-10-01 16:07:59.184299
+/rpc/log/*,AVAILABILITY,origin.list,2022-10-01 16:13:07.956804
+/tracking/thirdpartytag.js,AVAILABILITY,origin.list,2022-10-01 16:14:08.426319
+||testingmetriksbre.ru^,AVAILABILITY,origin.list,2022-10-01 16:16:47.061926
