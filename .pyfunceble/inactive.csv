@@ -3944,3 +3944,7 @@ _track_pixel.gif?,AVAILABILITY,origin.list,2022-06-09 08:41:32.825869
 ://cognito-identity.,AVAILABILITY,origin.list,2022-10-03 11:08:58.635351
 /pup-comscore/*,AVAILABILITY,origin.list,2022-10-03 17:24:00.520786
 /referral-tracking.,AVAILABILITY,origin.list,2022-10-03 17:24:07.961602
+||gamedock.io/gamemonkey-web-tracker/,AVAILABILITY,origin.list,2022-10-03 19:23:11.183640
+||kinesis.eu-west-1.amazonaws.com^,AVAILABILITY,origin.list,2022-10-03 19:23:32.187594
+||logging.cmp-resources.link^,AVAILABILITY,origin.list,2022-10-03 19:23:41.129289
+||metrics.mdstrm.com^,AVAILABILITY,origin.list,2022-10-03 19:23:49.094500

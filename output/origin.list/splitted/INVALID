@@ -4058,3 +4058,7 @@ _track_pixel.gif?                                                               
 ://cognito-identity.                                                                                 INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /pup-comscore/*                                                                                      INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /referral-tracking.                                                                                  INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||gamedock.io/gamemonkey-web-tracker/                                                                INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||kinesis.eu-west-1.amazonaws.com^                                                                   INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||logging.cmp-resources.link^                                                                        INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||metrics.mdstrm.com^                                                                                INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
