@@ -4053,5 +4053,5 @@ _track_pixel.gif?                                                               
 ||cleantalk.org/pixel/                                                                               INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||applicationinsights.azure.com^$third-party,domain=~azure.net                                       INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||aaxwall.com^                                                                                       INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-||act-server-prod.7swnm9dm8q.eu-west-1.elasticbeanstalk.com^                                         INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
-||analytics.growthphysics.com^                                                                       INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+://cognito-identity.                                                                                 INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||act-server-prod.7swnm9dm8q.eu-west-1.elasticbeanstalk.com^                                         INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
