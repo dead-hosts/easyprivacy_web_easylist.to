@@ -4056,5 +4056,5 @@ _track_pixel.gif?                                                               
 ||act-server-prod.7swnm9dm8q.eu-west-1.elasticbeanstalk.com^                                         INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||analytics.growthphysics.com^                                                                       INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ://cognito-identity.                                                                                 INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-/pup-comscore/*                                                                                      INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
-/referral-tracking.                                                                                  INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+/pup-comscore/*                                                                                      INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+/referral-tracking.                                                                                  INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
