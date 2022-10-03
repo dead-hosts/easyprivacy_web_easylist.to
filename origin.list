@@ -1,7 +1,7 @@
 [Adblock Plus 1.1]
-! Version: 202210030705
+! Version: 202210030720
 ! Title: EasyPrivacy
-! Last modified: 03 Oct 2022 07:05 UTC
+! Last modified: 03 Oct 2022 07:20 UTC
 ! Expires: 6 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -11715,7 +11715,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||apple.com/hvr/mw/v1/spile
 ||apple.com/mw/v1/reportAnalytics
 ||apple.www.letv.com^
-||applicationinsights.azure.com^$third-party
+||applicationinsights.azure.com^$third-party,domain=~azure.net
 ||appliedsemantics.com/images/x.gif
 ||appmifile.com^*/stat/
 ||appsolutions.com/hitme?$third-party
@@ -30391,6 +30391,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||nintendolife.com/themes/base/javascript/fingerprint.js$~third-party
 @@||noaa.gov/maps/resources/scripts/ga.js$script,~third-party
 @@||noodid.ee/chordQuiz/$~third-party
+@@||noxgroup.com/noxinfluencer/sensor_sdk/$script,domain=noxinfluencer.com
 @@||nsfw.xxx/vendor/fingerprint/fingerprint2.min.js$script,~third-party
 @@||nyt.com/analytics/json-$script,domain=nytimes.com
 @@||nyt.com/bi/js/tagx/tagx.js$domain=nytimes.com

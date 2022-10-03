@@ -4051,3 +4051,4 @@ _track_pixel.gif?                                                               
 /tracking/thirdpartytag.js                                                                           INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /_blazor/*$ping                                                                                      INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||cleantalk.org/pixel/                                                                               INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||applicationinsights.azure.com^$third-party,domain=~azure.net                                       INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 

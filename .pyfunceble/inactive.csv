@@ -3937,3 +3937,4 @@ _track_pixel.gif?,AVAILABILITY,origin.list,2022-06-09 08:41:32.825869
 /tracking/thirdpartytag.js,AVAILABILITY,origin.list,2022-10-01 16:24:12.073010
 /_blazor/*$ping,AVAILABILITY,origin.list,2022-10-01 20:09:54.639678
 ||cleantalk.org/pixel/,AVAILABILITY,origin.list,2022-10-02 00:34:56.060202
+"||applicationinsights.azure.com^$third-party,domain=~azure.net",AVAILABILITY,origin.list,2022-10-03 07:45:45.524906
