@@ -4052,4 +4052,4 @@ _track_pixel.gif?                                                               
 /_blazor/*$ping                                                                                      INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||cleantalk.org/pixel/                                                                               INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||applicationinsights.azure.com^$third-party,domain=~azure.net                                       INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
-||aaxwall.com^                                                                                       INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||aaxwall.com^                                                                                       INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
