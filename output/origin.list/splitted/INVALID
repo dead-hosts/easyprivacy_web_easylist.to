@@ -11835,3 +11835,5 @@ $third-party,xmlhttprequest,domain=opensubtitles.org                            
 ||gobankingrates.com/fp/                                                                             INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||go.theregister.com^$image                                                                          INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||gog-statics.com/js/frontpagelogintracking-$script,domain=gog.com                                   INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||dtag.breadfinancial.com^                                                                           INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||drugs.com/img/pixel.gif                                                                            INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
