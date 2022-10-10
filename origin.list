@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: SYcPrnWUNN2aKCR8THeVcA
-! Version: 202210102051
+! Checksum: ZWa0mXJGsKYs5nFmTSBOsw
+! Version: 202210102103
 ! Title: EasyPrivacy
-! Last modified: 10 Oct 2022 20:51 UTC
+! Last modified: 10 Oct 2022 21:03 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -916,6 +916,7 @@
 /awp.log
 /awpys.log
 /aws-analytics.js
+/aws-analytics/*
 /awstats.js
 /awstats_misc_tracker
 /azion-pulse.js
@@ -11564,6 +11565,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||amazonaws.com/production_beacon
 ||amazonaws.com/searchdiscovery-satellite-production/
 ||amazonaws.com/storejs/a/JKRHRQG/ge.js
+||amazonaws.com/v1/apps/*/events
 ||amp-error-reporting.appspot.com^
 ||amplify.outbrain.com^$third-party
 ||amplifypixel.outbrain.com^

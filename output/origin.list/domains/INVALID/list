@@ -14423,3 +14423,5 @@ worker-src
 ||cv.colleize.com^
 ||cv.denkichoice.jp^
 ||cv.drive-hikari.net^
+/aws-analytics/*
+||amazonaws.com/v1/apps/*/events
