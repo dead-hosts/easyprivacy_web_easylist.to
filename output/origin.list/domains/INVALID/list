@@ -14425,4 +14425,7 @@ worker-src
 ||cv.drive-hikari.net^
 /aws-analytics/*
 ||amazonaws.com/v1/apps/*/events
+||app.box.com/gen204
+||app.box.com/app-api/split-proxy/api/metrics
+||box.com/index.php?rm=box_gen204_batch_record
 ||tracking.digitalocean.com^

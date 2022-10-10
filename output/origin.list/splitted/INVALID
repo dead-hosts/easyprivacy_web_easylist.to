@@ -14270,4 +14270,7 @@ worker-src                                                                      
 ||cv.drive-hikari.net^                                                                               INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 /aws-analytics/*                                                                                     INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||amazonaws.com/v1/apps/*/events                                                                     INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-||tracking.digitalocean.com^                                                                         INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||app.box.com/gen204                                                                                 INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||app.box.com/app-api/split-proxy/api/metrics                                                        INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||box.com/index.php?rm=box_gen204_batch_record                                                       INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||tracking.digitalocean.com^                                                                         INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
