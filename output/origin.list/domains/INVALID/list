@@ -14425,3 +14425,4 @@ worker-src
 ||cv.drive-hikari.net^
 /aws-analytics/*
 ||amazonaws.com/v1/apps/*/events
+||tracking.digitalocean.com^
