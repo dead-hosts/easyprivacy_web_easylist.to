@@ -14268,5 +14268,5 @@ worker-src                                                                      
 ||cv.colleize.com^                                                                                   INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||cv.denkichoice.jp^                                                                                 INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||cv.drive-hikari.net^                                                                               INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-/aws-analytics/*                                                                                     INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
-||amazonaws.com/v1/apps/*/events                                                                     INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+/aws-analytics/*                                                                                     INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||amazonaws.com/v1/apps/*/events                                                                     INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
