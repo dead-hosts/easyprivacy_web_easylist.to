@@ -14429,3 +14429,6 @@ worker-src
 ||app.box.com/app-api/split-proxy/api/metrics
 ||box.com/index.php?rm=box_gen204_batch_record
 ||tracking.digitalocean.com^
+||app.box.com/app-api/split-proxy/api/metrics
+||app.box.com/gen204
+||box.com/index.php?rm=box_gen204_batch_record
