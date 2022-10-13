@@ -14487,4 +14487,7 @@ worker-src                                                                      
 ||asclepius.nordenta.se^                                                                             INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||everyaction.com/v1/Track/                                                                          INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||slackb.com^                                                                                        INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+/amp-story-auto-analytics-                                                                           INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||tracker.gleanview.com^                                                                             INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||classdojo.com/logs/                                                                                INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||intel.*/content/dam/www/global/wap/tms.sync.js                                                     INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 

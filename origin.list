@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 3+hKbFzb6hDtjtj8ZMYmOg
-! Version: 202210131911
+! Checksum: TKpnajzFZt6d8U3Ek5Octg
+! Version: 202210131921
 ! Title: EasyPrivacy
-! Last modified: 13 Oct 2022 19:11 UTC
+! Last modified: 13 Oct 2022 19:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -526,6 +526,7 @@
 /amp-call-tracking-
 /amp-omniture-iframe?
 /amp-skimlinks-
+/amp-story-auto-analytics-
 /amp-tealium?
 /amp.gif?
 /amp/?rid=
@@ -15084,6 +15085,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cheezburger.com/api/visitor
 ||cisco.com/c/dam/cdc/j/at.js
 ||cl.canva.com^
+||classdojo.com/logs/
 ||classistatic.com^*/js/lib/prebid-7.5.0.min.js$script,domain=kijiji.ca
 ||click.aliexpress.com^$image
 ||click.nudevista.com^
@@ -15386,6 +15388,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||inq.com/tagserver/logging/logline
 ||instagram.com/ajax/bz
 ||instructables.com/counter
+||intel.*/content/dam/www/global/wap/tms.sync.js
 ||intent.cmo.com.au^
 ||intent.goodgearguide.com.au^
 ||intent.macworld.co.uk^
