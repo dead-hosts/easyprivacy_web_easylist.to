@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: O2deqEpDVJuJID7t5/dsUw
-! Version: 202210131031
+! Checksum: 9/ODouxt7FmFkyVAnrbo/A
+! Version: 202210131041
 ! Title: EasyPrivacy
-! Last modified: 13 Oct 2022 10:31 UTC
+! Last modified: 13 Oct 2022 10:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -13136,6 +13136,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||sitescdn.net/ytag/ytag.min.js
 ||skypack.dev/@amplitude/
 ||skysa.com/tracker/
+||slackb.com^
 ||slgnt.us/track
 ||sli-spark.com/b.png$third-party
 ||slidedeck.com^$image,third-party
@@ -30911,7 +30912,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||adobedtm.com^*/satelliteLib-$script,domain=conad.it|ilsole24ore.com|laredoute.it
 @@||adobetag.com/d2/telecomitalia/live/Aggregato119TIM.js$domain=tim.it
 @@||analytics.edgekey.net/config/beacon-$xmlhttprequest,domain=raiplay.it
-@@||cdn.trustcommander.net/privacy$script,domain=enigaseluce.com
 @@||clerk.io/clerk.js$script,domain=trony.it
 @@||codicefl.shinystat.com/cgi-bin/getserver.cgi?$script,domain=3bmeteo.com|quotidiano.net
 @@||ensighten.com^*/Bootstrap.js$domain=williamhill.it
@@ -30925,7 +30925,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||mediaworld.it^*/GoogleTagManager.js?
 @@||omtrdc.net^*/mbox/json?$xmlhttprequest,domain=vodafone.it
 @@||repubblica.it/pw/pw.js?deskurl=$domain=gelocal.it|ilsecoloxix.it|lastampa.it
-@@||service.maxymiser.net^$script,domain=enigaseluce.com
 @@||thron.com/shared/plugins/tracking/current/tracking-library-min.js$domain=dainese.com
 @@||timvision.it/libs/fingerprint/fingerprint.js
 @@||track.adform.net/serving/scripts/trackpoint$script,domain=sky.it
