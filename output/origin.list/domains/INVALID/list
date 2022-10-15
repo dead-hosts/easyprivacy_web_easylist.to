@@ -14711,3 +14711,4 @@ worker-src
 ||connect.adkhifi.com^
 ||ltwebstatic.com^*/libs/sensors/
 ||retargetapp.com^$third-party
+/athena/tracking/*

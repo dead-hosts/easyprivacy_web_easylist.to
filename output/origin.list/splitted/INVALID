@@ -14552,3 +14552,4 @@ worker-src                                                                      
 ||connect.adkhifi.com^                                                                               INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||ltwebstatic.com^*/libs/sensors/                                                                    INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||retargetapp.com^$third-party                                                                       INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+/athena/tracking/*                                                                                   INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
