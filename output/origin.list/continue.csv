@@ -13095,6 +13095,6 @@ worker-src,AVAILABILITY,origin.list,origin.list,2022-10-08 14:03:10.468289,89556
 ||ltwebstatic.com^*/libs/sensors/,AVAILABILITY,origin.list,origin.list,2022-10-14 18:51:37.112593,89556efeca6391550764a7c5
 ||retargetapp.com^$third-party,AVAILABILITY,origin.list,origin.list,2022-10-15 01:42:54.861872,89556efeca6391550764a7c5
 /athena/tracking/*,AVAILABILITY,origin.list,origin.list,2022-10-15 08:03:43.454483,89556efeca6391550764a7c5
-||beacon.dropbox.com^,AVAILABILITY,origin.list,origin.list,2022-10-15 22:29:07.478835,89556efeca6391550764a7c5
-||dropbox.com/2/client_metrics,AVAILABILITY,origin.list,origin.list,2022-10-15 22:29:21.758439,89556efeca6391550764a7c5
-||dropbox.com/jse,AVAILABILITY,origin.list,origin.list,2022-10-15 22:29:21.877952,89556efeca6391550764a7c5
+||beacon.dropbox.com^,AVAILABILITY,origin.list,origin.list,2022-10-15 22:38:54.955484,89556efeca6391550764a7c5
+||dropbox.com/2/client_metrics,AVAILABILITY,origin.list,origin.list,2022-10-15 22:39:09.341037,89556efeca6391550764a7c5
+||dropbox.com/jse,AVAILABILITY,origin.list,origin.list,2022-10-15 22:39:09.783022,89556efeca6391550764a7c5
