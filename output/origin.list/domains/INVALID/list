@@ -14712,3 +14712,6 @@ worker-src
 ||ltwebstatic.com^*/libs/sensors/
 ||retargetapp.com^$third-party
 /athena/tracking/*
+||beacon.dropbox.com^
+||dropbox.com/2/client_metrics
+||dropbox.com/jse
