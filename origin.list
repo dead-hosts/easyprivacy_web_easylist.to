@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: l9FjPfkRKplKTFHfXFDLFA
-! Version: 202210150041
+! Checksum: L2cy77lENiTzE9LEoyZUMQ
+! Version: 202210150051
 ! Title: EasyPrivacy
-! Last modified: 15 Oct 2022 00:41 UTC
+! Last modified: 15 Oct 2022 00:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -8102,6 +8102,7 @@ _mongo_stats/
 ||reson8.com^$third-party
 ||responsetap.com^$third-party
 ||resulticks.com^$third-party
+||retargetapp.com^$third-party
 ||retargetly.com^$third-party
 ||retargettracker.com^$third-party
 ||retentionscience.com^$third-party
