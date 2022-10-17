@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: asnsi1UPwsBYUSaAp2RGug
-! Version: 202210171631
+! Checksum: fzxSd7qfULAxsOvRImtDAw
+! Version: 202210171641
 ! Title: EasyPrivacy
-! Last modified: 17 Oct 2022 16:31 UTC
+! Last modified: 17 Oct 2022 16:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7421,6 +7421,7 @@ _mongo_stats/
 ||ironbeast.io^$third-party
 ||ist-track.com^$third-party
 ||istrack.com^$third-party
+||iterable.com^$third-party
 ||ithinkthereforeiam.net^$third-party
 ||itrac.it^$third-party
 ||itracker360.com^$third-party
@@ -7519,6 +7520,7 @@ _mongo_stats/
 ||leafmedia.io^$third-party
 ||leanplum.com^$third-party
 ||legolas-media.com^$third-party
+||lemnisk.co^$third-party
 ||leokross.com^$third-party
 ||les-experts.com^$third-party
 ||letterboxtrail.com^$third-party
@@ -12543,7 +12545,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||iraiser.eu/analytics.js
 ||isacglobal.com/sa.js
 ||isitelab.io/ite_sitecomV1ANA.min.js
-||iterable.com/analytics.js
 ||iubenda.com/write?
 ||iyisayfa.net/inc.php?
 ||jailbaitchan.com/tp/
