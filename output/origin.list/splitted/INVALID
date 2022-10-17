@@ -14632,3 +14632,4 @@ worker-src                                                                      
 ||dl.episerver.net^                                                                                  INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||analytics.oyorooms.com^                                                                            INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||screen13.com^$image                                                                                INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||plausible.io^$third-party                                                                          INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
