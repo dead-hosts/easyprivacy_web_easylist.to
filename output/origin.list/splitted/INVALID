@@ -14665,8 +14665,8 @@ worker-src                                                                      
 ||pan.render.com^                                                                                    INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||pa.travelwhiz.app^                                                                                 INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||freshrelevance.com^$third-party                                                                    INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-||iterable.com^$third-party                                                                          INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
-||lemnisk.co^$third-party                                                                            INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||iterable.com^$third-party                                                                          INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||lemnisk.co^$third-party                                                                            INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||mantisadnetwork.com^$third-party                                                                   INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-||masterworks.digital^$third-party                                                                   INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
-||ta.sbird.xyz^$third-party                                                                          INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||masterworks.digital^$third-party                                                                   INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||ta.sbird.xyz^$third-party                                                                          INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
