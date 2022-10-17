@@ -14630,4 +14630,5 @@ worker-src                                                                      
 ||p.versacommerce.de^                                                                                INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||p.ryanhalliday.com^                                                                                INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||dl.episerver.net^                                                                                  INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-||analytics.oyorooms.com^                                                                            INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||analytics.oyorooms.com^                                                                            INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||screen13.com^$image                                                                                INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
