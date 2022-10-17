@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: ODVXe3CdCOqUABhFcrksIQ
-! Version: 202210171151
+! Checksum: 7ce2OL4NvHCGo6oXGZABAQ
+! Version: 202210171204
 ! Title: EasyPrivacy
-! Last modified: 17 Oct 2022 11:51 UTC
+! Last modified: 17 Oct 2022 12:04 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -14774,6 +14774,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||kvartirant.ru/counter.php?
 ||likemore-go.imgsmail.ru^$image
 ||linestudio.ru/counter/
+||log.kslogs.ru^
 ||logs.viavideo.digital^
 ||mediaplus.fm/cntr.php?
 ||metka.ru/counter/
@@ -15624,6 +15625,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||poptropica.com/brain/track.php?
 ||pornhublive.com/api/events
 ||pornhublive.com/api/metrics
+||porzo.com/js/analytics
 ||potterybarnkids.com/pkimgs/*/external/thirdparty.js
 ||prairiedog.hashnode.com^
 ||priceline.com/pws/v1/ace/impression/
@@ -15637,6 +15639,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pulse.delta.com^
 ||pumpkin.abine.com^
 ||pushsquare.com/blank.gif
+||px.srvcs.tumblr.com^
 ||pxl.indeed.com^
 ||qm.redbull.com^
 ||quibids.com/marketing/pixels/
