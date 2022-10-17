@@ -17108,7 +17108,13 @@ worker-src,AVAILABILITY,origin.list,2022-10-08 14:03:10.468289
 ||collect.chaordicsystems.com^,AVAILABILITY,origin.list,2022-10-17 18:48:41.591172
 ||linximpulse.net/impulse/,AVAILABILITY,origin.list,2022-10-17 18:48:41.919905
 ||netdeal.com.br/open/event/,AVAILABILITY,origin.list,2022-10-17 19:12:02.338253
-/insights/events/*,AVAILABILITY,origin.list,2022-10-17 23:24:18.706316
-||metrics.onshape.com^,AVAILABILITY,origin.list,2022-10-17 23:37:26.522579
-||metrics.userguiding.com^,AVAILABILITY,origin.list,2022-10-17 23:37:27.037180
-||user.userguiding.com^,AVAILABILITY,origin.list,2022-10-17 23:38:51.481938
+/insights/events/*,AVAILABILITY,origin.list,2022-10-17 23:26:44.799485
+/mail-stat.airdroid.com/*$image,AVAILABILITY,origin.list,2022-10-17 23:29:24.085859
+||metrics.onshape.com^,AVAILABILITY,origin.list,2022-10-17 23:38:08.839093
+||metrics.userguiding.com^,AVAILABILITY,origin.list,2022-10-17 23:38:09.328665
+||user.userguiding.com^,AVAILABILITY,origin.list,2022-10-17 23:39:18.782718
+||assets.instacart.com^,AVAILABILITY,origin.list,2022-10-17 23:41:15.686697
+||clarice.streema.com^,AVAILABILITY,origin.list,2022-10-17 23:41:22.416808
+||kaggle.com/api/i/diagnostics.MetricsService,AVAILABILITY,origin.list,2022-10-17 23:41:53.859426
+||td.airdroid.com^,AVAILABILITY,origin.list,2022-10-17 23:42:40.873779
+||telem.sre.gopuff.com^,AVAILABILITY,origin.list,2022-10-17 23:42:41.017506
