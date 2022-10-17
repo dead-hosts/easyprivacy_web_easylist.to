@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: yHSN0H3KZoxsQMyihm9udg
-! Version: 202210170841
+! Checksum: i/Mjt1RRwacq7UU/s2O0FQ
+! Version: 202210170851
 ! Title: EasyPrivacy
-! Last modified: 17 Oct 2022 08:41 UTC
+! Last modified: 17 Oct 2022 08:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -30514,6 +30514,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||s.yimg.com^*/advertisement/sponsor/promo/ad.png$image,domain=news.yahoo.com
 @@||sahibinden.com/assets/analytics*.js$~third-party
 @@||savjee.be/uploads/2020-10-27-effect-adblockers-on-google-analytics-vs-plausible/$~third-party
+@@||scholar.cnki.net/detailstatic/js/tracker.js$~third-party
 @@||scorecardresearch.com/c2/plugins/streamsense_plugin_html5.js
 @@||scorecardresearch.com/c2/plugins/streamsense_plugin_theplatform.js
 @@||scorecardresearch.com/internal-c2/plugins/streamingtag_plugin_jwplayer.js
