@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: i/Mjt1RRwacq7UU/s2O0FQ
-! Version: 202210170851
+! Checksum: VQ99ck1RN+MuI9SEzAQTng
+! Version: 202210170903
 ! Title: EasyPrivacy
-! Last modified: 17 Oct 2022 08:51 UTC
+! Last modified: 17 Oct 2022 09:03 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6974,7 +6974,6 @@ _mongo_stats/
 ||eperfectdata.com^$third-party
 ||epilot.com^$third-party
 ||epiodata.com^$third-party
-||episerver.net^$third-party
 ||epitrack.com^$third-party
 ||eproof.com^$third-party
 ||eps-analyzer.de^$third-party
@@ -12158,6 +12157,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||disquscdn.com/next/embed/alfalfalfa.
 ||distillery.wistia.com^
 ||djibeacon.djns.com^
+||dl.episerver.net^
 ||dmcdn.net/behavior/
 ||dmdentertainment.com^*/video_debug.gif?
 ||dmdt.io/collect
@@ -30667,7 +30667,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||mycleverpush.com/iframe?$domain=bsdex.de
 @@||n8s.jp^$script,domain=nikkei.com
 @@||sc.omtrdc.net^$domain=cibc.com
-@@||takeda.com.dxcloud.episerver.net^$domain=takeda.com
 @@||team-rec.jp^$domain=search-voi.0101.co.jp|voi.0101.co.jp
 @@||tmx.bestbuy.com/z3nsvo31pnlmt3tw.js$domain=bestbuy.com
 @@||wwwimage-tve.cbsstatic.com^
