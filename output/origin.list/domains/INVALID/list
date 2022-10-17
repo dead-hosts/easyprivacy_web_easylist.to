@@ -14844,4 +14844,9 @@ worker-src
 ||clarice.streema.com^
 ||kaggle.com/api/i/diagnostics.MetricsService
 ||td.airdroid.com^
+/insights/events/*
+/mail-stat.airdroid.com/*$image
+||metrics.onshape.com^
+||clarice.streema.com^
+||kaggle.com/api/i/diagnostics.MetricsService
 ||telem.sre.gopuff.com^
