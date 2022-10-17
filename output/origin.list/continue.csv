@@ -13159,5 +13159,7 @@ worker-src,AVAILABILITY,origin.list,origin.list,2022-10-08 14:03:10.468289,89556
 ||collect.chaordicsystems.com^,AVAILABILITY,origin.list,origin.list,2022-10-17 18:48:41.591172,89556efeca6391550764a7c5
 ||linximpulse.net/impulse/,AVAILABILITY,origin.list,origin.list,2022-10-17 18:48:41.919905,89556efeca6391550764a7c5
 ||netdeal.com.br/open/event/,AVAILABILITY,origin.list,origin.list,2022-10-17 19:12:02.338253,89556efeca6391550764a7c5
-||metrics.userguiding.com^,AVAILABILITY,origin.list,origin.list,2022-10-17 23:27:16.214184,89556efeca6391550764a7c5
-||user.userguiding.com^,AVAILABILITY,origin.list,origin.list,2022-10-17 23:28:39.056958,89556efeca6391550764a7c5
+/insights/events/*,AVAILABILITY,origin.list,origin.list,2022-10-17 23:24:18.706316,89556efeca6391550764a7c5
+||metrics.onshape.com^,AVAILABILITY,origin.list,origin.list,2022-10-17 23:37:26.522579,89556efeca6391550764a7c5
+||metrics.userguiding.com^,AVAILABILITY,origin.list,origin.list,2022-10-17 23:37:27.037180,89556efeca6391550764a7c5
+||user.userguiding.com^,AVAILABILITY,origin.list,origin.list,2022-10-17 23:38:51.481938,89556efeca6391550764a7c5

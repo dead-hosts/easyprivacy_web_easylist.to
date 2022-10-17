@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: x9RSmgMklheUE5ea+RDE9w
-! Version: 202210172241
+! Checksum: MhqJ/eLRGRXuJOa/CeNt+w
+! Version: 202210172251
 ! Title: EasyPrivacy
-! Last modified: 17 Oct 2022 22:41 UTC
+! Last modified: 17 Oct 2022 22:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2512,6 +2512,7 @@
 /insights-collector.
 /insights-emitter.
 /insights-emitter/*
+/insights/events/*
 /InsightTrk/*
 /insightXe.js
 /insitemetrics/*
@@ -12748,6 +12749,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||metrics.ctvdigital.net^
 ||metrics.kmsmep.com^
 ||metrics.mdstrm.com^
+||metrics.onshape.com^
 ||metrics.pico.tools^
 ||metrics.readme.io^
 ||metrics.redgifs.com^
@@ -15109,6 +15111,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cheezburger.com/api/visitor
 ||cisco.com/c/dam/cdc/j/at.js
 ||cl.canva.com^
+||clarice.streema.com^
 ||classdojo.com/logs/
 ||classistatic.com^*/js/lib/prebid-7.5.0.min.js$script,domain=kijiji.ca
 ||click.aliexpress.com^$image
@@ -15936,6 +15939,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||targeting.washpost.nile.works^
 ||td.airdroid.com^
 ||ted.dailymail.co.uk^
+||telem.sre.gopuff.com^
 ||telemetry.adobe.io^
 ||telemetry.api.playstation.com^
 ||telemetry.firez.one^

@@ -14835,5 +14835,7 @@ worker-src
 ||collect.chaordicsystems.com^
 ||linximpulse.net/impulse/
 ||netdeal.com.br/open/event/
+/insights/events/*
+||metrics.onshape.com^
 ||metrics.userguiding.com^
 ||user.userguiding.com^
