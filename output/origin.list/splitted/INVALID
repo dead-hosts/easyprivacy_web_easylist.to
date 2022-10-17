@@ -14670,5 +14670,8 @@ worker-src                                                                      
 ||mantisadnetwork.com^$third-party                                                                   INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||masterworks.digital^$third-party                                                                   INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||ta.sbird.xyz^$third-party                                                                          INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-||ckies.net^                                                                                         INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
-||analytics2-meride-tv.akamaized.net^                                                                INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||ckies.net^                                                                                         INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||analytics2-meride-tv.akamaized.net^                                                                INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||biggylabs.com.br/track-api/v2/track/site?                                                          INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||collect.chaordicsystems.com^                                                                       INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||linximpulse.net/impulse/                                                                           INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
