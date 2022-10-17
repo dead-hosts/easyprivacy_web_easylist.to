@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: y4nfMlfqd/wRoTsed5b2XA
-! Version: 202210171651
+! Checksum: xVElsnDwlnfJauuEXRE03g
+! Version: 202210171705
 ! Title: EasyPrivacy
-! Last modified: 17 Oct 2022 16:51 UTC
+! Last modified: 17 Oct 2022 17:05 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7606,6 +7606,7 @@ _mongo_stats/
 ||marketshot.fr^$third-party
 ||maropost.com^$third-party
 ||masterstats.com^$third-party
+||masterworks.digital^$third-party
 ||mathtag.com^$third-party
 ||matomo.cloud^$third-party
 ||matterlytics.com^$third-party
@@ -10936,6 +10937,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||sdqoi2d.com^$third-party
 ||sitebot.cn^$third-party
 ||sjv.io^$third-party
+||ta.sbird.xyz^$third-party
 ||tagmanager.cn^$third-party
 ||tanx.com^$third-party
 ||tenmax.io^$third-party
