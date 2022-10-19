@@ -14888,6 +14888,6 @@ worker-src                                                                      
 ||cryo.socialblade.com^                                                                              INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||libhunt.com/api/ahoy/event                                                                         INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||stapewithadblock.monster/stat/                                                                     INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-||serveipqs.com^$third-party                                                                         INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
-||alpharank.io/api/pixel/                                                                            INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
-||customer.homedepot.com^$script                                                                     INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||serveipqs.com^$third-party                                                                         INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||alpharank.io/api/pixel/                                                                            INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||customer.homedepot.com^$script                                                                     INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
