@@ -15217,6 +15217,7 @@ worker-src                                                                      
 ||sts.papyrs.com^                                                                                    INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||statystyki.ekspertyzy-szkolenia.pl^                                                                INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||stats.zenquiries.com^                                                                              INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
-/mixpanel-init.                                                                                      INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
-||citiservi.es/adstrack?                                                                             INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
-||letsdoeit.com/tracking/                                                                            INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||letsdoeit.com/tracking/                                                                            INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+/mixpanel-init.                                                                                      INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||citiservi.es/adstrack?                                                                             INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||watchsomuch.to/AD/                                                                                 INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
