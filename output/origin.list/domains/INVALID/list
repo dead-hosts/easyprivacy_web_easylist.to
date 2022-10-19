@@ -15046,3 +15046,4 @@ worker-src
 /track-the-click/*
 /engage.indeed.com/*$image
 ||analytics-tracking.meetup.com^
+||paypal.com/credit-presentment/log

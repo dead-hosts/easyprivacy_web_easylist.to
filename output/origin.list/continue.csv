@@ -13359,8 +13359,9 @@ worker-src,AVAILABILITY,origin.list,origin.list,2022-10-08 14:03:10.468289,89556
 ||eq.userneeds.com^,AVAILABILITY,origin.list,origin.list,2022-10-18 04:35:14.617018,89556efeca6391550764a7c5
 ||ptztvpremium.com^$third-party,AVAILABILITY,origin.list,origin.list,2022-10-18 09:54:30.216988,89556efeca6391550764a7c5
 ||stats.mpthemes.net^,AVAILABILITY,origin.list,origin.list,2022-10-18 22:10:26.497078,89556efeca6391550764a7c5
-||pixmg.com^,AVAILABILITY,origin.list,origin.list,2022-10-19 01:29:22.813395,89556efeca6391550764a7c5
-||merriam-webster.com/lapi/v1/mwol-search/stats/lookup,AVAILABILITY,origin.list,origin.list,2022-10-19 01:41:17.085034,89556efeca6391550764a7c5
-/track-the-click/*,AVAILABILITY,origin.list,origin.list,2022-10-19 01:49:18.297743,89556efeca6391550764a7c5
-/engage.indeed.com/*$image,AVAILABILITY,origin.list,origin.list,2022-10-19 01:50:23.445363,89556efeca6391550764a7c5
-||analytics-tracking.meetup.com^,AVAILABILITY,origin.list,origin.list,2022-10-19 02:03:02.303300,89556efeca6391550764a7c5
+||pixmg.com^,AVAILABILITY,origin.list,origin.list,2022-10-19 01:22:17.758374,89556efeca6391550764a7c5
+||merriam-webster.com/lapi/v1/mwol-search/stats/lookup,AVAILABILITY,origin.list,origin.list,2022-10-19 01:34:13.078167,89556efeca6391550764a7c5
+/track-the-click/*,AVAILABILITY,origin.list,origin.list,2022-10-19 01:42:40.928682,89556efeca6391550764a7c5
+/engage.indeed.com/*$image,AVAILABILITY,origin.list,origin.list,2022-10-19 01:43:50.547176,89556efeca6391550764a7c5
+||analytics-tracking.meetup.com^,AVAILABILITY,origin.list,origin.list,2022-10-19 02:15:42.182756,89556efeca6391550764a7c5
+||paypal.com/credit-presentment/log,AVAILABILITY,origin.list,origin.list,2022-10-19 02:16:34.722680,89556efeca6391550764a7c5
