@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: amyF8hO+vodbP5Tpy0rF6g
-! Version: 202210191951
+! Checksum: bjH6N0pC8TBxUukIhJiP6A
+! Version: 202210192004
 ! Title: EasyPrivacy
-! Last modified: 19 Oct 2022 19:51 UTC
+! Last modified: 19 Oct 2022 20:04 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3007,7 +3007,7 @@
 /mintstats/?js
 /mistat-data/*
 /mistats/*
-/mixpanel-*.js
+/mixpanel-init.
 /mixpanel-measurement.
 /mixpanel.$domain=~mixpanel.com
 /mixpanel_beacon.
@@ -14886,6 +14886,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||advgo.net/hits/
 ||advgo.net/mushroom/
 ||analitica.webrpp.com^
+||citiservi.es/adstrack?
 ||contadores.miarroba.com^
 ||contadores.miarroba.es^
 ||creatives.sunmedia.tv^
@@ -16088,6 +16089,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||walmart.com/client/api/logs
 ||walmart.com/client/api/metrics
 ||walmartimages.com^*/cdn-perf.min.js$domain=walmart.com
+||watchsomuch.to/AD/
 ||wblt.oui.sncf^
 ||wc.yahoodns.net^$image
 ||wccftech.com/cnt7vfDVvWa3.js
@@ -31271,6 +31273,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||adobedtm.com^*/satelliteLib-$script,domain=crackle.com.ar|crackle.com.ec|crackle.com.mx|crackle.com.pe|crackle.com.py|fcbarcelona.cat|fcbarcelona.es|laredoute.es|vtr.com
 @@||amplitude.com/libs/$script,domain=elconfidencial.com
 @@||ampproject.org/v0/amp-analytics-$script,domain=cnnespanol.cnn.com
+@@||api.apolomedia.com/static/libs/event-tracking.min.js$script
 @@||api.cxense.com/public/widget/$domain=tn.com.ar
 @@||ara.cat/static/BB3Core/images/pixel.gif?hash=$image,domain=ara.cat
 @@||bancosantander.es/pagos-inmediatos/common/js/modules/tealium.js$~third-party
