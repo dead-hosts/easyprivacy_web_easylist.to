@@ -14879,3 +14879,5 @@ worker-src                                                                      
 ||eq.userneeds.com^                                                                                  INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||ptztvpremium.com^$third-party                                                                      INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||stats.mpthemes.net^                                                                                INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||pixmg.com^                                                                                         INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||merriam-webster.com/lapi/v1/mwol-search/stats/lookup                                               INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
