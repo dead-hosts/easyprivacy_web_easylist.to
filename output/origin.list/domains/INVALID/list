@@ -15047,3 +15047,4 @@ worker-src
 /engage.indeed.com/*$image
 ||analytics-tracking.meetup.com^
 ||paypal.com/credit-presentment/log
+||cryo.socialblade.com^
