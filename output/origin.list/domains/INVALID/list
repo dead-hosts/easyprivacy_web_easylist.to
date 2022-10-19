@@ -15050,3 +15050,6 @@ worker-src
 ||cryo.socialblade.com^
 ||libhunt.com/api/ahoy/event
 ||stapewithadblock.monster/stat/
+||serveipqs.com^$third-party
+||alpharank.io/api/pixel/
+||customer.homedepot.com^$script
