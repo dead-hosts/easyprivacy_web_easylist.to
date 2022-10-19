@@ -15043,3 +15043,5 @@ worker-src
 ||stats.mpthemes.net^
 ||pixmg.com^
 ||merriam-webster.com/lapi/v1/mwol-search/stats/lookup
+/track-the-click/*
+/engage.indeed.com/*$image
