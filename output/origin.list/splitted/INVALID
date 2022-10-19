@@ -14885,4 +14885,4 @@ worker-src                                                                      
 /engage.indeed.com/*$image                                                                           INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||analytics-tracking.meetup.com^                                                                     INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||paypal.com/credit-presentment/log                                                                  INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
-||cryo.socialblade.com^                                                                              INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||cryo.socialblade.com^                                                                              INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
