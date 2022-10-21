@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: z0quhv/BdVmcsKq7gxQhNA
-! Version: 202210211851
+! Checksum: BOkXfEpwA3e3bce9FVkE/g
+! Version: 202210211904
 ! Title: EasyPrivacy
-! Last modified: 21 Oct 2022 18:51 UTC
+! Last modified: 21 Oct 2022 19:04 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -242,6 +242,7 @@
 .webstats.
 .wxAdTargeting.
 /0.gif?
+/0c.gif?
 /0pixel.php?
 /1.gif?
 /1px.gif?
@@ -15024,6 +15025,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.chase.com^
 ||analytics.designspiration.com^
 ||analytics.ecosia.org^
+||analytics.evolution-x.org^
 ||analytics.faceitanalytics.com^
 ||analytics.footballdb.com^
 ||analytics.freemake.com^
@@ -15658,6 +15660,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||planetradio.co.uk/crystal/log
 ||plausible.bots.gg^
 ||plausible.omgapi.org^
+||player-cdn.com/cdn-cgi/trace
 ||player-telemetry.vimeo.com^
 ||pm.dailykos.com^
 ||pocket-lint.com/media/pf304.js
@@ -15890,6 +15893,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stackshare.io/analytics.
 ||stan.xing.com^
 ||stape.fun/stat/
+||stapewithadblock.beauty/stat/
 ||stapewithadblock.monster/stat/
 ||stapewithadblock.xyz/stat/
 ||starfiles.co/analytics.php
@@ -16139,6 +16143,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||yandex.*/clck/$~ping
 ||yandex.*/count/
 ||yandex.com/clck/
+||yandexcdn.com/cdn-cgi/trace
 ||yelp.*/sit_rep
 ||yelp.com/ad_acknowledgment
 ||yelp.com/ad_syndication_user_tracking
