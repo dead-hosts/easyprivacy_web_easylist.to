@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: /2U36RFkgflY4BiwF7EWJQ
-! Version: 202210211611
+! Checksum: M18C/CUV5IRPkC+rv3cHpA
+! Version: 202210211621
 ! Title: EasyPrivacy
-! Last modified: 21 Oct 2022 16:11 UTC
+! Last modified: 21 Oct 2022 16:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -8641,7 +8641,6 @@ _mongo_stats/
 ||uciservice.com^$third-party
 ||udkcrj.com^$third-party
 ||umbel.com^$third-party
-||unblockia.com^$third-party
 ||unicaondemand.com^$third-party
 ||uniqodo.com^$third-party
 ||united-infos.net^$third-party
