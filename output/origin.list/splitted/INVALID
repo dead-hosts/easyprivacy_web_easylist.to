@@ -15667,6 +15667,6 @@ worker-src                                                                      
 ||smetrics.glucerna.com^                                                                             INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||tvpage.com/tvpa.min.js                                                                             INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||attr-2p.com^$third-party                                                                           INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-||activity.fiverr.com^                                                                               INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
-||collector.fiverr.com^                                                                              INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
-||reverbnation.com/api/user/app_events                                                               INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||activity.fiverr.com^                                                                               INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||collector.fiverr.com^                                                                              INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||reverbnation.com/api/user/app_events                                                               INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
