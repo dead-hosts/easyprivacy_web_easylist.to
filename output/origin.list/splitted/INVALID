@@ -15521,3 +15521,4 @@ worker-src                                                                      
 ||metrics.kbb.com^                                                                                   INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ://utm.$domain=~utm.akindi.com|~utm.arc.nasa.gov|~utm.edu|~utm.io|~utm.md|~utm.pansa.pl|~utm.pharos360.com|~utoronto.ca|~utm.openskies.sh INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ://utm.$domain=~utm.akindi.com|~utm.arc.nasa.gov|~utm.edu|~utm.io|~utm.md|~utm.openskies.sh|~utm.pansa.pl|~utm.pharos360.com|~utoronto.ca INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||kinesis.eu-west-1.amazonaws.com^$third-party,domain=~amazon.com                                    INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
