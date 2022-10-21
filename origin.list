@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: QoPyCzbh2f/GJQkr7baP2w
-! Version: 202210211021
+! Checksum: oNYcRPCLguC3F4GXdq//cA
+! Version: 202210211031
 ! Title: EasyPrivacy
-! Last modified: 21 Oct 2022 10:21 UTC
+! Last modified: 21 Oct 2022 10:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -14965,6 +14965,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||acronymfinder.com/~/tr.ashx
 ||activate.latimes.com/pc/caltimes/?pulse2001=
 ||active.com/ig.track.js
+||activity.fiverr.com^
 ||adblockeronstape.me/stat/
 ||adblockeronstreamtape.me/stat/
 ||adblockeronstreamtape.xyz/stat/
@@ -15159,6 +15160,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||collect.banggood.com^
 ||collector-px0py5pczn.octopart.com^
 ||collector.cint.com^
+||collector.fiverr.com^
 ||collector.github.com^
 ||collector.githubapp.com^
 ||collector.megaxh.com^
@@ -15706,6 +15708,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||relay.fiverr.com^
 ||reports.tunein.com^
 ||retargeting.vistaprint.com^
+||reverbnation.com/api/user/app_events
 ||rfk.biglots.com^
 ||roblox.com/report
 ||roblox.com/www/e.png?
