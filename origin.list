@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: CQ0hwUy+vvwSafQM5bPhZQ
-! Version: 202210202321
+! Checksum: 1dJcGsnGX0kGoB08ARfE/g
+! Version: 202210202331
 ! Title: EasyPrivacy
-! Last modified: 20 Oct 2022 23:21 UTC
+! Last modified: 20 Oct 2022 23:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5420,7 +5420,7 @@
 ://tracking.*/beacon/
 ://tracking.*/event
 ://tracking.*/tr.js
-://utm.$domain=~utm.akindi.com|~utm.arc.nasa.gov|~utm.edu|~utm.io|~utm.md|~utm.pansa.pl|~utm.pharos360.com|~utoronto.ca
+://utm.$domain=~utm.akindi.com|~utm.arc.nasa.gov|~utm.edu|~utm.io|~utm.md|~utm.pansa.pl|~utm.pharos360.com|~utoronto.ca|~utm.openskies.sh
 ;type=eligibleimpression;
 ;type=pixel;
 =comscoreAdobeDpvCall&
