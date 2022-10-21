@@ -15982,6 +15982,4 @@ worker-src                                                                      
 ||data.europe.coca-cola.com^                                                                         INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||data.fans.williamsf1.com^                                                                          INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||data.fundacion.realmadrid.org^                                                                     INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
-/0c.gif?                                                                                             INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
-||analytics.evolution-x.org^                                                                         INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
-||player-cdn.com/cdn-cgi/trace                                                                       INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+/0c.gif?                                                                                             INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
