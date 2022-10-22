@@ -16278,5 +16278,5 @@ worker-src                                                                      
 ||smetric.gconlineplus.at^                                                                           INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||smetric.efgonlineplus.de^                                                                          INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||smetric.bimsplus24.pl^                                                                             INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
-||stat.flytechb.com^                                                                                 INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-||glassdoor.*/geb/events/                                                                            INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||stat.flytechb.com^                                                                                 INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||glassdoor.*/geb/events/                                                                            INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
