@@ -16280,4 +16280,4 @@ worker-src                                                                      
 ||smetric.bimsplus24.pl^                                                                             INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||stat.flytechb.com^                                                                                 INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||glassdoor.*/geb/events/                                                                            INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-||connecteam.com/bi/api/ReportHit/                                                                   INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||connecteam.com/bi/api/ReportHit/                                                                   INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
