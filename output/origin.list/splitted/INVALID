@@ -16442,4 +16442,4 @@ worker-src                                                                      
 ||smetrics.corazon.cl^                                                                               INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||smetrics.corpaybusinesscard.com^                                                                   INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||smetrics.correos.es^                                                                               INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
-/analytics/amp/*                                                                                     INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+/analytics/amp/*                                                                                     INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
