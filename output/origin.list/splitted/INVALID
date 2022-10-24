@@ -16593,4 +16593,5 @@ worker-src                                                                      
 ||smetrics.energytoday.biz^                                                                          INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||smetrics.enterprisesg.gov.sg^                                                                      INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
 ||smetrics.entrykeyid.com^                                                                           INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
-/page_perf_log                                                                                       INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+/page_perf_log                                                                                       INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||a8723.com^                                                                                         INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
