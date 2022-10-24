@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: kDOh5qqZeqQ3GP2+b+Zh9w
-! Version: 202210241031
+! Checksum: MD2kqirekO6WIg4Jpa2Ewg
+! Version: 202210241041
 ! Title: EasyPrivacy
-! Last modified: 24 Oct 2022 10:31 UTC
+! Last modified: 24 Oct 2022 10:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3304,6 +3304,7 @@
 /page_counter.
 /page_imp;
 /page_monitor_log?
+/page_perf_log
 /pageaction/trackEvent
 /pagead/conversion_
 /PageCount.php?
