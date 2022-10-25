@@ -16763,3 +16763,4 @@ worker-src                                                                      
 ||smetrics.kioxia.com^                                                                               INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||smetrics.krugerseed.com^                                                                           INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||smetrics.kol.se^                                                                                   INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||swarm.video/stats/                                                                                 INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
