@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: ggo6qGLT4QXOVsGc5QSkQQ
-! Version: 202210261803
+! Checksum: DmmKoYD4SWT7kkRnk6CfUA
+! Version: 202210261811
 ! Title: EasyPrivacy
-! Last modified: 26 Oct 2022 18:03 UTC
+! Last modified: 26 Oct 2022 18:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1086,6 +1086,7 @@
 /bounce_user_tracking-
 /bower_components/fp/fp.js
 /bps_sv.gif?
+/bpsma.js
 /br-trk-
 /br-trk.
 /br_imps/add_item?
