@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: Zw0cAoglLibFcGG1TlTmhQ
-! Version: 202210261051
+! Checksum: nq8gb/5xu9QrcI+/TVboYQ
+! Version: 202210261104
 ! Title: EasyPrivacy
-! Last modified: 26 Oct 2022 10:51 UTC
+! Last modified: 26 Oct 2022 11:04 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -8192,7 +8192,6 @@ _mongo_stats/
 ||salecycle.com^$third-party
 ||salemove.com^$third-party
 ||salesgenius.com^$third-party
-||salesmanago.pl^$third-party
 ||salesviewer.com^$third-party
 ||salesviewer.org^$third-party
 ||saletrack.co.uk^$third-party
