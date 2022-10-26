@@ -16764,5 +16764,5 @@ worker-src                                                                      
 ||smetrics.krugerseed.com^                                                                           INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||smetrics.kol.se^                                                                                   INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||swarm.video/stats/                                                                                 INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-||at.360.audion.fm^                                                                                  INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
-||t.360.audion.fm^                                                                                   INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||at.360.audion.fm^                                                                                  INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||t.360.audion.fm^                                                                                   INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
