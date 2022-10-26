@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: rclXJY7AZYYL6871s9WjnA
-! Version: 202210261003
+! Checksum: U+xwixYxV0jhdZAmQ4mLoA
+! Version: 202210261011
 ! Title: EasyPrivacy
-! Last modified: 26 Oct 2022 10:03 UTC
+! Last modified: 26 Oct 2022 10:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -14947,6 +14947,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||f-emc.ngsp.gov.vn^
 ||fpt.shop/fa_tracking.js
 ||tracking.aita.gov.vn^
+||tracking3.vnncdn.net^
 ||za.zdn.vn^
 ||zalo.me/v3/w/_zaf.gif
 !-----------------Individual tracking systems-----------------!
@@ -15507,6 +15508,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||linkedin.com/sensorCollect/
 ||links.strava.com^$image
 ||linktr.ee/events
+||lists.ccmbg.com^
 ||littlebigsnake.com/event?
 ||livehdcams.com/api/events
 ||livehdcams.com/api/metrics
