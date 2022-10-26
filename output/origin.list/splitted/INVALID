@@ -16766,8 +16766,8 @@ worker-src                                                                      
 ||swarm.video/stats/                                                                                 INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||at.360.audion.fm^                                                                                  INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||t.360.audion.fm^                                                                                   INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-||withcabin.com^$third-party                                                                         INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-||m.stripe.com^                                                                                      INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-||r.stripe.com^                                                                                      INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-||tracking3.vnncdn.net^                                                                              INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
-||lists.ccmbg.com^                                                                                   INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||withcabin.com^$third-party                                                                         INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||m.stripe.com^                                                                                      INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||r.stripe.com^                                                                                      INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+||tracking3.vnncdn.net^                                                                              INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+||lists.ccmbg.com^                                                                                   INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
