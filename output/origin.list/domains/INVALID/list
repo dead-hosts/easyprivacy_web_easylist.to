@@ -16930,3 +16930,6 @@ worker-src
 ||swarm.video/stats/
 ||at.360.audion.fm^
 ||t.360.audion.fm^
+||withcabin.com^$third-party
+||m.stripe.com^
+||r.stripe.com^

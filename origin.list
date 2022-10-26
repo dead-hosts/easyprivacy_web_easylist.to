@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: gvExN2pHLuQbCTXXe8F9mg
-! Version: 202210260951
+! Checksum: rclXJY7AZYYL6871s9WjnA
+! Version: 202210261003
 ! Title: EasyPrivacy
-! Last modified: 26 Oct 2022 09:51 UTC
+! Last modified: 26 Oct 2022 10:03 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -8815,6 +8815,7 @@ _mongo_stats/
 ||wirewuss.com^$third-party
 ||wisetrack.net^$third-party
 ||wishloop.com^$third-party
+||withcabin.com^$third-party
 ||withcubed.com^$third-party
 ||wizaly.com^$third-party
 ||wmcdp.io^$third-party
@@ -12706,6 +12707,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||lunametrics.wpengine.netdna-cdn.com^
 ||lycos.com/hb.js
 ||m.addthisedge.com^
+||m.stripe.com^
 ||ma.logsss.com^
 ||magnify.net/decor/track/
 ||mail-app.com/pvtracker/
@@ -13042,6 +13044,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||qzzr.com/_uid.gif
 ||r.mail.ru^$script
 ||r.skimresources.com^
+||r.stripe.com^
 ||rackcdn.com/gate.js
 ||rackcdn.com/stf.js
 ||radiotime.com/Report.ashx?
@@ -29975,6 +29978,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||dot-stat.radikal.ru^
 ||drom.ru/dummy.
 ||fb.ru/stat/
+||fontanka.ru/api/metrics/
 ||fotostrana.ru/start/
 ||hh.ru/analytics^
 ||hh.ru/stat?
