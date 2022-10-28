@@ -16817,4 +16817,5 @@ worker-src                                                                      
 ||smetrics.marcus.com^                                                                               INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||smetrics.lululemon.es^                                                                             INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
 ||fptls.com^                                                                                         INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
-/1pixel.php                                                                                          INVALID     COLLECTION Unknown           Unknown                        Unknown    AVAILABILITY 
+/1pixel.php                                                                                          INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
+/MailIsRead?$image                                                                                   INVALID     SYNTAX     Unknown           Unknown                        Unknown    AVAILABILITY 
