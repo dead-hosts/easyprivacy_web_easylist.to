@@ -1,6 +1,5 @@
-adblock: true
 cli_decoding:
-    adblock: false
+    adblock: true
     adblock_aggressive: false
     rpz: false
     wildcard: false
@@ -44,7 +43,7 @@ cli_testing:
         plain: true
         unified_results: false
     hosts_ip: 0.0.0.0
-    inactive_db: true
+    inactive_db: false
     local_network: false
     max_workers: 5
     mining: false
@@ -138,7 +137,6 @@ http_codes:
         - 226
         - 429
     self_managed: false
-inactive_database: false
 links:
     api_date_format: https://pyfunceble.funilrys.com/api/date-format
     api_no_referrer: https://pyfunceble.funilrys.com/api/no-referrer
