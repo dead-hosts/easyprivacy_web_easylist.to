@@ -1,8 +1,8 @@
 {
     "currently_under_test": false,
     "custom_pyfunceble_config": {
-        "adblock": true,
-        "inactive_database": false
+        "cli_decoding.adblock": true,
+        "cli_testing.inactive_db": false
     },
     "days_until_next_test": 2.0,
     "finish_datetime": "2022-10-05T01:17:04.548168",
