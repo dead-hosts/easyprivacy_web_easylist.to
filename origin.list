@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: m1Bpd4p1uNxWGXCKebNsJw
-! Version: 202211260941
+! Checksum: XzruUCYp7/eMK+XPYwAl7Q
+! Version: 202211261003
 ! Title: EasyPrivacy
-! Last modified: 26 Nov 2022 09:41 UTC
+! Last modified: 26 Nov 2022 10:03 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -16380,6 +16380,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||urbanoutfitters.com/0N3XMOl0/init.js
 ||walmart.ca/px/PXnp9B16Cq/init.js
 ||walmart.com/px/PXu6b0qd2S/init.js
+||walmartpetrx.com/1Ct9c6G3/init.js
 ||wayfair.com/px/client/main.min.js
 ||wine-searcher.com/K6S8okp3/init.js
 ||worthpoint.com/lIUjcOwl/init.js
@@ -30312,6 +30313,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||api.perfops.net^$script,xmlhttprequest,domain=cdnperf.com|dnsperf.com
 @@||api.touchnote.io^$xmlhttprequest,domain=app.touchnote.com
 @@||api.transcend.io/privacy/graphql$xmlhttprequest,domain=privacy.patreon.com
+@@||api.us1.exponea.com^$script,xmlhttprequest,domain=walmartpetrx.com
 @@||app.sushi.com/_next/static/chunks/pages/analytics$~third-party
 @@||appboycdn.com^*/appboy.min.js$script,domain=bakkt.com
 @@||appspot.com/static/js/tracker/$script,domain=bugs.avm99963.com
