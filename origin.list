@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: wiO+7iBtFL/ywzCkZxzrsQ
-! Version: 202211271211
+! Checksum: xDMVeMFceCgSzQ6P/6urhQ
+! Version: 202211271221
 ! Title: EasyPrivacy
-! Last modified: 27 Nov 2022 12:11 UTC
+! Last modified: 27 Nov 2022 12:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -15062,6 +15062,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.tradedoubler.com^
 ||analytics.twitter.com^
 ||analytics.vedantu.com^
+||analytics.yugen.to^
 ||ancestry.com/core.js
 ||androidfilehost.com/libs/otf/stats.otf.php?
 ||anon-stats.eff.org^
@@ -29111,6 +29112,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||as.mytoys.de^
 ||as.otto.de^
 ||as.yomonda.de^
+||basicthinking.de/stats/
 ||behave.sn.at^
 ||braunschweiger-zeitung.de/stats/
 ||bz-berlin.de/_stats/
@@ -29250,6 +29252,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||walbusch.de^$ping
 ||web.de/monitoring/
 ||wikipedia.de/tracking.js
+||witt-weiden.de^$ping
 ||wjq.ma.tarnkappe.info^
 ||wlw.de/unified_search_backend/api/v1/tracking/
 ||ymprove.gmx.net^
