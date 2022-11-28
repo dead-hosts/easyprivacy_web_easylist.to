@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: aMN5gmD2f0B8PrCKmJuB4g
-! Version: 202211281051
+! Checksum: b9/zRaw4S3iNzbtpT8X1bQ
+! Version: 202211281111
 ! Title: EasyPrivacy
-! Last modified: 28 Nov 2022 10:51 UTC
+! Last modified: 28 Nov 2022 11:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -30352,7 +30352,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||bobbibrowncosmetics.com^*/analytics.min.js$~third-party
 @@||bookmate.com^*/impressions?$~third-party,xmlhttprequest
 @@||boots.com/wcsstore/ebootsstorefrontassetstore/javascript/analytics.js$~third-party
-@@||browser.sentry-cdn.com^$domain=dic.pixiv.net|doconcall.com.my|eco-clobber.co.uk|fundhero.io|menshealth.com|timesprime.com|womenshealthmag.com
+@@||browser.sentry-cdn.com^$domain=acustica-audio.com|dic.pixiv.net|doconcall.com.my|eco-clobber.co.uk|fundhero.io|menshealth.com|timesprime.com|womenshealthmag.com
 @@||brsrvr.com/api/$xmlhttprequest,domain=dollargeneral.com
 @@||builder.lift.acquia.com/lift.js$script,domain=edwardjones.com
 @@||c.paypal.com/da/r/fb.js$script
@@ -30425,7 +30425,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||dashboard.streetlib.com/_next/static/chunks/pages/$~third-party
 @@||dashboard.unity.com/dist/udash/app/assets/services/analytics/$domain=dashboard.unity.com|dashboard.unity3d.com
 @@||data.adxcel-ec2.com^$image,domain=laguardia.edu
-@@||datadoghq-browser-agent.com/datadog-$script,domain=bbcgoodfood.com|usa.experian.com
+@@||datadoghq-browser-agent.com/datadog-$script,domain=bbcgoodfood.com|dashboard.getdriven.app|usa.experian.com
 @@||ddmcdn.com^*/adobe.visitor-$script,domain=ahctv.com|animalplanet.com|cookingchanneltv.com|destinationamerica.com|discovery.com|discoverylife.com|diynetwork.com|foodnetwork.com|hgtv.com|investigationdiscovery.com|motortrend.com|sciencechannel.com|tlc.com|travelchannel.com
 @@||ddmcdn.com^*/comscore.streaming.$script,domain=ahctv.com|animalplanet.com|cookingchanneltv.com|destinationamerica.com|discovery.com|discoverylife.com|diynetwork.com|foodnetwork.com|hgtv.com|investigationdiscovery.com|motortrend.com|sciencechannel.com|tlc.com|travelchannel.com
 @@||decision.taplytics.com^$domain=royalbank.com
