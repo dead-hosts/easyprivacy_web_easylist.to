@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: kZ2uX/h8Q3S8xWQKd7tWbg
-! Version: 202211291111
+! Checksum: H8gaFUulFP+DnyiMB0DCrw
+! Version: 202211291131
 ! Title: EasyPrivacy
-! Last modified: 29 Nov 2022 11:11 UTC
+! Last modified: 29 Nov 2022 11:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6769,7 +6769,6 @@ _mongo_stats/
 ||cnzz.com^$third-party
 ||cobaltgroup.com^$third-party
 ||codata.ru^$third-party
-||coefficy.com^$third-party
 ||cogmatch.net^$third-party
 ||cognativex.com^$third-party
 ||cognitivematch.com^$third-party
@@ -8337,6 +8336,7 @@ _mongo_stats/
 ||slingpic.com^$third-party
 ||smadex.com^$third-party
 ||smallseotools.com^$third-party
+||smart-data-systems.com^$third-party
 ||smart-digital-solutions.com^$third-party
 ||smart-dmp.com^$third-party
 ||smart-ip.net^$third-party
@@ -12015,6 +12015,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cnt.trvdp.com^
 ||cnzz.com/stat.
 ||cod.bitrec.com^
+||coefficy.com/ip/
 ||coherentpath.com/tracker/
 ||collect-ap2.attraqt.io^
 ||collect-eu.attraqt.io^
