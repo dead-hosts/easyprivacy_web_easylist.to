@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: dFhK7GPwXx1uPKJmbRasGw
-! Version: 202212011231
+! Checksum: jL+lxtgrL7WE0vvIwLzAoA
+! Version: 202212011251
 ! Title: EasyPrivacy
-! Last modified: 01 Dec 2022 12:31 UTC
+! Last modified: 01 Dec 2022 12:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5960,6 +5960,7 @@ _mongo_stats/
 !-----------------Third-party tracking domains-----------------!
 ! *** easylist:easyprivacy/easyprivacy_trackingservers.txt ***
 ! Non-flagged (Generic blocks)
+||00px.net^
 ||1cros.net^
 ||2022welcome.com^
 ||2l6ddsmnm.de^
