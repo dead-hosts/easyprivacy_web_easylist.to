@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: WKtIDtkFICrcDGselOvilQ
-! Version: 202212011051
+! Checksum: XcQ2breefmf+MOaxnENd0A
+! Version: 202212011105
 ! Title: EasyPrivacy
-! Last modified: 01 Dec 2022 10:51 UTC
+! Last modified: 01 Dec 2022 11:05 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -8139,6 +8139,7 @@ _mongo_stats/
 ||research-tool.com^$third-party
 ||researchintel.com^$third-party
 ||researchnow.co.uk^$third-party,domain=~dynata.com
+||researchnow.com^$third-party
 ||resetdigital.co^$third-party
 ||reson8.com^$third-party
 ||responsetap.com^$third-party
@@ -10193,14 +10194,14 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||shinesavage.com^
 ||shinestuart.com^
 ||shockinggrass.com^$third-party
-||shockingship.com^$third-party
+||shockingship.com^
 ||shopbreakfast.com^
 ||showsteel.com^
 ||showstranger.com^
 ||shrillspoon.com^
 ||shutseashore.com^
-||shyseed.com^$third-party
-||sicksmash.com^$third-party
+||shyseed.com^
+||sicksmash.com^
 ||silentcredit.com^
 ||silentwrench.com^
 ||siliconslow.com^
@@ -10209,8 +10210,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||simplesidewalk.com^
 ||simplisticstem.com^
 ||sincerebuffalo.com^
-||sinceresubstance.com^$third-party
-||singroot.com^$third-party
+||sinceresubstance.com^
+||singroot.com^
 ||sixscissors.com^
 ||sizesidewalk.com^
 ||skillfuldrop.com^
@@ -10222,14 +10223,14 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||slipperysack.com^
 ||sloppycalculator.com^
 ||sloppyearthquake.com^
-||smallbeginner.com^$third-party
+||smallbeginner.com^
 ||smashshoe.com^
-||smashsurprise.com^$third-party
+||smashsurprise.com^
 ||smilingcattle.com^
 ||smilingshake.com^
 ||smilingwaves.com^
 ||smoggysnakes.com^
-||smoggystation.com^$third-party
+||smoggystation.com^
 ||snailscart.com^
 ||snailsengine.com^
 ||snakemineral.com^
@@ -10238,13 +10239,13 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||sneakystew.com^
 ||snoresmile.com^
 ||soaprange.com^
-||soggysponge.com^$third-party
+||soggysponge.com^
 ||somberattack.com^
-||somberscarecrow.com^$third-party
+||somberscarecrow.com^
 ||sombersea.com^
 ||sombersquirrel.com^
 ||somberstructure.com^
-||sombersurprise.com^$third-party
+||sombersurprise.com^
 ||songssmoke.com^
 ||songsterritory.com^
 ||sootheside.com^
@@ -10256,7 +10257,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||soretrain.com^
 ||sortsail.com^
 ||sortstructure.com^
-||sortsummer.com^$third-party
+||sortsummer.com^
 ||sowlettuce.com^
 ||spadelocket.com^
 ||sparklesleet.com^
@@ -10265,10 +10266,10 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||specialscissors.com^
 ||specialsnake.com^
 ||specialstatement.com^
-||spellsalsa.com^$third-party
+||spellsalsa.com^
 ||spendpest.com^
 ||spidersboats.com^
-||spiffymachine.com^$third-party
+||spiffymachine.com^
 ||spikyslave.com^
 ||spirebaboon.com^
 ||spitefulstop.com^
@@ -10285,15 +10286,15 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||spottedsnow.com^
 ||springaftermath.com^
 ||springsister.com^
-||spuriousbase.com^$third-party
-||spurioussteam.com^$third-party
+||spuriousbase.com^
+||spurioussteam.com^
 ||spuriousstranger.com^
 ||spysubstance.com^
 ||squashfriction.com^
-||squeakzinc.com^$third-party
+||squeakzinc.com^
 ||squealingturn.com^
 ||squeamishspot.com^
-||squirrelhands.com^$third-party
+||squirrelhands.com^
 ||stakingscrew.com^
 ||stakingslope.com^
 ||stakingsmile.com^
@@ -10303,27 +10304,27 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||standingnest.com^
 ||standingsack.com^
 ||standtrouble.com^
-||stat.pet^$third-party
+||stat.pet^
 ||statementsweater.com^
 ||statuesquebrush.com^
 ||steadfastseat.com^
-||steadfastsound.com^$third-party
+||steadfastsound.com^
 ||steadfastsystem.com^
 ||steadycopper.com^
 ||steepsquirrel.com^
-||stepplane.com^$third-party
+||stepplane.com^
 ||stereoproxy.com^
 ||stereotypedclub.com^
 ||stereotypedsugar.com^
 ||stickssheep.com^
 ||stickysheet.com^
-||stiffgame.com^$third-party
-||stiffstem.com^$third-party
+||stiffgame.com^
+||stiffstem.com^
 ||stockingsneeze.com^
 ||storescissors.com^
 ||storeslope.com^
-||storesurprise.com^$third-party
-||stormyachiever.com^$third-party
+||storesurprise.com^
+||stormyachiever.com^
 ||stoveseashore.com^
 ||straightnest.com^
 ||strangesink.com^
@@ -10339,26 +10340,26 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stupidsnake.com^
 ||subsequentsand.com^
 ||subsequentstew.com^
-||subsequentswim.com^$third-party
+||subsequentswim.com^
 ||substantialcarpenter.com^
 ||substantialstraw.com^
 ||succeedscene.com^
 ||successfulscent.com^
-||suddensidewalk.com^$third-party
+||suddensidewalk.com^
 ||suddensnake.com^
 ||suddensoda.com^
 ||suddenstructure.com^
-||sugarcurtain.com^$third-party
+||sugarcurtain.com^
 ||sulkybutter.com^
 ||sulkycook.com^
 ||summerobject.com^
 ||superficialeyes.com^
 ||superficialspring.com^
-||superficialsquare.com^$third-party
+||superficialsquare.com^
 ||supervisegoldfish.com^
 ||suspendseed.com^
 ||sweepsheep.com^
-||sweetslope.com^$third-party
+||sweetslope.com^
 ||swellstocking.com^
 ||swimslope.com^
 ||swordgoose.com^
@@ -10372,7 +10373,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tastefulsongs.com^
 ||tastelesstrees.com^
 ||tastelesstrucks.com^
-||tawdryson.com^$third-party
+||tawdryson.com^
 ||tdzvm.pw^
 ||tediousticket.com^
 ||tedioustooth.com^
@@ -15238,7 +15239,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dcf.espn.com/privacy/
 ||dd.auspost.com.au^
 ||dealnews.com/lw/ul.php
-||deepl.com/web/statistics
 ||deezer.com/ajax/gw-light.php?method=triton.pixelTracking&
 ||deliver.ptgncdn.com^
 ||deliveroo.com^*/events
@@ -30960,6 +30960,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||google-analytics.com/analytics.js$domain=infoconso-multimedia.fr|viandesuisse.ch
 @@||googletagmanager.com/gtm.js$script,domain=chronopost.fr|linternaute.com|sciencesetavenir.fr|wamiz.com
 @@||googletagmanager.com/gtm.js?$domain=journaldunet.com
+@@||inbenta.io/prod/km/v1/tracking/events$domain=axa.fr
 @@||lexpress.fr/tagcommander.js$script,~third-party
 @@||logic-immo.com/lib/xiti/xiti.js$script,~third-party
 @@||mabanque.fortuneo.fr/js/front/fingerprint2.js$script,domain=mabanque.fortuneo.fr
