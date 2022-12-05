@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: smuydCZtsDIxu+ftTOXzcw
-! Version: 202212042303
+! Checksum: Lpw2J6mIzEV6Wmm5XLhx3A
+! Version: 202212042321
 ! Title: EasyPrivacy
-! Last modified: 04 Dec 2022 23:03 UTC
+! Last modified: 04 Dec 2022 23:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6533,6 +6533,7 @@ _mongo_stats/
 ||awesomelytics.com^$third-party
 ||awfonts.com^$script,third-party
 ||awin1.com^$third-party
+||awstats.cloud^$third-party
 ||awstrack.me^$third-party
 ||axf8.net^$third-party
 ||axiom.co^$third-party
@@ -8870,6 +8871,7 @@ _mongo_stats/
 ||xg4ken.com^$third-party
 ||xiti.com^$third-party
 ||xlisting.jp^$third-party
+||xstats.net^$third-party
 ||xtraffstat.com^$third-party
 ||xtremline.com^$third-party
 ||xxxcounter.com^$third-party
