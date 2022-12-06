@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: T8uGnKyBjldVB1nFBqL+wA
-! Version: 202212060434
+! Checksum: A2zR5Ak8MLq2M2ONG6MujQ
+! Version: 202212060451
 ! Title: EasyPrivacy
-! Last modified: 06 Dec 2022 04:34 UTC
+! Last modified: 06 Dec 2022 04:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3849,6 +3849,7 @@
 /rum/events
 /rum/id?
 /rum/performance
+/rum?ddsource=
 /rum_cmp?
 /rumcdn.
 /rumstat.
