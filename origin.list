@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: aZ2xiiZvkfaMvdODSJIsmg
-! Version: 202212081004
+! Checksum: Ud5sRSwG7Qzi94J3AWQEPA
+! Version: 202212081021
 ! Title: EasyPrivacy
-! Last modified: 08 Dec 2022 10:04 UTC
+! Last modified: 08 Dec 2022 10:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -12211,6 +12211,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||e-activist.com^*/broadcast.record.message.open.do?
 ||e-merchant.com/^*/edr.js$third-party
 ||e.ebidtech.com/cv/
+||e.metarouter.io^
 ||ea.youmaker.com^
 ||early-birds.fr/tracker/
 ||ebayadservices.com/marketingtracking/
@@ -12367,6 +12368,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||freedom.com^*/analytics/
 ||freehostedscripts.net^*.php?site=*&s=*&h=$third-party
 ||fresh.inlinkz.com^$third-party
+||frog.editorx.com^
 ||fs-client-logger.herokuapp.com^
 ||ftimg.net/js/log.js?
 ||future-fie-assets.co.uk^
@@ -30683,6 +30685,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||oyster.com/wp-content/plugins/smartertravel-shared/assets/js/tracking.min.js$~third-party
 @@||pagure.io/static/issues_stats.js$~third-party
 @@||palmettostatearmory.com/static/$script,~third-party
+@@||pals.pa.gov/vendor/analytics/appinsights.js$third-party
 @@||parcel.app/webtrack.php?$~third-party
 @@||parsely.com/keys/$script,domain=wmmr.com|wrif.com
 @@||paypal.com/xoplatform/logger/api/logger$domain=play.leagueofkingdoms.com
