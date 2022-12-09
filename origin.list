@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: rnbeDD16/MEX0mKL6CBhRw
-! Version: 202212090111
+! Checksum: 4hz9aVDsFRS3+MyQTpUdpw
+! Version: 202212090131
 ! Title: EasyPrivacy
-! Last modified: 09 Dec 2022 01:11 UTC
+! Last modified: 09 Dec 2022 01:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -809,6 +809,7 @@
 /api/tracking/*
 /api/trk?
 /api/v1/collector
+/api/v1/firehose?_
 /api/v1/metrics
 /api/v1/stat?
 /api/v1/streamtelemetry
@@ -15097,6 +15098,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||androidfilehost.com/libs/otf/stats.otf.php?
 ||anon-stats.eff.org^
 ||apartments.com/clientvisit/al.gif?
+||api-js.mixpanel.com^
 ||api.ffm.to/sl/e/$image
 ||api.narrativ.com/favicon.ico
 ||apkpure.com/analytics_
@@ -16021,7 +16023,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||strtapewithadblock.xyz/stat/
 ||strtpe.link/stat/
 ||stubhub.com/bfx/api/logging
-||substack.com/api/v1/firehose?
 ||swarm.video/stats/
 ||t.9gag.com^
 ||t.allmodern.com^
