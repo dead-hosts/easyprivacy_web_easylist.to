@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: oj+XIZu0+QUQFfYHijlAIQ
-! Version: 202212131031
+! Checksum: mc2mCWjptN1eKYm+/xy3Cg
+! Version: 202212131051
 ! Title: EasyPrivacy
-! Last modified: 13 Dec 2022 10:31 UTC
+! Last modified: 13 Dec 2022 10:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -9727,6 +9727,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||fretfulfurniture.com^
 ||friendwool.com^
 ||frightenedpotato.com^
+||frogtray.com^
 ||fronttoad.com^
 ||fujiladder.com^
 ||fumblingform.com^
