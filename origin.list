@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: /ePlKBtHS9q4M9mBPNDYRA
-! Version: 202212130151
+! Checksum: Tv2QtWnKfl1/wucYlu7mXQ
+! Version: 202212130221
 ! Title: EasyPrivacy
-! Last modified: 13 Dec 2022 01:51 UTC
+! Last modified: 13 Dec 2022 02:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -15127,7 +15127,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||banggood.com/collectBanner?
 ||banggood.com/collectException
 ||bangkokpost.com/hits/
-||bankofamerica.com/cookie-id.js
 ||bat.maydream.com^
 ||bats.video.yahoo.com^
 ||bcbits.com/bundle/bundle/1/analytics-$domain=bandcamp.com
@@ -16353,10 +16352,11 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||w-profiling.simplii.com^
 ||wup-content23.bmoharris.com^
 ! Fingerprint
+||bankofamerica.com/cookie-id.js
+||bup.bankofamerica.com^
 ||cdn1.skrill.com^
 ||d276.ourmidland.com^
 ||d810.mysanantonio.com^
-||dull.bankofamerica.com^$script,~third-party,xmlhttprequest
 ||eventbus.intuit.com^
 ||f775.thehour.com^
 ||h353.ncadvertiser.com^
@@ -16368,8 +16368,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pf.intuit.com^
 ||q777.sfchronicle.com^
 ||rail.bankofamerica.com^$script,~third-party,xmlhttprequest
+||sofa.bankofamerica.com^
 ||t570.wiltonbulletin.com^
-||tilt.bankofamerica.com^
 ||u652.myplainview.com^
 ||u927.sfgate.com^
 ||w740.newstimes.com^
