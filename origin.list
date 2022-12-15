@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 6QqU0tu0xCzRarLxTi7HJQ
-! Version: 202212151231
+! Checksum: ORtka5epPvlqXdzMRuNjiw
+! Version: 202212151251
 ! Title: EasyPrivacy
-! Last modified: 15 Dec 2022 12:31 UTC
+! Last modified: 15 Dec 2022 12:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6150,7 +6150,6 @@ _mongo_stats/
 ||mm-api.agency^
 ||monu.delivery^
 ||mors22.com^
-||mradx.net^
 ||mrpdata.net^
 ||mt48.net^
 ||mxpnl.com^
