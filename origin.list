@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: Rm0b87naHKq6ZELG644HvQ
-! Version: 202212151051
+! Checksum: qNjI6AAyHYU2lFJMnCN2yw
+! Version: 202212151111
 ! Title: EasyPrivacy
-! Last modified: 15 Dec 2022 10:51 UTC
+! Last modified: 15 Dec 2022 11:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6213,6 +6213,7 @@ _mongo_stats/
 ||sitedataprocessing.com^
 ||sixtrk.com^
 ||sjpf.io^
+||soapfighters.com^
 ||solutionshindsight.net^
 ||speedyfox.io^
 ||speedyrhino.co^
@@ -8651,6 +8652,7 @@ _mongo_stats/
 ||truconversion.com^$third-party
 ||truehits.in.th^$third-party
 ||truehits1.gits.net.th^$third-party
+||truffle.one^$third-party
 ||truoptik.com^$third-party
 ||trysera.com^$third-party
 ||tscounter.com^$third-party
