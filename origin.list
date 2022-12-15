@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: Zh9tb+l4fS38bp1MRZZKDw
-! Version: 202212150342
+! Checksum: KDEkGJRMZWJSwSvVXvqnhA
+! Version: 202212150351
 ! Title: EasyPrivacy
-! Last modified: 15 Dec 2022 03:42 UTC
+! Last modified: 15 Dec 2022 03:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5651,6 +5651,8 @@ cgi-bin/counter
 .theatlantic.com/email.gif?
 .titus.de/oo/$image
 .travis-ci.com/r/$image
+.tripadvisor.com/MptUrl?$image
+.tripadvisor.com/q/$image
 .umusic-online.com^*/o.gif
 .warehousefashion.com/warehouse/e/$image
 .webex.com/q/
