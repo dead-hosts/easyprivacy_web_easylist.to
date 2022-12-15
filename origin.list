@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: luaejxLztsggR0Jp3BKh1w
-! Version: 202212150921
+! Checksum: 0do7QPTWCY0fFKJ8v1HSJA
+! Version: 202212150941
 ! Title: EasyPrivacy
-! Last modified: 15 Dec 2022 09:21 UTC
+! Last modified: 15 Dec 2022 09:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4384,7 +4384,6 @@
 /tagmanager/pptm.
 /tagmgmt/bootstrap.
 /tagomnitureengine.js
-/tags/angular-
 /tags?session_id=
 /TagSvc/*
 /tagx.js
