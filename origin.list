@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: J22mKEwucbollvliDkXZBQ
-! Version: 202212162051
+! Checksum: lZJLEqcuntXDi6VIAgiaPA
+! Version: 202212162121
 ! Title: EasyPrivacy
-! Last modified: 16 Dec 2022 20:51 UTC
+! Last modified: 16 Dec 2022 21:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -30980,6 +30980,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||intersport.peerius.com/tracker/tracker.page$script,domain=intersport.de
 @@||kameleoon.com/geolocation.gif$domain=welt.de
 @@||kameleoon.com/ip.gif$domain=welt.de
+@@||kameleoon.eu/images/$image,domain=welt.de
 @@||kameleoon.eu/ip.gif$domain=welt.de
 @@||kameleoon.eu/kameleoon.js$domain=welt.de
 @@||ksta.de/cre-1.0/tracking/call.js?$domain=ksta.de
