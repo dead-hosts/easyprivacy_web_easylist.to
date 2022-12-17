@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: VHO6GWWPGbBQFKYbiIqzBQ
-! Version: 202212171911
+! Checksum: Wd6IsiBkmtZqJPdg3A6VPA
+! Version: 202212171941
 ! Title: EasyPrivacy
-! Last modified: 17 Dec 2022 19:11 UTC
+! Last modified: 17 Dec 2022 19:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6029,6 +6029,7 @@ _mongo_stats/
 ||cloudwp.io^
 ||clrt.ai^
 ||cntxtfl.com^
+||confiant-integrations.net^
 ||convead.io^
 ||cpx.to^
 ||crsspxl.com^
@@ -6047,6 +6048,7 @@ _mongo_stats/
 ||dm-event.net^
 ||dmpxs.com^
 ||dratingmaject.com^
+||dspx.tv^
 ||dttrk.com^
 ||dwin1.com^
 ||dwin2.com^
@@ -14966,6 +14968,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pub.servidoresge.com^
 ||reachandrich.antevenio.com^
 ||s3wfg.com/js/vortexloader.js
+||smarte.rs/log
 ||sp.vtex.com^
 ||stats.administrarweb.es^
 ||stats.miarroba.info^
@@ -16205,6 +16208,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||w3-reporting.reddit.com^
 ||wa.gmx.co.uk^
 ||wa.ui-portal.de^
+||waaw.to/cdn-cgi/trace
 ||wal.co/cdn-perf.min.js
 ||wal.wolfram.com^
 ||walmart.ca/api/bsp/logger
@@ -16255,6 +16259,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||yandex.*/clck/$~ping
 ||yandex.*/count/
 ||yandex.com/clck/
+||yandex.eu/clck/
 ||yandexcdn.com/cdn-cgi/trace
 ||yelp.*/sit_rep
 ||yelp.com/ad_acknowledgment
