@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 5JM5qxYw09z8GARYcPWuTg
-! Version: 202212192241
+! Checksum: HvaifxsAG8uQUSzHMH5lsw
+! Version: 202212192311
 ! Title: EasyPrivacy
-! Last modified: 19 Dec 2022 22:41 UTC
+! Last modified: 19 Dec 2022 23:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -13149,6 +13149,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||s.srvsynd.com^
 ||sa.scorpion.co^
 ||saasexch.com/bapi/fe/usd/report/
+||safe-iplay.com/logger
 ||sail-horizon.com/horizon/$third-party
 ||sailthru.com/img/$image,third-party
 ||sailthru.com/Sailthru_spacer_1x1.gif
@@ -13513,6 +13514,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tracker.netklix.com^$script
 ||tracker.nitropay.com^
 ||tracker.roitesting.com^
+||tracker.services.vaix.ai^
 ||tracker.softcube.com^
 ||tracker.ssl0d.com^
 ||tracker.timesgroup.com^
@@ -30209,6 +30211,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||abc.es/pixel/
 ||aemet.es/js/stats.js
 ||analytics.bolavip.com^
+||analytics.emol.com^
 ||analytics.infobae.com^
 ||analytics.redlink.com.ar^
 ||audiencies.ccma.cat^
@@ -30240,6 +30243,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||todomercadoweb.es/pixel
 ||trrsf.com/metrics/
 ||uecdn.es/js/pbmu.js
+||unm.emol.com^
 ||wssgmstats.vibbo.com^
 ||wsstats.coches.net^
 ! Swedish
