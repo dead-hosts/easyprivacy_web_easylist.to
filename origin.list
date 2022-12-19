@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: jUqbYRszT0Mw5B9cF9OkBg
-! Version: 202212191021
+! Checksum: 3Zxv+Ns7lB6OsfNPfa6goA
+! Version: 202212191041
 ! Title: EasyPrivacy
-! Last modified: 19 Dec 2022 10:21 UTC
+! Last modified: 19 Dec 2022 10:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -31285,7 +31285,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||mediaweaver.jp^$image,domain=ismedia.jp
 @@||minkou.jp/js/tracking.js$~third-party
 @@||muumuu-domain.com/common/js/ga_social_tracking.js
-@@||nakanohito.jp^*/bi.js$domain=kenko-tokina.co.jp
+@@||nakanohito.jp^*/bi.js$domain=kenko-tokina.co.jp|myna.go.jp
 @@||nihongo.alc.co.jp/theme/Japanese/img/home/nf/us.gif$image,~third-party
 @@||nittsu.com/Tracking/Scripts/Tracking/track.js
 @@||o-uccino.jp/api/v2/collector?$xmlhttprequest,domain=o-uccino.com
