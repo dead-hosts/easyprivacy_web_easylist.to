@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: GCNurt0w3DEIhojgcuE00Q
-! Version: 202212201741
+! Checksum: 0qVDtXrQQE3g02P/4AVQVA
+! Version: 202212201751
 ! Title: EasyPrivacy
-! Last modified: 20 Dec 2022 17:41 UTC
+! Last modified: 20 Dec 2022 17:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -11193,6 +11193,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||btg360.com.br^$third-party
 ||cifraclub.com.br^$third-party
 ||clearsale.com.br^$third-party
+||dataunion.com.br^$third-party
 ||denakop.com^$third-party
 ||engageya.com^$third-party
 ||enviou.com.br^$third-party
@@ -13057,6 +13058,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||session.timecommerce.net^
 ||sezzle.com/v1/event/log
 ||sftrack.searchforce.net^
+||sgali-mcs.byteoversea.com^
 ||share-online.biz/affiliate/$third-party
 ||shareaholic.com/analytics_
 ||shareaholic.com/partners.js
@@ -15611,7 +15613,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||rakuten.com/rmsgjs/soj2.js
 ||ranker.com/api/tr?
 ||rankhit.china.com^
-||ras.yahoo.com/adcount$image,domain=finance.yahoo.com
+||ras.yahoo.com^
 ||realestate.com.au^*/p.js
 ||realitytvworld.com/images/pixel.gif
 ||reddit.com/static/pixel.png$image
