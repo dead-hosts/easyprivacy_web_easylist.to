@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: anHUEz3l+HK+1F/ot4/SaA
-! Version: 202212242221
+! Checksum: WkpuWP8UaM/gb1vgLmbBHw
+! Version: 202212242241
 ! Title: EasyPrivacy
-! Last modified: 24 Dec 2022 22:21 UTC
+! Last modified: 24 Dec 2022 22:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4323,6 +4323,7 @@
 /StatsHelper.gif?
 /StatSNA.js
 /StatsPage.
+/StatsPixel?
 /StatsService.RecordStats?
 /statstracker.
 /statstracker/*
@@ -4661,6 +4662,7 @@
 /TrackerHandler.
 /trackerLog.php?
 /trackermediator.js
+/trackerPageAnalytics.js
 /trackerpixel.js
 /trackers/hp_conversion-
 /trackerstatistik.
@@ -6251,6 +6253,7 @@ _mongo_stats/
 ||ugdturner.com^
 ||ustat.info^
 ||venusrevival.com^
+||vfgte.com^
 ||videoplayerhub.com^
 ||vkanalytics.net^
 ||vpdcp.com^
@@ -29907,6 +29910,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||r7.com/comscore/
 ||sapo.*/clk?u=
 ||sapo.pt/Projects/sapoabd/
+||sinonimos.com.br/hits.php
 ||tags.globo.com^
 ||tm.jsuol.com.br^
 ||tm.uol.com.br^
