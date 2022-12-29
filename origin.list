@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: hX2jKIR64uHY17R3ukAG2g
-! Version: 202212282351
+! Checksum: mhdZz+wOxImH/ScxmL4MdA
+! Version: 202212290005
 ! Title: EasyPrivacy
-! Last modified: 28 Dec 2022 23:51 UTC
+! Last modified: 29 Dec 2022 00:05 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6177,6 +6177,7 @@ _mongo_stats/
 ||ostrichesica.com^
 ||p-analytics.life^
 ||p2r14.com^
+||pageid.info^
 ||pdflive.org^
 ||permutive.app^
 ||pippio.com^
@@ -6206,6 +6207,7 @@ _mongo_stats/
 ||rigill.com^
 ||rkdms.com^
 ||rlcdn.com^
+||robotflowermobile.com^
 ||rtactivate.com^
 ||s-onetag.com^
 ||salsify-ecdn.com^
@@ -6220,6 +6222,7 @@ _mongo_stats/
 ||sitedataprocessing.com^
 ||sixtrk.com^
 ||sjpf.io^
+||snptrk.com^
 ||soapfighters.com^
 ||solutionshindsight.net^
 ||speedyfox.io^
