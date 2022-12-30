@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: lioCbWkf8aVJQMqWxqWy1A
-! Version: 202212301204
+! Checksum: qtJTHBrGVvF4HhmuM3D9bA
+! Version: 202212301231
 ! Title: EasyPrivacy
-! Last modified: 30 Dec 2022 12:04 UTC
+! Last modified: 30 Dec 2022 12:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -30356,6 +30356,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||ddmcdn.com^*/adobe.visitor-$script,domain=ahctv.com|animalplanet.com|cookingchanneltv.com|destinationamerica.com|discovery.com|discoverylife.com|diynetwork.com|foodnetwork.com|hgtv.com|investigationdiscovery.com|motortrend.com|sciencechannel.com|tlc.com|travelchannel.com
 @@||ddmcdn.com^*/comscore.streaming.$script,domain=ahctv.com|animalplanet.com|cookingchanneltv.com|destinationamerica.com|discovery.com|discoverylife.com|diynetwork.com|foodnetwork.com|hgtv.com|investigationdiscovery.com|motortrend.com|sciencechannel.com|tlc.com|travelchannel.com
 @@||decision.taplytics.com^$domain=royalbank.com
+@@||delta.com/dlhome/ruxitagentjs$~third-party
 @@||dev.visualwebsiteoptimizer.com/j.php$script,domain=wakefit.co
 @@||dev.visualwebsiteoptimizer.com/web/$script,domain=wakefit.co
 @@||devclass.com/wp-content/plugins/google-analytics-for-wordpress/$script,~third-party
