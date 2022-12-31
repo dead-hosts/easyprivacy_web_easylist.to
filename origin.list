@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: BbWWtlpJDuWMd3Oh3Ts1BA
-! Version: 202212311951
+! Checksum: dosOT3wQx+VtB+wKhTWDYg
+! Version: 202212312004
 ! Title: EasyPrivacy
-! Last modified: 31 Dec 2022 19:51 UTC
+! Last modified: 31 Dec 2022 20:04 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6879,6 +6879,7 @@ _mongo_stats/
 ||datacoral.io^$third-party
 ||datacygnal.io^$third-party
 ||datadoghq-browser-agent.com^$third-party
+||datadoghq.eu^$third-party
 ||datadsk.com^$third-party
 ||datafeedfile.com^$third-party
 ||datafront.co^$third-party
