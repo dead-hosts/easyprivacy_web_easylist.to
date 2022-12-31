@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: jNfa4SK5MGgO/YGm4vR9rQ
-! Version: 202212311103
+! Checksum: uZLhact0gVhzO3nHGQPIvA
+! Version: 202212311121
 ! Title: EasyPrivacy
-! Last modified: 31 Dec 2022 11:03 UTC
+! Last modified: 31 Dec 2022 11:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -30283,7 +30283,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||bobbibrowncosmetics.com^*/analytics.min.js$~third-party
 @@||bookmate.com^*/impressions?$~third-party,xmlhttprequest
 @@||boots.com/wcsstore/ebootsstorefrontassetstore/javascript/analytics.js$~third-party
-@@||browser.sentry-cdn.com^$domain=acustica-audio.com|dic.pixiv.net|doconcall.com.my|eco-clobber.co.uk|fundhero.io|menshealth.com|timesprime.com|womenshealthmag.com
+@@||browser.sentry-cdn.com^$domain=acustica-audio.com|dic.pixiv.net|doconcall.com.my|eco-clobber.co.uk|fundhero.io|menshealth.com|roomster.com|timesprime.com|womenshealthmag.com
 @@||brsrvr.com/api/$xmlhttprequest,domain=dollargeneral.com
 @@||btgpactualdigital.com/digital/static/js/libraries/thirdparty/angulartics-google-analytics/
 @@||builder.lift.acquia.com/lift.js$script,domain=edwardjones.com
