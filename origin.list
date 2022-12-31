@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: sbs6Z5z86HNTgF24OfraOw
-! Version: 202212302321
+! Checksum: RTXbTVyTPZFHjZxdqwo8dw
+! Version: 202212302351
 ! Title: EasyPrivacy
-! Last modified: 30 Dec 2022 23:21 UTC
+! Last modified: 30 Dec 2022 23:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7851,6 +7851,7 @@ _mongo_stats/
 ||optimove.net^$third-party
 ||optin-machine.com^$third-party
 ||optorb.com^$third-party
+||optoutadvertising.com^$third-party
 ||oracleinfinity.io^$third-party
 ||oranges88.com^$third-party
 ||orcapia.com^$third-party
