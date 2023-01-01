@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: VdnNlF2qHQSKVuRLDOJAUw
-! Version: 202301012131
+! Checksum: 56pSWhVw5iPWL507OarB/A
+! Version: 202301012151
 ! Title: EasyPrivacy
-! Last modified: 01 Jan 2023 21:31 UTC
+! Last modified: 01 Jan 2023 21:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -12588,6 +12588,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||loader.zeroform.com^
 ||location3.com/analytics/
 ||log-*.previewnetworks.com^
+||log-global.aliyuncs.com^
 ||log.aimtell.com^
 ||log.artipbox.net^$third-party
 ||log.cookieyes.com^
@@ -15182,7 +15183,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||equirodi.*/addstat.php
 ||ericdraken.com/a/$script
 ||error-collector.ted.com^
-||error.fc2.com^
+||error.fc2.com/blog/$image
+||error.fc2.com/blog3/$script
 ||et.nytimes.com^
 ||et.tidal.com^
 ||etsy.com/bcn/beacon
@@ -30098,6 +30100,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||c.gazetevatan.com^
 ||d.haberler.com^
 ||haberler.com/dinamik/
+||hstats.hepsiburada.com^
 ||mark.isbank.com.tr^
 ||p.milliyet.com.tr^
 ||sahibinden.com/sbbi/
@@ -30115,6 +30118,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||target.ukr.net^
 ! Vietnamese
 ||analytics.aita.gov.vn^
+||coccoc.com/log
 ||log.ttbc-hcm.gov.vn^
 ||logsbin.dantri.com.vn^
 ||pixel.coccoc.com^
@@ -31137,7 +31141,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||play.dlsite.com/csr/viewer/lib/newrelic.js
 @@||pvtag.yahoo.co.jp^$script,domain=paypaymall.yahoo.co.jp
 @@||query.petametrics.com^$image,xmlhttprequest,domain=comics.mecha.cc
-@@||rtoaster.jp/Rtoaster.js$domain=satofull.jp
+@@||rtoaster.jp/Rtoaster.js$domain=peachjohn.co.jp|satofull.jp
 @@||rtoaster.jp^$script,domain=lexus.jp|melonbooks.co.jp
 @@||s.yjtag.jp/tag.js$script,domain=baseball.yahoo.co.jp|soccer.yahoo.co.jp|www.epson.jp
 @@||sail-horizon.com/spm/spm.v1.min.js$script,domain=voguegirl.jp
