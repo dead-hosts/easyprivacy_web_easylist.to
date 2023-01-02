@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: NuGW7lXGuw0i1EJex9XhRA
-! Version: 202301020351
+! Checksum: L9t8ebgoZr2N4MfF+AAvqw
+! Version: 202301020411
 ! Title: EasyPrivacy
-! Last modified: 02 Jan 2023 03:51 UTC
+! Last modified: 02 Jan 2023 04:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2213,6 +2213,7 @@
 /getPixelSso
 /getRemoteDomainCookies?
 /getsidpixeltag?sid=
+/getstats.js.php
 /getThirdPartyTracking?
 /getTotalHits.
 /GetWebTrekkRecoElement?
@@ -14963,6 +14964,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||anon-stats.eff.org^
 ||apartments.com/clientvisit/al.gif?
 ||api-js.mixpanel.com^
+||api-router.kaspersky-labs.com/logger2/metrics/
 ||api.ffm.to/sl/e/$image
 ||api.narrativ.com/favicon.ico
 ||apkpure.com/analytics_
@@ -29778,6 +29780,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||bookoffonline.co.jp/files/inc_js/ac/
 ||bookoffonline.co.jp/files/tracking/
 ||carview.co.jp/include_api/log/
+||cinematoday.jp/js/*/pageviews.
 ||contx.net/collect.js
 ||count.upc.rakuten.co.jp^
 ||d-log.asahi.co.jp^
