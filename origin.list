@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: KWY+Y8BwsunpPEA4d0akTg
-! Version: 202301021141
+! Checksum: dci4D9MGbVEylx95dPx/tA
+! Version: 202301021204
 ! Title: EasyPrivacy
-! Last modified: 02 Jan 2023 11:41 UTC
+! Last modified: 02 Jan 2023 12:04 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3529,7 +3529,6 @@
 /pixMark.png?
 /pixy.gif?
 /PKAnalytics.
-/pladtrack.
 /planetstat.
 /plausible.js$domain=~plausible.io
 /plausible.outbound-links.js$domain=~plausible.io
