@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: KMKxOHNU9sl7VzLcMhl3Iw
-! Version: 202301021111
+! Checksum: KWY+Y8BwsunpPEA4d0akTg
+! Version: 202301021141
 ! Title: EasyPrivacy
-! Last modified: 02 Jan 2023 11:11 UTC
+! Last modified: 02 Jan 2023 11:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6025,7 +6025,6 @@ _mongo_stats/
 ||bydst.com^
 ||cadsuta.net^
 ||captcha-display.com^
-||casalemedia.com^
 ||cbdatatracker.com^
 ||cdnhst.xyz^
 ||ciqtracking.com^
