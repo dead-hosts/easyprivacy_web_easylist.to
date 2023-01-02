@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: nlc2FPFIf04lGO3HiFGXWw
-! Version: 202301020931
+! Checksum: mqLc9PCiV4gEByJTSn04tQ
+! Version: 202301020951
 ! Title: EasyPrivacy
-! Last modified: 02 Jan 2023 09:31 UTC
+! Last modified: 02 Jan 2023 09:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3914,6 +3914,7 @@
 /scripts/tracking.js
 /scripts/xiti/*
 /scroll-analytics-
+/scroll-tracker.
 /scroll-tracking.
 /sctl.js
 /sctracker.
@@ -4967,6 +4968,7 @@
 /uf-stat?
 /ui/analytics/*
 /uim.html/*
+/uisprime/track
 /ulpixel.
 /ulpixel?
 /ultra_track/*
@@ -6255,6 +6257,7 @@ _mongo_stats/
 ||tw.cx^
 ||tzegilo.com^
 ||ugdturner.com^
+||uqd.io^
 ||ustat.info^
 ||venusrevival.com^
 ||vfgte.com^
