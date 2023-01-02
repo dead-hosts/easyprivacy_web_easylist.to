@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: C0+Xj1ck0f71qH4BKtfUVQ
-! Version: 202301021011
+! Checksum: SPwdmMHcsniujQMjnZ3iaQ
+! Version: 202301021031
 ! Title: EasyPrivacy
-! Last modified: 02 Jan 2023 10:11 UTC
+! Last modified: 02 Jan 2023 10:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -10166,6 +10166,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||sloppycalculator.com^
 ||sloppyearthquake.com^
 ||smallbeginner.com^
+||smashquartz.com^
 ||smashshoe.com^
 ||smashsurprise.com^
 ||smilingcattle.com^
