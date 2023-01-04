@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: C1nOEPyAMIKMP+0FaloEkw
-! Version: 202301041051
+! Checksum: FZx85cqocmxP2bHklqP7dw
+! Version: 202301041122
 ! Title: EasyPrivacy
-! Last modified: 04 Jan 2023 10:51 UTC
+! Last modified: 04 Jan 2023 11:22 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -536,6 +536,7 @@
 /amp/log.json
 /amp/pingback?
 /amp_ping/*
+/amp_pingback/*
 /ampmetrics.
 /amptrack.
 /amunglite.
@@ -12803,6 +12804,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||onetrust.com^$ping
 ||onsugar.com/static/ck.php?
 ||ontraport.com/track.php
+||oo-syringe.com/prod/moat.js
 ||ooyala.com/3rdparty/comscore_
 ||ooyala.com/authorized?analytics
 ||ooyala.com/sas/analytics?
@@ -30326,6 +30328,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||cdn.segment.com/analytics.js/$script,domain=app.cryptotrader.tax|driversed.com|fender.com|finerdesk.com|foxbusiness.com|foxnews.com|givingassistant.org|inxeption.io|reuters.com
 @@||cdn.segment.com/next-integrations/integrations/
 @@||cdn.segment.com/v1/projects/
+@@||cdn.treasuredata.com/sdk/$script,domain=sso.lg.com
 @@||cedaron.visualstudio.com/*TrackingData.cs$~third-party
 @@||certona.net^*/scripts/resonance.js$script,domain=canadiantire.ca|finishline.com|summitracing.com|tumi.com
 @@||channel.images.production.web.w4a.tv^*/ard.png?$domain=yallo.tv
