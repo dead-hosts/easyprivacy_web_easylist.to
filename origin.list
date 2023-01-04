@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 5jqci/NIAWRB7wEIQnwlCA
-! Version: 202301041011
+! Checksum: k34ySs9LLXM+WjEEdSmgAA
+! Version: 202301041031
 ! Title: EasyPrivacy
-! Last modified: 04 Jan 2023 10:11 UTC
+! Last modified: 04 Jan 2023 10:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6237,6 +6237,7 @@ _mongo_stats/
 ||stpmgo.com^
 ||summerhamster.com^
 ||superpointlesshamsters.com^
+||t13.io^
 ||takingbackjuly.com^
 ||tatpek.com^
 ||test.vast^
@@ -11680,6 +11681,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||apple.com/hvr/mw/v1/spile
 ||apple.com/mw/v1/reportAnalytics
 ||apple.www.letv.com^
+||applets.ebxcdn.com^
 ||applicationinsights.azure.com^$third-party,domain=~azure.net
 ||appliedsemantics.com/images/x.gif
 ||appmifile.com^*/stat/
