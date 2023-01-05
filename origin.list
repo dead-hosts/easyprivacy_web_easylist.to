@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: lg+WSn91Vk+SxBIcleqdZg
-! Version: 202301042341
+! Checksum: 7NV09ItnyfSZMmosdy55xg
+! Version: 202301042351
 ! Title: EasyPrivacy
-! Last modified: 04 Jan 2023 23:41 UTC
+! Last modified: 04 Jan 2023 23:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -8785,6 +8785,7 @@ _mongo_stats/
 ||withcubed.com^$third-party
 ||wizaly.com^$third-party
 ||wmcdp.io^$third-party
+||wogaa.sg^$third-party
 ||womtp.com^$third-party
 ||woopra-ns.com^$third-party
 ||woopra.com^$third-party
