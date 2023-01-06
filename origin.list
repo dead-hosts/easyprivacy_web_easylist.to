@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: E0kvYRS7Ww4h6DKAva0eqA
-! Version: 202301060931
+! Checksum: JABY8ujVy/K9qUwjYAhDiA
+! Version: 202301061003
 ! Title: EasyPrivacy
-! Last modified: 06 Jan 2023 09:31 UTC
+! Last modified: 06 Jan 2023 10:03 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -31130,7 +31130,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||collect.igodigital.com/collect.js$domain=enoteca.co.jp
 @@||cxense.com/cx.cce.js$domain=mainichi.jp|tarzanweb.jp|wpb.shueisha.co.jp
 @@||cxense.com/cx.js$domain=cyclestyle.net|mainichi.jp|nippon.com|tarzanweb.jp|tv-tokyo.co.jp|wpb.shueisha.co.jp
-@@||d-card.jp/st/common/js/googleTagManager.js
+@@||dcard.docomo.ne.jp/st/common/js/googleTagManager.js
 @@||delivery.satr.jp^$script,domain=mieru-ca.com
 @@||deteql.net/recommend/provision?$xmlhttprequest,domain=t-fashion.jp
 @@||dev.visualwebsiteoptimizer.com^$script,domain=internetorder.dominos.jp
