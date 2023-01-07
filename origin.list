@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: LsQKtCu8WbLlU1WhjwFHzg
-! Version: 202301070151
+! Checksum: 8nIrDML6Ljlajkbwu2L0+w
+! Version: 202301070203
 ! Title: EasyPrivacy
-! Last modified: 07 Jan 2023 01:51 UTC
+! Last modified: 07 Jan 2023 02:03 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -30883,8 +30883,8 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||showheroes.com/publishertag.js$domain=bz-berlin.de|kochbar.de|rollingstone.de|rtl.de|rtl2.de
 @@||showheroes.com/pubtag.js$domain=bz-berlin.de|kochbar.de|rollingstone.de|rtl.de|rtl2.de
 @@||showheroes.com/spot/$xmlhttprequest,domain=rollingstone.de
-@@||showheroes.com/spot/iframe?pageurl=$script,subdocument,domain=bz-berlin.de|kochbar.de|rtl.de|rtl2.de
 @@||showheroes.com/spot/iframe?$script,domain=rollingstone.de
+@@||showheroes.com/spot/iframe?pageurl=$script,subdocument,domain=bz-berlin.de|kochbar.de|rtl.de|rtl2.de
 @@||spatialbuzz.com/piwik/piwik.js$domain=spatialbuzz.com
 @@||spiegel.de/layout/js/http/netmind-$script
 @@||stuttgarter-nachrichten.de/cre-1.0/tracking/call.js?$script,~third-party
