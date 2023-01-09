@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: qtYnZAn49ye2LXPrMm8bjQ
-! Version: 202301092251
+! Checksum: MGI+sgS3vGxXffzUvS5hbA
+! Version: 202301092311
 ! Title: EasyPrivacy
-! Last modified: 09 Jan 2023 22:51 UTC
+! Last modified: 09 Jan 2023 23:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3049,6 +3049,7 @@
 /mngi/tracking/*
 /mnppixellibrary.
 /mnt/imp?
+/moapt-action-iq-analytics.
 /moat-tracker.
 /moat/yield.js
 /moatanalytics-
@@ -11474,6 +11475,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||a2z.com/sping?
 ||aan.amazon.com^$third-party
 ||accesswire.com/img.ashx
+||actioniq.mr-in.com^
 ||activengage.com/overwatch/
 ||activity.wisepops.com^
 ||ad-shield.io^$third-party
@@ -13214,6 +13216,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stileproject.com/vhtk/
 ||storage.data-vp.com/vp/t.js
 ||storage.googleapis.com/afs-prod/tags
+||storage.googleapis.com/tm-frend-graffiti/
 ||storage.syncmedia.io/libs/sm_capture_
 ||streamads.com/view?
 ||streamtheworld.com/imp?
