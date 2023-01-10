@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: g56RATuwarQ+hf2ar0PP6w
-! Version: 202301100021
+! Checksum: +4FZ/S/VeO+C70P3Zm5cPQ
+! Version: 202301100041
 ! Title: EasyPrivacy
-! Last modified: 10 Jan 2023 00:21 UTC
+! Last modified: 10 Jan 2023 00:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7973,7 +7973,7 @@ _mongo_stats/
 ||polarbyte.com^$third-party
 ||polarcdn-pentos.com^$third-party
 ||popsample.com^$third-party
-||popt.in^$third-party
+||popt.in^$third-party,domain=~poptin.com
 ||populr.me^$third-party
 ||popupmaker.com^$third-party
 ||porngraph.com^$third-party
