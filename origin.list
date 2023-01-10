@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 9sUPiwDhAnKrzk9TQhoiXg
-! Version: 202301100321
+! Checksum: JRGi1k2VzO02DR0uRjPjSQ
+! Version: 202301100351
 ! Title: EasyPrivacy
-! Last modified: 10 Jan 2023 03:21 UTC
+! Last modified: 10 Jan 2023 03:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2008,6 +2008,7 @@
 /FoxAnalyticsExtension.
 /FoxBlueKaiPlugIn.
 /FoxComScore.
+/fp-3.3.6.min.js
 /fp/check.js
 /fp/clear.png
 /fp/clear1.png
@@ -15274,6 +15275,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||firebaselogging.googleapis.com^
 ||fishki.net/counter/
 ||fiverr.com/api/v1/activities
+||flipboard.com/api/v2/reporting
 ||flipboard.com/usage?
 ||flipkart.com/api/3/data/collector/
 ||flirt4free.com/pixel/
