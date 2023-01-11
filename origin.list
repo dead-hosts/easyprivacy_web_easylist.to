@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: Hf+19i2YF8QeqJ0M1xQmFw
-! Version: 202301112051
+! Checksum: YXMgDiVbSu8eUM4g+N1vuQ
+! Version: 202301112121
 ! Title: EasyPrivacy
-! Last modified: 11 Jan 2023 20:51 UTC
+! Last modified: 11 Jan 2023 21:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6204,6 +6204,7 @@ _mongo_stats/
 ||pubtm.com^
 ||push-sdk.net^
 ||pzapi-ij.com^
+||pzapi-kg.com^
 ||pzimff.com^
 ||quantserve.com^
 ||quesid.com^
