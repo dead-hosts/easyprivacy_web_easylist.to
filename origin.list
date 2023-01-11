@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: kVxKpdA8Hm0lrRg214kvnw
-! Version: 202301110811
+! Checksum: 0V6za6ijUwbeA/aFVs3zCg
+! Version: 202301110831
 ! Title: EasyPrivacy
-! Last modified: 11 Jan 2023 08:11 UTC
+! Last modified: 11 Jan 2023 08:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -31448,6 +31448,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||cdn.segmentify.com^$script,domain=gratis.com
 @@||google-analytics.com/analytics.js$domain=ligtv.com.tr
 @@||mc.yandex.ru/metrika/watch.js$domain=f5haber.com
+@@||merlincdn.net^*/common/images/spacer.gif$image,domain=turkcell.com.tr
 @@||turkcelltvplus.com.tr^*/google_analytics/main.js?
 !
 !---------- Ukrainian ----------
