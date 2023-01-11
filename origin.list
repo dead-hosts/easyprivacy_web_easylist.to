@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: aJvMPSc9cVqOTW6oKDsXlA
-! Version: 202301111351
+! Checksum: UveiuQZQYuFUc4tZFWwkbg
+! Version: 202301111413
 ! Title: EasyPrivacy
-! Last modified: 11 Jan 2023 13:51 UTC
+! Last modified: 11 Jan 2023 14:13 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5181,6 +5181,7 @@
 /vstrack.
 /vtrack.aspx
 /vtrack.php?
+/vtrack?vid=
 /vtracker.$domain=~vtracker.org
 /vTracker_
 /vuukle-analytics.
@@ -11949,6 +11950,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cloudfunctions.net/commonBonnierDataLayer
 ||cloudfunctions.net/function-record-stream-metric?
 ||cloudfunctions.net/ingest?
+||cloudfunctions.net/vanalytics
 ||cltgtstor001.blob.core.windows.net^
 ||clustrmaps.com/counter/$third-party
 ||cmail19.com/t/$image,third-party
