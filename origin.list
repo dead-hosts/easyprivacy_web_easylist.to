@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: s7IzPHIP1/lmKlg3EmionA
-! Version: 202301112341
+! Checksum: 6oscMDa/wlEaNauTYYMbGQ
+! Version: 202301120004
 ! Title: EasyPrivacy
-! Last modified: 11 Jan 2023 23:41 UTC
+! Last modified: 12 Jan 2023 00:04 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -15956,6 +15956,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||t.wayfair.co.uk^
 ||t.wayfair.com^
 ||t.y8.com^
+||t.zulily.com^
 ||t2.hulu.com^
 ||tagger.ope.scmp.com^
 ||tags.aljazeera.com^
