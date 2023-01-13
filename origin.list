@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: PSsvMMQJ8mWWgMEmOKifKw
-! Version: 202301122351
+! Checksum: e3+QNe2GBPXxGRkZiSeHAQ
+! Version: 202301130011
 ! Title: EasyPrivacy
-! Last modified: 12 Jan 2023 23:51 UTC
+! Last modified: 13 Jan 2023 00:11 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2933,6 +2933,7 @@
 /m360lib.js
 /ma.gif?cc=
 /madAnalytics.js
+/magento/page-visit?
 /magento2.js
 /magiq-
 /mail_tracking-cg.php
