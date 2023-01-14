@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: nmFcUZ/EVx6Si3Z/kCrhEA
-! Version: 202301142111
+! Checksum: lMu1kACMxwy8wAJIm/pbTA
+! Version: 202301142131
 ! Title: EasyPrivacy
-! Last modified: 14 Jan 2023 21:11 UTC
+! Last modified: 14 Jan 2023 21:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -15674,6 +15674,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||privacy-api.9gag.com^
 ||privacyfriendly.netlify.app^
 ||privacypolicies.com/track/
+||prod-events.nykaa.com^
 ||pulsar.ebay.com^
 ||pulse.delta.com^
 ||pumpkin.abine.com^
@@ -30609,6 +30610,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||my.dxdelivery.com/js/tracking.js$script,~third-party
 @@||myaccount.chicagotribune.com/assets/scripts/tag-manager/googleTag.js$~third-party
 @@||myaccount.depositprotection.com/Scripts/lib/jsnlog/$script,~third-party
+@@||mycourses.pearson.com/shared/static/*/component/ga.min.js$~third-party
 @@||mywebar.com/js/tracking_worker.js$~third-party
 @@||natureetdecouvertes.com^*/pixel.png$~third-party
 @@||new.abb.com/ruxitagentjs_$~third-party
