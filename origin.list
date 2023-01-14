@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: F4WBUIJgcVAV0CIPjI2MMg
-! Version: 202301141221
+! Checksum: i/4129lKNM6PEwfWqO/YxQ
+! Version: 202301141241
 ! Title: EasyPrivacy
-! Last modified: 14 Jan 2023 12:21 UTC
+! Last modified: 14 Jan 2023 12:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -12836,6 +12836,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ooyala.com^*/report?log
 ||open.delivery.net^
 ||openxcdn.net^$third-party
+||optimeeze.appspot.com^
 ||optimizely.appspot.com^$third-party
 ||ora.tv/j/ora_evttracking.js
 ||orb.ee/collect
@@ -13439,6 +13440,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tracker.wigzopush.com^
 ||tracker.wpserveur.net^
 ||tracker.xgen.dev^
+||tracker-dot-optimeeze.appspot.com^
 ||trackerapi.truste.com^
 ||trackicollect.ibase.fr^$third-party
 ||tracking-api-4lasu2nlcq-ew.a.run.app^
