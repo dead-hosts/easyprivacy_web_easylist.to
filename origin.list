@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: W1DURGhj2hDv9az18MT8aQ
-! Version: 202301140351
+! Checksum: QrTxwaU/zM0eUxudZ5Y+vQ
+! Version: 202301140421
 ! Title: EasyPrivacy
-! Last modified: 14 Jan 2023 03:51 UTC
+! Last modified: 14 Jan 2023 04:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -31036,6 +31036,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||browser.sentry-cdn.com^$script,domain=podcasty.seznam.cz
 @@||googletagmanager.com/gtm.js?$domain=autorevue.cz|e15.cz|mobilmania.cz|zive.cz
 @@||hlidacstatu.cz/scripts/highcharts-6/modules/heatmap.js
+@@||sdn.cz/*/loader.js$domain=novinky.cz
 @@||seznam.cz/?spec=*&url=$image,domain=search.seznam.cz
 @@||tvcom-static.ssl.cdn.cra.cz/*/videojs.ga.js$script,domain=tvcom.cz
 !
