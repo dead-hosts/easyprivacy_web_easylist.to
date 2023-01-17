@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: uoUNJEO9YTvtIccs3YHA5Q
-! Version: 202301171131
+! Checksum: HclBoyiVD5DLW61zdRVcXQ
+! Version: 202301171151
 ! Title: EasyPrivacy
-! Last modified: 17 Jan 2023 11:31 UTC
+! Last modified: 17 Jan 2023 11:51 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6167,6 +6167,7 @@ _mongo_stats/
 ||mcangelus.com^
 ||mdhv.io^
 ||mediamathrdrt.com^
+||mediapvx.com^
 ||mediapxv.com^
 ||micpn.com^
 ||mm-api.agency^
