@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: HAn5eAcgbNXvgYBJVBIxkA
-! Version: 202301171111
+! Checksum: uoUNJEO9YTvtIccs3YHA5Q
+! Version: 202301171131
 ! Title: EasyPrivacy
-! Last modified: 17 Jan 2023 11:11 UTC
+! Last modified: 17 Jan 2023 11:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -15233,6 +15233,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||eec.crunchyroll.com^
 ||eharmony.ca/fd/
 ||eharmony.co.uk/bd/
+||eighten-bloc-party.thebrowser.company/script.js
 ||ekg.riotgames.com^
 ||engagefront.meteomedia.com^
 ||engagefront.theweathernetwork.com^
