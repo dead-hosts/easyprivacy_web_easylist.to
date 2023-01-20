@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 22m1zAQYe6ZbouE4AnAVsg
-! Version: 202301200921
+! Checksum: As4/OurV35UxvMo2yU4RhA
+! Version: 202301200941
 ! Title: EasyPrivacy
-! Last modified: 20 Jan 2023 09:21 UTC
+! Last modified: 20 Jan 2023 09:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7377,6 +7377,7 @@ _mongo_stats/
 ||ineedhits.com^$third-party
 ||inferclick.com^$third-party
 ||infinigraph.com^$third-party
+||infinity-tracking.com^$third-party
 ||infinity-tracking.net^$third-party
 ||inflectionpointmedia.com^$third-party
 ||influid.co^$third-party
@@ -11062,6 +11063,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||whoseesyou.com^$third-party
 ||wstatslive.com^$third-party
 ! Japanese
+||accaii.com^$third-party
 ||accesstrade.net^$third-party
 ||ad-fam.com^$third-party
 ||ad-track.jp^$third-party
@@ -30662,6 +30664,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||orginio.com/api/analytics/$~third-party,xmlhttprequest
 @@||ots.webtrends-optimize.com/$xmlhttprequest,domain=tvlicensing.co.uk
 @@||oyster.com/wp-content/plugins/smartertravel-shared/assets/js/tracking.min.js$~third-party
+@@||p.typekit.net/p.css$stylesheet,domain=bungie.net
 @@||packagetrackr.com/api/v1/track/detecting.json$~third-party
 @@||pagure.io/static/issues_stats.js$~third-party
 @@||palmettostatearmory.com/static/$script,~third-party
