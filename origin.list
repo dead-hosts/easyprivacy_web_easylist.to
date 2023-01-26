@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: ixfu3jogm7RRBmiEj2EDMQ
-! Version: 202301262211
+! Checksum: swTKR7FkeM76veDChjh7Gg
+! Version: 202301262231
 ! Title: EasyPrivacy
-! Last modified: 26 Jan 2023 22:11 UTC
+! Last modified: 26 Jan 2023 22:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6279,6 +6279,7 @@ _mongo_stats/
 ||videoplayerhub.com^
 ||vkanalytics.net^
 ||vpdcp.com^
+||wct-2.com^
 ||widgetbe.com^
 ||wknd.ai^
 ||wmgroup.us^
@@ -30270,7 +30271,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||api.ipify.org^$xmlhttprequest,domain=247sports.com|account.pennytel.com.au|bicyclebluebook.com|equinoxplus.com|speedcheck.ky|urbanswan.com
 @@||api.ipinfodb.com^$xmlhttprequest,domain=management30.com
 @@||api.ipstack.com/check$domain=blockfi.com|get-in.com|withpersona.com
-@@||api.ipstack.com^$domain=ride.guru
+@@||api.ipstack.com^$domain=meteo365.es|ride.guru
 @@||api.perfops.net^$script,xmlhttprequest,domain=cdnperf.com|dnsperf.com
 @@||api.touchnote.io^$xmlhttprequest,domain=app.touchnote.com
 @@||api.us1.exponea.com^$script,xmlhttprequest,domain=walmartpetrx.com
