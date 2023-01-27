@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: oL0zAxDjAhN5Av/7Q/YiUA
-! Version: 202301271951
+! Checksum: HqS4WZTiSAot4CB8FwGnIA
+! Version: 202301272021
 ! Title: EasyPrivacy
-! Last modified: 27 Jan 2023 19:51 UTC
+! Last modified: 27 Jan 2023 20:21 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -30681,6 +30681,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||static.atgsvcs.com/js/atgsvcs.js$domain=lenovo.com|officedepot.com|shop.lego.com
 @@||static.foxnews.com^*/VisitorAPI.js$domain=foxbusiness.com|foxnews.com
 @@||static.okccdn.com/builds/desktop/js/tracking_center.$script,domain=okcupid.com
+@@||static.tixr.com/static/*/Analytics.js$~third-party
 @@||staticflickr.com^*/analytics-min.js$domain=flickr.com
 @@||stats.pusher.com/timeline/$script,domain=bringatrailer.com
 @@||stats.statbroadcast.com/interface/webservice/event/$~third-party
