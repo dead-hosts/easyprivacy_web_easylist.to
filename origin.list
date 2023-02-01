@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: QeT2Kp7GlpjYoT71br4n4Q
-! Version: 202301312311
+! Checksum: mpdS/SOYNgxfftl5vOi9yA
+! Version: 202301312331
 ! Title: EasyPrivacy
-! Last modified: 31 Jan 2023 23:11 UTC
+! Last modified: 31 Jan 2023 23:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3596,6 +3596,7 @@
 /prod-client-js-logger/*
 /prod-dataroid.
 /prod/log_preprocess
+/prod/ncg/*
 /prod/ping?
 /prodtracker?
 /production/analytics.
