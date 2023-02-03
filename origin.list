@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: P1VsTctd7uk3lTFCyVuZSg
-! Version: 202302031011
+! Checksum: EGhHlAOys6PPCodnXWq87g
+! Version: 202302031031
 ! Title: EasyPrivacy
-! Last modified: 03 Feb 2023 10:11 UTC
+! Last modified: 03 Feb 2023 10:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -31095,6 +31095,10 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||ingest.sentry.io/api/$xmlhttprequest,domain=tesco.hu
 @@||rtl.hu/javascripts/UserTracking.js
 @@||rtl.hu^*/gemius_id.js?
+!
+!---------- Icelandic ----------
+!
+@@||vefir.mms.is^*/static/analytics.js$~third-party
 !
 !---------- Italian ----------
 !
