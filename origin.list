@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: A1IKoPVO6v7+gOBhlRk4Ig
-! Version: 202302040721
+! Checksum: 6yx6j9GRO3MgBbqYx8w7pQ
+! Version: 202302040741
 ! Title: EasyPrivacy
-! Last modified: 04 Feb 2023 07:21 UTC
+! Last modified: 04 Feb 2023 07:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -8965,6 +8965,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pushowl.com^$third-party
 ||pushprofit.ru^$third-party
 ||pushpushgo.com^$third-party
+||pushwize.com^$third-party
 ||pushwoosh.com^$third-party
 ||reconditerespect.com^$third-party
 ||reprocautious.com^$third-party
@@ -29711,6 +29712,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||walla.co.il/impression/
 ! Hungarian
 ||events.ingatlan.com^
+||metrics.bankmonitor.hu^
 ||otthonterkep.hu/c.js
 ||outal.origo.hu^
 ||rtl.hu/_stat/
