@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: Ta9Z8488drrm2nt68KvK5A
-! Version: 202302090651
+! Checksum: eFWVd7knhpx4kkbT9nN/dg
+! Version: 202302100441
 ! Title: EasyPrivacy
-! Last modified: 09 Feb 2023 06:51 UTC
+! Last modified: 10 Feb 2023 04:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7286,6 +7286,7 @@ _mongo_stats/
 ||haloscan.com^$third-party
 ||havasedge.com^$third-party
 ||haveamint.com^$third-party
+||hbwrapper.com^$third-party
 ||heapanalytics.com^$third-party
 ||heatmap.it^$third-party
 ||heatmap.services^$third-party
@@ -7670,6 +7671,7 @@ _mongo_stats/
 ||memo.co^$third-party
 ||mercadoclics.com^$third-party
 ||mercent.com^$third-party
+||metarouter.io^$third-party
 ||meteorsolutions.com^$third-party
 ||metricode.com^$third-party
 ||metricool.com^$third-party
@@ -11580,6 +11582,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.digitalpfizer.com^
 ||analytics.disneyinternational.com^
 ||analytics.dvidshub.net^
+||analytics.edgekey.net^
 ||analytics.eggoffer.com^
 ||analytics.erepublic.com^
 ||analytics.fabricators.ltd^$third-party
@@ -12728,6 +12731,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||mon.domdog.io^
 ||monitor.azure.com^
 ||monitoring.iraiser.eu^
+||monorail-edge.shopifysvc.com^
 ||mormont.gamer-network.net^
 ||movementventures.com/_uid.gif
 ||mozilla.org/page/*/open.gif$third-party
@@ -13157,6 +13161,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||staff-start.com/js/track
 ||starman.fathomdns.com^
 ||stas.outbrain.com^
+||stat.absolutist.com^
 ||stat.boredomtherapy.com^
 ||stat.glaze.ai^
 ||stat.mixi.media^
