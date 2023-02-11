@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: dvkQ9p3KYQH4r0LT7FGu8g
-! Version: 202302112110
+! Checksum: j6g6p8NbfbfnP+gVKFpWAg
+! Version: 202302112131
 ! Title: EasyPrivacy
-! Last modified: 11 Feb 2023 21:10 UTC
+! Last modified: 11 Feb 2023 21:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -9364,6 +9364,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||blotburn.com^
 ||blushingbeast.com^
 ||blushingboundary.com^
+||blushingbread.com^
 ||blushingwar.com^
 ||boilingbeetle.com^$third-party
 ||boilingcredit.com^
