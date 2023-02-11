@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: diasAR9NjIj7w0nJoBku2Q
-! Version: 202302102321
+! Checksum: 6GmJ/hwT2mGps1PlI1D2Mg
+! Version: 202302102340
 ! Title: EasyPrivacy
-! Last modified: 10 Feb 2023 23:21 UTC
+! Last modified: 10 Feb 2023 23:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -14936,6 +14936,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||adblockstreamtape.fr/stat/
 ||adblockstreamtape.site/stat/
 ||adblocktape.store/stat/
+||adblocktape.wiki/stat/
 ||adc-js.nine.com.au^
 ||adc.9news.com.au^
 ||adc.api.nine.com.au^
