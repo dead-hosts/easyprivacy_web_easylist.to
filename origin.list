@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: sh/C7Qn1nbZr56ldND6ozQ
-! Version: 202302132020
+! Checksum: 66z/jRG0pkd70E+e0QceIQ
+! Version: 202302132050
 ! Title: EasyPrivacy
-! Last modified: 13 Feb 2023 20:20 UTC
+! Last modified: 13 Feb 2023 20:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6173,6 +6173,7 @@ _mongo_stats/
 ||mediapvx.com^
 ||mediapxv.com^
 ||micpn.com^
+||mitour.de^
 ||mm-api.agency^
 ||monu.delivery^
 ||mors22.com^
@@ -12693,6 +12694,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||mc.yandex.com^
 ||mc.yandex.ru^
 ||mcdp-*.outbrain.com^
+||mcloud.to/ping/
 ||mcssl.com^*/track.ashx?
 ||mdctrail.com/b.ashx$third-party
 ||mdxprod.io/analytics.js
@@ -13598,6 +13600,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||videopress.com/plugins/stats/
 ||vidible.tv/trk/
 ||vidstream.pro/log/
+||vidstream.pro/ping/
 ||viglink.com/api/ping$third-party
 ||vimeocdn.com/add/player-stats?
 ||vimeocdn.com/ga/
