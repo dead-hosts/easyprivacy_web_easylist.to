@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: nHhnZIZs2uvg/bALbtUKkA
-! Version: 202302132150
+! Checksum: Ckf1TbtaNAh/PGE4DrOGCA
+! Version: 202302132210
 ! Title: EasyPrivacy
-! Last modified: 13 Feb 2023 21:50 UTC
+! Last modified: 13 Feb 2023 22:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7238,7 +7238,6 @@ _mongo_stats/
 ||glassboxcdn.com^$third-party
 ||glassboxdigital.io^$third-party
 ||glbtracker.com^$third-party
-||glia.com^$third-party
 ||globalsiteanalytics.com^$third-party
 ||globalwebindex.net^$third-party
 ||globase.com^$third-party
@@ -8195,7 +8194,6 @@ _mongo_stats/
 ||sageanalyst.net^$third-party
 ||sailthru.com^$third-party
 ||salecycle.com^$third-party
-||salemove.com^$third-party
 ||salesgenius.com^$third-party
 ||salesviewer.com^$third-party
 ||salesviewer.org^$third-party
@@ -11910,6 +11908,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||clicktime.symantec.com^$script,third-party
 ||clicktracker.iscan.nl^
 ||client-analytics.braintreegateway.com^
+||client-logger.salemove.com^
 ||client.tahono.com^$third-party
 ||clinch.co/a_js/client_pixels/
 ||clipsyndicate.com/cs_api/cliplog?
