@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: WUyVt5bkfs70NSmnurNpsQ
-! Version: 202302140002
+! Checksum: KN1t4h5Do7DdQ/FLzwkGVw
+! Version: 202302140020
 ! Title: EasyPrivacy
-! Last modified: 14 Feb 2023 00:02 UTC
+! Last modified: 14 Feb 2023 00:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -14159,6 +14159,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||bnpparibas.fr/JavascriptInsert.js
 ||btstats.devtribu.fr^
 ||c.woopic.com/tools/pdb.min.js
+||capping.sirius.press^
 ||caast.tv/v1/record.gif?
 ||calcul-pagerank.fr/client/$third-party
 ||cdn-files.prsmedia.fr^*/xiti/
@@ -29349,6 +29350,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||sncf-connect.com/bff/api/v1/t/events
 ||space-blogs.net/include/counter/
 ||stat.ouedkniss.com^
+||stats.bouyguestelecom.fr^
 ||stats.sexemodel.com^
 ||stats.zone-annuaire.
 ||stats.zone-telechargement.
