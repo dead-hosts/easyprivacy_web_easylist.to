@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: KN1t4h5Do7DdQ/FLzwkGVw
-! Version: 202302140020
+! Checksum: 1gAcyoCG4IN1ApJgZ0nYzw
+! Version: 202302140040
 ! Title: EasyPrivacy
-! Last modified: 14 Feb 2023 00:20 UTC
+! Last modified: 14 Feb 2023 00:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -14159,9 +14159,9 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||bnpparibas.fr/JavascriptInsert.js
 ||btstats.devtribu.fr^
 ||c.woopic.com/tools/pdb.min.js
-||capping.sirius.press^
 ||caast.tv/v1/record.gif?
 ||calcul-pagerank.fr/client/$third-party
+||capping.sirius.press^
 ||cdn-files.prsmedia.fr^*/xiti/
 ||ced-ns.sascdn.com/diff/js/smart.js
 ||cloudfront.net^$script,domain=gentside.com
@@ -31111,7 +31111,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||inpref.s3.amazonaws.com/sites/$script,domain=kauppahalli24.fi
 @@||leiki.com/focus/$script,domain=anna.fi|como.fi|episodi.fi|fum.fi|inferno.fi|kaksplus.fi|rumba.fi|seura.fi|soundi.fi|tilt.fi
 @@||lekane.net/lekane/dialogue-tracking.js?$script
-@@||mpsnare.iesnare.com/snare.js$script,domain=power.fi
+@@||mpsnare.iesnare.com/snare.js$script,domain=power.fi|verkkokauppa.com
 @@||nelonenmedia.fi/logger/logger-ini.json$xmlhttprequest,domain=embed.sanoma-sndp.fi
 @@||nettix.fi^*_analytics.js$domain=nettiauto.com|nettikaravaani.com|nettikone.com|nettimokki.com|nettimoto.com|nettivaraosa.com
 @@||pelaaja.fi/sites/default/files/googleanalytics/analytics.js$~third-party
