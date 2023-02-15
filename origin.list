@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: mEk53/hC+7eti5M0lpI7AA
-! Version: 202302150002
+! Checksum: JF2Hk7AdwQWR1j9zzZv26g
+! Version: 202302150020
 ! Title: EasyPrivacy
-! Last modified: 15 Feb 2023 00:02 UTC
+! Last modified: 15 Feb 2023 00:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6072,6 +6072,7 @@ _mongo_stats/
 ||dwin1.com^
 ||dwin2.com^
 ||e1e.io^
+||easycompute.systems^
 ||efreecode.com^
 ||egoi.site^
 ||emycewiw.xyz^
@@ -6103,6 +6104,7 @@ _mongo_stats/
 ||fptls.com^
 ||fptls2.com^
 ||fpxau.net^
+||funnelserv.systems^
 ||fzlnk.com^
 ||g10300385420.co^
 ||g11686975765.co^
@@ -6167,6 +6169,7 @@ _mongo_stats/
 ||lsdm.co^
 ||maggieeatstheangel.com^
 ||matheranalytics.com^
+||mb-tracking.com^
 ||mcangelus.com^
 ||mdhv.io^
 ||mediamathrdrt.com^
@@ -29170,6 +29173,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||inside-it.ch/proxy/engine/api/v1/auth/ping/
 ||jobs.ch/api/v1/public/product/track/
 ||js.tag24.de/main.js
+||lokalwerben.t-online.de^
 ||ma.tarnkappe.info^
 ||metrics.n-tv.de^
 ||mlm-tracking-service.meinestadt.de^
