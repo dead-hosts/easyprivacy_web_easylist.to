@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: Be4Daqo1AXbh8KxohYtV4g
-! Version: 202302151120
+! Checksum: jfnNAy5OK1amT/Y/PcAvUw
+! Version: 202302151140
 ! Title: EasyPrivacy
-! Last modified: 15 Feb 2023 11:20 UTC
+! Last modified: 15 Feb 2023 11:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -31202,7 +31202,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||bangumi.org/sdk/rakuraku.js?referer=$domain=bs11.jp
 @@||bdash-cloud.com/recommend-script/$script,domain=junonline.jp
 @@||bdash-cloud.com/tracking-script/*/tracking.js$domain=junonline.jp
-@@||browser.sentry-cdn.com^$domain=marshmallow-qa.com
+@@||browser.sentry-cdn.com^$domain=marshmallow-qa.com|spacemarket.com
 @@||carsensor.net/usedcar/modules/clicklog_top_lp_revo.php$xmlhttprequest
 @@||cdn.petametrics.com^$script,domain=comics.mecha.cc
 @@||cdn.treasuredata.com/sdk/$script,domain=retty.me
