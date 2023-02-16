@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: kl6FM+nh4Zz7XRR5I6R/UA
-! Version: 202302162030
+! Checksum: rb08JlutDBauVfZ15Fnwiw
+! Version: 202302162050
 ! Title: EasyPrivacy
-! Last modified: 16 Feb 2023 20:30 UTC
+! Last modified: 16 Feb 2023 20:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7451,7 +7451,7 @@ _mongo_stats/
 ||ipinyou.com.cn^$third-party
 ||iplist.cc^$third-party
 ||iplocationtools.com^$third-party
-||iplogger.org^$third-party
+||iplogger.org^$third-party,domain=~iplogger.com
 ||ipmeta.io^$third-party
 ||ipnoid.com^$third-party
 ||ippen.space^$third-party
@@ -29310,6 +29310,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||email.nautiljon.com/oo/$image
 ||events-logs.doctolib.com^
 ||forecast.huffingtonpost.fr^
+||forecast.lemonde.fr^
 ||franceculture.fr/static/js/xtcore-
 ||franceinter.fr/vendor/track.js
 ||fsm.lapresse.ca^
