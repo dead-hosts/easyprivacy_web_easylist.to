@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: +hZJMQKQXo44rv+JHBllyw
-! Version: 202302152301
+! Checksum: d9gwlhvWQ43IxGJ8D0WUbw
+! Version: 202302152320
 ! Title: EasyPrivacy
-! Last modified: 15 Feb 2023 23:01 UTC
+! Last modified: 15 Feb 2023 23:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -963,6 +963,7 @@
 /banner-tracker.
 /banner.stats?
 /banners-stat.
+/base/es5/bundle.js
 /base/es6/bundle.js
 /basesdc.js
 /basicMetricsTracking.
@@ -13996,6 +13997,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ablida.net^$third-party
 ||adc-srv.net/retargeting.php
 ||adm24.de/hp_counter/$third-party
+||advantage.digitalsunray.com^
 ||aftonbladet.se/trafikfonden/
 ||agitos.de/content/track?
 ||analytics.audionow.de^
@@ -15252,6 +15254,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||ekg.riotgames.com^
 ||engagefront.meteomedia.com^
 ||engagefront.theweathernetwork.com^
+||engine.traceparts.com^
 ||enlightenment.secureshoppingbasket.com^
 ||eproof.drudgereport.com^
 ||equirodi.*/addstat.php
@@ -16054,6 +16057,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||toyota.com/analytics/
 ||tr.clickstay.com^
 ||tr.www.cloudflare.com^
+||traceparts.com/logs
 ||track-visit.monday.com^
 ||track.dictionary.com^
 ||track.kueez.com^
