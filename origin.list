@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: ZytSrwxzcgIJ10KpdE4E7A
-! Version: 202302180250
+! Checksum: XGMu6UEuE1/FPwMbfmMrNw
+! Version: 202302180440
 ! Title: EasyPrivacy
-! Last modified: 18 Feb 2023 02:50 UTC
+! Last modified: 18 Feb 2023 04:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -10096,6 +10096,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||roughroll.com^
 ||ruddycast.com^
 ||ruddywash.com^
+||ruralrobin.com^
 ||rusticprice.com^
 ||ruthlessdegree.com^$third-party
 ||ruthlessmilk.com^
