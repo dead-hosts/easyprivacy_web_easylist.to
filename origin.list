@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: bIeWHgDMetGkeQI9pCFjcw
-! Version: 202302200940
+! Checksum: 5VMj7ftObz8jwxt1WxUNew
+! Version: 202302201001
 ! Title: EasyPrivacy
-! Last modified: 20 Feb 2023 09:40 UTC
+! Last modified: 20 Feb 2023 10:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -9958,7 +9958,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||parchedsofa.com^
 ||pardonpopular.com^
 ||parsimoniouspolice.com^$third-party
-||partplanes.com^$third-party
+||partplanes.com^
 ||passengerpage.com^
 ||pastepot.com^
 ||pastoralcorn.com^
@@ -10050,7 +10050,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||rambunctiousvoyage.com^
 ||rangecake.com^$third-party
 ||rapidkittens.com^
-||raresummer.com^$third-party
+||raresummer.com^
 ||readgoldfish.com^
 ||readingguilt.com^
 ||readingopera.com^
