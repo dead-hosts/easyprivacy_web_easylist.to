@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 90wPKhdPh9Pe3I+lHQcT1Q
-! Version: 202302200920
+! Checksum: bIeWHgDMetGkeQI9pCFjcw
+! Version: 202302200940
 ! Title: EasyPrivacy
-! Last modified: 20 Feb 2023 09:20 UTC
+! Last modified: 20 Feb 2023 09:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -9331,7 +9331,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||avalonalbum.com^
 ||averageamusement.com^
 ||awakebird.com^$third-party
-||awarealley.com^$third-party
+||awarealley.com^
 ||awesomeagreement.com^
 ||awesomeattack.com^
 ||awzbijw.com^$third-party
@@ -9845,6 +9845,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||livelyreward.com^
 ||lizardslaugh.com^$third-party
 ||longinglettuce.com^
+||longingtrees.com^
 ||lorenzourban.com^$third-party
 ||loudlunch.com^$third-party
 ||lovelydrum.com^
@@ -9912,7 +9913,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||necessarywax.com^
 ||negotiatetime.com^
 ||neighborlywatch.com^$third-party
-||nervoussummer.com^$third-party
+||nervoussummer.com^
 ||niftyhospital.com^
 ||niftyjelly.com^
 ||noiselessplough.com^
@@ -10040,7 +10041,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||rabbitbreath.com^
 ||rabbitrifle.com^
 ||railwayrainstorm.com^
-||railwayreason.com^$third-party
+||railwayreason.com^
 ||raintwig.com^$third-party
 ||rainydirt.com^
 ||rainyhand.com^
