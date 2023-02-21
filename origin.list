@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: N+Vr6vaF57ZM8xUdO5R5Sg
-! Version: 202302210130
+! Checksum: M/vy0dauqugoRtY+caZtoA
+! Version: 202302210150
 ! Title: EasyPrivacy
-! Last modified: 21 Feb 2023 01:30 UTC
+! Last modified: 21 Feb 2023 01:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -30562,7 +30562,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||ipinfo.io/?token=$domain=assurancemortgage.com|webtv.ert.gr
 @@||iwin.com/gtm.json$~third-party,xmlhttprequest
 @@||jbj.co.uk^*/analytics.js$script,~third-party
-@@||js-agent.newrelic.com/nr-spa-$script,domain=kapwing.com
+@@||js-agent.newrelic.com^$domain=alliantcreditunion.com|kapwing.com
 @@||js.captcha-display.com/xhr_tag.js$script,domain=auth.garena.com
 @@||js.datadome.co/tags.js$script,domain=sso.garena.com
 @@||js.monitor.azure.com/scripts/$script,domain=microsoft.com|rubex.efilecabinet.net
