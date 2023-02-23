@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: xtJu+bFMjGhjjZl/pjvxJg
-! Version: 202302231820
+! Checksum: dnOIdhs1s1fEFFYdmY6oDw
+! Version: 202302231840
 ! Title: EasyPrivacy
-! Last modified: 23 Feb 2023 18:20 UTC
+! Last modified: 23 Feb 2023 18:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5761,6 +5761,8 @@ cgi-bin/counter
 /wf/open?upn=$image
 /wizrocketmail.net/r?$image
 ://email.*/e/o/
+://parcel-api.delivery-status.*/open/$image
+://t.order.*/r/?id=$image
 _ad_impression.
 _track_pixel.gif?
 ! hellofresh / greenchef / everyplate
