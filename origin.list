@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: DXDpxHYFJFBOc7NQPoIsrQ
-! Version: 202302261220
+! Checksum: g6CF7dKwQL0JqWpk1kaWCQ
+! Version: 202302261240
 ! Title: EasyPrivacy
-! Last modified: 26 Feb 2023 12:20 UTC
+! Last modified: 26 Feb 2023 12:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4405,6 +4405,7 @@
 /tagx.js
 /tailtarget.js
 /talpa-analytics/*
+/TargetAnalyticsAPI-
 /targetemsecure.
 /taxtag.js
 /tblz_sailthru/*
