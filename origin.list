@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: kmIUyDY5Easzalu6y/jtnQ
-! Version: 202302270031
+! Checksum: Jq649q7FvZd2/dLVXlnapQ
+! Version: 202302270101
 ! Title: EasyPrivacy
-! Last modified: 27 Feb 2023 00:31 UTC
+! Last modified: 27 Feb 2023 01:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -7612,6 +7612,8 @@ _mongo_stats/
 ||losstrack.com^$third-party
 ||lp4.io^$third-party
 ||lporirxe.com^$third-party
+||lr-in-prod.com^$third-party
+||lr-in.com^$third-party
 ||lr-ingest.io^$third-party
 ||lsfinteractive.com^$third-party
 ||lucidel.com^$third-party
