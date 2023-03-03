@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 4rDwPMFcB/IGioqXXqFAUA
-! Version: 202303031030
+! Checksum: zisDjqtH0Net4zcnrgdyGw
+! Version: 202303031050
 ! Title: EasyPrivacy
-! Last modified: 03 Mar 2023 10:30 UTC
+! Last modified: 03 Mar 2023 10:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -30653,6 +30653,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||logo.clearbit.com^$image,third-party
 @@||lowesgiftcardbonus.com/js/third-party/angulartics-google-analytics/dist/angulartics-ga.min.js$script,~third-party
 @@||lr-ingest.io/logger.min.js$script,domain=pumpkin.care
+@@||mapquestapi.com/logger/$domain=hertz.com
 @@||maptiles.ping-admin.ru^$image,domain=ping-admin.com
 @@||material.io/inline-tools/direct-embed/bower_components/angularytics/$script,~third-party
 @@||matomo.miraheze.org/matomo.js$script,~third-party
@@ -30785,6 +30786,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||shop.bmw.com.au/assets/analytics-setup.js$~third-party
 @@||shopify.com/*assets/pixel.gif$image,domain=metrovac.com
 @@||shopify.com/shopifycloud/boomerang/shopify-boomerang-$domain=rydewear.com
+@@||shopify.com^*/assets/tracking-$domain=oatsovernight.com
 @@||signalshares.com/webtrends.min.js$script,~third-party
 @@||siteapps.caa.co.uk/scripts/plugins/analytics/ga.min.js$script,~third-party
 @@||smartrevise.online/css/analytics.min.css$~third-party
