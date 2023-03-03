@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: VbzFLjRLAY389uVl6PZQ7g
-! Version: 202303030951
+! Checksum: dliyNq2odDSvNwJxFZ20aQ
+! Version: 202303031010
 ! Title: EasyPrivacy
-! Last modified: 03 Mar 2023 09:51 UTC
+! Last modified: 03 Mar 2023 10:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -10146,6 +10146,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||scintillatingscissors.com^$third-party
 ||scintillatingsilver.com^
 ||scintillatingspace.com^$third-party
+||scrapesleep.com^
 ||scratchsofa.com^
 ||screechingfurniture.com^
 ||screechingslip.com^$third-party
