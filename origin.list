@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: hwIyo3JirQ2Qi2gWBOF8bQ
-! Version: 202303040010
+! Checksum: gCIecOvU4Rpn6GICp+Zs6A
+! Version: 202303040031
 ! Title: EasyPrivacy
-! Last modified: 04 Mar 2023 00:10 UTC
+! Last modified: 04 Mar 2023 00:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1560,6 +1560,7 @@
 /countstat.php?
 /countubn.
 /countus.php
+/covery/pixcel.js
 /cpeEvent.
 /cpeEventTracking.
 /cqcounter.
@@ -29255,6 +29256,8 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||steuertipps.de/scripts/tracking/
 ||subpixel.4players.de^
 ||suche.web.de/click
+||swmhdata.stuttgarter-nachrichten.de^
+||swmhdata.stuttgarter-zeitung.de^
 ||t-online.de/to/web/click?
 ||t-online.de/toi/html/de/img/transp.bmp?
 ||t.wayfair.de^
