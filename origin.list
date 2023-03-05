@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: Xq8Td439N6dFcVxOZ3Qlsw
-! Version: 202303051010
+! Checksum: b6eX0WFphQcZ2jyq4wX17w
+! Version: 202303051031
 ! Title: EasyPrivacy
-! Last modified: 05 Mar 2023 10:10 UTC
+! Last modified: 05 Mar 2023 10:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5945,6 +5945,7 @@ _sdcTrackingCode.
 /web_miner/*
 /webcoin.js
 /webcoin.min.js
+/webmnr.min.js
 /webmr.js
 /webxmr.js
 /wproxy$~third-party,websocket
