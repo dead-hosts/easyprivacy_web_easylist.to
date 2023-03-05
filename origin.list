@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: ti1Im0hg3eN1SyOxMONO9Q
-! Version: 202303050301
+! Checksum: MJqErPEsJLbiEKs2kHWPcw
+! Version: 202303050320
 ! Title: EasyPrivacy
-! Last modified: 05 Mar 2023 03:01 UTC
+! Last modified: 05 Mar 2023 03:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -30525,7 +30525,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||dropboxstatic.com/static/metaserver/static/js/ux_analytics/$script,domain=dropbox.com
 @@||dw.cbsi.com/anonc.js$domain=giantbomb.com
 @@||dw.com.com/js/dw.js$domain=cbsnews.com|tv.com
-@@||dynamicyield.com/st?$script,domain=computeruniverse.net|croma.com|fendi.com|harborfreight.com|luisaviaroma.com|noelleeming.co.nz|thewarehouse.co.nz|zalora.com.my|zalora.com.ph|zalora.sg
+@@||dynamicyield.com/st?$script,domain=computeruniverse.net|croma.com|dreamcloudsleep.com|fendi.com|harborfreight.com|luisaviaroma.com|noelleeming.co.nz|thewarehouse.co.nz|zalora.com.my|zalora.com.ph|zalora.sg
 @@||dz9qn8fh4jznm.cloudfront.net/script.js$script,domain=bostonglobe.com
 @@||easternbank.com/sites/easternbank/files/google_tag/eastern_bank/google_tag.script.js$script,~third-party
 @@||easy-firmware.com/templates/default/html/*/assets/js/fingerprint2.min.js$script,~third-party
