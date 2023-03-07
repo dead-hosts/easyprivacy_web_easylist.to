@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: t/jRiBu8ibyEGVCf4Z+vHg
-! Version: 202303062250
+! Checksum: 8XuNOj+VNdja1OOUL2IHgg
+! Version: 202303062320
 ! Title: EasyPrivacy
-! Last modified: 06 Mar 2023 22:50 UTC
+! Last modified: 06 Mar 2023 23:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -13235,6 +13235,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stats.itweb.co.za^
 ||stats.kaltura.com^
 ||stats.ksearchnet.com^
+||stats.live-video.net^$domain=kick.com
 ||stats.lotlinx.com^
 ||stats.mituyu.com^
 ||stats.mpthemes.net^
@@ -14123,6 +14124,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||sim-technik.de/dvs.gif?
 ||sim-technik.de^*&uniqueTrackId=
 ||skoom.de/gratis-counter/
+||somquery.sqrt-5041.de/tv/tracking-event
 ||spox.com/pub/js/track.js
 ||ss4w.de/counter.php?
 ||stat.clichehosting.de^
@@ -14991,6 +14993,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||adtech-events.bookmyshow.com^
 ||adv.drtuber.com^
 ||advancedmp3players.co.uk/support/visitor/index.php?
+||aegis.trovo.live^
 ||affiliate.gearbest.com^$image,third-party
 ||affiliates.treasureisland.com^
 ||affiliates.vpn.ht^
@@ -29199,6 +29202,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||ens.luzernerzeitung.ch^
 ||ens.nzz.ch^
 ||ens.tagblatt.ch^
+||event-collector.prd.data.s.joyn.de^
 ||fc.vodafone.de^
 ||fotocommunity.de/track/
 ||froglytics.eventfrog.ch^
