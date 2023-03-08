@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: DLTBE7v1fVAZLkWE5anwlA
-! Version: 202303080930
+! Checksum: lMdbGRKZjay7XfSQF068Hg
+! Version: 202303081001
 ! Title: EasyPrivacy
-! Last modified: 08 Mar 2023 09:30 UTC
+! Last modified: 08 Mar 2023 10:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -364,7 +364,6 @@
 /AdBlockDetection/scriptForGA.
 /AdCookies.js
 /AdCount/*
-/AdmitadTagTag.js
 /add_anonymous_identifier
 /add_page_view?
 /add_stats
@@ -397,6 +396,7 @@
 /admantx-
 /admantx.
 /admantx/*
+/AdmitadTagTag.js
 /admonitoring.
 /adobe-analytics-$domain=~business.adobe.com
 /adobe-analytics.
