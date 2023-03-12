@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 2k7W54CuJaVS82V00tOhEQ
-! Version: 202303120402
+! Checksum: yiwEhOI8I55iUGhxV38aZQ
+! Version: 202303120420
 ! Title: EasyPrivacy
-! Last modified: 12 Mar 2023 04:02 UTC
+! Last modified: 12 Mar 2023 04:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3765,7 +3765,6 @@
 /referrer.php?*http
 /referrer_invisible.js?
 /referrer_tracking.
-/reflektion.js
 /refresh_uid?$script
 /refstats.asp?
 /reftracker.
@@ -30527,7 +30526,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||cvs.com/shop-assets/js/VisitorAPI.js$~third-party
 @@||d1igp3oop3iho5.cloudfront.net^*/zaius.js$script,domain=subscriptions.management
 @@||d1km2unb2600pw.cloudfront.net/assets/tracking-history-popup-$script,domain=collectplus.yodel.co.uk
-@@||d26opx5dl8t69i.cloudfront.net/js/reflektion.js$script,domain=jdsports.com|kegworks.com
 @@||d2r1yp2w7bby2u.cloudfront.net^$domain=sonyliv.com
 @@||d2wy8f7a9ursnm.cloudfront.net/v4/bugsnag.min.js$script,domain=einthusan.tv|tlk.io
 @@||d2wy8f7a9ursnm.cloudfront.net^$script,domain=staples.ca
