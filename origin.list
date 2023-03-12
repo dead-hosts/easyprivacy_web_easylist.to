@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 7kQhxoDKnKkDEdEilJXK5g
-! Version: 202303112320
+! Checksum: KRfAt3SPPNpJWnErQQvDpA
+! Version: 202303112340
 ! Title: EasyPrivacy
-! Last modified: 11 Mar 2023 23:20 UTC
+! Last modified: 11 Mar 2023 23:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -16018,6 +16018,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stats.wordpress.com^
 ||stats.wwitv.com^
 ||strcloud.in/stat/
+||streamadblocker.com/stat/
 ||streamstats.prd.dlive.tv^
 ||streamta.pe/stat/
 ||streamta.site/stat/
@@ -29278,6 +29279,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||statistics.riskommunal.net^
 ||statistik.mitmischen.de^
 ||stats.autoscout24.ch^
+||stats.rocketbeans.tv^
 ||steuertipps.de/scripts/tracking/
 ||subpixel.4players.de^
 ||suche.web.de/click
