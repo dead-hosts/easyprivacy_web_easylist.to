@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: rKZJ/E9E8pG8Zy26WhXHYQ
-! Version: 202303141750
+! Checksum: JEETMMDchtfjJc9WGxR95g
+! Version: 202303141810
 ! Title: EasyPrivacy
-! Last modified: 14 Mar 2023 17:50 UTC
+! Last modified: 14 Mar 2023 18:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5743,6 +5743,7 @@ cgi-bin/counter
 /pixel.mathtag.com/*
 /pixel?cid=
 /pqt.email/o/*$image
+/prod-puc-all/*/open^$image
 /px/track?
 /redir.inxmail-commerce.com/r/*$image
 /rover.ebay.com/roveropen/*
