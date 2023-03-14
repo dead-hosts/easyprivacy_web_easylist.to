@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 2Isy5PSAatf5uoUqRlSQNA
-! Version: 202303140410
+! Checksum: 9oO9Yt9Gg1M3KftXLonM0A
+! Version: 202303140431
 ! Title: EasyPrivacy
-! Last modified: 14 Mar 2023 04:10 UTC
+! Last modified: 14 Mar 2023 04:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5073,6 +5073,7 @@
 /v60.js
 /va-stat.
 /valnet-header.
+/valnetinccom-adapter.
 /valor_analytics.
 /valor_analytics/*
 /valueclickbrands/*
@@ -12875,6 +12876,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||openxcdn.net^$third-party
 ||optimeeze.appspot.com^
 ||optimizely.appspot.com^$third-party
+||optmn.cloud/hb/
 ||ora.tv/j/ora_evttracking.js
 ||orb.ee/collect
 ||ordergroove.com/log/offer?
@@ -15207,6 +15209,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||collector.xhamster.com^
 ||collector.xhamster.desi^
 ||collector.xhamster2.com^
+||collider.com/strpixel.png
 ||colvk.viki.io^
 ||confiant.msn.com^
 ||connecteam.com/bi/api/ReportHit/
