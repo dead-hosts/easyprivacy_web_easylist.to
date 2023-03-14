@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: xgz5msai2wJzoFFVs2RZ6w
-! Version: 202303140102
+! Checksum: ZlWHd8zRqBJyWV7POyldNw
+! Version: 202303140120
 ! Title: EasyPrivacy
-! Last modified: 14 Mar 2023 01:02 UTC
+! Last modified: 14 Mar 2023 01:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6587,7 +6587,6 @@ _mongo_stats/
 ||awstats.cloud^$third-party
 ||awstrack.me^$third-party
 ||axf8.net^$third-party
-||axiom.co^$third-party
 ||azalead.com^$third-party
 ||azera-s014.com^$third-party
 ||azointel.com^$third-party
@@ -13629,6 +13628,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||veeseo.com/tracking/
 ||ventunotech.com/beacon/
 ||venturify.at/pixel/
+||vercel-vitals.axiom.co^
 ||vidazoo.com/aggregate?
 ||vidazoo.com/event/
 ||video-ad-stats.googlesyndication.com^
