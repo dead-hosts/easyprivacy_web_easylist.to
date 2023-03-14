@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: aaP1RSoXYx2h3YnIlhD+LA
-! Version: 202303142250
+! Checksum: C+976robS2sd0ZGV8yJd8Q
+! Version: 202303142310
 ! Title: EasyPrivacy
-! Last modified: 14 Mar 2023 22:50 UTC
+! Last modified: 14 Mar 2023 23:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -9372,6 +9372,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||billowybead.com^
 ||bitterbear.com^
 ||bizarrebaseball.com^
+||blackbrake.com^
 ||bleachbubble.com^
 ||blotburn.com^
 ||blushingbeast.com^
