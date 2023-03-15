@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 4Y0svfVdU//m9nrAOjhUWw
-! Version: 202303150130
+! Checksum: OZjQD+xdpBgasl7t3TnnMQ
+! Version: 202303150150
 ! Title: EasyPrivacy
-! Last modified: 15 Mar 2023 01:30 UTC
+! Last modified: 15 Mar 2023 01:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -573,6 +573,7 @@
 /analytics-endpoint.
 /analytics-event-
 /analytics-event.
+/analytics-event/*
 /analytics-events-
 /analytics-facade.
 /analytics-gcp.
