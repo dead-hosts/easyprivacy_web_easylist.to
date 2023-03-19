@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: +BKOz7Ldfn3+19LuNvtIEw
-! Version: 202303190950
+! Checksum: fpHOgf4mPT9uL2zyT1A6wQ
+! Version: 202303191010
 ! Title: EasyPrivacy
-! Last modified: 19 Mar 2023 09:50 UTC
+! Last modified: 19 Mar 2023 10:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -239,6 +239,7 @@
 .web-vitals-reporting.
 .webmetrics.js
 .webstats.
+/.well-known/shopify/monorail
 /0.gif?
 /0c.gif?
 /0pixel.php?
@@ -5430,7 +5431,6 @@
 /ztagtrackedevent/*
 /ztracker.js
 /zxc.gif?
-/.well-known/shopify/monorail
 ://analytics.*/collect
 ://analytics.*/event
 ://analytics.*/hits/
