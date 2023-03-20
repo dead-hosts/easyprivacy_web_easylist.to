@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: TqrwZTFk2RJ0995v9tFWBA
-! Version: 202303192350
+! Checksum: mfFlURBJKZ3kllinaOJuLQ
+! Version: 202303200010
 ! Title: EasyPrivacy
-! Last modified: 19 Mar 2023 23:50 UTC
+! Last modified: 20 Mar 2023 00:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1423,6 +1423,7 @@
 /collector/beacon
 /collector/hit?
 /collector/pageview
+/collector/v1/event
 /collector?report=
 /collectStats;
 /collectsysteminfo?
