@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: sTSF8VqquK/vsYKDIwzUAQ
-! Version: 202303230320
+! Checksum: n9msWcPtTsEgYMXf5M2HYQ
+! Version: 202303230340
 ! Title: EasyPrivacy
-! Last modified: 23 Mar 2023 03:20 UTC
+! Last modified: 23 Mar 2023 03:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -12832,7 +12832,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||rum.perfops.net^
 ||rum.uptime.com^
 ||run.app/data.log
-||run.app/events
 ||run.app/metrics/
 ||s-microsoft.com/mscc/$~stylesheet
 ||s.autopilotapp.com^
@@ -15551,6 +15550,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||rum.condenastdigital.com^
 ||rum.kobo.com^
 ||rumble.com/l/
+||run.app/events$domain=imgur.com
 ||rv.modanisa.com^$script
 ||s.infogram.com^
 ||saa.insideedition.com^
