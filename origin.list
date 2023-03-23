@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 2DvBnMag/DVCyNgSLieLhA
-! Version: 202303231210
+! Checksum: xmhzH3Am0NQCyAiddrEe/g
+! Version: 202303231231
 ! Title: EasyPrivacy
-! Last modified: 23 Mar 2023 12:10 UTC
+! Last modified: 23 Mar 2023 12:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -9202,6 +9202,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||colossalchance.com^
 ||colossalclouds.com^
 ||colossalcoat.com^$third-party
+||combativecar.com^
 ||combativedetail.com^
 ||combbit.com^
 ||combclover.com^
