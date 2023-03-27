@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: OC/JFEuO7Vh1GiJyf4JL0w
-! Version: 202303270310
+! Checksum: 8ULmeiIbMLs8TmoTdChglA
+! Version: 202303270330
 ! Title: EasyPrivacy
-! Last modified: 27 Mar 2023 03:10 UTC
+! Last modified: 27 Mar 2023 03:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5932,6 +5932,7 @@ _mongo_stats/
 ||superpointlesshamsters.com^
 ||t13.io^
 ||takingbackjuly.com^
+||targetemsecure.blob.core.windows.net^
 ||tatpek.com^
 ||test.vast^
 ||testingmetriksbre.ru^
@@ -10512,6 +10513,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||mmtro.com^$third-party
 ||netquattro.com/stats/
 ||netvigie.com^$third-party
+||non.li^$third-party
 ||phywi.org^$third-party
 ||pingclock.net^$third-party
 ||reseau-pub.com^$third-party
@@ -29069,6 +29071,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||ianimes.org/img/tracker.gif
 ||jeu.net/hits.js
 ||jscrambler.com^$script,domain=airfrance.fr
+||l.bfmtv.com^
 ||l.franceculture.fr^
 ||lacentrale.fr/collect
 ||lacentrale.fr/static/fragment-layout/tracking-
@@ -29742,6 +29745,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||collect.state.centrum24.pl^
 ||dot.wp.pl^$script
 ||entryhit.wp.pl^
+||euro.com.pl/log-customer-visit
 ||eventstream.dodopizza.com^
 ||ingbank.pl/mojeing/bs/xx.js
 ||interia.pl^*/hit.
