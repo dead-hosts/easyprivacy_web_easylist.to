@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: IYM8i+2mxREkJf2zF8LYmg
-! Version: 202303291431
+! Checksum: k0stp0wRXARkiDXoSgKJMg
+! Version: 202303300441
 ! Title: EasyPrivacy
-! Last modified: 29 Mar 2023 14:31 UTC
+! Last modified: 30 Mar 2023 04:41 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5323,6 +5323,7 @@ cgi-bin/counter
 .sendemail.gate.io/o/$image
 .sendibm1.com/*.gif?
 .sendibm1.com/mk/
+.sendibt2.com/tr/op/$image
 .simplicitycrm.com/rd/
 .smartrmail.co/o/$image
 .southwest.com/r/$image
@@ -5707,6 +5708,7 @@ _mongo_stats/
 ||clarity.ms^
 ||clearbitscripts.com^
 ||click360.io^
+||cliquelead.com^
 ||cloudwp.io^
 ||clrt.ai^
 ||cntxtfl.com^
@@ -5729,6 +5731,7 @@ _mongo_stats/
 ||dlxpix.net^
 ||dm-event.net^
 ||dmpxs.com^
+||doublestat.info^
 ||dratingmaject.com^
 ||dspx.tv^
 ||dttrk.com^
@@ -5940,6 +5943,7 @@ _mongo_stats/
 ||thefontzone.com^
 ||tncid.app^
 ||trackclicks.info^
+||triplestat.online^
 ||trk-maiorum.com^
 ||trkbc.com^
 ||trkn.us^
@@ -11846,6 +11850,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dmdentertainment.com^*/video_debug.gif?
 ||dmdt.io/collect
 ||domodomain.com^*/ddsense.aspx?
+||doppiocdn.com/healthcheck
 ||doppler-beacons.cbsivideo.com^
 ||doppler-reporting.cbsivideo.com^
 ||dotaudiences.com^$third-party
@@ -12909,6 +12914,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stats.datahjaelp.net^
 ||stats.edicy.com^
 ||stats.esecured.net^
+||stats.externulls.com^$domain=beeg.com
 ||stats.fomo.com^
 ||stats.gifs.com^
 ||stats.heyoya.com^
@@ -13727,6 +13733,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||api.nexx.cloud/*/session/
 ||artemis-cdn.ocdn.eu^
 ||audimark.de/tracking/
+||ba-content.de/cds/log/
 ||bcs-computersysteme.com/cgi-local/hiddencounter/
 ||beagle.prod.tda.link^
 ||blacktri-a.akamaihd.net^
@@ -15488,6 +15495,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||rps-uk.rockpapershotgun.com^
 ||rs.mail.ru^
 ||rss-loader.com/track/
+||rstat.rockmostbet.com^
 ||rt.newswire.ca^
 ||rt.prnewswire.com^
 ||rt.rakuten.co.jp^$~xmlhttprequest
@@ -15710,6 +15718,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||strcloud.in/stat/
 ||streamadblocker.com/stat/
 ||streamadblocker.store/stat/
+||streamadblocker.xyz/stat/
 ||streamstats.prd.dlive.tv^
 ||streamta.pe/stat/
 ||streamta.site/stat/
@@ -28879,6 +28888,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ! *** easylist:easyprivacy/easyprivacy_specific_international.txt ***
 ! German
 ||agnes.waz.de^
+||analytics.adliners.de^
 ||analytics.daasrv.net^
 ||analytics.deutscher-apotheker-verlag.de^
 ||analytics.moviepilot.de^
