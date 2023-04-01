@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: KDcq0QoK38LXPgKp+i8qyA
-! Version: 202304011201
+! Checksum: xSjFlqaN4lHvG4iExmhQKw
+! Version: 202304011220
 ! Title: EasyPrivacy
-! Last modified: 01 Apr 2023 12:01 UTC
+! Last modified: 01 Apr 2023 12:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -11244,6 +11244,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||amazonaws.com/storejs/a/JKRHRQG/ge.js
 ||amazonaws.com/v1/apps/*/events
 ||amazonaws.com^*/prod_analytics
+||amazonpay.com/customerInsight?
 ||amp-error-reporting.appspot.com^
 ||amplify.outbrain.com^$third-party
 ||amplifypixel.outbrain.com^
@@ -12570,6 +12571,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||p0.com/1x1
 ||paddle.com^*/analytics.js
 ||page-events-ustats.udemy.com^
+||pagefly.io/pagefly/core/analytics.js
 ||pages-stats.rbl.ms^
 ||pagesense-collect.zoho.com^
 ||pagesocket.glam.com^
@@ -12838,6 +12840,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||shareit.com/affiliate.html$third-party
 ||sharethis.com/increment_clicks?
 ||sharethis.com/pageviews?
+||shopify.com/shopifycloud/consent-tracking-api/
 ||shopify.com/shopifycloud/web-pixels-manager/
 ||shoplocal.com/it.ashx?
 ||shopnetic.com^$third-party
@@ -29511,8 +29514,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||omataloyhtio.fi/statb.asp
 ||puutarha.net/ffsw-pushcrew.js
 ||puutarha.net/statb.asp
-||rac.ruutu.fi/rac.gif$image
-||rac.ruutu.fi/sat/sat.gif$image
+||rac.ruutu.fi^
 ||rakentaja.fi/kuvat/pi.gif$image
 ||rantapallo.fi/s/redirect/tracking?
 ||stat.mtv3.fi^
