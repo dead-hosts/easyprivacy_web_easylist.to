@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: ekOl2bH0sz0ORhlXrXy7QQ
-! Version: 202304011920
+! Checksum: Arcck6ebKnuovkViXMlCMg
+! Version: 202304011940
 ! Title: EasyPrivacy
-! Last modified: 01 Apr 2023 19:20 UTC
+! Last modified: 01 Apr 2023 19:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -15035,6 +15035,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||facebook.com/search/web/instrumentation.php?
 ||facebook.com/xti.php?
 ||fanatics.com/api/track
+||fancentro.com/lapi/statisticWriter/
+||fancentro.com/trck-
 ||fansedge.com/api/track
 ||fansshare.com/t.gif
 ||faphouse.com/collector/
@@ -15294,6 +15296,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||mat6tube.com/stats
 ||mcc-tags.cisco.com^
 ||mcloud.to/log/
+||mcloud.to/ping/
 ||mcs-va.tiktokv.com^
 ||mdmpix.com/js/connector.php?
 ||medium.com/_/batch
@@ -15898,6 +15901,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||visitors.sourcingmap.com^
 ||visualstudio.com/v2/track
 ||vivid.money/projectx/$ping
+||vizcloud.co/ping/
 ||vk.com/js/lib/px.js
 ||vortex.hulu.com^
 ||vrbo.com/pdp/logger?
@@ -29598,6 +29602,9 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||paginegialle.it/engagement.js
 ||pornolupo.org/track.js
 ||ppcdn.it/iol/tracklib.3.js
+||raiplay.it/hit-service/
+||raiplay.it/tracking/
+||raiplaysound.it/hit-service/
 ||repstatic.it^*/nielsen_static_mapping_repubblica_
 ||sa.sky.it^
 ||seat.it/cgi-bin/getcod.cgi?
