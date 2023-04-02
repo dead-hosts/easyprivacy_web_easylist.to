@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 8AxyKGZ8vCGHAsQSJtUVZw
-! Version: 202304020002
+! Checksum: bftSTYEoCZPK1InDKCsX6Q
+! Version: 202304020020
 ! Title: EasyPrivacy
-! Last modified: 02 Apr 2023 00:02 UTC
+! Last modified: 02 Apr 2023 00:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -9857,6 +9857,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||shinesavage.com^
 ||shinestuart.com^
 ||shiveringspot.com^
+||shiverscissors.com^
 ||shockinggrass.com^$third-party
 ||shockingship.com^
 ||shopbreakfast.com^
