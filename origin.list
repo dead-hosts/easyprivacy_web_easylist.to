@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: pGfk0Reo85N2FKF7KmbHBw
-! Version: 202304030210
+! Checksum: 2wP4+EUbVEoDKz9o1mbicA
+! Version: 202304030240
 ! Title: EasyPrivacy
-! Last modified: 03 Apr 2023 02:10 UTC
+! Last modified: 03 Apr 2023 02:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -30697,7 +30697,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||kohls.com/b/ss/$image
 @@||metrics.ancestry.com/b/ss/$image
 @@||omns.americanexpress.com/b/ss/
-@@||oms.dowjoneson.com/b/ss/$image,domain=wsj.com
 @@||omtrdc.net/b/ss/$image,domain=britishairways.com|costco.com|halifax-online.co.uk|logmein.com|macworld.com|msnbc.com|nbc.com|pcworld.com|techhive.com|usanetwork.com
 @@||omtrdc.net/rest/$xmlhttprequest
 ! Allowlists to fix broken pages of tracking companies
