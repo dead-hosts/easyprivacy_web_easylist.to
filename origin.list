@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: AooYauBVGvUKXrQbpqCy8g
-! Version: 202304072230
+! Checksum: 9vUqogjb4zpRVKCHHM7gyg
+! Version: 202304072250
 ! Title: EasyPrivacy
-! Last modified: 07 Apr 2023 22:30 UTC
+! Last modified: 07 Apr 2023 22:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6907,6 +6907,7 @@ _mongo_stats/
 ||getsmartlook.com^$third-party
 ||getstat.net^$third-party
 ||getstatistics.se^$third-party
+||getstats.org^$third-party
 ||getviously.com^$third-party
 ||gez.io^$third-party
 ||gglscr.online^$third-party
@@ -12304,6 +12305,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||letv.com/cloud_pl/
 ||letv.com/env/
 ||levelaccess.net/analytics/
+||libcdnjs.com/api/event
 ||licdn.com/*.gif?rnd=
 ||licensing.bitmovin.com/impression
 ||lift.acquia.com^
@@ -28957,6 +28959,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||ens.luzernerzeitung.ch^
 ||ens.nzz.ch^
 ||ens.tagblatt.ch^
+||epimetheus.navigator.web.de^
 ||event-collector.prd.data.s.joyn.de^
 ||fc.vodafone.de^
 ||fotocommunity.de/track/
@@ -29086,7 +29089,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||wa.gmx.net^
 ||wa.web.de^
 ||walbusch.de^$ping
-||web.de/monitoring/
 ||werkenntdenbesten.de/js/tracking.
 ||werkenntdenbesten.de/pd.js
 ||wikipedia.de/tracking.js
@@ -29717,6 +29719,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||log-lb.skyperfectv.co.jp^
 ||logql.yahoo.co.jp^
 ||m-oo-m.com/data/report/
+||mangaraw.to/api/v1/view/
 ||measure.ameblo.jp^
 ||mixi.net/static/js/build/mixi-analysis.production.js
 ||nhk.or.jp^*/bc.js
