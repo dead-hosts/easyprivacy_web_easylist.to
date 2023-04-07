@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: bOeohRBy4O2Z7cxxdE1gHQ
-! Version: 202304072211
+! Checksum: AooYauBVGvUKXrQbpqCy8g
+! Version: 202304072230
 ! Title: EasyPrivacy
-! Last modified: 07 Apr 2023 22:11 UTC
+! Last modified: 07 Apr 2023 22:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -28948,6 +28948,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||cpx.golem.de^
 ||cpxl.golem.de^
 ||d.rp-online.de^
+||data.sportdeutschland.tv^
 ||dein-plan.de/t.gif
 ||dejure.org/cgi-bin/sitzung.fcgi?
 ||derwesten.de/stats/
@@ -28983,6 +28984,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||metrics.n-tv.de^
 ||mlm-tracking-service.meinestadt.de^
 ||moviepilot.de/assets/autotrack-
+||mtb-news.de/metric/
 ||muenchener-stadtplan.com/t.gif
 ||mydirtyhobby.de/tracker
 ||navigation-timing.meinestadt.de^
@@ -28997,6 +28999,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||oxifwsabgd.nzz.ch^
 ||pi.technik3d.com^
 ||potsdamer-stadtplan.com/t.gif
+||pstt.mtb-news.de^
 ||px.derstandard.at^
 ||pxc.otto.de^
 ||rem-track.bild.de^
@@ -29005,6 +29008,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||rt.bunte.de^
 ||schnaeppchenfuchs.com/js/default-
 ||shoop.de/mgtrx/
+||sportnews.bz/pcookie?
 ||spreewaldkarte.de/t.gif
 ||sqs.quoka.de^
 ||squirrel.cividi.ch^
@@ -29016,6 +29020,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||stats.autoscout24.ch^
 ||stats.rocketbeans.tv^
 ||steuertipps.de/scripts/tracking/
+||stol.it/pcookie?
 ||subpixel.4players.de^
 ||suche.web.de/click
 ||swmhdata.stuttgarter-nachrichten.de^
