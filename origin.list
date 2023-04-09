@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 9pKTJMPPMHUHoVGJJrT5dg
-! Version: 202304090231
+! Checksum: Qvg0fPJaf6WNHopEbX0EaQ
+! Version: 202304090250
 ! Title: EasyPrivacy
-! Last modified: 09 Apr 2023 02:31 UTC
+! Last modified: 09 Apr 2023 02:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1370,7 +1370,7 @@
 /CreateCookieSSO_
 /CreateVIDCookie.aspx?
 /creative.png?slotId=
-/criteo.$domain=~criteo.blotout.io|~criteo.investorroom.com|~criteo.github.io
+/criteo.$domain=~criteo.blotout.io|~criteo.github.io|~criteo.investorroom.com
 /Criteo/*
 /criteo_
 /criteoRTA.
@@ -31116,8 +31116,8 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||type.jp/common/js/clicktag.js
 @@||ukw.jp^*/?cbk=$script,domain=system5.jp
 @@||useinsider.com/ins.js$domain=pizzahut.jp
-@@||webcdn.stream.ne.jp^*/referrer.js$domain=stream.ne.jp
 @@||user.userguiding.com/sdk/identify$xmlhttprequest,domain=xaris.ai
+@@||webcdn.stream.ne.jp^*/referrer.js$domain=stream.ne.jp
 @@||yu.xyz.mn/images/event.gif?$image,~third-party
 @@||zinro.net/m/log.php
 !
