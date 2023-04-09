@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 9bXK2WNBRCD6kmXkDwR4Ug
-! Version: 202304090210
+! Checksum: 9pKTJMPPMHUHoVGJJrT5dg
+! Version: 202304090231
 ! Title: EasyPrivacy
-! Last modified: 09 Apr 2023 02:10 UTC
+! Last modified: 09 Apr 2023 02:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1370,7 +1370,7 @@
 /CreateCookieSSO_
 /CreateVIDCookie.aspx?
 /creative.png?slotId=
-/criteo.$domain=~criteo.blotout.io|~criteo.investorroom.com
+/criteo.$domain=~criteo.blotout.io|~criteo.investorroom.com|~criteo.github.io
 /Criteo/*
 /criteo_
 /criteoRTA.
@@ -11395,6 +11395,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||apester.com/event^
 ||api-iam.intercom.io/messenger/web/metrics
 ||api-location-prd.pelcro.com^$domain=newsweek.com
+||api-v3.findify.io/v3/feedback
 ||api.autopilothq.com^
 ||api.bit.ly/*/clicks?$third-party
 ||api.blink.net/a/
@@ -11763,6 +11764,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||counter.jdi5.com^
 ||counter.maases.com^
 ||counter.packa2.cz^
+||counter.powr.io^
 ||counter.powweb.com^
 ||counter.rambler.ru^
 ||counter.scribblelive.com^
@@ -14982,6 +14984,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dp.shoprunner.com^
 ||drop.com/impressionsBeacon
 ||drop.com/statBeacon
+||dropbox.com/*/log_events
 ||dropbox.com/2/client_metrics
 ||dropbox.com/alternate_
 ||dropbox.com/jse
@@ -15312,7 +15315,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||manua.ls/gtag
 ||mapquest.com/logger
 ||marketing.alibaba.com^
-||marketing.dropbox.com^
 ||massivecams.com/api/events
 ||massivecams.com/api/metrics
 ||mat6tube.com/stats
@@ -31115,6 +31117,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 @@||ukw.jp^*/?cbk=$script,domain=system5.jp
 @@||useinsider.com/ins.js$domain=pizzahut.jp
 @@||webcdn.stream.ne.jp^*/referrer.js$domain=stream.ne.jp
+@@||user.userguiding.com/sdk/identify$xmlhttprequest,domain=xaris.ai
 @@||yu.xyz.mn/images/event.gif?$image,~third-party
 @@||zinro.net/m/log.php
 !
