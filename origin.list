@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: HF8xPQwslQ3ZDQFhEx6xLA
-! Version: 202304102031
+! Checksum: ZMTBFiiV7Wb8opkGFJKfXw
+! Version: 202304102050
 ! Title: EasyPrivacy
-! Last modified: 10 Apr 2023 20:31 UTC
+! Last modified: 10 Apr 2023 20:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4128,6 +4128,7 @@
 /stattag.js
 /stattracker-
 /status-beacon/*
+/status/impression?
 /StatV1?
 /stcollection.
 /stdlog?
@@ -11764,6 +11765,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||counter.cam-content.com^
 ||counter.hyipexplorer.com^
 ||counter.jdi5.com^
+||counter.live4members.com^
 ||counter.maases.com^
 ||counter.packa2.cz^
 ||counter.powr.io^
@@ -11864,6 +11866,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||dmdt.io/collect
 ||domodomain.com^*/ddsense.aspx?
 ||doppiocdn.com/healthcheck
+||doppiocdn.org/healthcheck
 ||doppler-beacons.cbsivideo.com^
 ||doppler-reporting.cbsivideo.com^
 ||dotaudiences.com^$third-party
@@ -15852,6 +15855,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||traceparts.com/logs
 ||track-visit.monday.com^
 ||track.dictionary.com^
+||track.eurogirlsescort.com^
 ||track.kueez.com^
 ||track.lexico.com^
 ||track.mrgugu.com^
