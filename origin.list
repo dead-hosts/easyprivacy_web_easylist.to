@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: oFweT2hEVPMnbOANX1BuaA
-! Version: 202304111103
+! Checksum: 0xpxHQsptke9azqdXefU6A
+! Version: 202304111120
 ! Title: EasyPrivacy
-! Last modified: 11 Apr 2023 11:03 UTC
+! Last modified: 11 Apr 2023 11:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5380,6 +5380,7 @@ cgi-bin/counter
 /link.e-mail.*/mo/*$image
 /link.morningbrew.com/img/*.gif
 /link.news.*/mo/*$image
+/link.oneplus.com/mo$image
 /link.pbtech.co.nz/mo/*$image
 /link.theatlantic.com/img/*
 /links1.strava.com/*$image
