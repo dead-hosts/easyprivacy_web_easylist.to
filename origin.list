@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: IwjcWjB3lLjae9iX39Wx7Q
-! Version: 202304131850
+! Checksum: yBGdtv/1/tNoV9S+CFk0fg
+! Version: 202304131910
 ! Title: EasyPrivacy
-! Last modified: 13 Apr 2023 18:50 UTC
+! Last modified: 13 Apr 2023 19:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5811,6 +5811,7 @@ _mongo_stats/
 ||hsleadflows.net^
 ||hubty.network^
 ||i218435.net^
+||icanhazip.com^
 ||id5-sync.com^
 ||idx.lat^
 ||impactcdn.com^
@@ -10091,6 +10092,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||thunderingrose.com^
 ||ticketaunt.com^
 ||ticklesign.com^
+||tightpowder.com^
 ||timeterritory.com^
 ||timetwig.com^
 ||tinytendency.com^
@@ -13834,6 +13836,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||onlyfree.de^*/counterservice/
 ||orbidder.otto.de^
 ||ottogroup.media/ogm.nitro.
+||pixel.poptok.com^
 ||plausible.ams.to^
 ||plista.com/getuid?
 ||plista.com/iframeShowItem.php
