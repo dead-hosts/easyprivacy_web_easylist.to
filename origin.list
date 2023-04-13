@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: bED4waI8jrPFm2FtnC6Vug
-! Version: 202304131601
+! Checksum: O8rczezavcAvrTvZxHIZfQ
+! Version: 202304131630
 ! Title: EasyPrivacy
-! Last modified: 13 Apr 2023 16:01 UTC
+! Last modified: 13 Apr 2023 16:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5328,6 +5328,7 @@ cgi-bin/counter
 .sendibt2.com/tr/op/$image
 .simplicitycrm.com/rd/
 .smartrmail.co/o/$image
+.smtp.net/o/$image
 .southwest.com/r/$image
 .sparkpostmail.com/q/$image
 .sparkpostmail2.com/q/$image
