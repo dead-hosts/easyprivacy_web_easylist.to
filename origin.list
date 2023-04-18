@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: Dfx9mUQXPhokZnjknn0J4w
-! Version: 202304171841
+! Checksum: TrjvD47XQiLUpDUBa6FwdA
+! Version: 202304180440
 ! Title: EasyPrivacy
-! Last modified: 17 Apr 2023 18:41 UTC
+! Last modified: 18 Apr 2023 04:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5812,7 +5812,6 @@ _mongo_stats/
 ||hsleadflows.net^
 ||hubty.network^
 ||i218435.net^
-||icanhazip.com^
 ||id5-sync.com^
 ||idx.lat^
 ||impactcdn.com^
@@ -7035,6 +7034,7 @@ _mongo_stats/
 ||ibpxl.com^$third-party
 ||ibpxl.net^$third-party
 ||ic-live.com^$third-party
+||icanhazip.com^$third-party
 ||iclive.com^$third-party
 ||ics0.com^$third-party
 ||icstats.nl^$third-party
@@ -15769,6 +15769,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||stapadblockuser.art/stat/
 ||stapadblockuser.click/stat/
 ||stapadblockuser.info/stat/
+||stapadblockuser.xyz/stat/
 ||stape.fun/stat/
 ||stapewithadblock.beauty/stat/
 ||stapewithadblock.monster/stat/
