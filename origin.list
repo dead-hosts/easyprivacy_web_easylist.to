@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: PwW9JcdydEB8EEUm+IbOHw
-! Version: 202304181905
+! Checksum: RbDuSbvKOWoNt78h6Y4vMA
+! Version: 202304181920
 ! Title: EasyPrivacy
-! Last modified: 18 Apr 2023 19:05 UTC
+! Last modified: 18 Apr 2023 19:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5195,7 +5195,7 @@ _ga_code.
 _ga_tag.
 _ga_tracker.
 _gaTrack.js
-_google_analytics.
+_google_analytics.$~image
 _googleAnalytics.
 _googleAnalytics_
 _gpt_bootstrap_
@@ -29203,6 +29203,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||fsm.lapresse.ca^
 ||gamergen.com/ajax/actualites/addVue
 ||hits.porn.fr^
+||hlms.ecologie.gouv.fr^
 ||ianimes.org/img/tracker.gif
 ||jeu.net/hits.js
 ||jscrambler.com^$script,domain=airfrance.fr
@@ -29263,6 +29264,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=skyback.ru|szukajka
 ||tracking.bd4travel.com^
 ||unblog.fr/cu.js
 ||wawacity.*/bypass
+||wrhv.education.gouv.fr^
 ||woopic.com/z.gif
 ||wstats.gameblog.fr^
 ||wt.oscaro.com^
