@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: vVgKvJWyLHcNwRjo24Gsog
-! Version: 202304190931
+! Checksum: L3TKFLaI1tPcDJMa+DVO/g
+! Version: 202304191001
 ! Title: EasyPrivacy
-! Last modified: 19 Apr 2023 09:31 UTC
+! Last modified: 19 Apr 2023 10:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5703,6 +5703,7 @@ _mongo_stats/
 ||brontops.com^
 ||brsrvr.com^
 ||btloader.com^
+||bx-cloud.com^
 ||bydst.com^
 ||cadsuta.net^
 ||captcha-display.com^
