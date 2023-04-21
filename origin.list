@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: B/Vn5XJ/ATwH6rrHPYf4bw
-! Version: 202304210210
+! Checksum: 4vsH4HpsKM5h4Jm4PKDdBQ
+! Version: 202304210231
 ! Title: EasyPrivacy
-! Last modified: 21 Apr 2023 02:10 UTC
+! Last modified: 21 Apr 2023 02:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -9570,6 +9570,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||longinglettuce.com^
 ||longingtrees.com^
 ||lorenzourban.com^$third-party
+||losslace.com^
 ||loudlunch.com^$third-party
 ||lovelydrum.com^
 ||lowlocket.com^$third-party
