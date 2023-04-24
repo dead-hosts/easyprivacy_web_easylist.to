@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: nvIJJIU4C6sOPTmwMrMtOA
-! Version: 202304240310
+! Checksum: OCELjN4HUziUNU4ZEtX35g
+! Version: 202304240331
 ! Title: EasyPrivacy
-! Last modified: 24 Apr 2023 03:10 UTC
+! Last modified: 24 Apr 2023 03:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5952,6 +5952,7 @@ _mongo_stats/
 ||the-ozone-project.com^
 ||thefontzone.com^
 ||tncid.app^
+||track-selectmedia.com^
 ||trackclicks.info^
 ||triplestat.online^
 ||trk-maiorum.com^
@@ -10269,6 +10270,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||analytics.rechtslupe.org^
 ||andyhoppe.com^$third-party
 ||anormal-tracker.de^$third-party
+||area51.to^$third-party
 ||asadcdn.com^$third-party
 ||atsfi.de^$third-party
 ||audiencemanager.de^$third-party
@@ -11010,6 +11012,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||retargeter.com.br^$third-party
 ||sambaads.com^$third-party
 ||shoptarget.com.br^$third-party
+||solucx.com.br^$third-party
 ||tailtarget.com^$third-party
 ||trugaze.io^$third-party
 ||voxus.com.br^$third-party
