@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: elpZQfKKdMprx7zSmbamkg
-! Version: 202304281050
+! Checksum: bBtOaPyO43l+TkldflqPMg
+! Version: 202304281110
 ! Title: EasyPrivacy
-! Last modified: 28 Apr 2023 10:50 UTC
+! Last modified: 28 Apr 2023 11:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1237,9 +1237,6 @@
 /countbk.
 /CountContent?
 /counter-js.php
-/counter.*&referer=
-/counter.*&referrer=
-/counter.*?event=
 /Counter.ashx?
 /counter.asp?
 /counter.aspx?
@@ -1252,11 +1249,6 @@
 /counter.php?width=
 /counter.pl?
 /counter.visit?
-/Counter.woa/*
-/counter/*?rnd=$image
-/counter/?*&ref=
-/counter/?*&referer=
-/counter/?type=
 /counter/acnt.php?
 /counter/action_
 /counter/article?
@@ -1702,7 +1694,6 @@
 /fdlogger/*
 /fe/track/*
 /fe_logger?
-/federated-analytics.
 /fender_analytics.
 /figanalytics.
 /figanalytics/*
@@ -2152,9 +2143,6 @@
 /icf-analytics.js
 /iclogs?
 /icon.gif?type=
-/icon?eid=*&sid=$image
-/ics/2/pview.gif?
-/ida_stats.
 /ident/hit.js
 /identify?data=
 /identify?fp=
@@ -2189,15 +2177,8 @@
 /imp/rtm?
 /imp/www.
 /imp2.js?
-/imp?*&impId=
-/imp?*&li=
-/imp?*&sz=
-/imp?*&u=
-/imp?imgid=
-/imp?imp_key=
 /imp?reqid=
 /imp?sid=
-/imp_-_pixel.
 /imp_check.php
 /imp_cnt.gif?
 /imp_img.php?
@@ -2231,8 +2212,6 @@
 /impressionTrackerV2.
 /in.getclicky.com/*
 /in.gif?url=
-/in.php?*&referer=
-/in.php?p=
 /in.php?referer=
 /in/multy?*&event_id=
 /inboundAnalytics.
@@ -2344,11 +2323,7 @@
 /js/logger?
 /js/perimeter-x
 /js/quantcast-
-/js/sophus/*
 /js/tagging/tagtrack.js
-/js/targeting.js
-/js/tealeaf/*
-/js/tealium/*
 /js/tophits_
 /js?event=page&
 /js_event_tracking/*
@@ -2451,7 +2426,6 @@
 /linktracker/*
 /linktracking.
 /listener.php?userRef=
-/live/analytics/*
 /livecounter.php?wid=
 /livestats.ashx
 /livestats.js
@@ -3180,26 +3154,12 @@
 /pixel.fingerprint.
 /pixel.gif/sensor?
 /pixel.gif?
-/pixel.json?
-/pixel.jsp?
-/pixel.php?
-/Pixel.pl?
-/pixel.png?
-/pixel.swf?
 /pixel.track
 /pixel/?__tracker
 /pixel/?random_number=
-/pixel/conv/*
-/pixel/cv?
-/pixel/cv_
 /pixel/email/*$image
-/pixel/ga-
-/pixel/gtm-
-/pixel/host/?
-/pixel/img/*
 /pixel/impression/*
 /pixel/impression?
-/pixel/js/*$third-party
 /pixel/nvrwe?
 /pixel/PageStatistics.gif?
 /pixel/sbs?
@@ -3313,11 +3273,7 @@
 /profile_tracker.
 /prolist/impression-log
 /promo/impression?
-/promo_tracking.
-/promo_tracking/*
-/promos/pixels?
 /propagate_cookie.
-/prum.
 /pspixel/*
 /pstats.
 /pt.gif?
@@ -3836,11 +3792,6 @@
 /stat.gif?
 /stat.htm?$domain=~192.168.0.1|~192.168.1.1
 /stat.js?
-/stat.php?
-/stat.png?
-/stat.tag.
-/stat.tiff?
-/stat/ad?
 /stat/count
 /stat/event/*
 /stat/event?
@@ -3948,7 +3899,6 @@
 /stats/lp.min.
 /stats/mark?
 /stats/metrica.
-/stats/metrics/*
 /stats/mixpanel-
 /stats/page-view
 /stats/page_view_
@@ -4160,7 +4110,6 @@
 /traces.php?
 /tracing?aspect=
 /track-compiled.js
-/track-cookies.
 /track-event.
 /track-focus.min.js
 /track-img.php?
@@ -4176,12 +4125,6 @@
 /track.ads/*
 /track.ashx?*=http
 /Track.aspx/*
-/track.aspx?
-/track.cgi?
-/track.gif^
-/track.js?pixelId=
-/track.php?domain=
-/track.php?referrer=
 /track.png?
 /track.srv.
 /track.v2.js
@@ -4198,8 +4141,6 @@
 /track/client-events
 /track/cm?
 /track/component/*
-/track/count*js
-/track/count/*
 /track/event/*
 /track/hit.gif
 /track/identity?
@@ -4213,16 +4154,9 @@
 /track/pix2.asp?
 /track/pixel.
 /track/pixel/*
-/track/read/*
 /track/responseTime
 /track/site/*
 /track/statistic/*
-/track/track.php?
-/track/usage.
-/track/view/*
-/track/view?
-/track/views/*
-/track/view|
 /track/visitors/?
 /track/visits/?
 /track/w-pixel?
@@ -4241,7 +4175,6 @@
 /track?pid=
 /track?referer=
 /track?referrer=
-/track?wm_
 /track_click?
 /track_clicks_
 /track_event.
@@ -4275,8 +4208,6 @@
 /tracker-ev-sdk.js
 /tracker-pb-min-rem.js
 /tracker-r1.js
-/tracker-setting.js
-/tracker.*/visit?
 /tracker.do?
 /tracker.ga.
 /tracker.gif?
@@ -4288,7 +4219,6 @@
 /tracker/eventBatch/*
 /tracker/imp?
 /tracker/log?
-/tracker/ping/*
 /tracker/t.php?
 /tracker/track?
 /tracker/trackView?
@@ -4317,7 +4247,6 @@
 /trackimage/*
 /trackImpression/*
 /trackimps?
-/tracking-active/*
 /tracking-ad/*
 /tracking-analytics-
 /tracking-aws.
@@ -4337,12 +4266,7 @@
 /tracking/addview/*
 /tracking/adobe.js
 /tracking/adobe/*
-/tracking/ads.
 /tracking/airdog
-/tracking/analytics/*
-/tracking/article.
-/tracking/article/*
-/tracking/at.js
 /tracking/beacon/?
 /tracking/call.
 /tracking/click?
@@ -4350,15 +4274,12 @@
 /tracking/common.
 /tracking/comscore/*
 /tracking/cookies/*
-/tracking/count
 /tracking/create?
 /tracking/csp?
 /tracking/digitalData.
 /tracking/epixels.
 /tracking/events/*
 /tracking/events?
-/tracking/events|
-/tracking/event|
 /tracking/fingerprint/*
 /tracking/freewheel/*
 /tracking/impression
@@ -4378,15 +4299,10 @@
 /tracking/setTracker/*
 /tracking/simplified_
 /tracking/srv.
-/tracking/stat|
-/tracking/t.php?
-/tracking/t.srv?
 /tracking/tag_commander.php?
 /tracking/thirdpartytag.js
-/tracking/track.php?
 /Tracking/TrackPage
 /tracking/traffic_log
-/tracking/trk-
 /tracking/ts?
 /tracking/tynt_
 /tracking/user_sync_widget?
@@ -4919,29 +4835,19 @@
 ://blue.*/script.js
 ://collect.*/pageview
 ://collector.*/event
-://d.*/track.js
 ://email.*/blankpixel.gif
-://ensighten.
 ://fathom.$domain=~fathom.fm|~fathom.info|~fathom.io|~fathom.video|~fathom.world|~fathomdelivers.com|~fathomseo.com|~usesfathom.com
-://geoip.*/country.json
-://ivwextern.
 ://lightning.*/launch/
 ://matomo.$domain=~matomo.org
-://metrika.*/analytics.
 ://mint.*/?js
 ://piwik.$domain=~matomo.org|~piwik.pro
 ://segment-api.
 ://segment-cdn.
-://stats.*/index.js
-://stats.*/script.js
-://stats.*/stats.aspx
 ://track.*/collect
-://track.*/dye?
 ://track.*/visitor/
 ://tracker.*/pageview
 ://tracking.*/beacon/
 ://tracking.*/event
-://tracking.*/tr.js
 ://utm.$domain=~utm.akindi.com|~utm.arc.nasa.gov|~utm.edu|~utm.io|~utm.md|~utm.openskies.sh|~utm.pansa.pl|~utm.pharos360.com|~utoronto.ca
 ;type=eligibleimpression;
 ;type=pixel;
@@ -5003,14 +4909,11 @@ _event_tracking.
 _event_tracking?
 _ga-events_
 _ga_code.
-_ga_tag.
-_ga_tracker.
 _gaTrack.js
 _google_analytics.$~image
 _googleAnalytics.
 _googleAnalytics_
 _gpt_bootstrap_
-_gstat.gif?uid=
 _hitcount1.
 _hits_stat.
 _imp?Log=
@@ -5034,23 +4937,10 @@ _setAnalyticsFields&
 _social_tracking.js
 _stat.php?referer=
 _stat_counter.php?
-_stats.js?
-_stats_log.
-_Tacoda_
-_tag_mobylog.
-_tracker.js.
-_tracker.js?
-_tracker.php?*http
-_tracker_min.
-_tracking1.gif?
 _trackWebtrekkEvents.
 _view_pixel&$image
 _webanalytics.
-_webiq.
 _WebVitalsReporter_
-_wiselog_
-_xiti_js-
-cgi-bin/counter
 ||internal-matomo.
 ||meetrics.netbb-
 ! Email tracking pixels
@@ -5407,7 +5297,6 @@ _sdcTrackingCode.
 /projectpoi.min.js
 /rbcmetrika-
 /recordMetricsData.
-/relay/events|$xmlhttprequest
 /rum_analytics/*
 /safelinkconverter.js
 /scripts/analytics/*
@@ -5419,8 +5308,6 @@ _sdcTrackingCode.
 /streambeam-video.js
 /tenant.min.js
 /track/pageview?
-/tracker.build.
-/tracker.bx/*
 /web_miner/*
 /webcoin.js
 /webcoin.min.js
@@ -5451,7 +5338,6 @@ _sdcTrackingCode.
 ||googleapis.com^*/gen_204?
 ||gstatic.com/gen_204?
 ! Adblock tracking
-,adb=*&referer=
 -logabpstatus.
 /ab_track.
 /adb.policy.js
@@ -5459,7 +5345,6 @@ _sdcTrackingCode.
 /adblocker-check.
 /adblocker/pixel.
 /adblockLogger/*
-/iab-adblockDetector.
 /wp-admin/admin-ajax.php?action=adblockvisitor$~third-party
 /ws_client?zone=gen$websocket
 /wutime-adblocktracker/*
@@ -34835,14 +34720,9 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 @@||dev.visualwebsiteoptimizer.com/j.php$script,domain=gravitydefyer.com|wakefit.co
 @@||dev.visualwebsiteoptimizer.com/web/$script,domain=gravitydefyer.com|wakefit.co
 @@||devclass.com/wp-content/plugins/google-analytics-for-wordpress/$script,~third-party
-@@||developers.google.*/analytics/$~third-party,xmlhttprequest
 @@||dictionary.com/assets/standalone-analytics$~third-party
-@@||digitalgov.gov/Universal-Federated-Analytics-Min.js?$script,domain=travel.state.gov
-@@||docodoco.jp^*/docodoco?key=$script,domain=nidec-copal-electronics.com
-@@||docs.amplify.aws^*/platform/js/autotrack.json$~third-party
 @@||docs.google.com/*/viewdata$~third-party
 @@||dominos.com^*/assets/build/js/modules/dpz.tealium.js$script
-@@||dove.com/etc/ui/dovemencare/clientlibs/core/core/config/analytics.js$script,~third-party
 @@||drivetrain.ai/drive/*/metrics/$~third-party
 @@||dropboxstatic.com/static/metaserver/static/js/ux_analytics/$script,domain=dropbox.com
 @@||dw.cbsi.com/anonc.js$domain=giantbomb.com
