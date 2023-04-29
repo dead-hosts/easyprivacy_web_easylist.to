@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: Hyzu2rCpW2wI+4FJclf2Hw
-! Version: 202304290110
+! Checksum: YHISHUwS885t8pVGRQPvaA
+! Version: 202304290130
 ! Title: EasyPrivacy
-! Last modified: 29 Apr 2023 01:10 UTC
+! Last modified: 29 Apr 2023 01:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -34563,9 +34563,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 @@||akamaihd.net/nbad/player/*/visitorapi.js$domain=watch.nba.com
 @@||akamaihd.net/worldwide_analytics/$script,domain=ubi.com|ubisoft.com
 @@||akamaihd.net^*/analyticssdk.js$script,domain=ubisoft.com|ubisoftconnect.com
-@@||akamaized.net^*/resource/assets/$xmlhttprequest,domain=funplusgame.com
 @@||alphaapi.brandify.com/rest/clicktrack$xmlhttprequest,domain=traderjoes.com
-@@||amazonaws.com/production$xmlhttprequest,domain=ipa-reader.xyz
 @@||amplitude.com/libs/amplitude-4.5.2-min.gz.js$script,domain=pdfexpert.com
 @@||analytics-static.ugc.bazaarvoice.com/prod/$script,domain=hisense.co.uk
 @@||analytics.amplitude.com^$~third-party
