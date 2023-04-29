@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 7ydqoJe67KQca7NI1Hvozw
-! Version: 202304290901
+! Checksum: VRaW6LvxI1NNrQ6xmEyQ7g
+! Version: 202304290920
 ! Title: EasyPrivacy
-! Last modified: 29 Apr 2023 09:01 UTC
+! Last modified: 29 Apr 2023 09:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -35029,8 +35029,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 @@||businessclick.ch/index.js$domain=finanzen.ch
 @@||caritas-international.de^*/analyticsmediator.js$domain=caritas-international.de
 @@||classic.comunio.de/clubImg.phtml/$image,~third-party
-@@||cleverpush.com/channel/loader/$domain=prosieben.de
-@@||cleverpush.com/sdk/$domain=prosieben.de
 @@||cxense.com/cx.cce.js$domain=businessinsider.de
 @@||cxense.com/cx.cce.js$script,domain=handelsblatt.com
 @@||cxense.com/cx.js$domain=businessinsider.de|computerbild.de|handelsblatt.com
@@ -35061,7 +35059,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 @@||ksta.de^*/api/tracking/service/ksta/templateclient.js$domain=ksta.de
 @@||ksta.de^*/tracking/tracking.js$domain=ksta.de
 @@||online.mps-gba.de/praeludium/$script,domain=auto-motor-und-sport.de|caravaning.de|motorradonline.de
-@@||optimizely.com^$script,domain=kabeleins.de|prosieben.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
+@@||optimizely.com^$script,domain=kabeleins.de|prosiebenmaxx.de|ran.de|sat1.de|sixx.de
 @@||orginio.de/api/analytics/$~third-party,xmlhttprequest
 @@||php.heute.at/onion/ProjectOnion/render/common/js/tracking.js$~third-party
 @@||responder.wt-safetag.com/resp/api/get/$script,domain=myhermes.de
