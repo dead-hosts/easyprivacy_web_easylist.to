@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: na+05lSYFxKToa+Mwc7kIw
-! Version: 202305022230
+! Checksum: FZO98FsL2oDKdABSm7ZQrg
+! Version: 202305022250
 ! Title: EasyPrivacy
-! Last modified: 02 May 2023 22:30 UTC
+! Last modified: 02 May 2023 22:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -14275,6 +14275,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||interseek.si^*/visit.js
 ! Spanish
 ||1to1.bbva.com^
+||ab.blogs.es^
 ||advgo.net/hits/
 ||advgo.net/mushroom/
 ||analitica.webrpp.com^
@@ -14859,6 +14860,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||hotstar.com/v1/track
 ||houzz.com/hsc/aetrk/
 ||houzz.com/js/log?
+||hqq.ac/cdn-cgi/trace
 ||hqq.tv/cdn-cgi/trace
 ||html5games.com/event/
 ||hulkshare.com/ajax/tracker.php
@@ -15089,6 +15091,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||nytimes.com/v1/purr-cache
 ||nzpages.co.nz/modules/common/track.js
 ||observe.metarouter.io^
+||oceanplay.xyz/cdn-cgi/trace
 ||odysee.com/reports/
 ||ohm-dot-hackster-io.appspot.com^
 ||okx.com/jsstat/sb?
@@ -35330,6 +35333,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 @@||json.geoiplookup.io/?callback=$script,domain=chilepeajes.cl
 @@||metrics.el-mundo.net/b/ss/$image,domain=expansion.com
 @@||mi.tigo.com.co/plugins/cordova-plugin-fingerprint-aio/$script,~third-party
+@@||spxl.socy.es^$script,xmlhttprequest,domain=3djuegosguias.com|3djuegospc.com|applesfera.com|compradiccion.com|directoalpaladar.com|espinof.com|genbeta.com|poprosa.com|trendencias.com|trendenciashombre.com|vidaextra.com|vitonica.com|xatakamovil.com
 @@||tag.search.sensefuel.live/tag/$script,domain=bricomart.es
 @@||vodgc.net^*/genoa-event-tracking.min.js
 !
