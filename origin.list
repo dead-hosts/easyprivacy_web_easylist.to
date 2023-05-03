@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: V4s9uHliOceoi283V0mt6Q
-! Version: 202305031730
+! Checksum: 6qH5kf4dSJi7Z+43DbLUpw
+! Version: 202305031750
 ! Title: EasyPrivacy
-! Last modified: 03 May 2023 17:30 UTC
+! Last modified: 03 May 2023 17:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -35190,4 +35190,180 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 @@||disneyplus.disney.co.jp/view/vendor/analytics/$~third-party
 @@||dmp.im-apps.net/pms/*/pmt.js$domain=zakzak.co.jp
 @@||docodoco.jp^*/docodoco?key=$script,domain=jrtours.co.jp
-@@||e-s
+@@||e-stat.go.jp/modules/custom/retrieve/src/js/stat.js?$script,~third-party
+@@||ev.tpocdm.com^$xmlhttprequest,domain=wowma.jp
+@@||gamerch.com/s3-assets/library/js/fingerprint2.min.js?$script,~third-party
+@@||get.s-onetag.com/*/tag.min.js$domain=zakzak.co.jp
+@@||googleadservices.com/pagead/conversion_async.js$script,domain=jp.square-enix.com
+@@||googletagservices.com/tag/js/gpt.js$domain=fukuishimbun.co.jp
+@@||h-cast.jp^$script,domain=bookoffonline.co.jp
+@@||howtonote.jp/google-analytics/$image,~third-party
+@@||in.treasuredata.com/js/*api_key$script,domain=retty.me
+@@||justmyshop.com/gate/criteo/product-id.js$~third-party
+@@||k-img.com/script/analytics/s_code.js$script,domain=kakaku.com
+@@||karte.io/libs/tracker.$domain=zf1.tohoku-epco.co.jp|zozo.jp
+@@||line-scdn.net^*/torimochi.js$script,domain=demae-can.com
+@@||log000.goo.ne.jp/gcgw.js$domain=nttxstore.jp
+@@||nakanohito.jp^*/bi.js$domain=kenko-tokina.co.jp|myna.go.jp
+@@||nittsu.com/Tracking/Scripts/Tracking/track.js
+@@||ovp.piksel.com/ipLookup.php$xmlhttprequest,domain=nhk.or.jp
+@@||ovp.piksel.tech/ipLookup.php$xmlhttprequest,domain=nhk.or.jp
+@@||play.dlsite.com/csr/viewer/lib/newrelic.js
+@@||pvtag.yahoo.co.jp^$script,domain=paypaymall.yahoo.co.jp
+@@||query.petametrics.com^$image,xmlhttprequest,domain=comics.mecha.cc
+@@||rtoaster.jp/Rtoaster.js$domain=peachjohn.co.jp|satofull.jp
+@@||rtoaster.jp^$script,domain=lexus.jp|melonbooks.co.jp
+@@||s.yjtag.jp/tag.js$script,domain=baseball.yahoo.co.jp|soccer.yahoo.co.jp|www.epson.jp
+@@||sail-horizon.com/spm/spm.v1.min.js$script,domain=voguegirl.jp
+@@||sankei.co.jp/js/analytics/skd.Analysis.js$script
+@@||sanspo.com/parts/chartbeat/$xmlhttprequest
+@@||snva.jp/javascripts/reco/$script,domain=store.charle.co.jp
+@@||staff-start.com/js/track/$domain=enoteca.co.jp|francfranc.com|store.alpen-group.jp
+@@||support-beacon.nakanohito.jp/widget/$xmlhttprequest
+@@||support-widget.nakanohito.jp/chatbot$script,stylesheet
+@@||suumo.jp/sp/js/beacon.js$script,~third-party
+@@||tags.tiqcdn.com/utag/*/utag.sync.js$script,domain=sony.jp
+@@||tm.r-ad.ne.jp/128/ra346756.js$script,domain=hpdsp.net
+@@||townwork.net/js/AppMeasurement.js$~third-party
+@@||twicli.neocat.jp/plugins/geomap.js
+@@||twitter.com/oct.js$domain=jp.square-enix.com
+@@||type.jp/common/js/clicktag.js
+@@||ukw.jp^*/?cbk=$script,domain=system5.jp
+@@||useinsider.com/ins.js$domain=pizzahut.jp
+@@||user.userguiding.com/sdk/identify$xmlhttprequest,domain=xaris.ai
+@@||webcdn.stream.ne.jp^*/referrer.js$domain=stream.ne.jp
+@@||yu.xyz.mn/images/event.gif?$image,~third-party
+@@||zinro.net/m/log.php
+!
+!---------- Korean ----------
+!
+@@||naver.net/wcslog.js$domain=m.tv.naver.com
+@@||ssl.pstatic.net/sstatic/sdyn.js$script,domain=search.naver.com
+!
+!---------- Latvian ----------
+!
+@@||gemius.pl/gplayer.js$script,third-party
+!
+!---------- Macedonian ----------
+!
+@@||motika.com.mk/wp-content/plugins/ajax-hits-counter/display-hits.rapid.php$~third-party
+!
+!---------- Norwegian ----------
+!
+@@||cat.telia.no/gtm.js$script,domain=telia.no
+@@||hvemder.no/js/hitcount.min.js$~third-party
+!
+!---------- Polish ----------
+!
+@@||gemius.pl/gstream.js
+@@||hit.gemius.pl/__/redataredir?$domain=ing.pl
+@@||hit.interia.pl/iwa_core$script,~third-party
+@@||iwa.iplsc.com/iwa.js$script
+@@||login.ingbank.pl^*/satelliteLib-$script
+@@||polfan.pl/app/vendor/fingerprint2.min.js$~third-party
+@@||pushpushgo.com/js/$script,domain=centrumriviera.pl
+@@||staty.portalradiowy.pl/wstats/$script,third-party
+@@||unpkg.com/web-vitals/dist/web-vitals.base.iife.js$script,domain=wpolityce.pl
+!
+!---------- Portuguese ----------
+!
+@@||d.tailtarget.com/profiles.js$domain=superesportes.com.br
+@@||google-analytics.com/urchin.js$domain=record.xl.pt
+@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=r7.com
+@@||jsonip.com/?callback=$script,domain=pagtel.com.br
+@@||laredoute.pt/js/byside_webcare.js
+@@||netmede.pt/code/ga.min.js$script,domain=netmede.pt
+@@||players.fichub.com/plugins/adobe/$domain=24kitchen.pt
+@@||serasaexperian.com.br/dist/scripts/fingerprint2.js$~third-party
+@@||siteapps.com^$script,domain=netcombo.com.br
+@@||tags.t.tailtarget.com/t3m.js?$domain=superesportes.com.br
+@@||tm.jsuol.com.br/uoltm.js$script,domain=uol.com.br
+!
+!---------- Romanian ----------
+!
+@@||content.adunity.com/aulib.js$script,domain=b1tv.ro
+@@||imobiliare.ro/js/gtm.js$script,~third-party
+@@||stream.adunity.com^$xmlhttprequest,domain=b1tv.ro
+!
+!---------- Russian ----------
+!
+@@||afisha.ru/proxy/videonetworkproxy.ashx?$xmlhttprequest
+@@||criteo.net/js/ld/publishertag.js$domain=novayagazeta.ru
+@@||dict.rambler.ru/fcgi-bin/$xmlhttprequest,domain=rambler.ru
+@@||fplay.online/log_event$~third-party,xmlhttprequest
+@@||k12-company.ru^*/statistics.js$script
+@@||krok8.com/wp-content/plugins/pageviews/pageviews.min.js$script,~third-party
+@@||labrc.pw/advstats/$xmlhttprequest
+@@||mc.yandex.ru/metrika/tag.js$script,domain=auto.yandex|coddyschool.com
+@@||mealty.ru/js/ga_events.js$~third-party
+@@||mycargo.rzd.ru/dst/scripts/common/analytics-helper.js$~third-party
+@@||online.bcs.ru^*/piwik.bcs.js$script
+@@||pay.citylink.pro/stats/services/$~third-party
+@@||pladform.ru/dive/$xmlhttprequest
+@@||pladform.ru/player$subdocument
+@@||planetazdorovo.ru/pics/transparent_pixel.png$image,~third-party
+@@||playep.pro/log_event$~third-party,xmlhttprequest
+@@||player.fc-zenit.ru/msi/geoip?$xmlhttprequest
+@@||player.vgtrk.com/js/stat.js?
+@@||playy.online/log_event$~third-party,xmlhttprequest
+@@||plplayer.online/log_event$~third-party,xmlhttprequest
+@@||rtr-vesti.ru/pvc_cdn/js/stat.js$domain=player.vgtrk.com
+@@||smotrim.ru/js/stat.js$script
+@@||swa.mail.ru/cgi-bin/counters?$script
+@@||toplay.biz/log_event$~third-party,xmlhttprequest
+@@||ttutu.biz/log_event$~third-party,xmlhttprequest
+@@||ucoz.net/cgi/uutils.fcg?$script,third-party
+@@||wargag.ru/public/js/counter.js?
+@@||widget.myrentacar.me^$script,subdocument
+@@||xtool.ru/js/analyze.js$script,domain=xtool.ru
+@@||yandex.ru/metrika/tag.js$script,domain=kuchenland.ru
+@@||yandex.ru/metrika/watch.js$domain=alean.ru|anoncer.net|nabortu.ru|samozapis-spb.ru|tv.yandex.ru|tvrain.ru
+@@||yandex.ru/watch/$xmlhttprequest,domain=anoncer.net
+@@||yandex.ru/webvisor/$xmlhttprequest,domain=anoncer.net
+!
+!---------- Spanish ----------
+!
+@@||acb.com/javascripts/jv_feeder_stats.js
+@@||amplitude.com/libs/$script,domain=elconfidencial.com
+@@||ampproject.org/v0/amp-analytics-$script,domain=cnnespanol.cnn.com
+@@||api.apolomedia.com/static/libs/event-tracking.min.js$script
+@@||ara.cat/static/BB3Core/images/pixel.gif?hash=$image,domain=ara.cat
+@@||cdn.smartclip-services.com^$script,domain=cerebriti.com
+@@||cloudfront.net/libs/amplitude-$script,domain=elconfidencial.com
+@@||elconfidencial.com^*/AnalyticsEvent.js
+@@||elconfidencial.com^*/EventTracker.js
+@@||json.geoiplookup.io/?callback=$script,domain=chilepeajes.cl
+@@||metrics.el-mundo.net/b/ss/$image,domain=expansion.com
+@@||mi.tigo.com.co/plugins/cordova-plugin-fingerprint-aio/$script,~third-party
+@@||spxl.socy.es^$script,xmlhttprequest,domain=3djuegosguias.com|3djuegospc.com|applesfera.com|compradiccion.com|directoalpaladar.com|espinof.com|genbeta.com|poprosa.com|trendencias.com|trendenciashombre.com|vidaextra.com|vitonica.com|xatakamovil.com
+@@||tag.search.sensefuel.live/tag/$script,domain=bricomart.es
+@@||vodgc.net^*/genoa-event-tracking.min.js
+!
+!---------- Swedish ----------
+!
+@@||lwadm.com/lw/pbjs?pid=$script,domain=sydostran.se
+@@||picsearch.com/js/comscore.js$domain=dn.se
+!
+!---------- Thai ----------
+!
+!
+!---------- Turkish ----------
+!
+@@||cdn.segmentify.com^$script,domain=gratis.com
+@@||merlincdn.net^*/common/images/spacer.gif$image,domain=turkcell.com.tr
+!
+!---------- Ukrainian ----------
+!
+@@||akamaized.net^*/js/tracking/ninja.js$script,domain=olx.ua
+@@||gemius.pl/gplayer.js$domain=tsn.ua
+@@||ninja.onap.io/ninja-cee.js$script,domain=olx.ua
+@@||uaprom.net/image/blank.gif?$image
+@@||ukrposhta.ua/js/tracking.js
+!
+!---------- Vietnamese ----------
+!
+@@||netcoresmartech.com/smartechclient.js$domain=cgv.vn
+!
+!---------- Anti-Adblock ----------
+!
+@@|http://r.i.ua/s?*&p*&l$image,domain=swordmaster.org
