@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 1pM4dBpYT+1Lr9/wFatmsw
-! Version: 202305040031
+! Checksum: QqvUjBKwZopavxU82dKxNw
+! Version: 202305040050
 ! Title: EasyPrivacy
-! Last modified: 04 May 2023 00:31 UTC
+! Last modified: 04 May 2023 00:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -12879,6 +12879,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tracking.aegpresents.com^
 ||tracking.americaneagle.com^
 ||tracking.audio.thisisdax.com^
+||tracking.bababam.com^
 ||tracking.brandmentions.com^
 ||tracking.buygoods.com^
 ||tracking.cerdmann.com^
@@ -33516,6 +33517,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||jscrambler.com^$script,domain=airfrance.fr
 ||l.bfmtv.com^
 ||l.franceculture.fr^
+||l.gentside.com^
 ||lacentrale.fr/collect
 ||lacentrale.fr/static/fragment-layout/tracking-
 ||lacoccinelle.net/g.js
