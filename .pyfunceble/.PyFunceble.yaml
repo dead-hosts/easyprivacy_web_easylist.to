@@ -83,6 +83,7 @@ http_codes:
         - 416
         - 451
         potentially_up:
+        - 0
         - 300
         - 301
         - 302
@@ -158,4 +159,3 @@ user_agent:
     custom: null
     platform: linux
 verify_ssl_certificate: false
-cate: false
