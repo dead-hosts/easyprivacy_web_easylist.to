@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 1Mni0iuAo/64a7RknNT2EA
-! Version: 202305070340
+! Checksum: 8GFpATSQD3YWUl1iBTEZKA
+! Version: 202305070402
 ! Title: EasyPrivacy
-! Last modified: 07 May 2023 03:40 UTC
+! Last modified: 07 May 2023 04:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -8579,6 +8579,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||amazingairplane.com^$third-party
 ||ambiguousalarm.com^
 ||ambiguousanger.com^
+||ambiguousdinosaurs.com^
 ||ambiguousincome.com^
 ||ambiguousquilt.com^
 ||ambitiousagreement.com^
