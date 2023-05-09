@@ -83,7 +83,6 @@ http_codes:
         - 416
         - 451
         potentially_up:
-        - 0
         - 300
         - 301
         - 302
@@ -150,16 +149,6 @@ lookup:
 max_http_retries: 3
 proxy:
     global:
-        http: null
-        https: null
-    rules: []
-share_logs: false
-user_agent:
-    browser: chrome
-    custom: null
-    platform: linux
-verify_ssl_certificate: false
-   global:
         http: null
         https: null
     rules: []
