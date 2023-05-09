@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: knFnex+dswZa8w/U3JHQqA
-! Version: 202305090240
+! Checksum: 6hgP/nque3H5hXwIeBhqkg
+! Version: 202305090301
 ! Title: EasyPrivacy
-! Last modified: 09 May 2023 02:40 UTC
+! Last modified: 09 May 2023 03:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -14472,6 +14472,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||app.box.com/gen204
 ||appanalysis.banggood.com^
 ||arstechnica.com/keys/arstechnica.com/p.js
+||as.coinbase.com/metrics
 ||assets.instacart.com^
 ||atrack.allposters.com^
 ||ats.alot.com^
@@ -14655,7 +14656,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||domainit.com/scripts/track.js
 ||dominos.co.uk/qRgAwS/
 ||dotesports.com/sp.js
-||dp.coinbase.com^
 ||dp.shoprunner.com^
 ||drop.com/impressionsBeacon
 ||drop.com/statBeacon
@@ -14709,7 +14709,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||event-collector.moviesanywhere.com^
 ||eventlog.jackpot.de^
 ||events-prod.autolist.com^
-||events-service.coinbase.com^
 ||events-tracker.deliveroo.net^
 ||events.api.godaddy.com^
 ||events.framer.com^
@@ -15793,6 +15792,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||rsx.afterpay.com^
 ||src.ebay-us.com/*=usllpic$script,domain=ebay.com
 ||svc2.sc.com^
+||tm-eps.neutrino.nu^
 ||tmetrix.my.chick-fil-a.com^
 ||tmx.bestbuy.com^
 ||tmx.td.com^
