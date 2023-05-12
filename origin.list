@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: vH5DecyTK0jdZiWmOHdL6g
-! Version: 202305120602
+! Checksum: ld1RHGJgXdVnkKsUOrve4A
+! Version: 202305120631
 ! Title: EasyPrivacy
-! Last modified: 12 May 2023 06:02 UTC
+! Last modified: 12 May 2023 06:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -16054,6 +16054,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ! ||links.strava.com^
 ! ||wl.spotify.com^
 ! ||digital.att.com^
+! ||connect.telstrawholesale.com^
 ||clickmail.stubhub.com^$image,script
 ||email.mg.everyonesocial.com^$image,script
 ||wl.spotify.com^$image,script
@@ -26212,7 +26213,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||cars.autopia.com.au^
 ||cars.smartleasing.com.au^
 ||connect.telstrawholesale.com.au^
-||connect.telstrawholesale.com^
 ||gc.titans.com.au^
 ||save.salary.com.au^
 ||save.smartsalary.com.au^
