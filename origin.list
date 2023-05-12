@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: SqNRYLTkPoq3VbtCXackGA
-! Version: 202305121302
+! Checksum: P3X9XWUrXoeigRL9QpmmDg
+! Version: 202305121331
 ! Title: EasyPrivacy
-! Last modified: 12 May 2023 13:02 UTC
+! Last modified: 12 May 2023 13:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -6726,7 +6726,6 @@ _mongo_stats/
 ||iocnt.net^$third-party
 ||iotechnologies.com^$third-party
 ||iovation.com^$third-party
-||ip-api.com^$third-party
 ||ip-label.net^$third-party
 ||ip-tracker.org^$third-party
 ||ip2c.org^$third-party
@@ -34814,7 +34813,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 @@||plugins.matomo.org^$image,~third-party
 @@||postex.com/api/ping?$~third-party
 @@||powerquality.eaton.com/include/js/elqScr.js$~third-party
-@@||pro.ip-api.com/json$xmlhttprequest,domain=aljazeera.com|cookappsgames.com|nontongp.xyz|sheee.co.il|walla.co.il|weatherscan.tk
 @@||ps.w.org/wp-slimstat/$domain=wordpress.org
 @@||pub.pixels.ai/prebid_standard.js$script,domain=standard.co.uk
 @@||px-cdn.net/api/v2/collector/ocaptcha$xmlhttprequest
