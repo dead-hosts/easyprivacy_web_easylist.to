@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: qY3kLWy/7ZTKXyAuZ57jEg
-! Version: 202305130220
+! Checksum: yxbcJmOubdq/ax5xVtv1dQ
+! Version: 202305130240
 ! Title: EasyPrivacy
-! Last modified: 13 May 2023 02:20 UTC
+! Last modified: 13 May 2023 02:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1869,7 +1869,6 @@
 /geocc.$domain=~geocc.ru
 /geocoding.ash
 /geocompteur.
-/geocounter.
 /geoip.html
 /geoip/detect?
 /geoip?
