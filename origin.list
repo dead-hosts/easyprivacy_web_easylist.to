@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 74yixxAkqO1glm4buaHuAQ
-! Version: 202305141320
+! Checksum: Cl14e9lM9MuoFd9G0GK08A
+! Version: 202305141350
 ! Title: EasyPrivacy
-! Last modified: 14 May 2023 13:20 UTC
+! Last modified: 14 May 2023 13:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -11367,7 +11367,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||collector-*.px-client.net^
 ||collector-api.99designs.com^
 ||collector.api.video^
-||collector.appconsent.io^$image
+||collector.appconsent.io^
 ||collector.automote.co.nz^
 ||collector.clareity.net^
 ||collector.contentexchange.me^$third-party
@@ -12108,6 +12108,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||metrics.beyondwords.io^
 ||metrics.brightcove.com^
 ||metrics.ctvdigital.net^
+||metrics.doppiocdn.com^
 ||metrics.doppiocdn.org^
 ||metrics.gs-chat.com^
 ||metrics.kmsmep.com^
@@ -14130,6 +14131,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||sat.soluall.net^
 ||segmentor.snowfox-ai.com^
 ||statig.com.br/pub/setCookie.js?
+||stats.gridmidia.com.br^
 ||tags.cmp.tail.digital^
 ||terra.com.br/metrics/
 ||track.noddus.com^
@@ -35192,6 +35194,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 @@||imrworldwide.com/v60.js$domain=corriereadriatico.it|fanpage.it|huffingtonpost.it|ilgazzettino.it|ilmattino.it|ilmessaggero.it|la7.it|leggo.it|quotidianodipuglia.it|video.deejay.it|video.espresso.repubblica.it|video.ilsecoloxix.it|video.lastampa.it|video.repubblica.it
 @@||jsdelivr.net^*/keen-tracking.min.js$domain=nextquotidiano.it
 @@||kataweb.it/wt/wt.js?http$domain=gelocal.it|video.huffingtonpost.it|video.ilsecoloxix.it|video.lastampa.it|video.repubblica.it
+@@||livesicilia.it/wp-content/plugins/digistream/digiplayer/js/videojs.ga.js?$script,third-party
 @@||omtrdc.net^*/mbox/json?$xmlhttprequest,domain=vodafone.it
 @@||repubblica.it/pw/pw.js?deskurl=$domain=gelocal.it|ilsecoloxix.it|lastampa.it
 @@||thron.com/shared/plugins/tracking/current/tracking-library-min.js$domain=dainese.com
