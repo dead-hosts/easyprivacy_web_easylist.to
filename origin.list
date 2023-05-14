@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: hIguNOqN+Vg5M4E3KizJAQ
-! Version: 202305140110
+! Checksum: UIArowLF9LimmhtEatF6eg
+! Version: 202305140131
 ! Title: EasyPrivacy
-! Last modified: 14 May 2023 01:10 UTC
+! Last modified: 14 May 2023 01:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -12655,6 +12655,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||storage.googleapis.com/tm-frend-graffiti/
 ||storage.syncmedia.io/libs/sm_capture_
 ||streamads.com/view?
+||streamoptim.com/log.js
+||streamoptim.com/log/report?
 ||streamtheworld.com/imp?
 ||stripe.com/?event=
 ||sts.eccmp.com^
