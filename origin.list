@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: IgZ5IP+nQvfQHfZeu8wotg
-! Version: 202305151320
+! Checksum: YOblLVMay0GomwMWqUSlNQ
+! Version: 202305151340
 ! Title: EasyPrivacy
-! Last modified: 15 May 2023 13:20 UTC
+! Last modified: 15 May 2023 13:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5475,6 +5475,7 @@ _mongo_stats/
 ||nigelmidnightrappers.com^
 ||nimblebird.co^
 ||nimbleswan.io^
+||noeyeon.click^
 ||noeyeon.com^
 ||notifpush.com^
 ||ns1p.net^
