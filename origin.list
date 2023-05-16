@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: rSfqmN43KwCspy6Evr2z2A
-! Version: 202305160910
+! Checksum: cNdCQRcZRdBLx21jzZYngg
+! Version: 202305160940
 ! Title: EasyPrivacy
-! Last modified: 16 May 2023 09:10 UTC
+! Last modified: 16 May 2023 09:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3061,6 +3061,7 @@
 /piwikapi.js
 /piwikC_
 /piwikTracker.
+/pix-ddc-fp.min.js
 /pix.fcg?
 /pix.fly/*
 /pix.gif?
@@ -6498,6 +6499,7 @@ _mongo_stats/
 ||geistm.com^$third-party
 ||gemius.pl^$third-party
 ||genieesspv.jp^$third-party
+||geniuslinkcdn.com^$third-party
 ||geo-targetly.com^$third-party
 ||geobytes.com^$third-party
 ||geoip-db.com^$third-party
@@ -7611,6 +7613,7 @@ _mongo_stats/
 ||smart-digital-solutions.com^$third-party
 ||smart-dmp.com^$third-party
 ||smart-ip.net^$third-party
+||smart-pixl.com^$third-party
 ||smartclip-services.com^$third-party
 ||smartctr.com^$third-party
 ||smarterhq.io^$third-party
@@ -11060,6 +11063,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||api.wipmania.com^
 ||apm-engine.meteor.com^$third-party,xmlhttprequest
 ||app.adjust.com^$third-party
+||app.carnow.com/dealers/track_visitor
 ||app.cdn-cs.com/__t.png?
 ||app.link/_r?$script,third-party
 ||app.opmnstr.com/v2/geolocate/
@@ -11560,6 +11564,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||edgesuite.net^*/googleanalyt
 ||edkt.io^*/edgekit.min.js
 ||edrone.me/trace?
+||edw.edmunds.com/edw/edw1x1.gif
 ||eel.transistor.fm^
 ||egmontpublishing.dk/tracking/
 ||ele26126.jscrambler.com^
@@ -11711,6 +11716,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||frog.editorx.com^
 ||fs-client-logger.herokuapp.com^
 ||ftimg.net/js/log.js?
+||ftm.fluencyinc.co^
 ||future-fie-assets.co.uk^
 ||future-price.co.uk^
 ||futurecdn.net/bordeaux.js$xmlhttprequest
