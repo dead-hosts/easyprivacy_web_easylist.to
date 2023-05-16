@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: k6fcI1bmfSa2PDaC3SAN/Q
-! Version: 202305161020
+! Checksum: TKN35ueagOHJtTXnk2vxdw
+! Version: 202305161040
 ! Title: EasyPrivacy
-! Last modified: 16 May 2023 10:20 UTC
+! Last modified: 16 May 2023 10:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -8225,6 +8225,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||hrbpark.bid^$third-party
 ||jeeng.com^$third-party
 ||kattepush.com^$third-party
+||letreach.com^$third-party
 ||master-push.com^$third-party
 ||master-push.net^$third-party
 ||misrepush.com^$third-party
@@ -8259,7 +8260,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pushible.com^$third-party
 ||pushify.com^$third-party
 ||pushmaster-cdn.xyz^
-||pushnami.com^$third-party
 ||pushowl.com^$third-party
 ||pushprofit.ru^$third-party
 ||pushpushgo.com^$third-party
@@ -12959,7 +12959,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||travel-assets.com/datacapture/
 ||travix.com/log
 ||traxex.gannettdigital.com^
-||trc.pushnami.com^
 ||tree-nation.com/js/track.js
 ||trends.newsmaxwidget.com^
 ||trib.al^$image,third-party
