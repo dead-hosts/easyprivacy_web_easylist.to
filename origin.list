@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: TKN35ueagOHJtTXnk2vxdw
-! Version: 202305161040
+! Checksum: Xr0/7x861z3go1nYKoOLgQ
+! Version: 202305161101
 ! Title: EasyPrivacy
-! Last modified: 16 May 2023 10:40 UTC
+! Last modified: 16 May 2023 11:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5466,6 +5466,7 @@ _mongo_stats/
 ||mitour.de^
 ||ml-sys.xyz^
 ||mm-api.agency^
+||monicaatron.com^
 ||monu.delivery^
 ||mors22.com^
 ||mrpdata.net^
@@ -6279,6 +6280,7 @@ _mongo_stats/
 ||dropboxfingerprintjs.com^$third-party
 ||dsail-tech.com^$third-party
 ||dsmmadvantage.com^$third-party
+||dsmstats.com^$third-party
 ||dsparking.com^$third-party
 ||dsply.com^$third-party
 ||dtc-v6t.com^$third-party
@@ -12464,6 +12466,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||routeapp.io/route-analytics/
 ||rs.sinajs.cn^
 ||rt.flix360.com^
+||rtc.multiscreensite.com^
 ||rtxpx-a.akamaihd.net^
 ||rum.azion.com^
 ||rum.azioncdn.net^
@@ -12696,6 +12699,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||syteapi.com/et?
 ||t.91syun.com^
 ||t.a3cloud.net^
+||t.adx.opera.com^
 ||t.auditedmedia.org.au^
 ||t.beop.io^
 ||t.bimvid.com^
