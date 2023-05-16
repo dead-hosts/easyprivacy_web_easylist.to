@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: Xr0/7x861z3go1nYKoOLgQ
-! Version: 202305161101
+! Checksum: LXKm743NnGqKijJgtUUUsw
+! Version: 202305161120
 ! Title: EasyPrivacy
-! Last modified: 16 May 2023 11:01 UTC
+! Last modified: 16 May 2023 11:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -5420,6 +5420,7 @@ _mongo_stats/
 ||hsleadflows.net^
 ||hubty.network^
 ||i218435.net^
+||iconnode.com^
 ||id5-sync.com^
 ||idx.lat^
 ||impactcdn.com^
@@ -7211,6 +7212,7 @@ _mongo_stats/
 ||pclicks.com^$third-party
 ||pcspeedup.com^$third-party
 ||pdbu.net^$third-party
+||pdmntn.com^$third-party
 ||pdst.fm^$script,third-party
 ||peerius.com^$third-party
 ||pendo.io^$third-party
@@ -8228,6 +8230,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||jeeng.com^$third-party
 ||kattepush.com^$third-party
 ||letreach.com^$third-party
+||lifterpopup.com^$third-party
 ||master-push.com^$third-party
 ||master-push.net^$third-party
 ||misrepush.com^$third-party
@@ -14126,6 +14129,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||tracking.novem.pl^
 ||trc.gpcdn.pl^
 ||wymiana.org/stat/
+||youlead.pl/st?browserid
 ! Portuguese
 ||ad-tracker-api.luizalabs.com^
 ||analytics-coletor-site.ojc.com.br^
