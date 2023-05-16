@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 3KY4W5fmju+8bIVSZKZFyg
-! Version: 202305160440
+! Checksum: boOFC7INlw8oSABVlSHM5Q
+! Version: 202305160502
 ! Title: EasyPrivacy
-! Last modified: 16 May 2023 04:40 UTC
+! Last modified: 16 May 2023 05:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -33487,6 +33487,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||4399stat.5054399.com^
 ||55bbs.com/east.html
 ||591.com.tw/stats/
+||a.itsmore.cn^
 ||adstats.tencentmusic.com^
 ||al.autohome.com.cn^
 ||alarm.youku.com/api/sendAlarm
