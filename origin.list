@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: mIsjOOBMXVRR0WUArJm4Qg
-! Version: 202305171202
+! Checksum: SAKv1cTAIYHH+2KhxxVUxA
+! Version: 202305171220
 ! Title: EasyPrivacy
-! Last modified: 17 May 2023 12:02 UTC
+! Last modified: 17 May 2023 12:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -24,7 +24,6 @@
 &http_referer=$script,xmlhttprequest,domain=~facebook.com|~jobscore.com
 &refer=http$script
 &t=pageview&
-&tag=IMPRESSION&
 &visitorUuid=
 -ad-targeting?
 -adobe-analytics.
@@ -38,10 +37,8 @@
 -analytics/analytics.
 -appanalytics-
 -click-tracker.
--content-tracking.
 -datacollection.
 -didomi.js
--dspcookiematching.
 -event-tracking.
 -ga-tracker.
 -ga-tracking/
@@ -49,8 +46,6 @@
 -geoIP.js
 -heatmaps-analytics/
 -inview-tracker.
--krux-tag/
--landing-tracking-
 -optimization-metrics.
 -optimost-
 -page-analytics.
@@ -101,9 +96,7 @@
 .com/stats.aspx?
 .com/track?$~object
 .com/tracking?
-.com/vtrack|
 .content_tracking.
-.d-engine.js
 .de/h.gif?
 .de/l.gif?
 .drive-analytics.
@@ -123,8 +116,6 @@
 .net/ping.php?
 .ntpagetag.
 .org/js/ga-
-.PageHitServlet?
-.pageVisitCounter_
 .php?action=browse&
 .php?action_name=
 .php?hey_stat=
@@ -137,23 +128,16 @@
 .php?self=
 .php?stats=
 .php?tracking=
-.pixel.archive.
-.pl?trans.gif&ref=
 .pt/n.gif?
-.redux-logger-
 .sharecounter.$third-party
 .sitecatalyst.js
 .siteclarity.
 .sitetracking.
 .skimlinks.js
 .snowplowanalytics.$domain=~snowplowanalytics.com
-.statData-eup.
 .stats?action=
 .svc/?tracking_id=
-.track_apply_impression/
 .track_Visit?
-.trafficTracking.
-.tstracker.
 .tv/log?event
 .v4.analytics.
 .vsTracking.
@@ -176,11 +160,9 @@
 /?dm=*&blogid=$script
 /?dsp_uid=
 /?essb_counter_
-/?fp=*&prvtof=
 /?livehit=
 /?log=experiment&
 /?log=performance-
-/?mob.ct=
 /?record&key=
 /?sentry_key=
 /?sentry_version=
@@ -210,23 +192,14 @@
 /_stat/log_
 /_tracking/*
 /_visitcount?
-/a-stat.
 /a.gif?
 /a8c-analytics.
 /a8c-analytics/*
 /aap/stats
-/abp-analytics.
-/abp.gif?
-/abstat.
-/abtestInit-
-/abtshield-snippet.js
-/ac-site-tracking-
 /ac.fcgi?
-/acbeacon2.
 /accessanalyzer/tracker?
 /AccessCounter/*
 /accesstracking/*
-/accip_script.js
 /acclog.cgi?
 /acecounter/*
 /acecounter_
@@ -239,13 +212,11 @@
 /AD/PageHits.
 /ad/statistic
 /ad_tracking.
-/AdAppSettings/*
 /adb-analytics
 /adb1.gif?
 /adblock_logging.
 /AdCookies.js
 /AdCount/*
-/add_anonymous_identifier
 /add_page_view?
 /add_stats
 /add_utm_links.
