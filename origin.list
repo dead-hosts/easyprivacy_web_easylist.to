@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: vCi4gVShtS15SW5Tb4sutQ
-! Version: 202305172211
+! Checksum: 9/78W2bIdzzOv9GzcyHpXg
+! Version: 202305172231
 ! Title: EasyPrivacy
-! Last modified: 17 May 2023 22:11 UTC
+! Last modified: 17 May 2023 22:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -96,6 +96,7 @@
 .com/stats.aspx?
 .com/track?$~object
 .com/tracking?
+.com/vtrack|
 .content_tracking.
 .de/h.gif?
 .de/l.gif?
@@ -3124,6 +3125,7 @@
 /pluck-tracking.
 /plugin/trackEvents.
 /plugins/catman/*
+/plugins/duracelltomi-google-tag-manager/*
 /plugins/exactmetrics-
 /plugins/stat-dfp/*
 /plugins/status.gif?
