@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: m5KmPEkuwe3mttRsQI9AEQ
-! Version: 202305192350
+! Checksum: BGEAVX0rl0aH0NlQrfNqlw
+! Version: 202305200020
 ! Title: EasyPrivacy
-! Last modified: 19 May 2023 23:50 UTC
+! Last modified: 20 May 2023 00:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4842,6 +4842,7 @@ _WebVitalsReporter_
 .bahn.de/op/$image
 .bhphotovideo.com/mo/
 .bluekai.com/*?e_id_
+.bmetrack.com/c/$image
 .cmail19.com/t/$image
 .cmail19.com/ti/$image
 .cmail20.com/t/$image
@@ -13802,6 +13803,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||walla.co.il/stats/
 ! Hungarian
 ||gpr.hu/pr.pr?
+||heartbeat.pmd.444.hu^
 ||rum.marquardmedia.hu^
 ||videostat-new.index.hu^
 ||videostat.index.hu^
@@ -33657,6 +33659,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||astat.nikkei.com^
 ||astral.nicovideo.jp^
 ||barks.jp/v1/stats
+||bc.nhk.jp^
 ||beacon.watch.impress.co.jp^
 ||beat.yourtv.jp^
 ||bookoffonline.co.jp/files/inc_js/ac/
@@ -33709,6 +33712,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||scis.tbs.co.jp^
 ||seesaawiki.jp/img/rainman.gif?
 ||so-zou.jp/js/ga.js
+||stats.nhk.or.jp^
 ||suumo.jp^*/tag/
 ||sy.amebame.com^
 ||sy.ameblo.jp^
