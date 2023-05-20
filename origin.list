@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: a3T0aFm3UtgQ9mgHDyYZCw
-! Version: 202305200040
+! Checksum: b+OUwDuhBYtNZl5ryFdHpA
+! Version: 202305200102
 ! Title: EasyPrivacy
-! Last modified: 20 May 2023 00:40 UTC
+! Last modified: 20 May 2023 01:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -33539,10 +33539,16 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||walla.co.il/CountsHP.asp?
 ||walla.co.il/impression/
 ! Hungarian
+||adat.borsonline.hu^
+||adat.ingatlanbazar.hu^
+||adat.koponyeg.hu^
 ||adat.life.hu^
+||adat.mandiner.hu^
 ||adat.mindmegette.hu^
 ||adat.origo.hu^
+||adat.travelo.hu^
 ||adat.veol.hu^
+||adat.videa.hu^
 ||beam.telex.hu^
 ||events.ingatlan.com^
 ||hirtv.hu/ajaxx/_stat/
