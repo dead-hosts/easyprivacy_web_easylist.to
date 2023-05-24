@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: Y30w9It4n5wzg9K52u3/vw
-! Version: 202305241031
+! Checksum: 968LbuD5oY2Kq4esZlF7lA
+! Version: 202305241050
 ! Title: EasyPrivacy
-! Last modified: 24 May 2023 10:31 UTC
+! Last modified: 24 May 2023 10:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -14668,6 +14668,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||events.framer.com^
 ||events.mercadolibre.com^
 ||events.practo.com^
+||events.prd.api.max.com^
 ||events.privy.com^
 ||events.reddit.com^
 ||events.redditmedia.com^
@@ -14791,7 +14792,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||gurgle.pcmag.com^
 ||hankookilbo.com/service/kt/trk.js$script,domain=koreatimes.co.kr
 ||harryrosen.com/analytics/
-||hbo.com/events/
 ||healthline.com/api/metrics
 ||heap.drop.com^
 ||hilton.com/zJbufaUX/
@@ -15324,6 +15324,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||targeting.washpost.nile.works^
 ||td.airdroid.com^
 ||ted.dailymail.co.uk^
+||telegraph.prd.api.max.com^
 ||telem.sre.gopuff.com^
 ||telemetry.adobe.io^
 ||telemetry.api.playstation.com^
