@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: ch1yc1QA1tdNn9cnCsxM5A
-! Version: 202305240240
+! Checksum: X9J9FRLNbOn5Il5ALqJnLg
+! Version: 202305240310
 ! Title: EasyPrivacy
-! Last modified: 24 May 2023 02:40 UTC
+! Last modified: 24 May 2023 03:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -34680,8 +34680,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 @@||tra.scds.pmdstatic.net/sourcepoint/$domain=businessinsider.fr|capital.fr|voici.fr
 @@||trustcommander.net/iab-tcfapi/tcfapi.js$script,domain=tf1info.fr
 @@||ultimedia.com/api/widget/getwidget/$xmlhttprequest,domain=ouest-france.fr
-@@||vuplay.co.uk/stats/adobe/*/AppMeasurement.js$script,domain=radioplus.be
-@@||vuplay.co.uk/stats/adobe/*/VisitorAPI.js$script,domain=radioplus.be
 !
 !---------- Arabic ----------
 !
@@ -34783,9 +34781,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 !
 @@||a8.net/svt/$image,domain=samplefan.com
 @@||allabout.co.jp/mtx_cnt.js$script,~third-party
-@@||analytics.edgekey.net/config/$xmlhttprequest,domain=nhk.or.jp
-@@||analytics.edgekey.net/html5/akamaihtml5-min.js$domain=nhk.or.jp
-@@||analytics.edgekey.net/ma_library/javascript/javascript_malibrary.js$script,domain=nhk.or.jp
 @@||atwiki.jp/common/_img/spacer.gif?$image,domain=atwiki.jp
 @@||b-cloud.templatebank.com/js/gtag.js$~third-party
 @@||bdash-cloud.com/recommend-script/$script,domain=junonline.jp
@@ -34885,7 +34880,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 !
 @@||d.tailtarget.com/profiles.js$domain=superesportes.com.br
 @@||google-analytics.com/urchin.js$domain=record.xl.pt
-@@||imasdk.googleapis.com/js/sdkloader/ima3.js$script,domain=r7.com
 @@||jsonip.com/?callback=$script,domain=pagtel.com.br
 @@||laredoute.pt/js/byside_webcare.js
 @@||netmede.pt/code/ga.min.js$script,domain=netmede.pt
