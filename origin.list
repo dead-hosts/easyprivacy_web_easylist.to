@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: MCtRfhbVNgiOWiYg74xYeg
-! Version: 202305232250
+! Checksum: KXM6PX0SI2dDGGtlGF85wQ
+! Version: 202305232310
 ! Title: EasyPrivacy
-! Last modified: 23 May 2023 22:50 UTC
+! Last modified: 23 May 2023 23:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -34376,7 +34376,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 @@||optimizely.com/datafiles/$domain=alaskaair.com|guildeducation.com|hm.com|nike.com|printify.me|talktalk.co.uk|tommy.com|wallapop.com
 @@||optimove.net^$domain=app.touchnote.com
 @@||ots.webtrends-optimize.com/$xmlhttprequest,domain=tvlicensing.co.uk
-@@||p.typekit.net/p.css$stylesheet,domain=browserstack.com|bungie.net|business.untappd.com|robertsspaceindustries.com
+@@||p.typekit.net/p.css$stylesheet,domain=athleticpropulsionlabs.com|browserstack.com|bungie.net|business.untappd.com|robertsspaceindustries.com
 @@||packagetrackr.com/api/v1/track/detecting.json$~third-party
 @@||pagure.io/static/issues_stats.js$~third-party
 @@||palmettostatearmory.com/static/$script,~third-party
