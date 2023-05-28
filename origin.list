@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: xmbID4paf6OzWMAQQ3q10g
-! Version: 202305280740
+! Checksum: rnpDp+I5nrdIBbJZY4ucRg
+! Version: 202305280801
 ! Title: EasyPrivacy
-! Last modified: 28 May 2023 07:40 UTC
+! Last modified: 28 May 2023 08:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -12533,7 +12533,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||st.cdnco.us^
 ||st.linkfire.com^
 ||stacksocialcontent.com/event/
-||staff-start.com/js/track
 ||starman.fathomdns.com^
 ||stas.outbrain.com^
 ||stat.absolutist.com^
@@ -34792,7 +34791,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 @@||sankei.co.jp/js/analytics/skd.Analysis.js$script
 @@||sanspo.com/parts/chartbeat/$xmlhttprequest
 @@||snva.jp/javascripts/reco/$script,domain=store.charle.co.jp
-@@||staff-start.com/js/track/$domain=enoteca.co.jp|francfranc.com|store.alpen-group.jp
 @@||suumo.jp/sp/js/beacon.js$script,~third-party
 @@||tags.tiqcdn.com/utag/*/utag.sync.js$script,domain=sony.jp
 @@||tm.r-ad.ne.jp/128/ra346756.js$script,domain=hpdsp.net
