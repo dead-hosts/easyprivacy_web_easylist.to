@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: ZGHW/y97LbKQR8azwWN5gA
-! Version: 202305290610
+! Checksum: gZiZAMrODVkzNhIAWoQUlA
+! Version: 202305290631
 ! Title: EasyPrivacy
-! Last modified: 29 May 2023 06:10 UTC
+! Last modified: 29 May 2023 06:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -2979,6 +2979,7 @@
 /php/stats.php?
 /php/stats/*
 /phpmyvisites.js
+/piano-analytics.
 /pic.gif?m=
 /pic.gif?url=
 /piNctTracking.js
@@ -5258,6 +5259,7 @@ _mongo_stats/
 ||bidswitch.net^
 ||bkrtx.com^
 ||bluekai.com^
+||blueoyster.click^
 ||bonne-terre-data-layer.com^
 ||boomtrain.com^
 ||bounceexchange.com^
@@ -33078,6 +33080,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||flow.kiloutou.fr^
 ||forecast.huffingtonpost.fr^
 ||forecast.lemonde.fr^
+||fourchette-et-bikini.fr/core/modules/statistics/
 ||franceculture.fr/static/js/xtcore-
 ||franceinter.fr/vendor/track.js
 ||fsm.lapresse.ca^
