@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: vhYPqlK0RkEOh4BEvzQgkA
-! Version: 202305300320
+! Checksum: D33FgGHckdlgLk4s0zSq4A
+! Version: 202305300340
 ! Title: EasyPrivacy
-! Last modified: 30 May 2023 03:20 UTC
+! Last modified: 30 May 2023 03:40 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4986,8 +4986,6 @@ _sdcTrackingCode.
 -monero-miner/
 .aspx?poolid=
 .cfm?poolid=
-.ga/*.wasm
-.spacepools.*:
 /adobe.targetV2-
 /adobe/VisitorAPI_$script
 /aj-crypto-miner/*
@@ -5001,7 +4999,6 @@ _sdcTrackingCode.
 /bootstrap.wasm$xmlhttprequest
 /browsermine.js
 /c-hive.js
-/c.wasm
 /click/impression?
 /cloudcoins.js
 /cloudcoins.min.js
@@ -5030,13 +5027,11 @@ _sdcTrackingCode.
 /deepMiner.min.js
 /dprocessor.js
 /eventLog.ajax
-/facash.
 /hash.wasm
 /helper.wasm$third-party
 /id?d_visid_
 /impression_analytics/*
 /inject.js?key=$script
-/jsecoin.*/?
 /lhnhelpouttab-current.min.js
 /lib/crlt.js$script,third-party
 /logging/pageView
@@ -5094,7 +5089,6 @@ _sdcTrackingCode.
 =ws://*?pools=
 =wss://*?pool=
 =wss://*?pools=
-?*.spacepools.
 ?proxy=*?pool=
 ?proxy=*?pools=
 ?proxy=ws://$script,websocket
