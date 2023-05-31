@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: S+ElGnKRKEQwrd/zUFbW/w
-! Version: 202305312230
+! Checksum: mUMAcYq0rNNIiiO6kqGXVg
+! Version: 202305312301
 ! Title: EasyPrivacy
-! Last modified: 31 May 2023 22:30 UTC
+! Last modified: 31 May 2023 23:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -12248,6 +12248,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||qq.com/heatmap/
 ||qq.com/ping.js?
 ||qq.com/stats?
+||qualtrics.com/jfe/$script
+||qualtrics.com/sie/$script
 ||qualtrics.com/WRSiteInterceptEngine/?Q_Impress=$third-party
 ||qualtrics.com^*/metrics
 ||quantcast.com/?log
@@ -13222,7 +13224,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||shield.sitelock.com^$third-party
 ||shopperapproved.com^$third-party
 ||siteintercept.allegiancetech.com^
-||siteintercept.qualtrics.com^$third-party
 ||smart-widget-assets.ekomiapps.de^$third-party
 ||trust-provider.com^*/trustlogo.js$third-party
 ||trusted-web-seal.cybertrust.ne.jp^
@@ -34217,7 +34218,6 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 @@||shopify.com/shopifycloud/boomerang/shopify-boomerang-$domain=rydewear.com
 @@||signalshares.com/webtrends.min.js$script,~third-party
 @@||simcotools.app/assets/adsense-*.js$~third-party
-@@||siteintercept.qualtrics.com^$domain=homedepot.com
 @@||smartrevise.online/css/analytics.min.css$~third-party
 @@||smartrevise.online/js/teacher.analytics.min.js$~third-party
 @@||smushcdn.com^*/1.gif$domain=retrounlim.com
