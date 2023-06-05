@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: ucGRgeq8JhkQglE9obOosQ
-! Version: 202306042310
+! Checksum: ttHbAR61q9VD3urdgtg73g
+! Version: 202306042331
 ! Title: EasyPrivacy
-! Last modified: 04 Jun 2023 23:10 UTC
+! Last modified: 04 Jun 2023 23:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -11901,8 +11901,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||qq.com/heatmap/
 ||qq.com/ping.js?
 ||qq.com/stats?
-||qualtrics.com/jfe/$script
-||qualtrics.com/sie/$script
+||qualtrics.com/jfe/$script,third-party
+||qualtrics.com/sie/$script,third-party
 ||qualtrics.com/WRSiteInterceptEngine/?Q_Impress=$third-party
 ||qualtrics.com^*/metrics
 ||quantcast.com/?log
@@ -33016,6 +33016,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 ||adat.videa.hu^
 ||beam.telex.hu^
 ||events.ingatlan.com^
+||hirtv.hu/ajaxx/_stat/
 ||hirtv.hu/nx_general_stat.jpg?
 ||otthonterkep.hu/c.js
 ||outal.origo.hu^
