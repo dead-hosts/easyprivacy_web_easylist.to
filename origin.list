@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 6heWDL0lXYen1jL5AEX4ow
-! Version: 202306062040
+! Checksum: +b2r8+iVNNMPVC1GPdwtFA
+! Version: 202306062110
 ! Title: EasyPrivacy
-! Last modified: 06 Jun 2023 20:40 UTC
+! Last modified: 06 Jun 2023 21:10 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4184,6 +4184,7 @@
 ://collector.*/event
 ://email.*/blankpixel.gif
 ://fathom.$domain=~fathom.fm|~fathom.info|~fathom.io|~fathom.video|~fathom.world|~fathomdelivers.com|~fathomseo.com|~usesfathom.com
+://internal-matomo.
 ://lightning.*/launch/
 ://matomo.$domain=~matomo.org
 ://mint.*/?js
