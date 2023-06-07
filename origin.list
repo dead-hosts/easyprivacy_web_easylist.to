@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: DBCHDcNC0sD6m8o+XeeZIA
-! Version: 202306070910
+! Checksum: oV5VcH5EFn+tQO5vqiq9vg
+! Version: 202306070930
 ! Title: EasyPrivacy
-! Last modified: 07 Jun 2023 09:10 UTC
+! Last modified: 07 Jun 2023 09:30 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4030,6 +4030,7 @@
 /web-api/log/*
 /web-data-ingress?
 /web-js-telemetry-service/*
+/web-pixel-shopify-app-pixel@
 /web-vitals-
 /web-vitals.
 /web-vitals/*
