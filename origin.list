@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 3ZyJRZxvxukXs3aI83B7ow
-! Version: 202306100931
+! Checksum: /H3KxdqAldMSbhieMw2nmA
+! Version: 202306100950
 ! Title: EasyPrivacy
-! Last modified: 10 Jun 2023 09:31 UTC
+! Last modified: 10 Jun 2023 09:50 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -34051,6 +34051,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=szukajka.tv|thepira
 !
 !---------- Polish ----------
 !
+@@||dcf.espn.com/TWDC-DTCI/prod/serverComponent.php$script,domain=disney.pl
 @@||gemius.pl/gstream.js
 @@||hit.gemius.pl/__/redataredir?$domain=ing.pl
 @@||hit.interia.pl/iwa_core$script,~third-party
