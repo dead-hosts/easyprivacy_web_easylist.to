@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: CxJm25x84NXyvx/5tBu61w
-! Version: 202306131040
+! Checksum: hbr1PXEI54dJJify1hyiAw
+! Version: 202306131102
 ! Title: EasyPrivacy
-! Last modified: 13 Jun 2023 10:40 UTC
+! Last modified: 13 Jun 2023 11:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -621,6 +621,7 @@
 /bizo.js
 /bk-coretag.js
 /BKVTrack.js
+/blaize/datalayer
 /blank.gif?*%
 /blank.gif?*&
 /blockstat?
