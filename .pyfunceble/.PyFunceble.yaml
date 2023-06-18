@@ -1,6 +1,6 @@
 cli_decoding:
     adblock: true
-    adblock_aggressive: false
+    aggressive: false
     rpz: false
     wildcard: false
 cli_testing:
