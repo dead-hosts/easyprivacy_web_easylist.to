@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: FwLtsZv2hS4n7hIChRGe/g
-! Version: 202306180840
+! Checksum: td0S43sTKSA0vlDRohJMwg
+! Version: 202306180901
 ! Title: EasyPrivacy
-! Last modified: 18 Jun 2023 08:40 UTC
+! Last modified: 18 Jun 2023 09:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1045,6 +1045,7 @@
 /dmu2panalytics/*
 /doctracking.
 /dolWebAnalytics.
+/dom-event-tracker.
 /domcount.
 /domcount_
 /dot.asp?
@@ -7314,6 +7315,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||pushwize.com^$third-party
 ||pushwoosh.com^$third-party
 ||reprocautious.com^$third-party
+||sbi-push.com^$third-party
 ||sendpulse.com^$third-party
 ||shroughtened.com^$third-party
 ||sm-epsilon.com^$third-party
@@ -10683,6 +10685,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||events.medio.com^
 ||events.missena.io^
 ||events.ocdn.eu^
+||events.qortex.ai^
 ||events.realgravity.com^
 ||events.release.narrativ.com^$subdocument,xmlhttprequest
 ||events.shareably.net^
@@ -32160,6 +32163,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||hits.porn.fr^
 ||hlms.ecologie.gouv.fr^
 ||ianimes.org/img/tracker.gif
+||insights.decathlon.net^
 ||jeu.net/hits.js
 ||jscrambler.com^$script,domain=airfrance.fr
 ||lacentrale.fr/collect
