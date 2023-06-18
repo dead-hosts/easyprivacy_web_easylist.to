@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: Gag9fI9VkzYVaxOraxV3tw
-! Version: 202306180340
+! Checksum: roDdF4jCqTYXmFVxYnQzDw
+! Version: 202306180402
 ! Title: EasyPrivacy
-! Last modified: 18 Jun 2023 03:40 UTC
+! Last modified: 18 Jun 2023 04:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -176,6 +176,7 @@
 /acecounter/*
 /acecounter_
 /acounter.php?
+/action/analytics
 /ActionLogger?
 /activity-track/?
 /activity.gif?
@@ -3542,6 +3543,7 @@
 /urchin.js
 /urchinstats.
 /user-context?referrer=
+/userdata_n?
 /userfingerprinttoken/*$xmlhttprequest
 /userfly.js
 /users/track?
