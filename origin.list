@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: td0S43sTKSA0vlDRohJMwg
-! Version: 202306180901
+! Checksum: WlObPHO1H+WTGMGbyYuwmg
+! Version: 202306180920
 ! Title: EasyPrivacy
-! Last modified: 18 Jun 2023 09:01 UTC
+! Last modified: 18 Jun 2023 09:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -1298,6 +1298,7 @@
 /fp2.compressed.js
 /fp_204?
 /fpc.pl?a=
+/fpc/cookie_js.php
 /fpcookie?
 /fpcount.exe
 /fprnt.min.js
@@ -2580,6 +2581,7 @@
 /plugins/wordfence/visitor.php?
 /plzcrawlme.js
 /pm/pixel.
+/pmc-cxense.js
 /PmsPixel?
 /pmspxl.
 /point_roll.
@@ -9481,6 +9483,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||adgocoo.com^$third-party
 ||admatrix.jp^$third-party
 ||adpon.jp^$third-party
+||adrange.net^$third-party
 ||af-z.jp^$third-party
 ||afi-b.com^$third-party
 ||aid-ad.jp^$third-party
@@ -9501,6 +9504,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||datasign.co^$third-party
 ||dbfocus.jp^$third-party
 ||deteql.net^$third-party
+||dmtag.jp^$third-party
 ||docodoco.jp^$third-party
 ||docomo-analytics.com^$third-party
 ||e-click.jp^$third-party
