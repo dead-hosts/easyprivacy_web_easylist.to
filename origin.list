@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: VpawOTx9nSyxIffg9b1umA
-! Version: 202306190040
+! Checksum: bNzBr61lDQMrB3D+P7cJnw
+! Version: 202306190102
 ! Title: EasyPrivacy
-! Last modified: 19 Jun 2023 00:40 UTC
+! Last modified: 19 Jun 2023 01:02 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -9469,7 +9469,6 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||d-markets.net^$third-party
 ||d2-apps.net^$third-party
 ||d2c.ne.jp^$third-party
-||datasign.co^$third-party
 ||dbfocus.jp^$third-party
 ||deteql.net^$third-party
 ||dmtag.jp^$third-party
@@ -10374,6 +10373,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||cmail19.com/t/$image,third-party
 ||cmmeglobal.com/evt?
 ||cmmeglobal.com^*/page-view?
+||cmp.datasign.co^
 ||cnetcontent.com/log?
 ||cnevids.com/metrics/
 ||cnnx.io^*/tracker.js
@@ -10523,6 +10523,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||data.woosmap.com^
 ||data2.gosquared.com^
 ||datadog-service.mvfglobal.com^
+||datasign.co/js/opn.js
 ||daxab.com/logger/
 ||dcinfos-cache.abtasty.com^
 ||dditscdn.com/*fingerprints
