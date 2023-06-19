@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: Cds7R8iG3uf/PwqaM1V0Gg
-! Version: 202306191840
+! Checksum: L3owdqVlSlHEiSvzHpu+8A
+! Version: 202306191901
 ! Title: EasyPrivacy
-! Last modified: 19 Jun 2023 18:40 UTC
+! Last modified: 19 Jun 2023 19:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -3182,6 +3182,7 @@
 /tc_analytics.
 /tccl.min.js
 /tck/gif/*
+/teal-gcianalytics-
 /TeaLeaf.js
 /tealeaf.min.js
 /TeaLeafCfg.js
@@ -3285,6 +3286,7 @@
 /track_pixel?
 /track_proxy?
 /track_stat?
+/track_video.php?id=
 /track_views.
 /track_visit.
 /track_visit?
@@ -32504,7 +32506,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 ||analytics.sanoma.fi^
 ||api.nettix.fi/counter/$image
 ||data.reactandshare.com^
-||dax.yle.fi/yya/event
+||dax.yle.fi^
 ||dp.alma.iltalehti.fi/v1/cookie
 ||events.il.fi^
 ||hs.fi/stats
