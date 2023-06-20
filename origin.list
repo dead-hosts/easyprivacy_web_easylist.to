@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: +pMsV97IcB/n16S7a7Iz3g
-! Version: 202306200430
+! Checksum: smMdKWZgXEfIZRJvGragkg
+! Version: 202306200501
 ! Title: EasyPrivacy
-! Last modified: 20 Jun 2023 04:30 UTC
+! Last modified: 20 Jun 2023 05:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -33327,6 +33327,7 @@ $csp=child-src 'none'; frame-src *; worker-src 'none',domain=thepiratebay.org|vi
 @@||noodid.ee/chordQuiz/$~third-party
 @@||noxgroup.com/noxinfluencer/sensor_sdk/$script,domain=noxinfluencer.com
 @@||nsfw.xxx/vendor/fingerprint/fingerprint2.min.js$script,~third-party
+@@||nypost.com/blaize/datalayer$~third-party
 @@||nytimes.com^*/EventTracker.js$~third-party
 @@||ondemand.sas.com^$subdocument
 @@||onenote.com^*/aria-web-telemetry
