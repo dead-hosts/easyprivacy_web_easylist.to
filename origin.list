@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: 46AiFwUi2RG5UwPpFIkVBw
-! Version: 202306200310
+! Checksum: UMtFqwzA9bgtu8ehjgN8hw
+! Version: 202306200331
 ! Title: EasyPrivacy
-! Last modified: 20 Jun 2023 03:10 UTC
+! Last modified: 20 Jun 2023 03:31 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -12321,24 +12321,24 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||firebaseinstallations.googleapis.com^$domain=terabox.fun
 ! https://gist.github.com/tinogomes/c425aa2a56d289f16a1f4fcb8a65ea65
 ! Domains linking to 127.0.0.1
-||cefgo.com^
-||domaincontrol.com^
-||fbi.com^
-||lacolhost.com^
-||lndo.site^$third-party
-||local.computer^
-||local.qinlili.bid^
-||local.sisteminha.com^
-||localho.st^
-||localhost.direct^
-||localtest.me^
-||lvh.me^
-||netfinity.hostedrmm.com^
-||nip.io^$third-party
-||ssh.town^
-||supercalifragilisticexpialidocious.co.uk^
-||xip.io^
-||yoogle.com^
+!||cefgo.com^
+!||domaincontrol.com^
+!||fbi.com^
+!||lacolhost.com^
+!||lndo.site^$third-party
+!||local.computer^
+!||local.qinlili.bid^
+!||local.sisteminha.com^
+!||localho.st^
+!!||localhost.direct^
+!||localtest.me^
+!||lvh.me^
+!||netfinity.hostedrmm.com^
+!||nip.io^$third-party
+!||ssh.town^
+!||supercalifragilisticexpialidocious.co.uk^
+!||xip.io^
+!||yoogle.com^
 ! taboola
 ||am-vid-events.taboola.com^
 ||convsgmp.taboola.com^
