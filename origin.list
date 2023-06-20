@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: Y4QOoICGg9s8GCz5A5Tubw
-! Version: 202306200102
+! Checksum: Q52w79/7T8jy+wkFaF2HJA
+! Version: 202306200120
 ! Title: EasyPrivacy
-! Last modified: 20 Jun 2023 01:02 UTC
+! Last modified: 20 Jun 2023 01:20 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -13514,6 +13514,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||androidfilehost.com/libs/otf/stats.otf.php?
 ||anon-stats.eff.org^
 ||apartments.com/clientvisit/al.gif?
+||apester.com/cookie/bundle.js
 ||api-js.mixpanel.com^
 ||api-router.kaspersky-labs.com/logger2/metrics/
 ||api.ffm.to/sl/e/$image
@@ -14658,6 +14659,8 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||substation.confection.io^
 ! Adobe
 ||lightning.ncaa.com/launch/$script
+! onesignal.com
+||onesignal.com^$domain=androidauthority.com|iphoneincanada.ca|rockpapershotgun.com|senpa.io|shineads.org
 ! Bing
 ||bing.com/fd/ls/l?IG=
 ||bing.com/fd/ls/lsp.aspx
