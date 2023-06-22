@@ -1,8 +1,8 @@
 [Adblock Plus 1.1]
-! Checksum: RmmhABp11ytb+vl1yAhohQ
-! Version: 202306222040
+! Checksum: CAoXjP3cjaTIB5PxbIxvZA
+! Version: 202306222101
 ! Title: EasyPrivacy
-! Last modified: 22 Jun 2023 20:40 UTC
+! Last modified: 22 Jun 2023 21:01 UTC
 ! Expires: 1 days (update frequency)
 ! Homepage: https://easylist.to/
 ! Licence: https://easylist.to/pages/licence.html
@@ -4488,7 +4488,6 @@ _mongo_stats/
 ||mdhv.io^
 ||medaipvx.com^
 ||medaipxv.com^
-||media-platform.com^
 ||mediamathrdrt.com^
 ||mediapvx.com^
 ||mediapxv.com^
@@ -11148,6 +11147,7 @@ $third-party,xmlhttprequest,domain=opensubtitles.org
 ||measure.refinery89.com^
 ||media-imdb.com/twilight/?
 ||media-lab.ai/ana-sentry.js
+||media-platform.com/common/js/lib/cxense/
 ||mediabong.com/t/
 ||mediabong.net/t/
 ||mediadelivery.net/.metrics/
