@@ -1,7 +1,7 @@
 name: Platform Worker
 on:
   schedule:
-    - cron: "0 */1 * * *"
+    - cron: "57 */1 * * *"
   workflow_dispatch: {}
 
 env:
@@ -16,7 +16,7 @@ env:
   PLATFORM_API_TOKEN: "${{ secrets.PLATFORM_API_TOKEN }}"
   PLATFORM_SCOPE: "${{ secrets.PLATFORM_SCOPE }}"
   PLATFORM_WORKER: "yes"
-  PYFUNCEBLE_COLLECTION_API_TOKEN: "${{ secrets.PLATFORM_WORKER_TOKEN }}"
+  PYFUNCEBLE_PLATFORM_API_TOKEN: "${{ secrets.PLATFORM_WORKER_TOKEN }}"
 
 jobs:
   trigger:
